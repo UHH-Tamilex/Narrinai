@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Naṟṟiṇai</title> 1. <persName xml:lang="ta">Kapilar</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="NA1-kilavi">
+        <p type="edition">itu pirivu uṇarttiya tōḻikkut talaivi colliyatu.</p>
+        <p type="translation" xml:lang="en">This is what SHE said to the confidante who had
+          announced separation.</p>
+      </div>
+      <div xml:id="NA1">
+        <lg type="edition">
+          <l>niṉṟa collar nīṭutōṉ ṟiṉiya</l>
+          <l>reṉṟu meṉṟōḷ piripaṟi yalarē</l>
+          <l>tāmarait taṇṭā tūti mīmicaic</l>
+          <l>cāntiṟ ṟoṭutta tīntēṉ pōlap</l>
+          <l>puraiya maṉṟa puraiyōr kēṇmai</l>
+          <l>nīriṉ ṟamaiyā vulakam pōlat</l>
+          <l>tammiṉ ṟamaiyā nannayan taruḷi</l>
+          <l>naṟunutal pacatta lañcic</l>
+          <l>ciṟumai yuṟupavō ceypaṟi yalarē.</l>
+        </lg>
+        <lg type="translation" xml:lang="en">
+          <l rend="indent">He who is constant in speaking,</l>
+          <l rend="indent">who is pleasing apparently a long time,</l>
+          <l>he will never know of separating from my shoulder.</l>
+          <l rend="indent">Like the sweet honey stored in the sandal tree</l>
+          <l rend="indent">on the height1, after [bees] have filled themselves</l>
+          <l rend="indent">with the cool pollen of the day lotus,</l>
+          <l>great, certainly, are<note place="foot"><term xml:lang="ta">puraiya</term>, the predicate, is n.pl., which means
+            that also <term xml:lang="ta">kēṇmai</term> has to be read as a pl. Perhaps the point is to make a general
+            statement.</note> the friendships of great people.</l>
+          <l rend="indent">Since [he] is considerate,</l>
+          <l rend="indent">longing for us who are not content without him,</l>
+          <l rend="indent">as the world is not content without water,</l>
+          <l rend="indent">since [he] fears [our] fragrant forehead turning pale,</l>
+          <l>will he have baseness? He won't know of [such] doing.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#NA1">
+    <interp type="alignment" select="0">19MG9M2G12MG8MG15MG42MG25MG25MG15MG40MG6MG8MG2M,238MG</interp>
+    <entry>
+      <form>niṉṟa</form>
+      <def>stood-</def>
+    </entry>
+    <entry>
+      <form>collar</form>
+      <def>word-he</def>
+      <gramGrp>
+        <gram type="role">honorific</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>nīṭu</form>
+      <def>prolong-</def>
+    </entry>
+    <entry>
+      <form>tōṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>appear-</def>
+    </entry>
+    <entry>
+      <form>iṉiyar</form>
+      <def>pleasant-he</def>
+      <gramGrp>
+        <gram type="role">honorific</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>eṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+      <def>what-day</def>
+      <form type="simple">eṉṟu</form>
+      <gramGrp type="particle">
+        <m>um</m>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>eṉ</form>
+      <def>my-</def>
+    </entry>
+    <entry>
+      <form>tōḷ</form>
+      <def>shoulder</def>
+    </entry>
+    <entry>
+      <form>pirip<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>separated</def>
+    </entry>
+    <entry>
+      <form>aṟiyalar-ē</form>
+      <def>know-not-he</def>
+      <form type="simple">aṟiyalar</form>
+      <gramGrp>
+        <gram type="role">honorific</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m>ē</m>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>tāmarai<pc>+</pc></form>
+      <def>lotus</def>
+    </entry>
+    <entry>
+      <form>taṇ</form>
+      <def>cool</def>
+    </entry>
+    <entry>
+      <form>tāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>pollen</def>
+    </entry>
+    <entry>
+      <form>ūti</form>
+      <def>inflated-with</def>
+    </entry>
+    <entry>
+      <form>mī</form>
+      <def>elevation</def>
+    </entry>
+    <entry>
+      <form>micai<pc>+</pc></form>
+      <def>height</def>
+    </entry>
+    <entry>
+      <form>cāntiṉ</form>
+      <def>sandal-tree</def>
+      <gramGrp type="affix">
+        <m>iṉ</m>
+        <gramGrp>
+          <gram type="role">oblique</gram>
+        </gramGrp>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>toṭutta</form>
+      <def>linked-</def>
+    </entry>
+    <entry>
+      <form>tīm</form>
+      <def>sweet</def>
+    </entry>
+    <entry>
+      <form>tēṉ</form>
+      <def>honey</def>
+    </entry>
+    <entry>
+      <form>pōla<pc>+</pc></form>
+      <def>be-similar</def>
+    </entry>
+    <entry>
+      <form>puraiya-maṉṟa</form>
+      <def>big-they</def>
+      <form type="simple">puraiya</form>
+      <gramGrp>
+        <gram type="role">neuter plural</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m>maṉṟa</m>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>puraiyōr</form>
+      <def>big-he/they</def>
+      <gramGrp>
+        <gram type="role">honorific</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>kēṇmai</form>
+      <def>friendship</def>
+    </entry>
+    <entry>
+      <form>nīr</form>
+      <def>water</def>
+    </entry>
+    <entry>
+      <form>iṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>not-it</def>
+    </entry>
+    <entry>
+      <form>amaiyā</form>
+      <def>become-still-not</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>ulakam</form>
+      <def>world</def>
+    </entry>
+    <entry>
+      <form>pōla<pc>+</pc></form>
+      <def>be-similar</def>
+    </entry>
+    <entry>
+      <form>tam</form>
+      <def>self-</def>
+      <gramGrp>
+        <gram type="role">plural</gram>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form><pc>+</pc>iṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>not-it</def>
+    </entry>
+    <entry>
+      <form>amaiyā</form>
+      <def>become-still-not</def>
+    </entry>
+    <entry>
+      <form>nam</form>
+      <def>we-</def>
+    </entry>
+    <entry>
+      <form>nayant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>longed</def>
+    </entry>
+    <entry>
+      <form>aruḷi</form>
+      <def>been-considerate</def>
+    </entry>
+    <entry>
+      <form>naṟu</form>
+      <def>fragrant</def>
+    </entry>
+    <entry>
+      <form>nutal</form>
+      <def>forehead</def>
+    </entry>
+    <entry>
+      <form>pacattal</form>
+      <def>becoming-pale</def>
+    </entry>
+    <entry>
+      <form>añci<pc>+</pc></form>
+      <def>feared</def>
+    </entry>
+    <entry>
+      <form>ciṟumai</form>
+      <def>littleness</def>
+    </entry>
+    <entry>
+      <form><pc>~</pc>uṟupa-<pc>~</pc>ō</form>
+      <def>they-have</def>
+      <form type="simple">uṟupa</form>
+      <gramGrp type="particle">
+        <m>ō</m>
+      </gramGrp>
+    </entry>
+    <entry>
+      <form>ceyp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>done</def>
+    </entry>
+    <entry>
+      <form>aṟiyalar-ē</form>
+      <def>know-not-he</def>
+      <form type="simple">aṟiyalar</form>
+      <gramGrp>
+        <gram type="role">honorific</gram>
+      </gramGrp>
+      <gramGrp type="particle">
+        <m>ē</m>
+      </gramGrp>
+    </entry>
+  </standOff>
+</TEI>
