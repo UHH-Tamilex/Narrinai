@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Naṟṟiṇai</title> 2. <persName xml:lang="ta">Perumpatumaṉār</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="NA2-kilavi">
+        <p type="edition">itu uṭaṉpōkāniṉṟārai iṭaiccurattuk kaṇṭār colliyatu.</p>
+        <p type="translation" xml:lang="en">This is what is said by the onlookers in the middle of the desert to those who were eloping.</p>
+      </div>
+      <div xml:id="NA2">
+        <lg type="edition">
+<l>            aḻuntupaṭa vīḻnta peruntaṇ kuṉṟat</l>
+<l>            toliva līnti ṉulavai yaṅkāṭ</l>
+<l>            ṭāṟuceṉ mākkaḷ ceṉṉi yeṟinta</l>
+<l>            cemmaṟut talaiya neyttōr vāya</l>
+<l>            valliyam peruntalaik kuruḷai mālai </l>
+<l>            maraṉōkku miṇṭiva rīṅkaiya curaṉē</l>
+<l>            vaiyeyiṟ ṟaiyaṇ maṭantai muṉṉuṟ</l>
+<l>            ṟelliṭai nīṅku miḷaiyō ṉuḷḷaṅ</l>
+<l>            kāloṭu paṭṭa māri</l>
+<l>            mālvarai miḷirkku murumiṉuṅ koṭitē.</l>
+        </lg>
+        <lg type="translation" xml:lang="en">
+         <l rend="indent2">The desert of Īṅkai trees climbing Iṇṭu trees,</l> 
+         <l rend="indent2">where in the evening the big-headed cub of the tiger</l>
+         <l rend="indent4">peers out of the hemp,</l>
+         <l rend="indent2">bloody-mouthed, [its] head stained with red,</l>
+         <l rend="indent3">as it has attacked the heads of people going the way</l>
+         <l rend="indent">through the wilderness pretty with green twigs on the thriving, strong</l>
+         <l rend="indent">date-palms by the hills of great cool that descended lastingly,<note place="foot"><term xml:lang="ta">aḻuntupaṭa vīḻnta</term>: perhaps it is best to understand <term xml:lang="ta">aḻuntupaṭu</term> already as a lexeme and take it in an adverbial sense here</note></l>
+         <l rend="indent2">– to leave [there] in broad daylight<note place="foot">Or, due to the ambiguity of el, “in the middle of the night”. Both seem equally possible, since, while the description of the wilderness in this poem rather looks like one of day time, the topos of eloping is usually connected with night time.</note></l>
+         <l rend="indent">having in front [of him] the wonderful girl with sharp teeth,</l>
+         <l>more cruel than the thunder, which upsets the big mountains</l>
+         <l rend="indent">with showers come with wind,</l>
+         <l rend="indent4">is the mind of [that] youth.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#NA2">
+    <interp type="alignment" select="0">6MG25MG24MG86ML8MG16MG10MG20MG70M2G2M,276MG</interp>
+    <entry>
+    <form>aḻuntu-paṭa</form>
+    <def>be-longstanding</def>
+    <gramGrp><gram type="role">infinitive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>vīḻnta</form>
+    <def>descended-</def>
+    <gramGrp><gram type="role">perfective aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>taṇ</form>
+    <def>cool</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kuṉṟatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>hill-</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>oli</form>
+    <def>thrive-</def>
+    <gramGrp><gram type="role">verbal root</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>val</form>
+    <def>strong</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>īntiṉ</form>
+    <def>date-palm</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ulavai</form>
+    <def>green-twig</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>am</form>
+    <def>pretty-</def>
+    <gramGrp><gram type="role">adjective</gram>
+    <gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kāṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>wilderness-</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>āṟu</form>
+    <def>way</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>cel</form>
+    <def>go-</def>
+    <gramGrp><gram type="role">verbal root</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>mākkaḷ</form>
+    <def>people</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>ceṉṉi</form>
+    <def>top</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>eṟinta</form>
+    <def>thrown-</def>
+    <gramGrp><gram type="role">perfective aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>cem</form>
+    <def>red</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>maṟu<pc>+</pc></form>
+    <def>stain</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>talaiya</form>
+    <def>head</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>neyttōr</form>
+    <def>blood</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>vāya</form>
+    <def>mouth</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>valliyam</form>
+    <def>tiger(?)</def>
+    <gramGrp></gramGrp></entry>
+    <entry>
+    <form>perum</form>
+    <def>big</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>talai<pc>+</pc></form>
+    <def>head</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kuruḷai</form>
+    <def>young-one</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>mālai</form>
+    <def>evening</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>maral</form>
+    <def>bowstring-hemp</def>
+    <gramGrp><gram type="role">first person</gram>
+    <gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>nōkkum</form>
+    <def>looking-</def>
+    <gramGrp><gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>iṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>Iṇṭu-tree</def>
+    </entry>
+    <entry>
+    <form>ivar</form>
+    <def>climb-</def>
+    <gramGrp><gram type="role">verbal root</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>īṅkaiya</form>
+    <def>Īṅkai(-tree)</def>
+    <gramGrp></gramGrp></entry>
+    <entry>
+    <form>curaṉ-ē</form>
+    <def>desert</def>
+    <form type="simple">curaṉ</form>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    <entry>
+    <form>vai</form>
+    <def>sharpness</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>~</pc>eyiṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>tooth-</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>aiyaḷ</form>
+    <def>wonder-she</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">singular</gram>
+    <gram type="role">feminine</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>maṭantai</form>
+    <def>girl</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>muṉ<pc>+</pc></form>
+    <def>in-front</def>
+    <gramGrp><gram type="role">adverb</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>uṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+    <def>had</def>
+    <gramGrp><gram type="role">absolutive</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>el</form>
+    <def>light</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form><pc>+</pc>iṭai</form>
+    <def>middle</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>nīṅkum</form>
+    <def>leaving-</def>
+    <gramGrp><gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>iḷaiyōṉ</form>
+    <def>young-he</def>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">masculine singular</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>uḷḷam</form>
+    <def>mind</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>kāloṭu</form>
+    <def>wind</def>
+    <gramGrp><gram type="role">sociative</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>paṭṭa</form>
+    <def>happened-</def>
+    <gramGrp><gram type="role">perfective aspect</gram>
+    <gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>māri</form>
+    <def>shower</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>māl</form>
+    <def>big</def>
+    <gramGrp><gram type="role">adjective</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>varai</form>
+    <def>mountain</def>
+    <gramGrp><gram type="role">noun</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>miḷirkkum</form>
+    <def>upsetting-</def>
+    <gramGrp><gram type="role">peyareccam</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>urumiṉum</form>
+    <def>thunder</def>
+    <gramGrp><gram type="role">oblique</gram>
+    </gramGrp></entry>
+    <entry>
+    <form>koṭit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+    <def>cruel-it</def>
+    <form type="simple">koṭitu</form>
+    <gramGrp><gram type="role">pronominalised noun</gram>
+    <gram type="role">neuter singular</gram>
+    </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+    </entry>
+    </standOff>
+  
+</TEI>
