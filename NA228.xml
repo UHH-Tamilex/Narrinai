@@ -1,0 +1,276 @@
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Naṟṟiṇai</title> 228. <persName xml:lang="ta">Muṭattirumāṟaṉār (ET: Muṭṭattirumāṟaṉār)</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+    </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="NA228-kiḷavi">
+        <p type="edition">itu tōḻi ciṟaippuṟamākat talaimakaṭkuc colluvāḷāyt talaimakaṉ kēṭpac colliyatu.</p>
+        <p type="translation" xml:lang="en">This is what the confidante said so that HE would hear, being one who speaks to HER when [he] was behind the fence.</p>
+      </div>
+      <div xml:id="NA228">
+        <lg type="edition">
+<l>            eṉṉeṉap paṭumō tōḻi miṉṉuvaci</l>
+<l>            patirkura leḻili mutirkaṭaṉ ṟīrak</l>
+<l>            kaṇṭūrpu virinta kaṉaiyiru ṇaṭunāṭ</l>
+<l>            paṇpi lāriṭai varūu nantiṟat</l>
+<l>            taruḷāṉ kollō tāṉē kāṉavaṉ </l>
+<l>            ciṟupuṟaṅ kaṭukkum peruṅkai vēḻam</l>
+<l>            veṟikoḷ cāpat teṟikaṇai verīi</l>
+<l>            yaḻuntupaṭa viṭarakat tiyampu</l>
+<l>            meḻuntuvī ḻaruviya malaikiḻa vōṉē.</l>
+            </lg>
+        <lg type="translation" xml:lang="en">
+<l>What can be said, friend?<note place="foot">The same formulaic beginning is to be found in KT 194.1.</note></l>
+<l>Does he not have [any] consideration for us,</l>
+<l rend="indent">coming along [this] bad difficult way at midnight in deep darkness</l>
+<l rend="indent2">that spread for the eyes to be filled, while the clouds with a shaking voice</l>
+<l rend="indent3">fulfill their age-old duty, flashes<note place="foot">T.V.G. explains the <term xml:lang="ta">miṉṉu</term> here not as the verbal root, but as a special form of <term xml:lang="ta">sandhi</term> for the noun <term xml:lang="ta">miṉ</term> which definitely would be preferable (for a parallel cf. <term xml:lang="ta">puḷḷu</term> for <term xml:lang="ta">puḷ</term> in NA 78.9).</note> splitting?</l>
+<l>– the master of the mountain of waterfalls descending from high,</l>
+<l rend="indent3">where the elephant bull with large trunk,</l>
+<l rend="indent4">resembling the small back of a forest man<note place="foot">The similarity between a man’s neck (if we understand <term xml:lang="ta">ciṟu-puṟam</term> as a lexeme) might be based on actual size, although in such a case we would rather expect a more direct word of comparison such as <term xml:lang="ta">pōl</term> or <term xml:lang="ta">aṉṉa</term>.</note>,</l>
+<l rend="indent4">sounds lastingly inside the clefts,</l>
+<l rend="indent3">being frightened by the arrows shot by the frenzied(?) bow.</l>
+    </lg>
+      </div>
+    </body>
+    </text>
+    <standOff type="wordsplit" corresp="#NA228">
+        <interp type="alignment" select="0">7MG5MG15MG54ML3MG7MG4MG9MR9MG6MG8MG51MG34MG35MG2M,262MG</interp>
+        <entry>
+        <form>eṉ</form>
+        <def>what</def>
+        </entry>
+        <entry>
+        <form><pc>+</pc>eṉa<pc>+</pc>-</form>
+        <def>say</def>
+        </entry>
+        <entry>
+        <form>paṭum-ō</form>
+        <def>happening-</def>
+        <form type="simple">paṭum</form>
+        <gramGrp type="particle"><m>ō</m></gramGrp>
+        </entry>
+        <entry>
+        <form>tōḻi</form>
+        <def>friend</def>
+        </entry>
+        <entry>
+        <form>miṉṉu</form>
+        <def>lightening</def>
+        </entry>
+        <entry>
+        <form>vacip<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>split</def>
+        <gramGrp><gram type="role">absolutive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>atir</form>
+        <def>shake-</def>
+        </entry>
+        <entry>
+        <form>kural</form>
+        <def>voice</def>
+        </entry>
+        <entry>
+        <form>eḻili</form>
+        <def>cloud</def>
+        </entry>
+        <entry>
+        <form>mutir</form>
+        <def>ripen-</def>
+        </entry>
+        <entry>
+        <form>kaṭaṉ</form>
+        <def>duty</def>
+        </entry>
+        <entry>
+        <form>tīra<pc>+</pc></form>
+        <def>end</def>
+        <gramGrp><gram type="role">infinitive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>kaṇ</form>
+        <def>eye</def>
+        </entry>
+        <entry>
+        <form>tūrpu</form>
+        <def>be-filled-up-</def>
+        </entry>
+        <entry>
+        <form>virinta</form>
+        <def>expanded-</def>
+        </entry>
+        <entry>
+        <form>kaṉai</form>
+        <def>be-intense-</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>iruḷ</form>
+        <def>darkness</def>
+        </entry>
+        <entry>
+        <form>naṭu-nāḷ</form>
+        <def>middle-day</def>
+        </entry>
+        <entry>
+        <form>paṇp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>quality</def>
+        </entry>
+        <entry>
+        <form>il</form>
+        <def>not</def>
+        </entry>
+        <entry>
+        <form>ār<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>difficult</def>
+        </entry>
+        <entry>
+        <form>iṭai</form>
+        <def>way</def>
+        </entry>
+        <entry>
+        <form>varūum</form>
+        <def>coming-</def>
+        </entry>
+        <entry>
+        <form>nam</form>
+        <def>us</def>
+        </entry>
+        <entry>
+        <form>tiṟatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>for</def>
+        <gramGrp><gram type="role">locative</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>aruḷāṉ-kollō</form>
+        <def>consideration-not-he</def>
+        <form type="simple">aruḷāṉ</form>
+        <gramGrp type="particle"><m>kollō</m></gramGrp>
+        </entry>
+        <entry>
+        <form>tāṉ-ē</form>
+        <def>self</def>
+        <form type="simple">tāṉ</form>
+        <gramGrp type="particle"><m>ē</m></gramGrp>
+        </entry>
+        <entry>
+        <form>kāṉavaṉ</form>
+        <def>forest-inhabitant</def>
+        </entry>
+        <entry>
+        <form>ciṟu</form>
+        <def>small</def>
+        </entry>
+        <entry>
+        <form>puṟam</form>
+        <def>back</def>
+        </entry>
+        <entry>
+        <form>kaṭukkum</form>
+        <def>resembling-</def>
+        </entry>
+        <entry>
+        <form>perum</form>
+        <def>big</def>
+        </entry>
+        <entry>
+        <form>kai</form>
+        <def>hand</def>
+        </entry>
+        <entry>
+        <form>vēḻam</form>
+        <def>elephant-bull</def>
+        </entry>
+        <entry>
+        <form>veṟi</form>
+        <def>frenzy(?)</def>
+        <gramGrp></gramGrp></entry>
+        <entry>
+        <form>koḷ</form>
+        <def>take-</def>
+        </entry>
+        <entry>
+        <form>cāpatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>bow-</def>
+        </entry>
+        <entry>
+        <form>eṟi</form>
+        <def>throw-</def>
+        </entry>
+        <entry>
+        <form>kaṇai</form>
+        <def>arrow</def>
+        </entry>
+        <entry>
+        <form>verīi</form>
+        <def>been-frigthened</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>aḻuntupaṭa</form>
+        <def>be-longstanding</def>
+        <gramGrp><gram type="role">infinitive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>viṭar</form>
+        <def>cleft</def>
+        </entry>
+        <entry>
+        <form>akatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>inside-</def>
+        </entry>
+        <entry>
+        <form>iyampum</form>
+        <def>sounding-</def>
+        </entry>
+        <entry>
+        <form>eḻuntu</form>
+        <def>risen</def>
+        </entry>
+        <entry>
+        <form>vīḻ</form>
+        <def>descend-</def>
+        </entry>
+        <entry>
+        <form>aruviya</form>
+        <def>waterfall</def>
+        <gramGrp type="affix"><m>a</m></gramGrp>
+        </entry>
+        <entry>
+        <form>malai</form>
+        <def>mountain</def>
+        </entry>
+        <entry>
+        <form>kiḻavōṉ-ē</form>
+        <def>master-he</def>
+        <form type="simple">kiḻavōṉ</form>
+        <gramGrp type="particle"><m>ē</m></gramGrp>
+        </entry>
+        </standOff>
+    </TEI>
