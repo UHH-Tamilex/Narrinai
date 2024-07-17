@@ -1,0 +1,315 @@
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Naṟṟiṇai</title> 234. <persName xml:lang="ta">Anonymous<note place="foot">missing in all the editions and manuscripts]</note></persName>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+    </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="NA234-kiḷavi">
+        <p type="edition">Unidentified poem quoted in <term xml:lang="ta">Iḷampuraṇār</term>’s commentary on TP 112 (ib. p. 374) as an illustration of "<term xml:lang="ta">arumaiyiṉ akaṟci</term>", thus also Nacc. on TP 114 (ib. p. 95), and Nakk. on IA 12 (p. 91).</p>
+        </div>
+      <div xml:id="NA234">
+        <lg type="edition">
+<l>            nerunalum muṉṉā ḷellaiyu moruciṟaip</l>
+<l>            putuvai yākali ṉataṟkeyta nāṇi</l>
+<l>            nēriṟai vaḷaittō ṇiṉtōḻi ceyta</l>
+<l>            vāruyir varuttaṅ kaḷaiyā yōveṉa</l>
+<l>            veṟkuṟai yuṟuti rāyiṉ coṟkuṟai </l>
+<l>            yempatat teḷiya ḷalla ḷemakkōr</l>
+<l>            kaṭkāṇ kaṭavuḷ allaḷō peruma</l>
+<l>            vāykōṉ miḷakiṉ malaiyaṅ koḻuṅkoṭi</l>
+<l>            tuñcupuli varippuṟan taivaru</l>
+<l>            mañcucūḻ maṇivarai maṉṉavaṉ makaḷē.</l>
+            </lg>
+        <lg type="translation" xml:lang="en">
+<l>Having been ashamed to reach out for that<note place="foot"><term xml:lang="ta">ataṟku eyta</term>: here Nacc. reads almost like a gloss: <term xml:lang="ta">kiḷattal</term> - "having been ashamed to express yourself clearly".</note> since you are a newcomer,</l>
+<l rend="indent3">on one side yesterday and throughout the previous days,</l>
+<l rend="indent2">if you should have a request to me, saying</l>
+<l rend="indent3">“won’t you remove the suffering of [my] difficult life</l>
+<l rend="indent3">that has been caused by your friend with fine-jointed bangled arms?”,</l>
+<l>– she is not easy of approach for us<note place="foot"><term xml:lang="ta">em patattu eḷiyaḷ allaḷ</term>: this is a little bit problematic for syntax. We can take <term xml:lang="ta">patam</term> as "occasion" like above, and then we have to read <term xml:lang="ta">em</term> as an unmarked dative, which is not very usual. Or we can take patam as a word for place and read it as a locative suffix, and then we have to complement the elliptical predicate, she is not easy in which respect.</note> for worded requests.</l>
+<l>Is she not like a<note place="foot">T.V.G. interprets <term xml:lang="ta">ōr</term> as one, and, indeed, that is tempting, but it is problematical here for form as well as for position. It is separated from <term xml:lang="ta">kaṭavuḷ</term> (a goddess seen with one eye would not be overly convincing), and there is no vowel following, so there is no reason why it should not be <term xml:lang="ta">oru</term>.</note> goddess seen with the eyes to us, o great one?</l>
+<l>[She is] the daughter of the king of the sapphire mountain,</l>
+<l rend="indent4">surrounded by clouds,</l>
+<l rend="indent2">where the rich mountain creeper of the black pepper with choice stems</l>
+<l rend="indent2">rubs the striped back of a sleeping tiger.</l>
+        </lg>
+      </div>
+    </body>
+    </text>
+    <standOff type="wordsplit" corresp="#NA234">
+        <interp type="alignment" select="0">7MG13MG31MG24ML14MG20MG41MG16MG20MG64ML29MG2M,291MG</interp>
+        <entry>
+        <form>nerunal-um</form>
+        <def>yesterday</def>
+        <form type="simple">nerunal</form>
+        <gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <entry>
+        <form>muṉ</form>
+        <def>front</def>
+        </entry>
+        <entry>
+        <form>nāḷ</form>
+        <def>day</def>
+        </entry>
+        <entry>
+        <form>ellai-<pc>~</pc>um</form>
+        <def>daylight</def>
+        <form type="simple">ellai</form>
+        <gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <entry>
+        <form>oru</form>
+        <def>one</def>
+        </entry>
+        <entry>
+        <form>ciṟai<pc>+</pc></form>
+        <def>wing</def>
+        </entry>
+        <entry>
+        <form>putuvai</form>
+        <def>new-you</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>ākaliṉ</form>
+        <def>becoming</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>ataṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>that</def>
+        <gramGrp><gram type="role">dative</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>eyta</form>
+        <def>reach</def>
+        <gramGrp><gram type="role">infinitive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>nāṇi</form>
+        <def>ashamed</def>
+        </entry>
+        <entry>
+        <form>nēr</form>
+        <def>fineness</def>
+        </entry>
+        <entry>
+        <form>iṟai</form>
+        <def>joint</def>
+        </entry>
+        <entry>
+        <form>vaḷai<pc>+</pc></form>
+        <def>bangle</def>
+        </entry>
+        <entry>
+        <form>tōḷ</form>
+        <def>shoulder</def>
+        </entry>
+        <entry>
+        <form>niṉ</form>
+        <def>your-</def>
+        </entry>
+        <entry>
+        <form>tōḻi</form>
+        <def>friend</def>
+        </entry>
+        <entry>
+        <form>ceyta</form>
+        <def>done-</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>ār<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>difficult</def>
+        </entry>
+        <entry>
+        <form>uyir</form>
+        <def>life</def>
+        </entry>
+        <entry>
+        <form>varuttam</form>
+        <def>suffering</def>
+        </entry>
+        <entry>
+        <form>kaḷaiyāy-ō</form>
+        <def>remove-not-you</def>
+        <form type="simple">kaḷaiyāy</form>
+        <gramGrp type="particle"><m>ō</m></gramGrp>
+        </entry>
+        <entry>
+        <form><pc>~</pc>eṉa</form>
+        <def>say</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>eṉ</form>
+        <def>me-</def>
+        </entry>
+        <entry>
+        <form>kuṟai</form>
+        <def>request</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>uṟutir</form>
+        <def>you-have</def>
+        <gramGrp><gram type="role">subjunctive</gram>
+        <gram type="role">plural</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>āyiṉ</form>
+        <def>if</def>
+        </entry>
+        <entry>
+        <form>col</form>
+        <def>word</def>
+        </entry>
+        <entry>
+        <form>kuṟai</form>
+        <def>request</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>em</form>
+        <def>us-</def>
+        </entry>
+        <entry>
+        <form>patatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>proper-consistency-</def>
+        </entry>
+        <entry>
+        <form>eḷiyaḷ</form>
+        <def>easy-not-she</def>
+        </entry>
+        <entry>
+        <form>allaḷ</form>
+        <def>not-so-she</def>
+        </entry>
+        <entry>
+        <form>emakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>us</def>
+        <gramGrp><gram type="role">dative</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>ōr</form>
+        <def>one</def>
+        </entry>
+        <entry>
+        <form>kaṇ</form>
+        <def>eye</def>
+        </entry>
+        <entry>
+        <form>kāṇ</form>
+        <def>see-</def>
+        </entry>
+        <entry>
+        <form>kaṭavuḷ</form>
+        <def>god</def>
+        </entry>
+        <entry>
+        <form>allaḷ-ō</form>
+        <def>not-so-she</def>
+        <form type="simple">allaḷ</form>
+        <gramGrp type="particle"><m>ō</m></gramGrp>
+        </entry>
+        <entry>
+        <form>peruma</form>
+        <def>big-one</def>
+        <gramGrp><gram type="role">vocative</gram>
+        </gramGrp></entry>
+        <entry>
+        <form><pc>~</pc>āy</form>
+        <def>select-</def>
+        </entry>
+        <entry>
+        <form>kōl</form>
+        <def>stem</def>
+        </entry>
+        <entry>
+        <form>miḷakiṉ</form>
+        <def>black-pepper</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>malaiyam</form>
+        <def>mountain</def>
+        <gramGrp type="affix"><m>am</m></gramGrp>
+        </entry>
+        <entry>
+        <form>koḻum</form>
+        <def>rich</def>
+        </entry>
+        <entry>
+        <form>koṭi</form>
+        <def>creeper</def>
+        </entry>
+        <entry>
+        <form>tuñcu</form>
+        <def>sleep-</def>
+        </entry>
+        <entry>
+        <form>puli</form>
+        <def>tiger</def>
+        </entry>
+        <entry>
+        <form>vari<pc>+</pc></form>
+        <def>line</def>
+        </entry>
+        <entry>
+        <form>puṟam</form>
+        <def>back</def>
+        </entry>
+        <entry>
+        <form>taivarum</form>
+        <def>rubbing-</def>
+        </entry>
+        <entry>
+        <form>mañcu</form>
+        <def>cloud</def>
+        </entry>
+        <entry>
+        <form>cūḻ</form>
+        <def>surround-</def>
+        </entry>
+        <entry>
+        <form>maṇi</form>
+        <def>sapphire</def>
+        </entry>
+        <entry>
+        <form>varai</form>
+        <def>mountain</def>
+        </entry>
+        <entry>
+        <form>maṉṉavaṉ</form>
+        <def>king</def>
+        </entry>
+        <entry>
+        <form>makaḷ-ē</form>
+        <def>daughter</def>
+        <form type="simple">makaḷ</form>
+        <gramGrp type="particle"><m>ē</m></gramGrp>
+        </entry>
+        </standOff>
+    </TEI>

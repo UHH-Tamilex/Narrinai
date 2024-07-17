@@ -1,0 +1,274 @@
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Naṟṟiṇai</title> 231. <persName xml:lang="ta">Iḷanākaṉār</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+    </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="NA231-kiḷavi">
+        <p type="edition">ciṟaippuṟamākat tōḻi colli varaivu kaṭāyatu.</p>
+        <p type="translation" xml:lang="en">The confidante urging for marriage, speaking while [HE] is behind the fence.</p>
+      </div>
+      <div xml:id="NA231">
+        <lg type="edition">
+<l>            maiyaṟa viḷaṅkiya maṇiniṟa vicumpiṟ</l>
+<l>            kaitoḻu marapi ṉeḻumīṉ pōlap</l>
+<l>            peruṅkaṭaṟ parappi ṉirumpuṟan tōyac</l>
+<l>            ciṟuveṇ kākkai palavuṭa ṉāṭun</l>
+<l>            tuṟaipulam puṭaittē tōḻi paṇṭu </l>
+<l>            muḷḷūrk kurīik karuvuṭait taṉṉa</l>
+<l>            perumpō taviḻnta karuntāṭ puṉṉaik</l>
+<l>            kāṉalaṅ koṇkaṉ ṟanta</l>
+<l>            kāta ṉammoṭu nīṅkā māṟē.</l>
+            </lg>
+        <lg type="translation" xml:lang="en">
+<l>The ghat,</l>
+<l rend="indent">where the little white crows, many together, search,</l>
+<l rend="indent3">so that [their] big backs get wet, the extension of the dark sea,</l>
+<l rend="indent2">as the seven stars customarily worshipped in the sapphire-</l>
+<l rend="indent2">coloured sky that have begun to shine</l>
+<l rend="indent2">when the collyrium[-clouds] subside,<note place="foot"><term xml:lang="ta">maiyaṟa</term> may either refer to the dark clouds in the sky or to the flawless quality of the sapphire.</note></l>
+<l rend="indent4">is full of loneliness, friend,</l>
+<l rend="indent2">because the love</l>
+<l rend="indent3">given by the man from the land of seashore groves</l>
+<l rend="indent">with black-trunked Puṉṉai trees that have opened big buds</l>
+<l rend="indent3">like the broken egg of the bird in the inner village, formerly,</l>
+<l rend="indent4">does not stay behind with us.<note place="foot">Actually, <term xml:lang="ta">nammoṭu nīṅkā</term> presents a syntactical problem. nīṅku usually is a transitive verb, and it is used for something/someone that goes away from a place, "to leave". So we would expect just a nam, a direct object, and if that were the case one would be inclined to read the <term xml:lang="ta">nīṅkā</term> as a positive absolutive, since if HIS love has not left HER, why would the ghat be lonely? T.V.G. accordingly reads the nammoṭu as an accusative. Another possibility of construction is: "he doesn’t leave [his] love with us", and that might be even more likely, but in the translation it does not work with the tanta construction.</note></l>
+        </lg>
+      </div>
+    </body>
+    </text>
+    <standOff type="wordsplit" corresp="#NA231">
+        <interp type="alignment" select="0">24M3G16ML71ML15MG6M2G9M2G25MG12MG45ML14M2G2M,253MG</interp>
+        <entry>
+        <form>mai</form>
+        <def>collyrium</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>aṟa</form>
+        <def>subside</def>
+        <gramGrp><gram type="role">infinitive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>viḷaṅkiya</form>
+        <def>shone-</def>
+        </entry>
+        <entry>
+        <form>maṇi</form>
+        <def>sapphire</def>
+        </entry>
+        <entry>
+        <form>niṟa<pc>(</pc>m<pc>)</pc></form>
+        <def>colour</def>
+        </entry>
+        <entry>
+        <form>vicumpiṉ</form>
+        <def>sky</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>kai</form>
+        <def>hand</def>
+        </entry>
+        <entry>
+        <form>toḻum</form>
+        <def>worshipping-</def>
+        </entry>
+        <entry>
+        <form>marapiṉ</form>
+        <def>custom</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>eḻu</form>
+        <def>seven</def>
+        </entry>
+        <entry>
+        <form>mīṉ</form>
+        <def>star</def>
+        </entry>
+        <entry>
+        <form>pōla<pc>+</pc></form>
+        <def>be-similar</def>
+        </entry>
+        <entry>
+        <form>perum</form>
+        <def>big</def>
+        </entry>
+        <entry>
+        <form>kaṭal</form>
+        <def>sea</def>
+        </entry>
+        <entry>
+        <form>parappiṉ</form>
+        <def>extension</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>irum</form>
+        <def>dark/big</def>
+        </entry>
+        <entry>
+        <form>puṟam</form>
+        <def>back</def>
+        </entry>
+        <entry>
+        <form>tōya<pc>+</pc></form>
+        <def>touch</def>
+        <gramGrp><gram type="role">infinitive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>ciṟu</form>
+        <def>little</def>
+        </entry>
+        <entry>
+        <form>veḷ</form>
+        <def>white</def>
+        </entry>
+        <entry>
+        <form>kākkai</form>
+        <def>crow</def>
+        </entry>
+        <entry>
+        <form>pala</form>
+        <def>many</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>uṭaṉ</form>
+        <def>together</def>
+        </entry>
+        <entry>
+        <form>nāṭum</form>
+        <def>searching-</def>
+        </entry>
+        <entry>
+        <form>tuṟai</form>
+        <def>ghat</def>
+        </entry>
+        <entry>
+        <form>pulamp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>loneliness</def>
+        </entry>
+        <entry>
+        <form>uṭaitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+        <def>possess-it</def>
+        <form type="simple">uṭaittu</form>
+        <gramGrp type="particle"><m>ē</m></gramGrp>
+        </entry>
+        <entry>
+        <form>tōḻi</form>
+        <def>friend</def>
+        </entry>
+        <entry>
+        <form>paṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+        <def>formerly</def>
+        <form type="simple">paṇṭu</form>
+        <gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <entry>
+        <form>uḷ</form>
+        <def>inside</def>
+        </entry>
+        <entry>
+        <form><pc>+</pc>ūr<pc>+</pc></form>
+        <def>village</def>
+        </entry>
+        <entry>
+        <form>kurīi<pc>+</pc></form>
+        <def>bird</def>
+        </entry>
+        <entry>
+        <form>karu</form>
+        <def>egg</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>uṭaitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>broken</def>
+        </entry>
+        <entry>
+        <form>aṉṉa</form>
+        <def>like-</def>
+        </entry>
+        <entry>
+        <form>perum</form>
+        <def>big</def>
+        </entry>
+        <entry>
+        <form>pōt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>bud</def>
+        </entry>
+        <entry>
+        <form>aviḻnta</form>
+        <def>opened-</def>
+        </entry>
+        <entry>
+        <form>karum</form>
+        <def>black</def>
+        </entry>
+        <entry>
+        <form>tāḷ</form>
+        <def>leg</def>
+        </entry>
+        <entry>
+        <form>puṉṉai<pc>+</pc></form>
+        <def>Puṉṉai-tree</def>
+        </entry>
+        <entry>
+        <form>kāṉalam</form>
+        <def>seashore-grove</def>
+        <gramGrp type="affix"><m>am</m></gramGrp>
+        </entry>
+        <entry>
+        <form>koṇkaṉ</form>
+        <def>sea-man-he</def>
+        </entry>
+        <entry>
+        <form>tanta</form>
+        <def>given-</def>
+        </entry>
+        <entry>
+        <form>kātal</form>
+        <def>love</def>
+        </entry>
+        <entry>
+        <form>nammoṭu</form>
+        <def>us</def>
+        <gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>nīṅkā</form>
+        <def>leave-not</def>
+        </entry>
+        <entry>
+        <form>māṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+        <def>because</def>
+        <form type="simple">māṟu</form>
+        <gramGrp type="particle"><m>ē</m></gramGrp>
+        </entry>
+        </standOff>
+    </TEI>
