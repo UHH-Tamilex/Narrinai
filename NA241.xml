@@ -1,0 +1,340 @@
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Naṟṟiṇai</title> 241. <persName xml:lang="ta">Maturaip Perumarutaṉār</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+    </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="NA241-kiḷavi">
+        <p type="edition">itu talaimakaḷ (G1+2: talaivaṉ) vaṉpoṟai (ER, ET, EV: vaṉpuṟai) yetiraḻintatu.</p>
+        <p type="translation" xml:lang="en">This is what SHE said in the face of encouragement.</p>
+        </div>
+      <div xml:id="NA241">
+        <lg type="edition">
+<l>            uḷḷār kollō tōḻi koṭuñciṟai</l>
+<l>            yuḷḷaṭi poṟitta variyuṭait talaiya</l>
+<l>            nīraḻi maruṅki ṉīrayir tōṉṟa</l>
+<l>            vaḷarā vāṭai yuḷarpunaṉi tīṇṭaliṉ</l>
+<l>            vēḻa veṇpū virivaṉa palavuṭaṉ </l>
+<l>            vēntuvīcu kavariyiṟ pūmputa laṇiya</l>
+<l>            maḻaikaḻi vicumpiṉ māṟi ñāyiṟu</l>
+<l>            viḻittimaip patupōl viḷaṅkupu maṟaiya</l>
+<l>            vellai pōkiya poḻuti ṉelluṟap</l>
+<l>            paṉikkāṟ koṇṭa paiyuḷ yāmattup </l>
+<l>            pallita ḻuṇkaṇ kaluḻa</l>
+<l>            nillāp poruṭpiṇi pirintici ṉōrē.</l>
+            </lg>
+        <lg type="translation" xml:lang="en">
+<l>Won’t he remember, friend,</l>
+<l>the one who separated enticed by transient wealth,</l>
+<l rend="indent2">while [my] many-petalled collyrium eyes are dimming</l>
+<l rend="indent2">at sorrowful midnight taken by the chilly wind,</l>
+<l rend="indent3">when night falls(?) at the time the daylight is gone,</l>
+<l rend="indent3">when the sun after shining vanishes, as in the winking of an eye,</l>
+<l rend="indent4">having changed the sky as the rain is passing,</l>
+<l rend="indent3">while the bushes adorn themselves with flowers as chowries</l>
+<l rend="indent3">flung by a king,</l>
+<l rend="indent3">many together, the Vēḻam’s white flowers expanding(?)<note place="foot"><term xml:lang="ta">virivaṉa</term>: here in the row of loosely connected infinitives we have a participial noun (that looks like a finite form). How to construe (and how to justify)?</note></l>
+<l rend="indent">in the inimical north wind’s whiffling [and] gripping [them] strongly(?)<note place="foot"><term xml:lang="ta">naṉi tīṇṭaliṉ</term>: can the text be correct here (the variant is even worse)? What is the message?</note>,</l>
+<l rend="indent3">while in the wet sand at a side where the water is spent appear</l>
+<l rend="indent3">lined traces<note place="foot">Line 2 cannot be in order. The point is certainly, as T.V.G. explains, the footprints the birds leave in the wet sand, but a word for these traces is missing, unless we take talaiya as a neuter plural and subject of <term xml:lang="ta">tōṉṟa</term> (T.V.G. takes it vaguely as "in the area", but why mark this with an -<term xml:lang="ta">a</term> and what would be the point of telling this when there is <term xml:lang="ta">maruṅkiṉ</term>?). Still, from a semantic point of view, this is far from satisfactory.</note> impressed by the inner feet of those with bent wings?</l>
+      </lg>
+      </div>
+    </body>
+    </text>
+    <standOff type="wordsplit" corresp="#NA241">
+        <interp type="alignment" select="0">5MG109M3G86MG127MG2M,334MG</interp>
+        <entry>
+        <form>uḷḷār-kollō</form>
+        <def>remember-not-he</def>
+        <form type="simple">uḷḷār</form>
+        <gramGrp><gram type="role">honorific</gram>
+        </gramGrp><gramGrp type="particle"><m>kollō</m></gramGrp>
+        </entry>
+        <entry>
+        <form>tōḻi</form>
+        <def>friend</def>
+        </entry>
+        <entry>
+        <form>koṭum</form>
+        <def>bent</def>
+        </entry>
+        <entry>
+        <form>ciṟai</form>
+        <def>wing</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>uḷ</form>
+        <def>inside</def>
+        </entry>
+        <entry>
+        <form><pc>+</pc>aṭi</form>
+        <def>foot</def>
+        </entry>
+        <entry>
+        <form>poṟitta</form>
+        <def>impressed-</def>
+        </entry>
+        <entry>
+        <form>vari</form>
+        <def>line</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>uṭai<pc>+</pc></form>
+        <def>possess-</def>
+        </entry>
+        <entry>
+        <form>talaiya</form>
+        <def>head-they(n.pl.)(?)</def>
+        <gramGrp><gram type="role">neuter plural</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>nīr</form>
+        <def>water</def>
+        </entry>
+        <entry>
+        <form>aḻi</form>
+        <def>perish-</def>
+        </entry>
+        <entry>
+        <form>maruṅkiṉ</form>
+        <def>side</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>īr</form>
+        <def>wetness</def>
+        </entry>
+        <entry>
+        <form>ayir</form>
+        <def>fine-sand</def>
+        </entry>
+        <entry>
+        <form>tōṉṟa</form>
+        <def>appear</def>
+        <gramGrp><gram type="role">infinitive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>vaḷarā</form>
+        <def>foster-not</def>
+        </entry>
+        <entry>
+        <form>vāṭai</form>
+        <def>north-wind</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>uḷarpu</form>
+        <def>whiffled</def>
+        </entry>
+        <entry>
+        <form>naṉi</form>
+        <def>abundant</def>
+        </entry>
+        <entry>
+        <form>tīṇṭaliṉ</form>
+        <def>coming-into-contact</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>vēḻa<pc>(</pc>m<pc>)</pc></form>
+        <def>Vēḻam</def>
+        </entry>
+        <entry>
+        <form>veḷ</form>
+        <def>white</def>
+        </entry>
+        <entry>
+        <form>pū</form>
+        <def>flower</def>
+        </entry>
+        <entry>
+        <form>virivaṉa</form>
+        <def>expand-they</def>
+        <gramGrp><gram type="role">neuter plural</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>pala</form>
+        <def>many</def>
+        <gramGrp><gram type="role">neuter plural</gram>
+        </gramGrp></entry>
+        <entry>
+        <form><pc>~</pc>uṭaṉ</form>
+        <def>together</def>
+        </entry>
+        <entry>
+        <form>vēntu</form>
+        <def>king</def>
+        </entry>
+        <entry>
+        <form>vīcu</form>
+        <def>fling-</def>
+        </entry>
+        <entry>
+        <form>kavariyiṉ</form>
+        <def>chowrie</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>pūm</form>
+        <def>flower</def>
+        </entry>
+        <entry>
+        <form>putal</form>
+        <def>bush</def>
+        </entry>
+        <entry>
+        <form>aṇiya</form>
+        <def>adorn</def>
+        <gramGrp><gram type="role">infinitive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>maḻai</form>
+        <def>rain</def>
+        </entry>
+        <entry>
+        <form>kaḻi</form>
+        <def>pass-</def>
+        </entry>
+        <entry>
+        <form>vicumpiṉ</form>
+        <def>sky</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>māṟi</form>
+        <def>exchanged</def>
+        </entry>
+        <entry>
+        <form>ñāyiṟu</form>
+        <def>sun</def>
+        </entry>
+        <entry>
+        <form>viḻitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>opened-the-eyes</def>
+        </entry>
+        <entry>
+        <form>imaippatu</form>
+        <def>twinkle-it</def>
+        </entry>
+        <entry>
+        <form>pōl</form>
+        <def>be-similar-</def>
+        </entry>
+        <entry>
+        <form>viḷaṅkupu</form>
+        <def>shone</def>
+        </entry>
+        <entry>
+        <form>maṟaiya</form>
+        <def>vanish</def>
+        <gramGrp><gram type="role">infinitive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form><pc>~</pc>ellai</form>
+        <def>daylight</def>
+        </entry>
+        <entry>
+        <form>pōkiya</form>
+        <def>gone-</def>
+        </entry>
+        <entry>
+        <form>poḻutiṉ</form>
+        <def>time</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>el</form>
+        <def>night</def>
+        </entry>
+        <entry>
+        <form><pc>+</pc>uṟa<pc>+</pc></form>
+        <def>have</def>
+        <gramGrp><gram type="role">infinitive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>paṉi<pc>+</pc></form>
+        <def>dew</def>
+        </entry>
+        <entry>
+        <form>kāl</form>
+        <def>wind</def>
+        </entry>
+        <entry>
+        <form>koṇṭa</form>
+        <def>taken-</def>
+        </entry>
+        <entry>
+        <form>paiyuḷ</form>
+        <def>sorrow</def>
+        </entry>
+        <entry>
+        <form>yāmattu<pc>+</pc></form>
+        <def>midnight-</def>
+        </entry>
+        <entry>
+        <form>pal</form>
+        <def>many</def>
+        </entry>
+        <entry>
+        <form><pc>+</pc>itaḻ</form>
+        <def>petal</def>
+        </entry>
+        <entry>
+        <form>uṇ</form>
+        <def>collyrium</def>
+        </entry>
+        <entry>
+        <form>kaṇ</form>
+        <def>eye</def>
+        </entry>
+        <entry>
+        <form>kaluḻa</form>
+        <def>dim</def>
+        <gramGrp><gram type="role">infinitive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>nillā<pc>+</pc></form>
+        <def>stand-not</def>
+        </entry>
+        <entry>
+        <form>poruḷ</form>
+        <def>wealth</def>
+        </entry>
+        <entry>
+        <form>piṇi</form>
+        <def>fetter</def>
+        </entry>
+        <entry>
+        <form>pirinticiṉōr-ē</form>
+        <def>separated-they</def>
+        <form type="simple">pirinticiṉōr</form>
+        <gramGrp><gram type="role">honorific</gram>
+        </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+        </entry>
+        </standOff>
+    </TEI>
