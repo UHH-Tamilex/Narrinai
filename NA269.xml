@@ -1,0 +1,289 @@
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Naṟṟiṇai</title> 269. <persName xml:lang="ta">Eyiṉantai Makaṉa(ār) Iḷaṅkīraṉār</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+    </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="NA269-kiḷavi">
+        <p type="edition">1. itu tōḻi vāyiṉ maṟuttatu. 2. celavu aḻuṅkivittatu.</p>
+        <p type="translation" xml:lang="en">1. This is how the confidante refused mediation/the door. 2. What prevents going.</p>
+        </div>
+      <div xml:id="NA269">
+        <lg type="edition">
+<l>            kurumpai maṇippūṭ peruñceṅ kiṇkiṇip</l>
+<l>            pālār tuvarvāyp paimpūð putalvaṉ</l>
+<l>            mālaik kaṭṭiṉ mārpūr piḻiya</l>
+<l>            vavveyi ṟoḻukiya vavvāy māṇakaic</l>
+<l>            ceyirtīr koḷkainam muyirveṅ kātali </l>
+<l>            tirumukat talamvaruṅ kaṇṇiṉain talkalum</l>
+<l>            perumara vaḷḷiyiṟ piṇikku meṉṉā</l>
+<l>            ciṟupal kuṉṟa miṟappō</l>
+<l>            raṟivār yāravar muṉṉi yavvē.</l>
+            </lg>
+        <lg type="translation" xml:lang="en">
+<l>The one who traverses many small hills</l>
+<l rend="indent">without saying</l>
+<l rend="indent">“she fetters<note place="foot">Here syntax is very awkwardly twisted, but I suggest to read <term xml:lang="ta">kātali</term> as subject to <term xml:lang="ta">piṇikkum</term>, while the <term xml:lang="ta">niṉaintu</term> clause has to be taken as a kind of parenthesis.</note> [me] like a creeper a big tree,”</l>
+<l rend="indent2">all night thinking of the eyes, moving agitatedly in the brilliant face,</l>
+<l rend="indent">“[our] hotly beloved, our life, with faultless principles,</l>
+<l rend="indent">a glorious smile on that mouth on which flowed [saliva] from those teeth,</l>
+<l rend="indent2">while the son with green ornaments [and] a coral mouth feeding on milk,</l>
+<l rend="indent2">with big red tinkling anklets [and] ornaments with unripe coconut-</l>
+<l rend="indent2">kernels for gems, ascends [and] descends on [her] sweet chest tied</l>
+<l rend="indent2">with garlands,”</l>
+<l>– who knows what he is about?</l>
+        </lg>
+      </div>
+    </body>
+    </text>
+    <standOff type="wordsplit" corresp="#NA269">
+        <interp type="alignment" select="0">71MG6MG3MG13MG16ML46MG19MG5MG10M3G64M,263MG</interp>
+        <entry>
+        <form>kurumpai</form>
+        <def>unripe-nut</def>
+        </entry>
+        <entry>
+        <form>maṇi<pc>+</pc></form>
+        <def>sapphire</def>
+        </entry>
+        <entry>
+        <form>pūṇ</form>
+        <def>ornament</def>
+        </entry>
+        <entry>
+        <form>perum</form>
+        <def>big</def>
+        </entry>
+        <entry>
+        <form>cem</form>
+        <def>red</def>
+        </entry>
+        <entry>
+        <form>kiṇkiṇi<pc>+</pc></form>
+        <def>tinkling-anklet</def>
+        </entry>
+        <entry>
+        <form>pāl</form>
+        <def>milk</def>
+        </entry>
+        <entry>
+        <form>ār</form>
+        <def>become-full-</def>
+        </entry>
+        <entry>
+        <form>tuvar</form>
+        <def>coral</def>
+        </entry>
+        <entry>
+        <form>vāy<pc>+</pc></form>
+        <def>mouth</def>
+        </entry>
+        <entry>
+        <form>paim</form>
+        <def>fresh</def>
+        </entry>
+        <entry>
+        <form>pūṇ</form>
+        <def>ornament</def>
+        </entry>
+        <entry>
+        <form>putalvaṉ</form>
+        <def>son</def>
+        </entry>
+        <entry>
+        <form>mālai<pc>+</pc></form>
+        <def>garland</def>
+        </entry>
+        <entry>
+        <form>kaṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>tie-</def>
+        </entry>
+        <entry>
+        <form>iṉ</form>
+        <def>pleasing</def>
+        </entry>
+        <entry>
+        <form>mārp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>chest</def>
+        </entry>
+        <entry>
+        <form>ūrp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>ascended</def>
+        </entry>
+        <entry>
+        <form>iḻiya</form>
+        <def>descend</def>
+        <gramGrp><gram type="role">infinitive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form><pc>~</pc>a<pc>+</pc></form>
+        <def>that-</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>eyiṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>tooth</def>
+        </entry>
+        <entry>
+        <form>oḻukiya</form>
+        <def>flown-</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>a<pc>+</pc></form>
+        <def>that-</def>
+        </entry>
+        <entry>
+        <form>vāy</form>
+        <def>mouth</def>
+        </entry>
+        <entry>
+        <form>māṇ</form>
+        <def>glory</def>
+        </entry>
+        <entry>
+        <form>nakai<pc>+</pc></form>
+        <def>smile</def>
+        </entry>
+        <entry>
+        <form>ceyir</form>
+        <def>blemish</def>
+        </entry>
+        <entry>
+        <form>tīr</form>
+        <def>end-</def>
+        </entry>
+        <entry>
+        <form>koḷkai</form>
+        <def>principle</def>
+        </entry>
+        <entry>
+        <form>nam</form>
+        <def>our-</def>
+        </entry>
+        <entry>
+        <form><pc>+</pc>uyir</form>
+        <def>live</def>
+        </entry>
+        <entry>
+        <form>vem</form>
+        <def>hot</def>
+        </entry>
+        <entry>
+        <form>kātali</form>
+        <def>lover</def>
+        <gramGrp><gram type="role">feminine</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>tiru</form>
+        <def>brilliant</def>
+        </entry>
+        <entry>
+        <form>mukatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>face-</def>
+        </entry>
+        <entry>
+        <form>alamvarum</form>
+        <def>being-agitated-</def>
+        </entry>
+        <entry>
+        <form>kaṇ</form>
+        <def>eye</def>
+        </entry>
+        <entry>
+        <form>niṉaint<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>thought</def>
+        <gramGrp><gram type="role">absolutive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>alkal-um</form>
+        <def>night</def>
+        <form type="simple">alkal</form>
+        <gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <entry>
+        <form>peru</form>
+        <def>big</def>
+        </entry>
+        <entry>
+        <form>mara<pc>(</pc>m<pc>)</pc></form>
+        <def>tree</def>
+        </entry>
+        <entry>
+        <form>vaḷḷiyiṉ</form>
+        <def>creeper</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>piṇikkum</form>
+        <def>fettering-</def>
+        </entry>
+        <entry>
+        <form>eṉṉā</form>
+        <def>say-not</def>
+        </entry>
+        <entry>
+        <form>ciṟu</form>
+        <def>small</def>
+        </entry>
+        <entry>
+        <form>pal</form>
+        <def>many</def>
+        </entry>
+        <entry>
+        <form>kuṉṟam</form>
+        <def>hill</def>
+        </entry>
+        <entry>
+        <form>iṟappōr</form>
+        <def>traverse-he</def>
+        <gramGrp><gram type="role">honorific</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>aṟivār</form>
+        <def>know-he</def>
+        <gramGrp><gram type="role">honorific</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>yār</form>
+        <def>who</def>
+        <gramGrp><gram type="role">honorific</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>avar</form>
+        <def>he</def>
+        <gramGrp><gram type="role">honorific</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>muṉṉiya<pc>+</pc><pc>~</pc>ē</form>
+        <def>approached-they</def>
+        <form type="simple">muṉṉiya</form>
+        <gramGrp><gram type="role">neuter plural</gram>
+        </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+        </entry>
+        </standOff>
+    </TEI>
