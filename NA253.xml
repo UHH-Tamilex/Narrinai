@@ -1,0 +1,284 @@
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Naṟṟiṇai</title> 253. <persName xml:lang="ta">Kapilar</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+    </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="NA253-kiḷavi">
+        <p type="edition">itu (ET: tōḻi) ceṟippaṟivuṟīi varaivu kaṭāyatu.</p>
+        <p type="translation" xml:lang="en">This is how the confidante urged for marriage, informing of confinement.</p>
+        </div>
+      <div xml:id="NA253">
+        <lg type="edition">
+<l>            puḷḷuppati cēriṉum puṇarntōrk kāṇiṉum</l>
+<l>            paḷḷi yāṉaiyiṉ veyya vuyiriṉai</l>
+<l>            kaḻipaṭar varuntiya vevvamoṭu peritaḻin</l>
+<l>            teṉvāyk kēḷāy niṉaiyiṉai nīnaṉi</l>
+<l>            yuḷḷiṉum paṉikku moḷḷiḻaik kuṟumakaḷ </l>
+<l>            pēricai yurumoṭu māri muṟṟiya</l>
+<l>            palkuṭaik kaḷḷiṉ vaṇmakiḻp pāri</l>
+<l>            palavuṟu kuṉṟam pōlap</l>
+<l>            peruṅkavi ṉeytiya varuṅkāp piṉaḷē.</l>
+            </lg>
+        <lg type="translation" xml:lang="en">
+<l>You who sigh hotly, as an elephant in [its] resting place,</l>
+<l rend="indent2">when the birds join [their] abodes and</l>
+<l rend="indent2">when you see those that are united,</l>
+<l rend="indent">greatly desolate, with a trouble that suffered in thinking much of [her],</l>
+<l>you don’t listen [to the words] of my mouth,</l>
+<l rend="indent4">you who are thinking abundantly.<note place="foot">Here word order is abominable, and morphology ambiguous (see preceding note). Perhaps it is best to take the second half of the line as one vocative phrase. Then either the adverb <term xml:lang="ta">naṉi</term> has to be connected with <term xml:lang="ta">niṉaiyiṉai</term>, which is quite awkward because of its position, or it can be linked to the next line with <term xml:lang="ta">uḷḷiṉum</term>: "when she remembers intensely".</note></l>
+<l>The bright-jewelled little woman who shivers also when she remembers</l>
+<l>[you] has severe guards, since she has attained a beauty great</l>
+<l rend="indent">as the hill full of jack-trees</l>
+<l rend="indent2">of Pāri who delights in generosity, [giving] toddy in many cups,</l>
+<l rend="indent3">that has matured in showers with great noisy thunder.</l>
+<lg type="alternate" sameAs="3b">
+    <l>greatly desolate, with a trouble that suffered great distress</l>
+</lg>
+<lg type="alternate" sameAs="4b">
+    <l>listen [to the words] from my mouth</l>
+</lg>
+        </lg>
+      </div>
+    </body>
+    </text>
+    <standOff type="wordsplit" corresp="#NA253">
+        <interp type="alignment" select="0">70M5G23MG5MG63MG56MG43MG2M,271MG</interp>
+        <entry>
+        <form>puḷḷu<pc>+</pc></form>
+        <def>bird</def>
+        </entry>
+        <entry>
+        <form>pati</form>
+        <def>abode</def>
+        </entry>
+        <entry>
+        <form>cēriṉum</form>
+        <def>join-if</def>
+        <form type="simple">cēriṉ</form>
+        <gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <entry>
+        <form>puṇarntōr<pc>+</pc></form>
+        <def>united-they</def>
+        <gramGrp><gram type="role">honorific</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>kāṇiṉum</form>
+        <def>see-if</def>
+        <form type="simple">kāṇiṉ</form>
+        <gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <entry>
+        <form>paḷḷi</form>
+        <def>resting-place</def>
+        </entry>
+        <entry>
+        <form>yāṉaiyiṉ</form>
+        <def>elephant</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>veyya</form>
+        <def>hot-they</def>
+        <gramGrp><gram type="role">neuter plural</gram>
+        </gramGrp></entry>
+        <entry>
+        <form><pc>~</pc>uyiriṉai</form>
+        <def>breath-you</def>
+        </entry>
+        <superEntry type="ambiguous">
+        <entry><entry>
+        <form>kaḻipaṭar</form>
+        <def>great-distress</def>
+        </entry></entry>
+        <entry><entry>
+        <form>kaḻi</form>
+        <def>much</def>
+        </entry></entry>
+        </superEntry>
+        <entry>
+        <form>paṭar</form>
+        <def>think-of-</def>
+        </entry>
+        <entry>
+        <form>varuntiya</form>
+        <def>suffered-</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>evvamoṭu</form>
+        <def>trouble</def>
+        <gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>perit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>big-it</def>
+        </entry>
+        <entry>
+        <form>aḻint<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>perished</def>
+        </entry>
+        <entry>
+        <form>eṉ</form>
+        <def>my-</def>
+        </entry>
+        <entry>
+        <form>vāy<pc>+</pc></form>
+        <def>mouth</def>
+        </entry>
+        <entry>
+        <form>kēḷāy</form>
+        <def>hear(ipt./neg.2.sg.)</def>
+        <gramGrp><gram type="role">imperative</gram>
+        <gram type="role">negative</gram>
+        <gram type="role">singular</gram>
+        <gram type="role">second person</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>niṉaiyiṉai</form>
+        <def>thought-you</def>
+        </entry>
+        <entry>
+        <form>nī</form>
+        <def>you</def>
+        </entry>
+        <entry>
+        <form>naṉi</form>
+        <def>abundant</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>uḷḷiṉum</form>
+        <def>remember-if-even</def>
+        </entry>
+        <entry>
+        <form>paṉikkum</form>
+        <def>shivering-</def>
+        </entry>
+        <entry>
+        <form>oḷ</form>
+        <def>bright</def>
+        </entry>
+        <entry>
+        <form><pc>+</pc>iḻai<pc>+</pc></form>
+        <def>jewel</def>
+        </entry>
+        <entry>
+        <form>kuṟu</form>
+        <def>short</def>
+        </entry>
+        <entry>
+        <form>makaḷ</form>
+        <def>daughter</def>
+        </entry>
+        <entry>
+        <form>pēr<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>big</def>
+        </entry>
+        <entry>
+        <form>icai</form>
+        <def>sound</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>urumoṭu</form>
+        <def>thunder</def>
+        <gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>māri</form>
+        <def>shower</def>
+        </entry>
+        <entry>
+        <form>muṟṟiya</form>
+        <def>matured-</def>
+        </entry>
+        <entry>
+        <form>pal</form>
+        <def>many</def>
+        </entry>
+        <entry>
+        <form>kuṭai<pc>+</pc></form>
+        <def>basket</def>
+        </entry>
+        <entry>
+        <form>kaḷḷiṉ</form>
+        <def>toddy</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>vaḷ</form>
+        <def>generosity</def>
+        </entry>
+        <entry>
+        <form>makiḻ<pc>+</pc></form>
+        <def>delight</def>
+        </entry>
+        <entry>
+        <form>pāri</form>
+        <def>Pāri</def>
+        </entry>
+        <entry>
+        <form>palav<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>jack-tree</def>
+        </entry>
+        <entry>
+        <form>uṟu</form>
+        <def>have-</def>
+        </entry>
+        <entry>
+        <form>kuṉṟam</form>
+        <def>hill</def>
+        </entry>
+        <entry>
+        <form>pōla<pc>+</pc></form>
+        <def>be-similar</def>
+        </entry>
+        <entry>
+        <form>perum</form>
+        <def>big</def>
+        </entry>
+        <entry>
+        <form>kaviṉ</form>
+        <def>beauty</def>
+        </entry>
+        <entry>
+        <form>eytiya</form>
+        <def>reached-</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>arum</form>
+        <def>difficult</def>
+        </entry>
+        <entry>
+        <form>kāppiṉaḷ-ē</form>
+        <def>guard-she</def>
+        <form type="simple">kāppiṉaḷ</form>
+        <gramGrp type="particle"><m>ē</m></gramGrp>
+        </entry>
+        </standOff>
+    </TEI>

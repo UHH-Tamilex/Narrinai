@@ -1,0 +1,368 @@
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Naṟṟiṇai</title> 254. <persName xml:lang="ta">Ulōccaṉār</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+    </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="NA254-kiḷavi">
+        <p type="edition">itu tōḻi paṭaittumoḻintatu.</p>
+        <p type="translation" xml:lang="en">This is what is concocted by the confidante.</p>
+        </div>
+      <div xml:id="NA254">
+        <lg type="edition">
+<l>            vaṇṭa ṟaiiyum varutirai yutaittuṅ</l>
+<l>            kuṉṟōṅku veṇmaṇaṟ koṭiyaṭumpu koytun</l>
+<l>            tuṉiyi ṉaṉmoḻi yiṉiya kūṟiyuñ</l>
+<l>            colletir peṟāa yāki mellac</l>
+<l>            celīiya cellu moliyirum parappa </l>
+<l>            vumaṇar tanta vuppunoṭai nelli</l>
+<l>            ṉayiṉi māviṉ ṟarunta nīvīk</l>
+<l>            kaṇanāṟu peruntoṭai puraḷu mārpiṟ</l>
+<l>            ṟuṇaiyilai tamiyai cēkkuvai yallai</l>
+<l>            nērkaṭ ciṟutaṭi nīriṉ māṟṟi </l>
+<l>            vāṉam vēṇṭā vuḻaviṉeṅ</l>
+<l>            kāṉalañ ciṟukuṭic cērntaṉai celiṉē.</l>
+            </lg>
+        <lg type="translation" xml:lang="en">
+<l>O man from the sounding dark extension that goes to go</l>
+<l rend="indent">softly, being one that did not obtain an answer,</l>
+<l rend="indent2">even when you engaged in play and kicked the coming waves</l>
+<l rend="indent3">and plucked Aṭumpu in creepers in the white sand</l>
+<l rend="indent3">that has grown into hills</l>
+<l rend="indent3">and talked good words free from offence(?) in a pleasing way,</l>
+<l>– if you go after having joined the small home in the seashore grove</l>
+<l rend="indent">of us whose ploughing does not depend on the sky,</l>
+<l rend="indent">changing the water in the small plots of suitable area<note place="foot">T.V.G. explains this line as a reference to the salt fields (with a parallel in AN 366.5). The only trouble about this is <term xml:lang="ta">nīriṉ</term>. If <term xml:lang="ta">nīr</term> is supposed to be the direct object of <term xml:lang="ta">māṟṟi</term>, why an oblique marking here?</note>,</l>
+<l>you will not rest alone, as one without a companion on [your] chest,</l>
+<l rend="indent">where the big wreath fragrant from groups of blossoms is deranged,</l>
+<l>you who have not eaten much of [our] food</l>
+<l rend="indent">of rice [that is] the price of salt, given by the salt-merchants.</l>
+<lg type="alternate" sameAs="5b">
+    <l>O man from the sounding dark extension who goes to go<note place="foot">The reference of <term xml:lang="ta">celīiya cellum</term> is problematic. The <term xml:lang="ta">um-peyareccam</term> does not usually go with the 2nd person. As such it is taken here by T.V.G. and K.P. and interpreted as the coming and going of the man who tries to catch HER attention. The repeated cel is not really favourable to such an interpretation, and so I prefer to connect it with the steady movement of the sea (that is unmoved by HIS distress).</note></l>
+</lg>
+<lg type="alternate" sameAs="7b">
+    <l>you, when [your] horses have eaten today the food<note place="foot">Thus the interpretation given by T.V.G. and K.P. - the wording is ambiguous.</note></l>
+</lg>
+    </lg>
+      </div>
+    </body>
+    </text>
+    <standOff type="wordsplit" corresp="#NA254">
+        <interp type="alignment" select="0">6ML3MG19M2G6MG27M2G9M4G16MG93MG15MR21ML109MG2M,341MG</interp>
+        <entry>
+        <form>vaṇṭal</form>
+        <def>play</def>
+        </entry>
+        <entry>
+        <form>taii-<pc>~</pc>um</form>
+        <def>knitted</def>
+        <form type="simple">taii</form>
+        <gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <entry>
+        <form>varu</form>
+        <def>come-</def>
+        </entry>
+        <entry>
+        <form>tirai</form>
+        <def>wave</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>utaitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+        <def>kicked</def>
+        <form type="simple">utaittu</form>
+        <gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <entry>
+        <form>kuṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>hill</def>
+        </entry>
+        <entry>
+        <form>ōṅku</form>
+        <def>become-high-</def>
+        </entry>
+        <entry>
+        <form>veḷ</form>
+        <def>white</def>
+        </entry>
+        <entry>
+        <form>maṇal</form>
+        <def>sand</def>
+        </entry>
+        <entry>
+        <form>koṭi</form>
+        <def>creeper</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>aṭumpu</form>
+        <def>Aṭumpu</def>
+        </entry>
+        <entry>
+        <form>koyt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+        <def>plucked</def>
+        <form type="simple">koytu</form>
+        <gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <superEntry type="ambiguous">
+        <entry><entry>
+        <form>tuṉiyiṉ</form>
+        <def>disgust</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry></entry>
+        <entry><entry>
+        <form>tuṉi</form>
+        <def>offence</def>
+        </entry></entry>
+        </superEntry>
+        <entry>
+        <form><pc>~</pc>il</form>
+        <def>not</def>
+        </entry>
+        <entry>
+        <form>nal</form>
+        <def>good</def>
+        </entry>
+        <entry>
+        <form>moḻi</form>
+        <def>word</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>iṉiya</form>
+        <def>pleasant-they</def>
+        <gramGrp><gram type="role">neuter plural</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>kūṟi-<pc>~</pc>um</form>
+        <def>talked</def>
+        <form type="simple">kūṟi</form>
+        <gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <entry>
+        <form>col</form>
+        <def>word</def>
+        </entry>
+        <entry>
+        <form><pc>+</pc>etir</form>
+        <def>opposite</def>
+        </entry>
+        <entry>
+        <form>peṟāay</form>
+        <def>obtain-not-you</def>
+        </entry>
+        <entry>
+        <form>āki</form>
+        <def>become</def>
+        <gramGrp><gram type="role">absolutive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>mella<pc>+</pc></form>
+        <def>soft-they</def>
+        <gramGrp><gram type="role">neuter plural</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>celīiya</form>
+        <def>go(opt./inf.)</def>
+        <gramGrp><gram type="role">infinitive</gram>
+        <gram type="role">optative</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>cellum</form>
+        <def>going-</def>
+        </entry>
+        <entry>
+        <form>oli</form>
+        <def>sound</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>irum</form>
+        <def>big/dark</def>
+        </entry>
+        <entry>
+        <form>parappa</form>
+        <def>extension-he</def>
+        <gramGrp><gram type="role">vocative</gram>
+        </gramGrp></entry>
+        <entry>
+        <form><pc>~</pc>umaṇar</form>
+        <def>salt-merchant</def>
+        <gramGrp><gram type="role">honorific</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>tanta</form>
+        <def>given-</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>uppu</form>
+        <def>salt</def>
+        </entry>
+        <entry>
+        <form>noṭai</form>
+        <def>price</def>
+        </entry>
+        <entry>
+        <form>nelliṉ</form>
+        <def>rice</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>ayiṉi</form>
+        <def>food</def>
+        </entry>
+        <entry>
+        <form>mā</form>
+        <def>big/horse</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>iṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>not-it/today</def>
+        </entry>
+        <entry>
+        <form>arunta</form>
+        <def>eaten-</def>
+        </entry>
+        <entry>
+        <form>nī</form>
+        <def>you</def>
+        </entry>
+        <entry>
+        <form>vī<pc>+</pc></form>
+        <def>blossom</def>
+        </entry>
+        <entry>
+        <form>kaṇam</form>
+        <def>group</def>
+        </entry>
+        <entry>
+        <form>nāṟu</form>
+        <def>fragrant</def>
+        </entry>
+        <entry>
+        <form>perum</form>
+        <def>big</def>
+        </entry>
+        <entry>
+        <form>toṭai</form>
+        <def>wreath</def>
+        </entry>
+        <entry>
+        <form>puraḷum</form>
+        <def>being-deranged-</def>
+        </entry>
+        <entry>
+        <form>mārpiṉ</form>
+        <def>chest</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>tuṇai</form>
+        <def>companion</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>ilai</form>
+        <def>not-you</def>
+        </entry>
+        <entry>
+        <form>tamiyai</form>
+        <def>solitude-you</def>
+        </entry>
+        <entry>
+        <form>cēkkuvai</form>
+        <def>rest-you</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>allai</form>
+        <def>not-so-you</def>
+        </entry>
+        <entry>
+        <form>nēr</form>
+        <def>consent-</def>
+        </entry>
+        <entry>
+        <form>kaṇ</form>
+        <def>area</def>
+        </entry>
+        <entry>
+        <form>ciṟu</form>
+        <def>small</def>
+        </entry>
+        <entry>
+        <form>taṭi</form>
+        <def>plot</def>
+        </entry>
+        <entry>
+        <form>nīriṉ</form>
+        <def>water</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>māṟṟi</form>
+        <def>changed</def>
+        </entry>
+        <entry>
+        <form>vāṉam</form>
+        <def>sky</def>
+        </entry>
+        <entry>
+        <form>vēṇṭā</form>
+        <def>necessary-not</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>uḻaviṉ</form>
+        <def>ploughing</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>em</form>
+        <def>our-</def>
+        </entry>
+        <entry>
+        <form>kāṉalam</form>
+        <def>seashore-grove</def>
+        <gramGrp type="affix"><m>am</m></gramGrp>
+        </entry>
+        <entry>
+        <form>ciṟu</form>
+        <def>small</def>
+        </entry>
+        <entry>
+        <form>kuṭi<pc>+</pc></form>
+        <def>home</def>
+        </entry>
+        <entry>
+        <form>cērntaṉai</form>
+        <def>you-joined</def>
+        </entry>
+        <entry>
+        <form>celiṉ-ē</form>
+        <def>go-if</def>
+        <form type="simple">celiṉ</form>
+        <gramGrp type="particle"><m>ē</m></gramGrp>
+        </entry>
+        </standOff>
+    </TEI>
