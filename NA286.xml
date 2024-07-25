@@ -1,0 +1,268 @@
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Naṟṟiṇai</title> 286. <persName xml:lang="ta">Tuṟaikkuṟumāviṟ (ET: Tuṟaikkuṭi...) Pālaṅkoṟṟaṉār</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+    </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="NA286-kiḷavi">
+        <p type="edition">itu piriviṭai melinta talaimakaḷait tōḻi vaṟpuṟuttatu.</p>
+        <p type="translation" xml:lang="en">This is how the confidante encouraged HER who has become weak in the time of separation.</p>
+        </div>
+      <div xml:id="NA286">
+        <lg type="edition">
+<l>            ūca loṇkuḻai yuṭaiviyat taṉṉa</l>
+<l>            vattak kumiḻi ṉāyita ḻalari</l>
+<l>            kallaṟai varikkum pulleṉ kuṉṟañ</l>
+<l>            ceṉṟōr maṉṟa celīiyareṉ ṉuyireṉap</l>
+<l>            puṉaiyiḻai nekiḻa vimmi nontunon </l>
+<l>            tiṉaita lāṉṟici ṉāyiḻai niṉaiyi</l>
+<l>            ṉaṭṭō rākkam vēṇṭiyu moṭṭiya</l>
+<l>            niṉṟō ḷaṇipeṟa varaṟku</l>
+<l>            maṉṟō tōḻiyavar ceṉṟa tiṟamē.</l>
+            </lg>
+        <lg type="translation" xml:lang="en">
+<l>O [you] of choice jewels, leave off despairing,</l>
+<l rend="indent">aching [and] aching, sobbing for [your] adorning jewels to become loose,</l>
+<l rend="indent">saying “may my life go: he has gone indeed</l>
+<l rend="indent2">to the empty hills, where the choice petals of the Kumiḻ tree</l>
+<l rend="indent2">by the road adorn(?) the stony rocks,</l>
+<l rend="indent3">like an expanse with swinging bright earrings.”</l>
+<l>If [you] think, is not the reason he has gone, friend,</l>
+<l rend="indent">[his] needing gain for those who are near [to him]</l>
+<l rend="indent">and coming so that your shoulder that has shrunk obtains adornment?</l>
+        </lg>
+      </div>
+    </body>
+    </text>
+    <standOff type="wordsplit" corresp="#NA286">
+        <interp type="alignment" select="0">22MG62MG54MG28ML15MG28M2G5M2G20MG2M,245MG</interp>
+        <entry>
+        <form>ūcal</form>
+        <def>swinging</def>
+        </entry>
+        <entry>
+        <form>oḷ</form>
+        <def>bright</def>
+        </entry>
+        <entry>
+        <form>kuḻai</form>
+        <def>earring</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>uṭai</form>
+        <def>possess-</def>
+        </entry>
+        <entry>
+        <form>viyatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>expanse</def>
+        </entry>
+        <entry>
+        <form>aṉṉa</form>
+        <def>like</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>attam</form>
+        <def>road</def>
+        </entry>
+        <entry>
+        <form>kumiḻiṉ</form>
+        <def>Kumiḻ-tree</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>āy</form>
+        <def>select-</def>
+        </entry>
+        <entry>
+        <form>itaḻ</form>
+        <def>petal</def>
+        </entry>
+        <entry>
+        <form>alari</form>
+        <def>flower</def>
+        </entry>
+        <entry>
+        <form>kal</form>
+        <def>stone</def>
+        </entry>
+        <entry>
+        <form><pc>+</pc>aṟai</form>
+        <def>rock</def>
+        </entry>
+        <entry>
+        <form>varikkum</form>
+        <def>drawing-</def>
+        </entry>
+        <entry>
+        <form>pulleṉ</form>
+        <def>grass-say-</def>
+        </entry>
+        <entry>
+        <form>kuṉṟam</form>
+        <def>hill</def>
+        </entry>
+        <entry>
+        <form>ceṉṟōr-maṉṟa</form>
+        <def>gone-he</def>
+        <form type="simple">ceṉṟōr</form>
+        <gramGrp><gram type="role">honorific</gram>
+        </gramGrp><gramGrp type="particle"><m>maṉṟa</m></gramGrp>
+        </entry>
+        <entry>
+        <form>celīiyar</form>
+        <def>may-go</def>
+        </entry>
+        <entry>
+        <form>eṉ</form>
+        <def>my-</def>
+        </entry>
+        <entry>
+        <form><pc>+</pc>uyir</form>
+        <def>life</def>
+        </entry>
+        <entry>
+        <form>eṉa<pc>+</pc></form>
+        <def>say</def>
+        </entry>
+        <entry>
+        <form>puṉai</form>
+        <def>decorate-</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>iḻai</form>
+        <def>jewel</def>
+        </entry>
+        <entry>
+        <form>nekiḻa</form>
+        <def>become-loose</def>
+        <gramGrp><gram type="role">infinitive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>vimmi</form>
+        <def>sobbed</def>
+        </entry>
+        <entry>
+        <form>nontu</form>
+        <def>ached</def>
+        </entry>
+        <entry>
+        <form>nont<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>ached</def>
+        </entry>
+        <entry>
+        <form>iṉaital</form>
+        <def>despairing</def>
+        </entry>
+        <entry>
+        <form>āṉṟiciṉ</form>
+        <def>end</def>
+        <gramGrp><gram type="role">imperative</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>āy</form>
+        <def>select-</def>
+        </entry>
+        <entry>
+        <form>iḻai</form>
+        <def>jewel</def>
+        </entry>
+        <entry>
+        <form>niṉaiyiṉ</form>
+        <def>think-if</def>
+        </entry>
+        <entry>
+        <form>naṭṭōr</form>
+        <def>friend</def>
+        <gramGrp><gram type="role">honorific</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>ākkam</form>
+        <def>gain</def>
+        </entry>
+        <entry>
+        <form>vēṇṭi-<pc>~</pc>um</form>
+        <def>needed</def>
+        <form type="simple">vēṇṭi</form>
+        <gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <entry>
+        <form>oṭṭiya</form>
+        <def>shrunk-</def>
+        </entry>
+        <entry>
+        <form>niṉ</form>
+        <def>your-</def>
+        </entry>
+        <entry>
+        <form>tōḷ</form>
+        <def>shoulder</def>
+        </entry>
+        <entry>
+        <form>aṇi</form>
+        <def>adornment</def>
+        </entry>
+        <entry>
+        <form>peṟa</form>
+        <def>obtain</def>
+        <gramGrp><gram type="role">infinitive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>varaṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+        <def>coming</def>
+        <form type="simple">varaṟku</form>
+        <gramGrp><gram type="role">dative</gram>
+        </gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <entry>
+        <form>aṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
+        <def>not-so-it</def>
+        <form type="simple">aṉṟu</form>
+        <gramGrp type="particle"><m>ō</m></gramGrp>
+        </entry>
+        <entry>
+        <form>tōḻi</form>
+        <def>friend</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>avar</form>
+        <def>he</def>
+        <gramGrp><gram type="role">honorific</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>ceṉṟa</form>
+        <def>gone-</def>
+        </entry>
+        <entry>
+        <form>tiṟam-ē</form>
+        <def>reason</def>
+        <form type="simple">tiṟam</form>
+        <gramGrp type="particle"><m>ē</m></gramGrp>
+        </entry>
+        </standOff>
+    </TEI>
