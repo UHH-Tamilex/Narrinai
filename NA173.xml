@@ -72,7 +72,7 @@
          </div>
           </body>
         </text>
-        <standOff type="wordsplit" corresp="#NA173"><interp type="alignment" select="0">26MG3ML23M2G15MR9MG129MG19ML17M2G28MG2M,281MG</interp>
+        <standOff type="wordsplit" corresp="#NA173"><interp type="alignment" select="0">26MG3ML23M2G15MR9MG43MG9MG18MG59MG19ML17M2G28MG2M,284MG</interp>
 <entry>
 <form>cuṉai<pc>+</pc></form>
 <def>mountain pool</def>
@@ -183,15 +183,19 @@
 <gramGrp><gram type="role">accusative</gram>
 </gramGrp></entry>
 <entry>
-<form>kaṇṇiṉum</form>
+<form>kaṇṇiṉ-um</form>
 <def>eye</def>
+<form type="simple">kaṇṇiṉ</form>
 <gramGrp><gram type="role">oblique</gram>
-</gramGrp></entry>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
-<form>kaṉaviṉum</form>
+<form>kaṉaviṉ-um</form>
 <def>dream</def>
+<form type="simple">kaṉaviṉ</form>
 <gramGrp><gram type="role">oblique</gram>
-</gramGrp></entry>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>kāṭṭi</form>
 <def>shown</def>
@@ -207,10 +211,13 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>eṉṉiṉum</form>
+<form>eṉṉiṉ-um</form>
 <def>say-if-even</def>
+<form type="simple">eṉṉiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>vārātu</form>
 <def>come-not-it</def>
@@ -292,18 +299,20 @@
 <def>long</def>
 <gramGrp><gram type="role">adjective</gram>
 </gramGrp></entry>
-<entry>
-<form>vēḷ</form>
-<def>Vēḷ/desire</def>
-<gramGrp><gram type="role">dative</gram>
-</gramGrp></entry>
 <superEntry type="ambiguous">
 <entry><entry>
+<form>vēḷ</form>
+<def>Vēḷ</def>
+</entry><entry>
 <form>kētam</form>
 <def>affliction</def>
 </entry></entry>
 <entry><entry>
-<form>vēṭk<pc type="ignored">(</pc>u<pc type="ignored">)</pc><pc>~</pc>ētam</form>
+<form>vēṭk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>desire</def>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp></entry><entry>
+<form><pc>~</pc>ētam</form>
 <def>cause</def>
 </entry></entry>
 </superEntry>
