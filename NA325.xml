@@ -1,0 +1,284 @@
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Naṟṟiṇai</title> 325. <persName xml:lang="ta">Maturaik Kārulaviyaṅ Kūṟṟaṉār (EN, ER, ET: Kūttaṉār)</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+    </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="NA325-kiḷavi">
+        <p type="edition">itu tōḻi celavu aḻuṅkuvittatu.</p>
+        <p type="translation" xml:lang="en">This is how the confidante prevented [HIM] from going.</p>
+        </div>
+      <div xml:id="NA325">
+        <lg type="edition">
+<l>          kavitalai yeṇkiṉ parumayi rēṟṟai</l>
+<l>          yiraitēr vēṭkaiyi ṉiraviṟ pōki</l>
+<l>          nīṭuceyaṟ citalait tōṭupuṉain teṭutta</l>
+<l>          varavāḻ puṟṟa moḻiya voyyeṉa</l>
+<l>          muravāy vaḷḷuki riṭappa vāṅku</l>
+<l>          mūkkaruṅ kavalai nīnti maṟṟivaḷ</l>
+<l>          pūppō luṇkaṇ putunalañ citaiya</l>
+<l>          vīṅkunīr vārak kaṇṭun</l>
+<l>          takumō peruma tavirkanuñ celavē.</l>
+            </lg>
+        <lg type="translation" xml:lang="en">
+<l>Crossing<note place="foot"><term xml:lang="ta">nīnti māṟṟu</term>: actually we would expect this to be the subject of the <term xml:lang="ta">takumō</term>, but then it would have to be a verbal noun nīntal. Should we emend the text here or accept an anacoluthic construction (that can be moreover easily camouflaged in the English translation)?</note> the crossroad difficult to pass(?),</l>
+<l rend="indent2">where the huge-furred male of the bear with overhanging head,</l>
+<l rend="indent3">going at night in desire to search for prey,</l>
+<l rend="indent2">bends to root up<note place="foot">Either this verb has to stay without direct object or we have to take <term xml:lang="ta">muravāy</term> as the "broken mound" of the anthill, not as an epithet of the nails.</note> with [its] sharp nails with broken tips,</l>
+<l rend="indent">suddenly(?), so that the anthill, inhabited by a snake, is annihilated,</l>
+<l rend="indent2">raised decoratively by the multitude of white ants in long action,</l>
+<l>– is it fitting, o great one</l>
+<l rend="indent">though having seen that swelling waters flow over,</l>
+<l>so that the new beauty of her flower-like collyrium eyes is wasted?</l>
+<l rend="indent4">Let your going be detained.</l>
+        </lg>
+      </div>
+    </body>
+    </text>
+    <standOff type="wordsplit" corresp="#NA325">
+      <interp type="alignment" select="0">84MG61MG20MG48M2G7MG22M2G2M,251MG</interp>
+      <entry>
+      <form>kavi</form>
+      <def>overhang-</def>
+      </entry>
+      <entry>
+      <form>talai</form>
+      <def>head</def>
+      </entry>
+      <entry>
+      <form><pc>~</pc>eṇkiṉ</form>
+      <def>bear</def>
+      <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+      </entry>
+      <entry>
+      <form>paru</form>
+      <def>big</def>
+      </entry>
+      <entry>
+      <form>mayir</form>
+      <def>fur</def>
+      </entry>
+      <entry>
+      <form>ēṟṟai</form>
+      <def>male</def>
+      </entry>
+      <entry>
+      <form><pc>~</pc>irai</form>
+      <def>prey</def>
+      </entry>
+      <entry>
+      <form>tēr</form>
+      <def>search-</def>
+      </entry>
+      <entry>
+      <form>vēṭkaiyiṉ</form>
+      <def>desire</def>
+      <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+      </entry>
+      <entry>
+      <form>iraviṉ</form>
+      <def>night</def>
+      <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+      </entry>
+      <entry>
+      <form>pōki</form>
+      <def>gone</def>
+      </entry>
+      <entry>
+      <form>nīṭu</form>
+      <def>prolong-</def>
+      </entry>
+      <entry>
+      <form>ceyal</form>
+      <def>doing</def>
+      </entry>
+      <entry>
+      <form>citalai<pc>+</pc></form>
+      <def>white-ant</def>
+      </entry>
+      <entry>
+      <form>tōṭu</form>
+      <def>mass</def>
+      </entry>
+      <entry>
+      <form>puṉaint<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>decorated</def>
+      </entry>
+      <entry>
+      <form>eṭutta</form>
+      <def>raised-</def>
+      </entry>
+      <entry>
+      <form><pc>~</pc>ara</form>
+      <def>snake</def>
+      </entry>
+      <entry>
+      <form>vāḻ</form>
+      <def>live-</def>
+      </entry>
+      <entry>
+      <form>puṟṟam</form>
+      <def>white-anthill</def>
+      </entry>
+      <entry>
+      <form>oḻiya</form>
+      <def>stay-behind</def>
+      <gramGrp><gram type="role">infinitive</gram>
+      </gramGrp></entry>
+      <entry>
+      <form><pc>~</pc>oyyeṉa</form>
+      <def>‘oy’-say</def>
+      </entry>
+      <entry>
+      <form>mura</form>
+      <def>broken(?)</def>
+      <gramGrp></gramGrp></entry>
+      <entry>
+      <form>vāy</form>
+      <def>mouth</def>
+      </entry>
+      <entry>
+      <form>vaḷ</form>
+      <def>sharp</def>
+      </entry>
+      <entry>
+      <form><pc>+</pc>ukir</form>
+      <def>nail</def>
+      </entry>
+      <entry>
+      <form>iṭappa</form>
+      <def>root-up</def>
+      <gramGrp><gram type="role">infinitive</gram>
+      </gramGrp></entry>
+      <entry>
+      <form>vāṅkum</form>
+      <def>bending-</def>
+      </entry>
+      <entry>
+      <form>ūkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>miss-(?)-</def>
+      <gramGrp></gramGrp></entry>
+      <entry>
+      <form>arum</form>
+      <def>difficult</def>
+      </entry>
+      <entry>
+      <form>kavalai</form>
+      <def>crossroad</def>
+      </entry>
+      <entry>
+      <form>nīnti</form>
+      <def>swum</def>
+      </entry>
+      <entry>
+      <form>maṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def></def>
+      <gramGrp type="particle"><m>maṟṟu</m></gramGrp>
+      </entry>
+      <entry>
+      <form>ivaḷ</form>
+      <def>she</def>
+      </entry>
+      <entry>
+      <form>pū<pc>+</pc></form>
+      <def>flower</def>
+      </entry>
+      <entry>
+      <form>pōl</form>
+      <def>be-similar-</def>
+      </entry>
+      <entry>
+      <form>uṇ</form>
+      <def>collyrium</def>
+      </entry>
+      <entry>
+      <form>kaṇ</form>
+      <def>eye</def>
+      </entry>
+      <entry>
+      <form>putu</form>
+      <def>new</def>
+      </entry>
+      <entry>
+      <form>nalam</form>
+      <def>goodness</def>
+      </entry>
+      <entry>
+      <form>citaiya</form>
+      <def>be-wasted</def>
+      <gramGrp><gram type="role">infinitive</gram>
+      </gramGrp></entry>
+      <entry>
+      <form>vīṅku</form>
+      <def>swell-</def>
+      </entry>
+      <entry>
+      <form>nīr</form>
+      <def>water</def>
+      </entry>
+      <entry>
+      <form>vāra<pc>+</pc></form>
+      <def>overflow</def>
+      <gramGrp><gram type="role">infinitive</gram>
+      </gramGrp></entry>
+      <entry>
+      <form>kaṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+      <def>seen</def>
+      <form type="simple">kaṇṭu</form>
+      <gramGrp type="particle"><m>um</m></gramGrp>
+      </entry>
+      <entry>
+      <form>takum-ō</form>
+      <def>fitting-</def>
+      <form type="simple">takum</form>
+      <gramGrp type="particle"><m>ō</m></gramGrp>
+      </entry>
+      <entry>
+      <form>peruma</form>
+      <def>big-one</def>
+      <gramGrp><gram type="role">vocative</gram>
+      </gramGrp></entry>
+      <entry>
+      <form>tavirka</form>
+      <def>refrain</def>
+      <gramGrp><gram type="role">subjunctive</gram>
+      </gramGrp></entry>
+      <entry>
+      <form>num</form>
+      <def>your-</def>
+      <gramGrp><gram type="role">plural</gram>
+      </gramGrp></entry>
+      <entry>
+      <form>celav<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>going</def>
+      <form type="simple">celavu</form>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
+      </entry>
+      </standOff>
+    </TEI>
