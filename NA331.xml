@@ -1,0 +1,347 @@
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Naṟṟiṇai</title> 331. <persName xml:lang="ta">Ulōccaṉārr</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+    </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="NA331-kiḷavi">
+        <p type="edition">itu tōḻi iravukkuṟi nērntatu.</p>
+        <p type="translation" xml:lang="en">This is how the confidante granted a night tryst.</p>
+        </div>
+      <div xml:id="NA331">
+        <lg type="edition">
+<l>            uvarviḷai yuppi ṉuḻāa vuḻava</l>
+<l>            roḻukai yumaṇar varupata nōkkik</l>
+<l>            kāṉa liṭṭa kāvaṟ kuppaip</l>
+<l>            pulavumī ṉuṇaṅkaṟ paṭupu ḷōppi</l>
+<l>            maṭanōk kāyamō ṭuṭaṉup pēṟi</l>
+<l>            yentai timilitu nuntai timileṉa</l>
+<l>            vaḷainīr vēṭṭam pōkiya kiḷaiñar</l>
+<l>            tiṇṭimi leṇṇun taṇkaṭaṟ cērppa</l>
+<l>            viṉitē teyyavem muṉivi ṉallū</l>
+<l>            riṉivariṟ ṟavaṟu millai yeṉaiyatūum</l>
+<l>            piṟarpiṟa raṟital yāvatu</l>
+<l>            tamartama raṟiyāc cēriyu muṭaittē.</l>
+            </lg>
+        <lg type="translation" xml:lang="en">
+<l rend="indent4">O man from the cool coast,</l>
+<l>where they count the firm boats</l>
+<l rend="indent">of [their] relatives gone to hunt in the curved water,</l>
+<l rend="indent2">saying</l>
+<l rend="indent">“this [is] my father’s boat, [this is] your father’s boat,” mounting</l>
+<l rend="indent">together the salt[-mounts], with companions of innocent look,</l>
+<l rend="indent">scaring away the birds coming onto the dryings of reeking fish</l>
+<l rend="indent2">in heaps, to be guarded, placed in the seashore grove by</l>
+<l rend="indent3">the ploughmen who don’t plough for the brackish ripening salt,</l>
+<l rend="indent">looking at the proper time for the salt-merchants with [their]</l>
+<l rend="indent3">carts to come,</l>
+<l>– pleasing it [is], our unafflicted good village,</l>
+<l rend="indent">and if [you] come now</l>
+<l rend="indent4">it is not at all a mistake,</l>
+<l>and it has quarters where one does not know the other</l>
+<l>– how [could there be] knowing all the others,</l>
+<l rend="indent4">even to some extent<note place="foot"><term xml:lang="ta">piṟar</term> is repeated here in analogy to <term xml:lang="ta">tamar tamar</term> of the following line. This is hard to translate.</note>?<note place="foot">Syntax is difficult to justify here, even though the sense is fairly clear. I would call this an unmarked and asyndetic insertion.</note></l>
+        </lg>
+      </div>
+    </body>
+    </text>
+    <standOff type="wordsplit" corresp="#NA331">
+      <interp type="alignment" select="0">47MR58MR4MG6MG7MG91M2GMG13MG2ML87M2G2M,329MG</interp>
+      <entry>
+      <form>uvar</form>
+      <def>be-brackish-</def>
+      </entry>
+      <entry>
+      <form>viḷai</form>
+      <def>ripen-</def>
+      </entry>
+      <entry>
+      <form><pc>~</pc>uppiṉ</form>
+      <def>salt</def>
+      <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+      </entry>
+      <entry>
+      <form>uḻāa</form>
+      <def>plough-not</def>
+      </entry>
+      <entry>
+      <form><pc>~</pc>uḻavar</form>
+      <def>ploughmen</def>
+      <gramGrp><gram type="role">honorific</gram>
+      </gramGrp></entry>
+      <entry>
+      <form>oḻukai</form>
+      <def>cart</def>
+      </entry>
+      <entry>
+      <form><pc>~</pc>umaṇar</form>
+      <def>salt-merchant</def>
+      <gramGrp><gram type="role">honorific</gram>
+      </gramGrp></entry>
+      <entry>
+      <form>varu</form>
+      <def>come-</def>
+      </entry>
+      <entry>
+      <form>patam</form>
+      <def>proper-consistency</def>
+      </entry>
+      <entry>
+      <form>nōkki<pc>+</pc></form>
+      <def>looked-at</def>
+      </entry>
+      <entry>
+      <form>kāṉal</form>
+      <def>seashore-grove</def>
+      </entry>
+      <entry>
+      <form>iṭṭa</form>
+      <def>placed-</def>
+      </entry>
+      <entry>
+      <form>kāval</form>
+      <def>guarding</def>
+      </entry>
+      <entry>
+      <form>kuppai<pc>+</pc></form>
+      <def>heap</def>
+      </entry>
+      <entry>
+      <form>pulavu</form>
+      <def>fish-stench</def>
+      </entry>
+      <entry>
+      <form>mīṉ</form>
+      <def>fish</def>
+      </entry>
+      <entry>
+      <form>uṇaṅkal</form>
+      <def>drying</def>
+      </entry>
+      <entry>
+      <form>paṭu</form>
+      <def>happen-</def>
+      </entry>
+      <entry>
+      <form>puḷ</form>
+      <def>bird</def>
+      </entry>
+      <entry>
+      <form>ōppi</form>
+      <def>scared-away</def>
+      </entry>
+      <entry>
+      <form>maṭam</form>
+      <def>inexperience</def>
+      </entry>
+      <entry>
+      <form>nōkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>look</def>
+      </entry>
+      <entry>
+      <form>āyamōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>attendant</def>
+      <gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+      </entry>
+      <entry>
+      <form>uṭaṉ</form>
+      <def>together</def>
+      </entry>
+      <entry>
+      <form>upp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>salt</def>
+      </entry>
+      <entry>
+      <form>ēṟi</form>
+      <def>mounted</def>
+      </entry>
+      <entry>
+      <form><pc>~</pc>entai</form>
+      <def>my-father</def>
+      </entry>
+      <entry>
+      <form>timil</form>
+      <def>boat</def>
+      </entry>
+      <entry>
+      <form>itu</form>
+      <def>this</def>
+      </entry>
+      <entry>
+      <form>nuntai</form>
+      <def>your-father</def>
+      </entry>
+      <entry>
+      <form>timil</form>
+      <def>boat</def>
+      </entry>
+      <entry>
+      <form>eṉa</form>
+      <def>say</def>
+      </entry>
+      <entry>
+      <form>vaḷai</form>
+      <def>curve-</def>
+      </entry>
+      <entry>
+      <form>nīr</form>
+      <def>water</def>
+      </entry>
+      <entry>
+      <form>vēṭṭam</form>
+      <def>hunt</def>
+      </entry>
+      <entry>
+      <form>pōkiya</form>
+      <def>gone-</def>
+      </entry>
+      <entry>
+      <form>kiḷaiñar</form>
+      <def>relatives</def>
+      <gramGrp><gram type="role">honorific</gram>
+      </gramGrp></entry>
+      <entry>
+      <form>tiṇ</form>
+      <def>firm</def>
+      </entry>
+      <entry>
+      <form>timil</form>
+      <def>boat</def>
+      </entry>
+      <entry>
+      <form>eṇṇum</form>
+      <def>counting-</def>
+      </entry>
+      <entry>
+      <form>taṇ</form>
+      <def>cool</def>
+      </entry>
+      <entry>
+      <form>kaṭal</form>
+      <def>sea</def>
+      </entry>
+      <entry>
+      <form>cērppa</form>
+      <def>coast-he</def>
+      <gramGrp><gram type="role">vocative</gram>
+      </gramGrp></entry>
+      <entry>
+      <form><pc>~</pc>iṉit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ēteyya</form>
+      <def>pleasant-it</def>
+      <form type="simple">iṉitu</form>
+      <gramGrp type="particle"><m>ēteyya</m></gramGrp>
+      </entry>
+      <entry>
+      <form><pc>~</pc>em</form>
+      <def>our-</def>
+      </entry>
+      <entry>
+      <form>muṉiv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>affliction</def>
+      </entry>
+      <entry>
+      <form>il</form>
+      <def>not</def>
+      </entry>
+      <entry>
+      <form>nal</form>
+      <def>good</def>
+      </entry>
+      <entry>
+      <form><pc>+</pc>ūr</form>
+      <def>village</def>
+      </entry>
+      <entry>
+      <form>iṉi</form>
+      <def>now</def>
+      </entry>
+      <entry>
+      <form>variṉ</form>
+      <def>come-if</def>
+      </entry>
+      <entry>
+      <form>tavaṟum</form>
+      <def>mistake</def>
+      <form type="simple">tavaṟ</form>
+      <gramGrp type="particle"><m>um</m></gramGrp>
+      </entry>
+      <entry>
+      <form>illai</form>
+      <def>not</def>
+      </entry>
+      <entry>
+      <form><pc>~</pc>eṉaiyatūum</form>
+      <def>even-a-little</def>
+      </entry>
+      <entry>
+      <form>piṟar</form>
+      <def>other-they</def>
+      <gramGrp><gram type="role">honorific</gram>
+      </gramGrp></entry>
+      <entry>
+      <form>piṟar</form>
+      <def>other-they</def>
+      <gramGrp><gram type="role">honorific</gram>
+      </gramGrp></entry>
+      <entry>
+      <form>aṟital</form>
+      <def>knowing</def>
+      </entry>
+      <entry>
+      <form>yāvatu</form>
+      <def>what</def>
+      </entry>
+      <entry>
+      <form>tamar</form>
+      <def>self-they</def>
+      <gramGrp><gram type="role">honorific</gram>
+      </gramGrp></entry>
+      <entry>
+      <form>tamar</form>
+      <def>self-they</def>
+      <gramGrp><gram type="role">honorific</gram>
+      </gramGrp></entry>
+      <entry>
+      <form>aṟiyā<pc>+</pc></form>
+      <def>know-not</def>
+      </entry>
+      <entry>
+      <form>cēriyum</form>
+      <def>quarter</def>
+      <form type="simple">cēriy</form>
+      <gramGrp type="particle"><m>um</m></gramGrp>
+      </entry>
+      <entry>
+      <form>uṭaitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+      <def>possess-it</def>
+      <form type="simple">uṭaittu</form>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
+      </entry>
+      </standOff>
+    </TEI>
