@@ -1,0 +1,259 @@
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Naṟṟiṇai</title> 365. <persName xml:lang="ta">Kiḷḷimaṅkalaṅkiḻār Makaṉa(ār) Cēra Kōvaṉār</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>xm
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+    </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="NA365-kiḷavi">
+        <p type="edition">(EN: cōkōvaṉār; ET: cokiraṉār)
+            itu tōḻi talaimakaṉ ciṟaippuṟattāṉākat talaimakaṭku uraippāḷāy iyaṟpaḻittu iṉṉatu ceytum eṉpāḷāyc colliyatu. [G1+2: itu kēṭṭa talaimakaḷ (G1v: talaimakaṉ) varaivatu payaṉ.]</p>
+        <p type="translation" xml:lang="en">This is what the confidante said as one talking to HER when HE was behind the fence, being one who, although acting this way, speaks belittling [his] qualities. [G1+2: This has the gist of [HIS] who heard [it] marrying HER.]</p>
+        </div>
+      <div xml:id="NA365">
+        <lg type="edition">
+<l>            aruṅkaṭi yaṉṉai kāva ṉīvip</l>
+<l>            peruṅkaṭai yiṟantu maṉṟam pōkip</l>
+<l>            pakalē palaruṅ kāṇa nāṇviṭ</l>
+<l>            ṭakalvayaṟ paṭappai yavaṉūr viṉavic</l>
+<l>            ceṉmō vāḻi tōḻi paṉṉāṭ</l>
+<l>            karuvi vāṉam peyyā tāyiṉu</l>
+<l>            maruvi yārkku mayantikaḻ cilampiṉ</l>
+<l>            vāṉṟōy māmalai nāṭaṉaic</l>
+<l>            cāṉṟō yallai yeṉṟaṉam varaṟkē.</l>
+            </lg>
+        <lg type="translation" xml:lang="en">
+<l>            Passing beyond mother’s guarding, severely protective,</l>
+<l>            crossing the big gate(?), going to the village common,</l>
+<l rend="indent4">                at midday! for many to see shame quit [me],</l>
+<l>            asking for his village with gardens [and] wide paddy fields,</l>
+<l>            up, oh friend,</l>
+<l rend="indent2">                in order to come back after we have said<note place="foot">The construction here is really puzzling. We either have to take it that <term xml:lang="ta">varaṟku</term> is dependent on <term xml:lang="ta">ceṉmō</term> (instead of the habitual double verb form), and then <term xml:lang="ta">eṉṟaṉam</term> must be read as one of the more disturbing kind of <term xml:lang="ta">muṟṟeccam</term>. Or we take the second half as an independent sentence, which would have the advantage that we could take the <term xml:lang="ta">varaṟku</term> as reason for HIS not being worthy ("you are not worthy because of [your] coming [stealthily]), but the disadvantage is that it is hard to make sense of the perfective aspect with <term xml:lang="ta">eṉṟaṉam</term>.</note>:</l>
+<l rend="indent2">                “you are not worthy”</l>
+<l rend="indent3">                to the man from a land of mountains big as to touch the sky,</l>
+<l rend="indent4">                with water-glittering sides where waterfalls roar,</l>
+<l rend="indent3">                even if the sky with masses [of clouds] does not rain</l>
+<l rend="indent3">                for many days.</l>
+        </lg>
+      </div>
+    </body>
+    </text>
+    <standOff type="wordsplit" corresp="#NA365">
+        <interp type="alignment" select="0">19ML37MG6MG13MG67MG81M2G2M,231MG</interp>
+        <entry>
+        <form>arum</form>
+        <def>difficult</def>
+        </entry>
+        <entry>
+        <form>kaṭi</form>
+        <def>protection</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>aṉṉai</form>
+        <def>mother</def>
+        </entry>
+        <entry>
+        <form>kāval</form>
+        <def>guarding</def>
+        </entry>
+        <entry>
+        <form>nīvi<pc>+</pc></form>
+        <def>passed-beyond</def>
+        </entry>
+        <entry>
+        <form>perum</form>
+        <def>big</def>
+        </entry>
+        <entry>
+        <form>kaṭai</form>
+        <def>limit</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>iṟantu</form>
+        <def>traversed</def>
+        </entry>
+        <entry>
+        <form>maṉṟam</form>
+        <def>village-common</def>
+        </entry>
+        <entry>
+        <form>pōki<pc>+</pc></form>
+        <def>gone</def>
+        </entry>
+        <entry>
+        <form>pakal-ē</form>
+        <def>midday</def>
+        <form type="simple">pakal</form>
+        <gramGrp type="particle"><m>ē</m></gramGrp>
+        </entry>
+        <entry>
+        <form>palar-um</form>
+        <def>many</def>
+        <form type="simple">palar</form>
+        <gramGrp><gram type="role">honorific</gram>
+        </gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <entry>
+        <form>kāṇa</form>
+        <def>see</def>
+        <gramGrp><gram type="role">infinitive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>nāṇ</form>
+        <def>shame</def>
+        </entry>
+        <entry>
+        <form>viṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>let</def>
+        <gramGrp><gram type="role">absolutive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>akal</form>
+        <def>widen-</def>
+        </entry>
+        <entry>
+        <form>vayal</form>
+        <def>paddy-field</def>
+        </entry>
+        <entry>
+        <form>paṭappai</form>
+        <def>garden</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>avaṉ</form>
+        <def>he</def>
+        </entry>
+        <entry>
+        <form>ūr</form>
+        <def>village</def>
+        </entry>
+        <entry>
+        <form>viṉavi<pc>+</pc></form>
+        <def>asked</def>
+        </entry>
+        <entry>
+        <form>ceṉmō</form>
+        <def>go</def>
+        <gramGrp><gram type="role">imperative</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>vāḻi</form>
+        <def>live</def>
+        <gramGrp><gram type="role">imperative</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>tōḻi</form>
+        <def>friend</def>
+        </entry>
+        <entry>
+        <form>pal</form>
+        <def>many</def>
+        </entry>
+        <entry>
+        <form>nāḷ</form>
+        <def>day</def>
+        </entry>
+        <entry>
+        <form>karuvi</form>
+        <def>amount</def>
+        </entry>
+        <entry>
+        <form>vāṉam</form>
+        <def>sky</def>
+        </entry>
+        <entry>
+        <form>peyyāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>rain-not-it</def>
+        </entry>
+        <entry>
+        <form>āyiṉum</form>
+        <def>if-even</def>
+        </entry>
+        <entry>
+        <form>aruvi</form>
+        <def>waterfalliṉ</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>ārkkum</form>
+        <def>roaring-</def>
+        </entry>
+        <entry>
+        <form>ayam</form>
+        <def>water</def>
+        </entry>
+        <entry>
+        <form>tikaḻ</form>
+        <def>glitter-</def>
+        </entry>
+        <entry>
+        <form>cilampiṉ</form>
+        <def>mountain-side</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>vāṉ</form>
+        <def>sky</def>
+        </entry>
+        <entry>
+        <form>tōy</form>
+        <def>touch-</def>
+        </entry>
+        <entry>
+        <form>mā</form>
+        <def>big</def>
+        </entry>
+        <entry>
+        <form>malai</form>
+        <def>mountain</def>
+        </entry>
+        <entry>
+        <form>nāṭaṉai<pc>+</pc></form>
+        <def>land-he</def>
+        <gramGrp><gram type="role">accusative</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>cāṉṟōy</form>
+        <def>noble-you</def>
+        </entry>
+        <entry>
+        <form>allai</form>
+        <def>not-so-you</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>eṉṟaṉam</form>
+        <def>we-said</def>
+        </entry>
+        <entry>
+        <form>varaṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+        <def>coming</def>
+        <form type="simple">varaṟku</form>
+        <gramGrp><gram type="role">dative</gram>
+        </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+        </entry>
+        </standOff>
+    </TEI>
