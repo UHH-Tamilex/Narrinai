@@ -1,0 +1,255 @@
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Naṟṟiṇai</title> 374. <persName xml:lang="ta">Vaṉparaṇar</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+    </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="NA374-kiḷavi">
+        <p type="edition">itu viṉaimuṟṟi mīḷvāṉ iṭaiccurattut kaṇṭārkkuc (G1+2: talaimakaṉ pākaṟkuc) colliyatu.</p>
+        <p type="translation" xml:lang="en">This is what he who returned after accomplishing work said to the onlookers in the middle of the desert.</p>
+        </div>
+      <div xml:id="NA374">
+        <lg type="edition">
+<l>            muramputalai maṇanta nirampā yiyavi</l>
+<l>            ṉōṅkit tōṉṟu mumaṇpoli ciṟukuṭik</l>
+<l>            kaḷarip puḷiyiṟ kāypaci peyarppa</l>
+<l>            vuccik koṇṭa vōṅkukuṭai vampalīr</l>
+<l>            muṟṟaiyu muṭaiyamō maṟṟē piṟṟai</l>
+<l>            vīḻmā maṇiya puṉaineṭuṅ kūnta</l>
+<l>            ṉīrvār puḷḷi yāka naṉaippa</l>
+<l>            viruntayar viruppiṉaḷ varuntun</l>
+<l>            tiruntiḻai yarivait tēmoḻi nilaiyē.</l>
+            </lg>
+        <lg type="translation" xml:lang="en">
+<l>            O travellers with high umbrellas towering above [you],</l>
+<l rend="indent">            while removing hunger by the unripe fruit of the tamarind in the saline soil</l>
+<l rend="indent2">            of the flourishing small hamlet of the salt-merchants, that appears high</l>
+<l rend="indent3">            on the endless way full of heaps of gravel,</l>
+<l>        formerly our part was [thus] too, afterwards [there will be]<note place="foot">Here the wording is minimally explicit. The point is that up to this day HE too shared the troubles of the way through the wilderness, while now he is heading home and anticipates the joy of his wife.</note></l>
+<l rend="indent">            [that] state of sweet words in the young woman with perfect jewels,</l>
+<l rend="indent2">            who suffers from her desire to engage in [preparing] a feast,</l>
+<l rend="indent3">            while [her] bosom becomes wet with overflowing drops of water,</l>
+<l rend="indent4">            [she of] descending dark sapphire[-like] decorated long tresses?</l>
+        </lg>
+      </div>
+    </body>
+    </text>
+    <standOff type="wordsplit" corresp="#NA374">
+        <interp type="alignment" select="0">125MG10MG39ML14MR14MG28MG23MG3M,262MG</interp>
+        <entry>
+        <form>murampu</form>
+        <def>mount-of-gravel</def>
+        </entry>
+        <entry>
+        <form>talaimaṇanta</form>
+        <def>entangled-</def>
+        </entry>
+        <entry>
+        <form>nirampā</form>
+        <def>become-full-not</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>iyaviṉ</form>
+        <def>way</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>ōṅki<pc>+</pc></form>
+        <def>become-high</def>
+        <gramGrp><gram type="role">absolutive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>tōṉṟum</form>
+        <def>appearing-</def>
+        </entry>
+        <entry>
+        <form>umaṇ</form>
+        <def>salt-merchant</def>
+        </entry>
+        <entry>
+        <form>poli</form>
+        <def>flourish-</def>
+        </entry>
+        <entry>
+        <form>ciṟu</form>
+        <def>small</def>
+        </entry>
+        <entry>
+        <form>kuṭi<pc>+</pc></form>
+        <def>hamlet</def>
+        </entry>
+        <entry>
+        <form>kaḷari<pc>+</pc></form>
+        <def>saline-soil</def>
+        </entry>
+        <entry>
+        <form>puḷiyiṉ</form>
+        <def>tamarind</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>kāy</form>
+        <def>unripe-fruit</def>
+        </entry>
+        <entry>
+        <form>paci</form>
+        <def>hunger</def>
+        </entry>
+        <entry>
+        <form>peyarppa</form>
+        <def>remove</def>
+        <gramGrp><gram type="role">infinitive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form><pc>~</pc>ucci<pc>+</pc></form>
+        <def>summit</def>
+        </entry>
+        <entry>
+        <form>koṇṭa</form>
+        <def>taken-</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>ōṅku</form>
+        <def>become-high-</def>
+        </entry>
+        <entry>
+        <form>kuṭai</form>
+        <def>umbrella</def>
+        </entry>
+        <entry>
+        <form>vampalīr</form>
+        <def>traveller-you</def>
+        <gramGrp><gram type="role">plural</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>muṟṟai-<pc>~</pc>um</form>
+        <def>formerly</def>
+        <form type="simple">muṟṟai</form>
+        <gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <entry>
+        <form>uṭaiyam-ōmaṟṟē</form>
+        <def>possess-we</def>
+        <form type="simple">uṭaiyam</form>
+        <gramGrp type="particle"><m>ōmaṟṟē</m></gramGrp>
+        </entry>
+        <entry>
+        <form>piṟṟai</form>
+        <def>afterwards</def>
+        </entry>
+        <entry>
+        <form>vīḻ</form>
+        <def>descend-</def>
+        </entry>
+        <entry>
+        <form>mā</form>
+        <def>big/dark</def>
+        </entry>
+        <entry>
+        <form>maṇiya</form>
+        <def>sapphire</def>
+        <gramGrp type="affix"><m>a</m></gramGrp>
+        </entry>
+        <entry>
+        <form>puṉai</form>
+        <def>decorate-</def>
+        </entry>
+        <entry>
+        <form>neṭum</form>
+        <def>long</def>
+        </entry>
+        <entry>
+        <form>kūntal</form>
+        <def>tresses</def>
+        </entry>
+        <entry>
+        <form>nīr</form>
+        <def>water</def>
+        </entry>
+        <entry>
+        <form>vār</form>
+        <def>overflow-</def>
+        </entry>
+        <entry>
+        <form>puḷḷi</form>
+        <def>dot</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>ākam</form>
+        <def>bosom</def>
+        </entry>
+        <entry>
+        <form>naṉaippa</form>
+        <def>become-wet</def>
+        <gramGrp><gram type="role">infinitive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>virunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>feast</def>
+        </entry>
+        <entry>
+        <form>ayar</form>
+        <def>be-engaged-</def>
+        </entry>
+        <entry>
+        <form>viruppiṉaḷ</form>
+        <def>desire-she</def>
+        </entry>
+        <entry>
+        <form>varuntum</form>
+        <def>suffering-</def>
+        </entry>
+        <entry>
+        <form>tirunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>be-perfect-</def>
+        </entry>
+        <entry>
+        <form>iḻai</form>
+        <def>jewel</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>arivai</form>
+        <def>young-woman</def>
+        </entry>
+        <entry>
+        <form>tēm</form>
+        <def>honey</def>
+        </entry>
+        <entry>
+        <form>moḻi</form>
+        <def>word</def>
+        </entry>
+        <entry>
+        <form>nilai-<pc>~</pc>ē</form>
+        <def>state</def>
+        <form type="simple">nilai</form>
+        <gramGrp type="particle"><m>ē</m></gramGrp>
+        </entry>
+        </standOff>
+    </TEI>
