@@ -1,0 +1,221 @@
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Naṟṟiṇai</title> 385. <persName xml:lang="ta">ET: Añcilāntaiyār</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+    </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div xml:id="NA385">
+        <lg type="edition">
+<l>            ellai ceṉṟapiṉ malaruṅ kūmpiṉa</l>
+<l>            pulavunī raṭaikarai yāmai pārppō</l>
+<l>            ṭalavaṉu maḷaivayiṟ ceṟintaṉa koṭuṅkaḻi</l>
+<l>            yirainacai varuttam vīṭa maramicaip</l>
+<l>            puḷḷum piḷḷaiyoṭu vatintaṉa vataṉāṟ</l>
+<l>            poḻutaṉ ṟātaliṟ ṟamiyai varuti</l>
+<l>            yeḻuteḻiṉ maḻaikka[ṇ]</l>
+            </lg>
+        <lg type="translation" xml:lang="en">
+<l rend="indent">            After the daylight is gone</l>
+<l rend="indent4">            the blossoms have closed,</l>
+<l>        and the crabs have come to keep to [their] holes with</l>
+<l rend="indent">         the young ones of the tortoise on the settling shore of the fish-reeking water,</l>
+<l>        and the birds have come to stay with [their] young ones on the trees</l>
+<l rend="indent">         to destroy their yearning suffering for prey from the curved backwaters.</l>
+<l rend="indent4">            Therefore,</l>
+<l>        since this is not the time,</l>
+<l rend="indent4">            you would come solitary,</l>
+<l>        o you of rain eyes with [collyrium-]drawn grace ...</l>
+        </lg>
+      </div>
+    </body>
+    </text>
+    <standOff type="wordsplit" corresp="#NA385">
+        <interp type="alignment" select="0">18MG39MG6MG56ML8MG34MG3MG24MG15M,208MGMG</interp>
+        <entry>
+        <form>ellai</form>
+        <def>daylight</def>
+        </entry>
+        <entry>
+        <form>ceṉṟa</form>
+        <def>gone-</def>
+        </entry>
+        <entry>
+        <form>piṉ</form>
+        <def>after</def>
+        </entry>
+        <entry>
+        <form>malar-um</form>
+        <def>blossom</def>
+        <form type="simple">malar</form>
+        <gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <entry>
+        <form>kūmpiṉa</form>
+        <def>they-closed</def>
+        <gramGrp><gram type="role">neuter plural</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>pulavu</form>
+        <def>fish-stench</def>
+        </entry>
+        <entry>
+        <form>nīr</form>
+        <def>water</def>
+        </entry>
+        <entry>
+        <form>aṭai</form>
+        <def>settle-</def>
+        </entry>
+        <entry>
+        <form>karai</form>
+        <def>shore</def>
+        </entry>
+        <entry>
+        <form>yāmai</form>
+        <def>tortoise</def>
+        </entry>
+        <entry>
+        <form>pārppōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>young-one</def>
+        <gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>alavaṉ-um</form>
+        <def>crab</def>
+        <form type="simple">alavaṉ</form>
+        <gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <entry>
+        <form>aḷai</form>
+        <def>hole</def>
+        </entry>
+        <entry>
+        <form>vayiṉ</form>
+        <def>to</def>
+        <gramGrp><gram type="role">locative</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>ceṟintaṉa</form>
+        <def>they-were-close</def>
+        <gramGrp><gram type="role">neuter plural</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>koṭum</form>
+        <def>bent</def>
+        </entry>
+        <entry>
+        <form>kaḻi</form>
+        <def>backwaters</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>irai</form>
+        <def>prey</def>
+        </entry>
+        <entry>
+        <form>nacai</form>
+        <def>yearn-</def>
+        </entry>
+        <entry>
+        <form>varuttam</form>
+        <def>suffering</def>
+        </entry>
+        <entry>
+        <form>vīṭa</form>
+        <def>be-destroyed</def>
+        <gramGrp><gram type="role">infinitive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>maram</form>
+        <def>tree</def>
+        </entry>
+        <entry>
+        <form>micai<pc>+</pc></form>
+        <def>elevation</def>
+        </entry>
+        <entry>
+        <form>puḷ-<pc>+</pc>um</form>
+        <def>bird</def>
+        <form type="simple">puḷ</form>
+        <gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <entry>
+        <form>piḷḷaiyoṭu</form>
+        <def>young-one</def>
+        <gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>vatintaṉa</form>
+        <def>they-stayed</def>
+        <gramGrp><gram type="role">neuter plural</gram>
+        </gramGrp></entry>
+        <entry>
+        <form><pc>~</pc>ataṉāl</form>
+        <def>that</def>
+        <gramGrp><gram type="role">instrumental</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>poḻut<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>time</def>
+        </entry>
+        <entry>
+        <form>aṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>not-so-it</def>
+        </entry>
+        <entry>
+        <form>ātaliṉ</form>
+        <def>becoming</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>tamiyai</form>
+        <def>solitude-you</def>
+        </entry>
+        <entry>
+        <form>varuti</form>
+        <def>you-come</def>
+        <gramGrp><gram type="role">subjunctive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form><pc>~</pc>eḻut<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>draw-</def>
+        </entry>
+        <entry>
+        <form>eḻil</form>
+        <def>grace</def>
+        </entry>
+        <entry>
+        <form>maḻai<pc>+</pc></form>
+        <def>rain</def>
+        </entry>
+        <entry>
+        <form>kaṇ</form>
+        <def>eye</def>
+        </entry>
+        </standOff>
+    </TEI>
