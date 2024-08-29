@@ -1,0 +1,267 @@
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Naṟṟiṇai</title> 394. <persName xml:lang="ta">Auvaiyār</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+    </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="NA394-kiḷavi">
+            <p type="edition">1. itu viṉaimuṟṟi maṟuttarāniṉṟa talaimakaṉai iṭaiccurattuk kaṇṭār (ET: kaṇṭōr collat tōḻi taṉittuc) colliyatu. 2. vaṉ collāl kuṟai nayappitta tōḻi tantu aḷittatūumām (EN, ET, EV: tāṉ taṉittuk kūṟiyatūumām).</p>
+            <p type="translation" xml:lang="en">1. This is what was said by the onlookers in the middle of the desert about HIM who was being brought back after accomplishing the work. 2. It is also what is provided by the confidante who had made [HER] grant a request by strong words.</p>
+            </div>
+      <div xml:id="NA394">
+        <lg type="edition">
+<l>            marantalai maṇanta naṉantalaik kāṉattu</l>
+<l>            valantalai ñemaiyat tirunta kuṭiñai</l>
+<l>            poṉcey kollaṉi ṉiṉiya teḷirppap</l>
+<l>            peymmaṇi yārkku miḻaikiḷar neṭuntēr</l>
+<l>            vaṉparaṉ murampi ṉēmi yatirac</l>
+<l>            ceṉṟiciṉ vāḻiyō paṉikkaṭu nāḷē</l>
+<l>            yiṭaiccurat teḻili yuṟaitteṉa mārpiṟ</l>
+<l>            kuṟumpoṟik koṇṭa cāntamoṭu</l>
+<l>            naṟuntaṇ ṇiyaṉko ṉōkō yāṉē.</l>
+            </lg>
+        <lg type="translation" xml:lang="en">
+<l>          Go<note place="foot"><term xml:lang="ta">ceṉṟiciṉ</term>: no subject is named, and since the form is followed by another optative, it is most likely an imperative. T.V.G., however, takes this as a past tense m. singular: "he went".</note>, may you live, on the day of harsh dew,</l>
+<l rend="indent2">          so that the wheels quake on the mounts of gravel with strong pebbles,</l>
+<l rend="indent">          of the jewel-glittering long chariot on which the bells it wears roar,</l>
+<l rend="indent3">          while the owl perched on the strong-topped Ñemai tree</l>
+<l rend="indent4">          in the forest of vast area where the trees are entangled</l>
+<l rend="indent3">          sounds/sparkles<note place="foot">Is <term xml:lang="ta">teḷir</term>, with its double meaning of sight and sound here a deliberate pun? (Are there golden owls?)</note> sweetly as if [made by] a goldsmith.</l>
+<l>        [Is] he fragrant [and] cool<note place="foot">This sentence seems to be lacking either subject or predicate? What is the message?</note></l>
+<l rend="indent2">          with sandal taken in small spots on [his] chest,</l>
+<l rend="indent3">          since the clouds have dripped in the midst of the desert?</l>
+<l rend="indent4">           Ah, I ache.</l>
+        </lg>
+      </div>
+    </body>
+    </text>
+    <standOff type="wordsplit" corresp="#NA394">
+      <interp type="alignment" select="0">54MG89ML22MG11MR3MG13MG58MG3ML2M2G4MG2M,271MG</interp>
+      <entry>
+      <form>maram</form>
+      <def>tree</def>
+      </entry>
+      <entry>
+      <form>talaimaṇanta</form>
+      <def>entangled-</def>
+      </entry>
+      <entry>
+      <form>naṉam</form>
+      <def>wide</def>
+      </entry>
+      <entry>
+      <form>talai<pc>+</pc></form>
+      <def>place</def>
+      </entry>
+      <entry>
+      <form>kāṉattu</form>
+      <def>forest-</def>
+      </entry>
+      <entry>
+      <form>valam</form>
+      <def>strong</def>
+      </entry>
+      <entry>
+      <form>talai</form>
+      <def>head</def>
+      </entry>
+      <entry>
+      <form>ñemaiyatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>Ñemai-tree-</def>
+      </entry>
+      <entry>
+      <form>irunta</form>
+      <def>been-</def>
+      </entry>
+      <entry>
+      <form>kuṭiñai</form>
+      <def>owl</def>
+      </entry>
+      <entry>
+      <form>poṉ</form>
+      <def>gold</def>
+      </entry>
+      <entry>
+      <form>cey</form>
+      <def>make-</def>
+      </entry>
+      <entry>
+      <form>kollaṉiṉ</form>
+      <def>smith</def>
+      <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+      </entry>
+      <entry>
+      <form>iṉiya</form>
+      <def>pleasant-they</def>
+      <gramGrp><gram type="role">neuter plural</gram>
+      </gramGrp></entry>
+      <entry>
+      <form>teḷirppa<pc>+</pc></form>
+      <def>sparkle/sound</def>
+      <gramGrp><gram type="role">infinitive</gram>
+      </gramGrp></entry>
+      <entry>
+      <form>pey<pc>+</pc></form>
+      <def>wear-</def>
+      </entry>
+      <entry>
+      <form>maṇi</form>
+      <def>bell</def>
+      </entry>
+      <entry>
+      <form><pc>~</pc>ārkkum</form>
+      <def>roaring-</def>
+      </entry>
+      <entry>
+      <form>iḻai</form>
+      <def>jewel</def>
+      </entry>
+      <entry>
+      <form>kiḷar</form>
+      <def>shine-</def>
+      </entry>
+      <entry>
+      <form>neṭum</form>
+      <def>long</def>
+      </entry>
+      <entry>
+      <form>tēr</form>
+      <def>chariot</def>
+      </entry>
+      <entry>
+      <form>val</form>
+      <def>strong</def>
+      </entry>
+      <entry>
+      <form>paral</form>
+      <def>pebble</def>
+      </entry>
+      <entry>
+      <form>murampiṉ</form>
+      <def>mount-of-gravel</def>
+      <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+      </entry>
+      <entry>
+      <form>nēmi</form>
+      <def>wheel</def>
+      </entry>
+      <entry>
+      <form><pc>~</pc>atira<pc>+</pc></form>
+      <def>shake</def>
+      <gramGrp><gram type="role">infinitive</gram>
+      </gramGrp></entry>
+      <entry>
+      <form>ceṉṟiciṉ</form>
+      <def>go</def>
+      <gramGrp><gram type="role">imperative</gram>
+      </gramGrp></entry>
+      <entry>
+      <form>vāḻi-<pc>~</pc>ō</form>
+      <def>live</def>
+      <form type="simple">vāḻi</form>
+      <gramGrp><gram type="role">imperative</gram>
+      </gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+      </entry>
+      <entry>
+      <form>paṉi<pc>+</pc></form>
+      <def>dew</def>
+      </entry>
+      <entry>
+      <form>kaṭum</form>
+      <def>quick</def>
+      </entry>
+      <entry>
+      <form>nāḷ-ē</form>
+      <def>day</def>
+      <form type="simple">nāḷ</form>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
+      </entry>
+      <entry>
+      <form><pc>~</pc>iṭai<pc>+</pc></form>
+      <def>middle</def>
+      </entry>
+      <entry>
+      <form>curatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+      <def>desert-</def>
+      </entry>
+      <entry>
+      <form>eḻili</form>
+      <def>cloud</def>
+      </entry>
+      <entry>
+      <form><pc>~</pc>uṟaitteṉa</form>
+      <def>dripped-say</def>
+      </entry>
+      <entry>
+      <form>mārpiṉ</form>
+      <def>chest</def>
+      <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+      </entry>
+      <entry>
+      <form>kuṟum</form>
+      <def>short</def>
+      </entry>
+      <entry>
+      <form>poṟi<pc>+</pc></form>
+      <def>spot</def>
+      </entry>
+      <entry>
+      <form>koṇṭa</form>
+      <def>taken-</def>
+      </entry>
+      <entry>
+      <form>cāntamoṭu</form>
+      <def>sandal</def>
+      <gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+      </entry>
+      <entry>
+      <form>naṟum</form>
+      <def>fragrant</def>
+      </entry>
+      <entry>
+      <form>taṇṇiyaṉ-kol</form>
+      <def>cool-he</def>
+      <form type="simple">taṇṇiyaṉ</form>
+      <gramGrp type="particle"><m>kol</m></gramGrp>
+      </entry>
+      <entry>
+      <form>nōk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
+      <def>I-ache</def>
+      <form type="simple">nōku</form>
+      <gramGrp><gram type="role">subjunctive</gram>
+      </gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+      </entry>
+      <entry>
+      <form>yāṉ-ē</form>
+      <def>I</def>
+      <form type="simple">yāṉ</form>
+      <gramGrp type="particle"><m>ē</m></gramGrp>
+      </entry>
+      </standOff>
+    </TEI>

@@ -1,0 +1,376 @@
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Naṟṟiṇai</title> 393. <persName xml:lang="ta">Kōvūrkiḻār</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+    </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="NA393-kiḷavi">
+            <p type="edition">itu (ET: tōḻi) varaivu malintatu.</p>
+            <p type="translation" xml:lang="en">This is what rejoices about marriage.</p>
+            </div>
+      <div xml:id="NA393">
+        <lg type="edition">
+<l>            neṭuṅkaḻai nivanta niḻalpaṭu cilampiṟ</l>
+<l>            kaṭuñcūl vayappiṭi kaṉṟīṉ ṟuyaṅkap</l>
+<l>            pālār pacumpuṉiṟu tīriya kaḷiciṟantu</l>
+<l>            vālā vēḻam vaṇarkural kavartaliṟ</l>
+<l>            kāṉava ṉeṟinta kaṭuñcelaṉ ñekiḻi</l>
+<l>            vēypayi laṭukkañ cuṭara miṉṉi</l>
+<l>            nilaikiḷar miṉṉiṟ ṟōṉṟu nāṭa</l>
+<l>            ṉiraviṉ varūu miṭumpai nāmuya</l>
+<l>            varaiya vanta vāymaik kēṟpa</l>
+<l>            namarkoṭai nērntaṉa rāyi ṉavaruṭa</l>
+<l>            ṉērvarkol vāḻi tōḻinaṅ kātalar</l>
+<l>            putuva rākiya varavuniṉ</l>
+<l>            vatuvainā ṇoṭukkamuṅ kāṇuṅ kālē.</l>
+            </lg>
+        <lg type="translation" xml:lang="en">
+<l rend="indent">            If our people were to consent to give [you],</l>
+<l rend="indent2">            as is suitable to the truth<note place="foot">Does <term xml:lang="ta">vāymai</term> here mean something like "fact"?</note> that he has come to marry,</l>
+<l rend="indent3">            so that we escape the distress when he comes at night,</l>
+<l>        the man from a land, where the steady(?)<note place="foot"><term xml:lang="ta">nilai</term> is a problem here. T.V.G. explains it as meaning "impermanent" here which is hard to believe, but in keeping with the comparison to lightning.</note> lustre appears like lightning,</l>
+<l rend="indent">            the mountain-side dense with bamboo flashing brightly</l>
+<l rend="indent">            from the swift-moving fire-brand thrown by the forest man,</l>
+<l rend="indent2">            when the impure elephant bull seizes the bent ears,</l>
+<l rend="indent2">            rut exceeding(?)<note place="foot">What to make of <term xml:lang="ta">kaḷi ciṟantu</term>?!</note>, so that the new-born calf full of milk dies</l>
+<l rend="indent2">            weakened from birth, of[his] highly pregnant strong female,<note place="foot">Something seems to be slightly out of key with the construction of lines 2 and 3. Does <term xml:lang="ta">puṉiṟu</term> refer to the calf that is dying in the flames, because it is not yet strong enough to flee? Why would its mother be pregnant when she has just given birth? Or is it that the birth is interrupted, for the same reasons? What we would expect is that the bull has taken the corn in order to end the hunger of its female, who is weak from giving birth.</note></l>
+<l rend="indent3">            on the slope giving shade since long bamboo has come up,</l>
+<l>        – will they consent to him, oh friend,</l>
+<l rend="indent">            at the time they see your complete want of shame at the marriage,</l>
+<l rend="indent2">            when our lover comes(?)<note place="foot">Here it seems necessary to read <term xml:lang="ta">varavu</term>, a simple noun, as another temporal clause. At the very least, one would expect the oblique form <term xml:lang="ta">varaviṉ</term>.</note> as a new man?</l>
+        </lg>
+      </div>
+    </body>
+    </text>
+    <standOff type="wordsplit" corresp="#NA393">
+        <interp type="alignment" select="0">55MG3MG145MR50MG35ML5MG59MG10MG2M,371MG</interp>
+        <entry>
+        <form>neṭum</form>
+        <def>long</def>
+        </entry>
+        <entry>
+        <form>kaḻai</form>
+        <def>bamboo</def>
+        </entry>
+        <entry>
+        <form>nivanta</form>
+        <def>come-up-</def>
+        </entry>
+        <entry>
+        <form>niḻal</form>
+        <def>shade</def>
+        </entry>
+        <entry>
+        <form>paṭu</form>
+        <def>happen-</def>
+        </entry>
+        <entry>
+        <form>cilampiṉ</form>
+        <def>mountain-side</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>kaṭum</form>
+        <def>quick</def>
+        </entry>
+        <entry>
+        <form>cūl</form>
+        <def>pregnancy</def>
+        </entry>
+        <entry>
+        <form>vaya<pc>+</pc></form>
+        <def>strength</def>
+        </entry>
+        <entry>
+        <form>piṭi</form>
+        <def>elephant-cow</def>
+        </entry>
+        <entry>
+        <form>kaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>calf</def>
+        </entry>
+        <entry>
+        <form>īṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>brought-forth</def>
+        </entry>
+        <entry>
+        <form>uyaṅka<pc>+</pc></form>
+        <def>become-weak</def>
+        <gramGrp><gram type="role">infinitive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>pāl</form>
+        <def>milk</def>
+        </entry>
+        <entry>
+        <form>ār</form>
+        <def>become-full-</def>
+        </entry>
+        <entry>
+        <form>pacum</form>
+        <def>green</def>
+        </entry>
+        <entry>
+        <form>puṉiṟu</form>
+        <def>newly-born</def>
+        </entry>
+        <entry>
+        <form>tīriya</form>
+        <def>end</def>
+        <gramGrp><gram type="role">infinitive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>kaḷi</form>
+        <def>toddy</def>
+        </entry>
+        <entry>
+        <form>ciṟantu</form>
+        <def>been-superior</def>
+        </entry>
+        <entry>
+        <form>vālā</form>
+        <def>pure-not</def>
+        </entry>
+        <entry>
+        <form>vēḻam</form>
+        <def>elephant-bull</def>
+        </entry>
+        <entry>
+        <form>vaṇar</form>
+        <def>curve-</def>
+        </entry>
+        <entry>
+        <form>kural</form>
+        <def>ear</def>
+        </entry>
+        <entry>
+        <form>kavartaliṉ</form>
+        <def>seizing</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>kāṉavaṉ</form>
+        <def>forest-inhabitant</def>
+        </entry>
+        <entry>
+        <form>eṟinta</form>
+        <def>thrown-</def>
+        </entry>
+        <entry>
+        <form>kaṭum</form>
+        <def>quick</def>
+        </entry>
+        <entry>
+        <form>celal</form>
+        <def>going</def>
+        </entry>
+        <entry>
+        <form>ñekiḻi</form>
+        <def>fire-brand</def>
+        </entry>
+        <entry>
+        <form>vēy</form>
+        <def>bamboo</def>
+        </entry>
+        <entry>
+        <form>payil</form>
+        <def>be-dense-</def>
+        </entry>
+        <entry>
+        <form>aṭukkam</form>
+        <def>mountain-side</def>
+        </entry>
+        <entry>
+        <form>cuṭara</form>
+        <def>glow</def>
+        <gramGrp><gram type="role">infinitive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>miṉṉi</form>
+        <def>flashed</def>
+        </entry>
+        <entry>
+        <form>nilai</form>
+        <def>state</def>
+        </entry>
+        <entry>
+        <form>kiḷar</form>
+        <def>lustre</def>
+        </entry>
+        <entry>
+        <form>miṉṉiṉ</form>
+        <def>lightning</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>tōṉṟum</form>
+        <def>appearing-</def>
+        </entry>
+        <entry>
+        <form>nāṭaṉ</form>
+        <def>land-he</def>
+        </entry>
+        <entry>
+        <form>iraviṉ</form>
+        <def>night</def>
+        </entry>
+        <entry>
+        <form>varūum</form>
+        <def>coming-</def>
+        </entry>
+        <entry>
+        <form>iṭumpai</form>
+        <def>distress</def>
+        </entry>
+        <entry>
+        <form>nām</form>
+        <def>we</def>
+        </entry>
+        <entry>
+        <form>uya</form>
+        <def>escape</def>
+        <gramGrp><gram type="role">infinitive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>varaiya</form>
+        <def>marry</def>
+        <gramGrp><gram type="role">infinitive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>vanta</form>
+        <def>come-</def>
+        </entry>
+        <entry>
+        <form>vāymaikk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>truthfulness</def>
+        <gramGrp><gram type="role">dative</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>ēṟpa</form>
+        <def>be-suitable</def>
+        <gramGrp><gram type="role">infinitive</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>namar</form>
+        <def>our-they</def>
+        <gramGrp><gram type="role">honorific</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>koṭai</form>
+        <def>giving-away</def>
+        </entry>
+        <entry>
+        <form>nērntaṉar</form>
+        <def>they-consented</def>
+        <gramGrp><gram type="role">honorific</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>āyiṉ</form>
+        <def>if</def>
+        </entry>
+        <entry>
+        <form>avar</form>
+        <def>he</def>
+        <gramGrp><gram type="role">honorific</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>uṭaṉ</form>
+        <def>together</def>
+        </entry>
+        <entry>
+        <form>nērvar-kol</form>
+        <def>consent-he</def>
+        <form type="simple">nērvar</form>
+        <gramGrp><gram type="role">honorific</gram>
+        </gramGrp><gramGrp type="particle"><m>kol</m></gramGrp>
+        </entry>
+        <entry>
+        <form>vāḻi</form>
+        <def>live</def>
+        <gramGrp><gram type="role">imperative</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>tōḻi</form>
+        <def>friend</def>
+        </entry>
+        <entry>
+        <form>nam</form>
+        <def>our-</def>
+        </entry>
+        <entry>
+        <form>kātalar</form>
+        <def>lover</def>
+        <gramGrp><gram type="role">honorific</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>putuvar</form>
+        <def>new-he</def>
+        <gramGrp><gram type="role">honorific</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>ākiya</form>
+        <def>become-</def>
+        </entry>
+        <entry>
+        <form>varavu</form>
+        <def>coming</def>
+        </entry>
+        <entry>
+        <form>niṉ</form>
+        <def>your-</def>
+        </entry>
+        <entry>
+        <form>vatuvai</form>
+        <def>marriage</def>
+        </entry>
+        <entry>
+        <form>nāṇ</form>
+        <def>shame</def>
+        </entry>
+        <entry>
+        <form>oṭukkam-um</form>
+        <def>restraint</def>
+        <form type="simple">oṭukkam</form>
+        <gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <entry>
+        <form>kāṇum</form>
+        <def>see</def>
+        <form type="simple">kāṇ</form>
+        <gramGrp><gram type="role">infinitive</gram>
+        </gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <entry>
+        <form>kāl-ē</form>
+        <def>time</def>
+        <form type="simple">kāl</form>
+        <gramGrp type="particle"><m>ē</m></gramGrp>
+        </entry>
+        </standOff>
+    </TEI>
