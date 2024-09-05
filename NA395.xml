@@ -1,0 +1,301 @@
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Naṟṟiṇai</title> 395. <persName xml:lang="ta">Ammūvaṉār</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p></p>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change />
+    </revisionDesc>
+    </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+        <div xml:id="NA395-kiḷavi">
+            <p type="edition">itu nalan tolaintatu (ER, EV: eṉat talaivaṉait tōḻi kūṟi varaivu kaṭāyatu).</p>
+            <p type="translation" xml:lang="en">This is how the innocence was lost.</p>
+            </div>
+      <div xml:id="NA395">
+        <lg type="edition">
+<l>            yārai yeluva yāmē nīyemak</l>
+<l>            kiyāraiyu mallai notuma lāḷaṉai</l>
+<l>            yaṉaittāṟ koṇkavem miṭaiyē niṉaippiṟ</l>
+<l>            kaṭumpakaṭ ṭiyāṉai neṭuntērk kuṭṭuvaṉ</l>
+<l>            vēntaṭu kaḷattiṉ muracatirn taṉṉa</l>
+<l>            vōṅkaṟ puṇari pāyntāṭu makaḷi</l>
+<l>            raṇintiṭu palpū marīi yārnta</l>
+<l>            vāpulam pukutaru pēricai mālaik</l>
+<l>            kaṭalkeḻu māntai yaṉṉavem</l>
+<l>            vēṭṭaṉai yallaiyā ṉalantantu ceṉmē.</l>
+            </lg>
+        <lg type="translation" xml:lang="en">
+<l>            Who [are] you, friend(?)?</l>
+<l rend="indent4">            We, for us you</l>
+<l>        are nobody at all, you [are] a stranger.</l>
+<l>        Thus it [is] indeed, man from the sea, between us.</l>
+<l rend="indent4">            If you think so,</l>
+<l rend="indent">            like sea-bound Māntai at famous/noisy(?) evening,</l>
+<l rend="indent2">            when the cows enter from the field(?)<note place="foot"><term xml:lang="ta">pulam</term>: here we have a semantic problem. The context (and the topos too) require the cows to come back home in the evening. Do we have to assume that <term xml:lang="ta">pulam</term>, perhaps in connection with puku, can be used as a synonym of <term xml:lang="ta">maṉṟam</term>? Or do we simply take it as ablative?</note>,</l>
+<l rend="indent3">            that had fed joining the many flowers, used for decoration</l>
+<l rend="indent3">            [and] cast away by women frolicking [and] playing in the rising ocean,</l>
+<l rend="indent4">            resounding like a drum on the field where kings are killed</l>
+<l rend="indent4">            by Kuṭṭuvaṉ with long chariot [and] fierce bull elephants,</l>
+<l>        you didn’t want us indeed.</l>
+<l rend="indent4">             Give [back our] innocence [and] go!<note place="foot">For the <term xml:lang="ta">nalam</term> given back to HER cf. KT 236, 238.</note></l>
+        </lg>
+      </div>
+    </body>
+    </text>
+    <standOff type="wordsplit" corresp="#NA395">
+        <interp type="alignment" select="0">14MG9MGMG5MG28M2G15MG22MGMG26MG16MG27MG15MG30MG7MG47MG3ML13MG2M,298MG</interp>
+        <entry>
+        <form>yārai</form>
+        <def>who-you</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>eluva</form>
+        <def>friend</def>
+        <gramGrp><gram type="role">vocative</gram>
+        <gram type="role">masculine</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>yām-ē</form>
+        <def>we</def>
+        <form type="simple">yām</form>
+        <gramGrp type="particle"><m>ē</m></gramGrp>
+        </entry>
+        <entry>
+        <form>nī</form>
+        <def>you</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>emakk<pc>(</pc>i<pc>)</pc></form>
+        <def>us</def>
+        <gramGrp><gram type="role">dative</gram>
+        </gramGrp></entry>
+        <entry>
+        <form>yārai-<pc>~</pc>um</form>
+        <def>who-you</def>
+        <form type="simple">yārai</form>
+        <gramGrp type="particle"><m>um</m></gramGrp>
+        </entry>
+        <entry>
+        <form>allai</form>
+        <def>not-so-you</def>
+        </entry>
+        <entry>
+        <form>notumal</form>
+        <def>strange</def>
+        </entry>
+        <entry>
+        <form>āḷaṉai</form>
+        <def>man-you</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>aṉaitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-āl</form>
+        <def>such-it</def>
+        <form type="simple">aṉaittu</form>
+        <gramGrp type="particle"><m>āl</m></gramGrp>
+        </entry>
+        <entry>
+        <form>koṇka</form>
+        <def>sea-man</def>
+        <gramGrp><gram type="role">vocative</gram>
+        </gramGrp></entry>
+        <entry>
+        <form><pc>~</pc>em<pc>+</pc></form>
+        <def>us-</def>
+        </entry>
+        <entry>
+        <form>iṭai-<pc>~</pc>ē</form>
+        <def>middle</def>
+        <form type="simple">iṭai</form>
+        <gramGrp type="particle"><m>ē</m></gramGrp>
+        </entry>
+        <entry>
+        <form>niṉaippiṉ</form>
+        <def>think-if</def>
+        </entry>
+        <entry>
+        <form>kaṭum</form>
+        <def>quick</def>
+        </entry>
+        <entry>
+        <form>pakaṭṭ<pc>(</pc>i<pc>)</pc></form>
+        <def>bull-</def>
+        </entry>
+        <entry>
+        <form>yāṉai</form>
+        <def>elephant</def>
+        </entry>
+        <entry>
+        <form>neṭum</form>
+        <def>long</def>
+        </entry>
+        <entry>
+        <form>tēr<pc>+</pc></form>
+        <def>chariot</def>
+        </entry>
+        <entry>
+        <form>kuṭṭuvaṉ</form>
+        <def>Kuṭṭuvaṉ</def>
+        </entry>
+        <entry>
+        <form>vēnt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>king</def>
+        </entry>
+        <entry>
+        <form>aṭu</form>
+        <def>kill-</def>
+        </entry>
+        <entry>
+        <form>kaḷattiṉ</form>
+        <def>field</def>
+        <gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+        </entry>
+        <entry>
+        <form>murac<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>drum</def>
+        </entry>
+        <entry>
+        <form>atirntaṉṉa</form>
+        <def>shaken-like-</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>ōṅkal</form>
+        <def>becoming-high</def>
+        </entry>
+        <entry>
+        <form>puṇari</form>
+        <def>ocean</def>
+        </entry>
+        <entry>
+        <form>pāynt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>jumped</def>
+        </entry>
+        <entry>
+        <form>āṭu</form>
+        <def>play-</def>
+        </entry>
+        <entry>
+        <form>makaḷir</form>
+        <def>women</def>
+        </entry>
+        <entry>
+        <form>aṇint<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>adorned</def>
+        </entry>
+        <entry>
+        <form>iṭu</form>
+        <def>place-</def>
+        </entry>
+        <entry>
+        <form>pal</form>
+        <def>many</def>
+        </entry>
+        <entry>
+        <form>pū</form>
+        <def>flower</def>
+        </entry>
+        <entry>
+        <form>marīi</form>
+        <def>joined-together</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>ārnta</form>
+        <def>become-full-</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>ā</form>
+        <def>cow</def>
+        </entry>
+        <entry>
+        <form>pulam</form>
+        <def>field</def>
+        </entry>
+        <entry>
+        <form>puku-</form>
+        <def>enter-</def>
+        </entry>
+        <entry>
+        <form>taru</form>
+        <def>give-</def>
+        </entry>
+        <entry>
+        <form>pēr<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+        <def>big</def>
+        </entry>
+        <entry>
+        <form>icai</form>
+        <def>sound</def>
+        </entry>
+        <entry>
+        <form>mālai<pc>+</pc></form>
+        <def>evening</def>
+        </entry>
+        <entry>
+        <form>kaṭal</form>
+        <def>sea</def>
+        </entry>
+        <entry>
+        <form>keḻu</form>
+        <def>have-</def>
+        </entry>
+        <entry>
+        <form>māntai</form>
+        <def>Māntai</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>aṉṉa</form>
+        <def>likes</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>em</form>
+        <def>us-</def>
+        </entry>
+        <entry>
+        <form>vēṭṭaṉai</form>
+        <def>you-wanted</def>
+        </entry>
+        <entry>
+        <form><pc>~</pc>allai-<pc>~</pc>āl</form>
+        <def>not-so-you</def>
+        <form type="simple">allai</form>
+        <gramGrp type="particle"><m>āl</m></gramGrp>
+        </entry>
+        <entry>
+        <form>nalam</form>
+        <def>goodness</def>
+        </entry>
+        <entry>
+        <form>tantu</form>
+        <def>given</def>
+        </entry>
+        <entry>
+        <form>ceṉm-ē</form>
+        <def>go</def>
+        <form type="simple">ceṉm</form>
+        <gramGrp><gram type="role">imperative</gram>
+        </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+        </entry>
+        </standOff>
+    </TEI>
