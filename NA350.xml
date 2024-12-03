@@ -1,4 +1,7 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -65,7 +68,7 @@
     </body>
     </text>
     <standOff type="wordsplit" corresp="#NA350">
-<interp type="alignment" select="0">184ML51MG37MG2MG2M,279MG</interp>
+<interp type="alignment" select="0">128MG56ML51MG37MG2MG2M,280MG</interp>
 <entry>
 <form>veḷ</form>
 <def>white</def>
@@ -247,13 +250,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form>tolaiyiṉum</form>
+<form>tolaiyiṉ-um</form>
 <def>be-lost-if-even</def>
-<form type="sandhi">ṟolaiyiṉun</form>
+<form type="simple">tolaiyiṉ</form>
+<form type="sandhi">ṟolaiyiṉ</form>
 <gramGrp>
   <gram type="role">concessive</gram>
   <gram type="role">conditional</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>tolaika</form>

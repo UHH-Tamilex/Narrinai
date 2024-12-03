@@ -1,4 +1,7 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -71,7 +74,7 @@
     </body>
     </text>
     <standOff type="wordsplit" corresp="#NA380">
-<interp type="alignment" select="0">3MG6MG24M2G9MG5MG57MG33MG44MGMG47ML81MG44MG6ML17MG19MG6MG3M,303MG117MG</interp>
+<interp type="alignment" select="0">3MG6MG24M2G9MG5MG57MG33MG44MGMG19MG28ML81MG44MG6ML17MG19MG6MG3M,422MG</interp>
 <entry>
 <form>ney-<c type="geminated">y</c>um</form>
 <def>ghee</def>
@@ -355,12 +358,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>āyiṉum</form>
+<form><c type="glide">y</c>āyiṉ-um</form>
 <def>if-even</def>
-<form type="sandhi"><c type="glide">y</c>āyiṉun</form>
+<form type="simple">āyiṉ</form>
+<form type="sandhi"><c type="glide">y</c>āyiṉ</form>
 <gramGrp>
   <gram type="role">concessive</gram>
+  <gram type="role">conditional</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>toḻāal</form>
@@ -498,7 +504,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>ūraṉai</form>
+<form><c type="glide">y</c>ūraṉai<c type="geminated">p</c></form>
 <def>village-he</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>

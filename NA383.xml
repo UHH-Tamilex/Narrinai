@@ -1,4 +1,7 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -60,7 +63,7 @@
     </body>
     </text>
     <standOff type="wordsplit" corresp="#NA383">
-<interp type="alignment" select="0">69MG56MG3MG27MG27M2G39MG5MG13MG24MG2M,274MG</interp>
+<interp type="alignment" select="0">69MG56MG3MG27MG16MG11M2G39MG5MG13MG24MG2M,275MG</interp>
 <entry>
 <form>kal</form>
 <def>stone</def>
@@ -291,11 +294,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>pōliṉum</form>
+<form>pōliṉ-um</form>
 <def>be-similar-if-even</def>
+<form type="simple">pōliṉ</form>
 <gramGrp>
   <gram type="role">concessive</gram>
+  <gram type="role">conditional</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>arulāy</form>
