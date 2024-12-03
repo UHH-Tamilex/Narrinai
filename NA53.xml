@@ -1,4 +1,7 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -64,255 +67,296 @@
          </div>
           </body>
             </text>
-            <standOff type="wordsplit" corresp="#NA53">
-<interp type="alignment" select="0">6MG14MG9MG9MG14MG10MG3ML69MG19M2G66MR9M2G9MG15ML11MG3MG13MG15MG5MG2M,320MG</interp>
+            <standOff type="wordsplit" corresp="#NA53"><interp type="alignment" select="0">6MG14MG9MG9MG14MG10MG3ML69MG19M2G66MR9M2G9MG15ML11MG3MG13MG15M3G5MG2M,322MG</interp>
 <entry>
 <form>yāṉ</form>
 <def>I</def>
-</entry>
+<gramGrp><gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
 <entry>
-<form>aḵt<c type="elided">u</c></form>
+<form>aḵt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>that</def>
-<form type="sandhi">aḵt</form>
 </entry>
 <entry>
 <form>añciṉeṉ</form>
 <def>I feared</def>
-</entry>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
 <entry>
-<form>karappa-<c type="glide">v</c>um</form>
+<form>karappa-<pc>~</pc>um</form>
 <def>hide</def>
 <form type="simple">karappa</form>
-<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>tāṉ</form>
-<def>self</def>
-<gramGrp>
-  <gram type="role">pronoun</gram>
-  <gram type="role">singular</gram>
-  <gram type="role">third person</gram>
-</gramGrp>
-</entry>
+<def>self(pron.sg.3.)</def>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
 <entry>
-<form>aḵt<c type="elided">u</c></form>
+<form>aḵt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>that</def>
-<form type="sandhi">aḵt</form>
 </entry>
 <entry>
 <form>aṟintaṉaḷ-kollō</form>
 <def>she knew</def>
 <form type="simple">aṟintaṉaḷ</form>
-<gramGrp type="particle"><m type="enclitic">kollō</m></gramGrp>
+<gramGrp><gram type="role">feminine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp><gramGrp type="particle"><m>kollō</m></gramGrp>
 </entry>
 <entry>
-<form><c type="glide">v</c>aruḷiṉaḷ-kollō</form>
+<form><pc>~</pc>aruḷiṉaḷ-kollō</form>
 <def>consideration-she</def>
 <form type="simple">aruḷiṉaḷ</form>
-<form type="sandhi"><c type="glide">v</c>aruḷiṉaḷ</form>
-<gramGrp type="particle"><m type="enclitic">kollō</m></gramGrp>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">feminine singular</gram>
+</gramGrp><gramGrp type="particle"><m>kollō</m></gramGrp>
 </entry>
 <entry>
-<form><c type="glide">v</c>evaṉ-kol</form>
+<form><pc>~</pc>evaṉ-kol</form>
 <def>what</def>
 <form type="simple">evaṉ</form>
-<form type="sandhi"><c type="glide">v</c>evaṉ</form>
-<gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
+<gramGrp type="particle"><m>kol</m></gramGrp>
 </entry>
 <entry>
 <form>tōḻi</form>
 <def>friend</def>
-<form type="sandhi">ṟōḻi</form>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
-<form><c type="glide">y</c>aṉṉai</form>
+<form><pc>~</pc>aṉṉai</form>
 <def>mother</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṇṇiyatu</form>
 <def>seen-it</def>
-</entry>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">neuter singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
 <entry>
 <form>vāṉ</form>
 <def>sky</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>uṟa</form>
 <def>have</def>
-</entry>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
 <entry>
 <form>nivanta</form>
 <def>come-up</def>
-</entry>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>peru</form>
 <def>big</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
-<form>malai<c type="geminated">k</c></form>
+<form>malai<pc>+</pc></form>
 <def>mountain</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kavāaṉ</form>
 <def>slope</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
-<form><c type="geminated">ṉ</c>ār</form>
+<form><pc>+</pc>ār</form>
 <def>become-full</def>
-</entry>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>kali</form>
 <def>bustle</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>vāṉam</form>
 <def>sky</def>
-<form type="sandhi">vāṉan</form>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>talaii</form>
 <def>showered</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form>naṭu-nāḷ</form>
 <def>middle-day</def>
-<form type="sandhi">naṭunāṭ</form>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṉai</form>
 <def>be-intense</def>
-</entry>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>peyal</form>
 <def>raining</def>
-</entry>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp></entry>
 <entry>
-<form>poḻint<c type="elided">u</c>-eṉa<c type="geminated">k</c></form>
+<form>poḻint<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-eṉa<pc>+</pc></form>
 <def>flown-say</def>
-<form type="sandhi">poḻinteṉa<c type="geminated">k</c></form>
-</entry>
+<gramGrp><gram type="role">causative</gram>
+<gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form>kāṉam</form>
 <def>forest</def>
-<form type="sandhi">kāṉak</form>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kal</form>
 <def>stone</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>yāṟṟu</form>
 <def>river</def>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>muḷi</form>
 <def>dry</def>
-</entry>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
-<form><c type="glide">y</c>ilai</form>
+<form><pc>~</pc>ilai</form>
 <def>leaf</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kaḻittaṉa</form>
 <def>they removed</def>
-</entry>
+<gramGrp><gram type="role">neuter plural</gram>
+</gramGrp></entry>
 <entry>
 <form>mukiḻ</form>
 <def>bud</def>
-</entry>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
 <entry>
 <form>iṇar</form>
 <def>cluster</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>malaroṭu</form>
 <def>blossom</def>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>varu</form>
 <def>come</def>
-</entry>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>viruntiṉ</form>
 <def>feast</def>
-<form type="sandhi">viruntiṟ</form>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>tīm</form>
 <def>sweet</def>
-<form type="sandhi">ṟīn</form>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>nīr</form>
 <def>water</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
-<form>marunt<c type="elided">u</c>-um</form>
+<form>marunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
 <def>remedy</def>
 <form type="simple">maruntu</form>
-<form type="sandhi">marunt</form>
-<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>ākum</form>
 <def>becoming-</def>
-<form type="sandhi">ākun</form>
-</entry>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
-<form>taṇ-<c type="geminated">ṇ</c>eṉa</form>
+<form>taṇ-<pc>+</pc>eṉa</form>
 <def>cool-say</def>
-<form type="sandhi">taṇ<c type="geminated">ṇ</c>eṉa</form>
-</entry>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">adverb</gram>
+<gram type="role">ideophone</gram>
+</gramGrp></entry>
 <entry>
-<form><c type="glide">v</c>uṇṭu</form>
+<form><pc>~</pc>uṇṭu</form>
 <def>it is</def>
-</entry>
+<gramGrp><gram type="role">neuter singular</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṇṇiṉ</form>
 <def>eye</def>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>nōkki</form>
 <def>looked-at</def>
-<form type="sandhi">ṉōkki</form>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
-<form>muṉiyāt<c type="elided">u</c></form>
+<form>muṉiyāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>hate-not</def>
-<form type="sandhi">muṉiyāt</form>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+<gram type="role">negative</gram>
+</gramGrp></entry>
 <entry>
-<form>āṭa<c type="geminated"/></form>
+<form>āṭa<pc>+</pc></form>
 <def>play</def>
-</entry>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
 <entry>
 <form>peṟiṉ</form>
 <def>obtain-if</def>
-</entry>
+<gramGrp><gram type="role">conditional</gram>
+</gramGrp></entry>
 <entry>
 <form>ivaḷ</form>
 <def>this-one</def>
-</entry>
+<gramGrp><gram type="role">feminine singular</gram>
+</gramGrp></entry>
 <entry>
-<form>paṉi-<c type="glide">y</c>um</form>
+<form>paṉi-<pc>~</pc>um</form>
 <def>fever</def>
 <form type="simple">paṉi</form>
-<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>tīrkuvaḷ</form>
 <def>end-she</def>
-</entry>
+<gramGrp><gram type="role">feminine singular</gram>
+<gram type="role">imperfect aspect</gram>
+</gramGrp></entry>
 <entry>
-<form>celk<c type="uncertain">a</c></form>
+<form>celk<pc>(</pc>a<pc>)</pc></form>
 <def>may go</def>
-<form type="sandhi">celk</form>
-</entry>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry>
 <entry>
 <form>eṉṟōḷ-ē</form>
 <def>said-she</def>
 <form type="simple">eṉṟōḷ</form>
-<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
-</entry>
-</standOff>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">feminine singular</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
                 </TEI>
