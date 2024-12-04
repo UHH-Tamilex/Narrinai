@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -345,10 +347,18 @@
 <gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
 </entry>
 <entry>
-<form>yātu-koṉmaṟṟ<c type="elided">u</c></form>
+<form>yātu-kol</form>
 <def>what</def>
 <form type="simple">yātu</form>
-<gramGrp type="particle"><m type="enclitic">koṉmaṟṟu</m></gramGrp>
+<gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
+</entry>
+<entry>
+<form>maṟṟ<c type="elided">u</c></form>
+<def>besides</def>
+<form type="sandhi">maṟṟ</form>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>eṉa</form>

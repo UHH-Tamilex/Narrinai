@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -66,7 +68,7 @@
     </body>
   </text>
   <standOff type="wordsplit" corresp="#NA208">
-<interp type="alignment" select="0">14MG23ML29MG22MG5MG4ML57MGMR14MG5MG7MG2MR17MG21MG21MG25MG4MG68MG2M,358MG</interp>
+<interp type="alignment" select="0">14MG23ML29MG22MG5MG4ML57MGMR14MG5MG9MR17MG21MG21MG25MG4MG68MG2M,357MG</interp>
 <entry>
 <form>viṟal</form>
 <def>victory</def>
@@ -358,16 +360,21 @@
 </gramGrp>
 </entry>
 <entry>
-<form>koṉ-num</form>
+<form>koṉ</form>
+<def>koṉ</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>num</form>
 <def>you</def>
-<form type="simple">num</form>
 <form type="sandhi">ṉun</form>
 <gramGrp>
   <gram type="role">oblique</gram>
   <gram type="role">plural</gram>
   <gram type="role">second person</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="proclitic">koṉ</m></gramGrp>
 </entry>
 <entry>
 <form>nampum</form>
