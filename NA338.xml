@@ -1,4 +1,7 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -66,7 +69,7 @@
     </body>
     </text>
     <standOff type="wordsplit" corresp="#NA338">
-<interp type="alignment" select="0">31M2G27MG23M2G19MR6MR47MG40MG33MG9MG106M2G2M,355MG</interp>
+<interp type="alignment" select="0">31M2G27MG23M2G19MR6MR47MG5M2G35MG33MG9MG106M2G2M,357MG</interp>
 <entry>
 <form>kaṭum</form>
 <def>quick</def>
@@ -274,18 +277,29 @@
 <def>how</def>
 </entry>
 <entry>
-<form>viṭum-ōmaṟṟē</form>
+<form>viṭum-ō</form>
 <def>lets go</def>
 <form type="simple">viṭum</form>
 <gramGrp>
   <gram type="role">habitual future</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">ōmaṟṟē</m></gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+<entry>
+<form>maṟṟ<c type="elided">u</c>-ē</form>
+<def>besides</def>
+<form type="simple">maṟṟu</form>
+<form type="sandhi">maṟṟ</form>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
 <form>māl</form>
-<def>darkness(n)</def>
+<def>darkness</def>
 <gramGrp>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>

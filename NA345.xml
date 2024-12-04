@@ -1,4 +1,7 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -62,7 +65,7 @@
     </body>
     </text>
     <standOff type="wordsplit" corresp="#NA345">
-<interp type="alignment" select="0">17MG13ML34ML93MG18MG50MG4MG4MG13M2G2M,257MG</interp>
+<interp type="alignment" select="0">17MG13ML34ML93MG18MG54MG4MG13M2G2M,256MG</interp>
 <entry>
 <form>kāṉal</form>
 <def>seashore grove</def>
@@ -389,14 +392,20 @@
 </gramGrp>
 </entry>
 <entry>
-<form>vāḻtal-maṟṟ<c type="elided">u</c></form>
+<form>vāḻtal</form>
 <def>living</def>
-<form type="simple">vāḻtal</form>
 <form type="sandhi">vāḻtaṉ</form>
 <gramGrp>
   <gram type="role">verbal noun</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">maṟṟu</m></gramGrp>
+</entry>
+<entry>
+<form>maṟṟ<c type="elided">u</c></form>
+<def>besides</def>
+<form type="sandhi">maṟṟ</form>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>evaṉ-ō</form>

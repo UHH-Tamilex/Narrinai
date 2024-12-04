@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -41,7 +43,7 @@
 <l>            ṟaruvi yārkkum peruvarai nāṭaṉai</l>
 <l>            yaṟiyalu maṟiyēṉ kāṇṭalu milaṉē</l>
 <l>            vetirpuṉai taṭṭaiyēṉ malarppūk koytu</l>
-<l>            cuṉaippāyn tāṭiṟṟu milaṉeṉa niṉaivilai, {kaṉaviṉ}</l>
+<l>            cuṉaippāyn tāṭiṟṟu milaṉeṉa niṉaivilai, <unclear>kaṉaviṉ</unclear></l>
 <l>            poyya lantō vāyttaṉai yatukēṭṭut </l>
 <l>            talaiyiṟaiñ ciṉaḷē yaṉṉai</l>
 <l>            celavoḻin taṉaiyā laḷiyainī puṉattē.</l>
@@ -66,7 +68,7 @@
           </body>
         </text>
         <standOff type="wordsplit" corresp="#NA147">
-<interp type="alignment" select="0">4MG6MG19ML54MG4MG51MG35MG14MG6MG45MG5M2G15MG59MG12MG9MG17M2G2M,275MG98MG</interp>
+<interp type="alignment" select="0">4MG6MG19ML58MG51MG35MG14MG6MG45MG5M2G15MG57MG12MG9MG17M2G2M,274MG96MG</interp>
 <entry>
 <form>yāṅk<c type="elided">u</c></form>
 <def>how</def>
@@ -202,14 +204,21 @@
 </gramGrp>
 </entry>
 <entry>
-<form>nī-maṟṟ<c type="elided">u</c></form>
-<def>you(pron.sg.2.)</def>
-<form type="simple">nī</form>
+<form>nī</form>
+<def>you</def>
 <gramGrp>
-  <gram type="role">neuter singular</gram>
+  <gram type="role">pronoun</gram>
+  <gram type="role">singular</gram>
   <gram type="role">second person</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">maṟṟu</m></gramGrp>
+</entry>
+<entry>
+<form>maṟṟ<c type="elided">u</c></form>
+<def>besides</def>
+<form type="sandhi">maṟṟ</form>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>e<c type="geminated">v</c></form>
@@ -464,7 +473,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>{kaṉaviṉ}</form>
+<form>kaṉaviṉ</form>
 <def>{dream(obl.)}</def>
 <gramGrp>
   <gram type="role">oblique</gram>

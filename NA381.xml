@@ -1,4 +1,7 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -61,7 +64,7 @@
     </body>
     </text>
     <standOff type="wordsplit" corresp="#NA381">
-<interp type="alignment" select="0">27MG14MG8ML4MG17MG3MG12MG21MG30MG23MG47MR8MG21MG27M2G7MG3M,287MG</interp>
+<interp type="alignment" select="0">27MG14MG8ML4MG17MG3MG12MG21MG30MG27M2G43MR8MG21MG27M2G7MG3M,288MG</interp>
 <entry>
 <form>arum</form>
 <def>difficult</def>
@@ -289,15 +292,23 @@
 <form type="sandhi">yāṅkaṉan</form>
 </entry>
 <entry>
-<form>tāṅkuveṉ-maṟṟē</form>
+<form>tāṅkuveṉ</form>
 <def>I endure</def>
-<form type="simple">tāṅkuveṉ</form>
 <gramGrp>
   <gram type="role">imperfect aspect</gram>
   <gram type="role">singular</gram>
   <gram type="role">first person</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">maṟṟē</m></gramGrp>
+</entry>
+<entry>
+<form>maṟṟ<c type="elided">u</c>-ē</form>
+<def>besides</def>
+<form type="simple">maṟṟu</form>
+<form type="sandhi">maṟṟ</form>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
 <form><c type="glide">y</c>ōṅku</form>

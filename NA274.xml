@@ -1,4 +1,7 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -58,7 +61,7 @@
     </body>
     </text>
     <standOff type="wordsplit" corresp="#NA274">
-<interp type="alignment" select="0">61MG97MG22M2G9MG14MG49MG2M,260MG</interp>
+<interp type="alignment" select="0">61MG97MG22M2G9MG5M2G9MG49MG2M,262MG</interp>
 <entry>
 <form>neṭu</form>
 <def>long</def>
@@ -340,14 +343,24 @@
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>uṭaiyar-ōmaṟṟē</form>
+<form>uṭaiyar-ō</form>
 <def>possess-he</def>
 <form type="simple">uṭaiyar</form>
 <gramGrp>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">ōmaṟṟē</m></gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+<entry>
+<form>maṟṟ<c type="elided">u</c>-ē</form>
+<def>besides</def>
+<form type="simple">maṟṟu</form>
+<form type="sandhi">maṟṟ</form>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
 <form>vēṟupaṭṭ<c type="elided">u</c></form>

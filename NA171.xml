@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -63,7 +65,7 @@
           </body>
         </text>
         <standOff type="wordsplit" corresp="#NA171">
-<interp type="alignment" select="0">10MG46ML19MGMG32MG23MR30ML20MG66M2G6MR8MG9MG22MG3M,308MG</interp>
+<interp type="alignment" select="0">10MG46ML52MG23MR30ML24M2G62M2G6MR8MG9MG22MG3M,307MG</interp>
 <entry>
 <form>nīr</form>
 <def>water</def>
@@ -161,7 +163,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kaya(n)</form>
+<form>kayam</form>
 <def>softness</def>
 <form type="sandhi">kayan</form>
 </entry>
@@ -305,16 +307,24 @@
 <def>how</def>
 </entry>
 <entry>
-<form>vallunar-maṟṟē</form>
+<form>vallunar</form>
 <def>be-strong-they</def>
-<form type="simple">vallunar</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">imperfect aspect</gram>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">maṟṟē</m></gramGrp>
+</entry>
+<entry>
+<form>maṟṟ<c type="elided">u</c>-ē</form>
+<def>besides</def>
+<form type="simple">maṟṟu</form>
+<form type="sandhi">maṟṟ</form>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
 <form>ñāṅkar</form>
