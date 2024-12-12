@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -63,7 +65,7 @@
           </body>
             </text>
             <standOff type="wordsplit" corresp="#NA50">
-<interp type="alignment" select="0">59MG25MR19MG51MG8MG7MG60MG8MG71M2G2M,319MG</interp>
+<interp type="alignment" select="0">59MG25MR70MG8MG7MG60MG8MG71M2G2M,318MG</interp>
 <entry>
 <form>aṟiyāmaiyiṉ</form>
 <def>ignorance</def>
@@ -200,9 +202,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kai-puku</form>
+<form>kaipuku</form>
 <def>come-within-reach</def>
-<form type="sandhi">kaipuku</form>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -238,9 +239,10 @@
 </entry>
 <entry>
 <form>katumeṉa<c type="geminated">t</c></form>
-<def>'katum'-say(id.inf.avd.)</def>
+<def>'katum'-say</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
+  <gram type="role">adverb</gram>
   <gram type="role">ideophone</gram>
 </gramGrp>
 </entry>
