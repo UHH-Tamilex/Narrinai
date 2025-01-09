@@ -30,6 +30,7 @@ jobs:
           yarn pageindex NA Naṟṟiṇai
           yarn todb NA
           yarn dbtohtml Naṟṟiṇai
+          cd ../..
           git pull
 
       - uses: stefanzweifel/git-auto-commit-action@v4
