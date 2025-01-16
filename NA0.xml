@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -143,14 +145,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>mey<c type="geminated">y</c></form>
+<form>mey</form>
 <def>body</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>āka<c type="geminated">t</c></form>
+<form><c type="geminated">y</c>āka<c type="geminated">t</c></form>
 <def>become</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
