@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -65,7 +67,7 @@
           </body>
         </text>
         <standOff type="wordsplit" corresp="#NA120">
-<interp type="alignment" select="0">5ML5MG10MR130MG13ML66ML8MG7MG19M2G8MG9M2G57MG2M,274MG77MG</interp>
+<interp type="alignment" select="0">5ML5MG10MR130MG13ML66ML8MG7MG19M2G8MG9M2G56MG3M,274MG77MG</interp>
 <entry>
 <form>taṭam</form>
 <def>broad</def>
@@ -259,9 +261,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>īrm</form>
+<form><c type="glide">y</c>īr<c type="inserted">m</c></form>
 <def>wetness</def>
-<form type="sandhi"><c type="glide">y</c>īrn</form>
+<form type="sandhi"><c type="glide">y</c>īr<c type="inserted">n</c></form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -577,12 +579,10 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kāṇkam<c type="geminated">m</c>-ē</form>
+<form>kāṇkam-<c type="geminated">m</c>ē</form>
 <def>see-we</def>
 <form type="simple">kāṇkam</form>
-<form type="sandhi">kāṇkam<c type="geminated">m</c></form>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
   <gram type="role">plural</gram>
   <gram type="role">first person</gram>
 </gramGrp>
