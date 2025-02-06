@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,7 +29,7 @@
   <text xml:lang="ta" type="edition">
     <body>
       <div xml:id="NA55-kiḷavi">
-        <p type="edition">itu varaiviṭai melivu āṟṟuvikkun tōḻi talaivaṟkuc colliyatu. C1, G1+2: itu varaviṭai melivu āṟṟuvikkun tōḻikkut talaivi colliyatu.</p>
+        <p type="edition">itu varaiviṭai melivu āṟṟuvikkun tōḻi talaivaṟkuc colliyatu.</p>
         <p type="translation" xml:lang="en">This is what the confidante, who was encouraging [HER in her] weakness [until] the time of marriage, said to HIM. C1, G1+2: This is what SHE said to the confidante who was encouraging [HER in her] weakness [until] the time of marriage.</p>
       </div>
       <div xml:id="NA55">
@@ -527,135 +525,4 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-            <standOff corresp="#NA55-kiḷavi" type="wordsplit">
-<interp type="alignment" select="0">9MG61MG45M,54MGM2GMGMG54MG</interp>
-<entry>
-<form>itu</form>
-<def>this</def>
-<gramGrp>
-</gramGrp>
-</entry>
-<entry>
-<form>varaiv<c type="elided">u</c></form>
-<def>marriage</def>
-<form type="sandhi">varaiv</form>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>iṭai</form>
-<def>middle</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>melivu</form>
-<def>softening</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>āṟṟuvikkum</form>
-<def>reassuring</def>
-<form type="sandhi">āṟṟuvikkun</form>
-<gramGrp>
-  <gram type="role">peyareccam</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>tōḻi</form>
-<def>confidante</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>talaivaṟku<c type="geminated">c</c></form>
-<def>hero</def>
-<gramGrp>
-  <gram type="role">dative</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>colliyatu</form>
-<def>spoken-it</def>
-<gramGrp>
-  <gram type="role">participial noun</gram>
-  <gram type="role">neuter singular</gram>
-  <gram type="role">perfective aspect</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>C</form>
-</entry>
-<entry>
-<form>G<c type="geminated">1</c>:</form>
-<def>G2:</def>
-<form type="sandhi">G<c type="geminated">1</c>+2:</form>
-<gramGrp>
-</gramGrp>
-</entry>
-<entry>
-<form>itu</form>
-<def>this</def>
-<gramGrp>
-</gramGrp>
-</entry>
-<entry>
-<form>varav<c type="elided">u</c></form>
-<def>coming</def>
-<form type="sandhi">varav</form>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>iṭai</form>
-<def>middle</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>melivu</form>
-<def>softening</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>āṟṟuvikkum</form>
-<def>reassuring</def>
-<form type="sandhi">āṟṟuvikkun</form>
-<gramGrp>
-  <gram type="role">peyareccam</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>tōḻikku<c type="geminated">t</c></form>
-<def>confidante</def>
-<gramGrp>
-  <gram type="role">dative</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>talaivi</form>
-<def>heroine</def>
-<gramGrp>
-  <gram type="role">singular</gram>
-  <gram type="role">feminine</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>colliyatu</form>
-<def>spoken-it</def>
-<gramGrp>
-  <gram type="role">participial noun</gram>
-  <gram type="role">neuter singular</gram>
-  <gram type="role">perfective aspect</gram>
-</gramGrp>
-</entry>
-</standOff></TEI>
+            </TEI>
