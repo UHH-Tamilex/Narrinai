@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -458,4 +460,20 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-        </TEI>
+        <standOff corresp="#NA143-kiḷavi" type="wordsplit">
+<interp type="alignment" select="0">13M,12MG</interp>
+<entry>
+<form>maṉai</form>
+<def>house</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maruṭci</form>
+<def>confusion</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
