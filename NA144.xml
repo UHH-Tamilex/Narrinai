@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -577,4 +579,71 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-        </TEI>
+        <standOff corresp="#NA144-kiḷavi" type="wordsplit">
+<interp type="alignment" select="0">3MG5MG49M,58MG</interp>
+<entry>
+<form>iḵt<c type="elided">u</c></form>
+<def>this</def>
+<form type="sandhi">iḵt</form>
+</entry>
+<entry>
+<form>āṟṟat<c type="elided">u</c></form>
+<def>way</def>
+<form type="sandhi">āṟṟat</form>
+<gramGrp>
+  <gram type="role">genitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ētattiṟku<c type="geminated">k</c></form>
+<def>danger</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kavaṉṟu</form>
+<def>been-anxious</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṟai<c type="geminated">p</c></form>
+<def>fence</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṟam</form>
+<def>outside</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āka<c type="geminated">t</c></form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaivi</form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
