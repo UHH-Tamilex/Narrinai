@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -413,14 +415,15 @@
 </entry>
 </standOff>
 <standOff corresp="#NA1-kiḷavi" type="wordsplit">
-<interp type="alignment" select="0">43M,42MG</interp>
+<interp type="alignment" select="0">8MG34M,42MG</interp>
 <entry>
 <form>itu</form>
 <def>this</def>
 </entry>
 <entry>
-<form>pirivu</form>
+<form>piriv<c type="elided">u</c></form>
 <def>separation</def>
+<form type="sandhi">piriv</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
