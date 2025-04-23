@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA256-kiḷavi">
-        <p type="edition">itu poruḷvayiṉ pirintāṉeṉ ṟāṟṟāḷākiya takamakaḷait talaimaka ṉāṟṟiyatu.</p>
-        <p type="translation" xml:lang="en">This is how HE calmed down HER who was unable to bear that he would separate for the sake of wealth.</p>
+      <div rend="parallel">
+        <p xml:id="NA256-kiḷavi">itu poruḷvayiṉ pirintāṉeṉ ṟāṟṟāḷākiya takamakaḷait talaimaka ṉāṟṟiyatu.</p>
+        <p xml:lang="en">This is how HE calmed down HER who was unable to bear that he would separate for the sake of wealth.</p>
         </div>
-      <div xml:id="NA256">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA256">
 <l>            nīyē, pāṭal cāṉṟa paḻitapu cīṟaṭip</l>
 <l>            palkuṟap perunalat tamartta kaṇṇai</l>
 <l>            kāṭē, niḻalkavi ṉaḻinta vaḻalkavar maratta</l>
@@ -48,7 +45,7 @@
 <l>            kaṇkavar variniḻal vatiyun </l>
 <l>            taṇpaṭu kāṉamun tavirntaṉañ celavē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>You,</l>
 <l>you have eyes at strife [with your ears]<note place="foot"><term xml:lang="ta">amartta kaṇṇai</term>: this probably is an elliptical simile that can be understood in two ways. Either it is an allusion to the established description of HER eyes being like two carps standing opposite to each other (cf. KT 250.5: <term xml:lang="ta">poru kayal muraṇiya uṇ kaṇ</term>), or it could be a reference to the Sanskrit topos of eyes being so wide as to go right upt to the ears.</note>, increasingly<note place="foot"><term xml:lang="ta">palkuṟa</term>: actually this form is awkward. It has to be analysed as <term xml:lang="ta">palku</term> (v.r. "to increase") plus the inf. of <term xml:lang="ta">uṟa</term>, which can be interpreted as an adverb to <term xml:lang="ta">peru</term>, but then what is the function of <term xml:lang="ta">uṟu</term> here? (The <term xml:lang="ta">alku</term> "abiding" of ER definitely looks like a simplification.)</note> great beauty,</l>
 <l>faultless small feet worthy of song.</l>

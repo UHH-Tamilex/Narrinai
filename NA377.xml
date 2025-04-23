@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA377-kiḷavi">
-        <p type="edition">itu cēṭpaṭukkappaṭ ṭāṟṟāṉākiya talaimakaṉ tōḻi kēṭpat taṉṉuḷḷē colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what HE, who was unable to bear it when being kept at a distance, said to his own heart so that the confidante would hear.</p>
+      <div rend="parallel">
+        <p xml:id="NA377-kiḷavi">itu cēṭpaṭukkappaṭ ṭāṟṟāṉākiya talaimakaṉ tōḻi kēṭpat taṉṉuḷḷē colliyatu.</p>
+        <p xml:lang="en">This is what HE, who was unable to bear it when being kept at a distance, said to his own heart so that the confidante would hear.</p>
         </div>
-      <div xml:id="NA377">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA377">
 <l>            maṭaṉmā vūrntu mālai cūṭik</l>
 <l>            kaṇṇakaṉ vaippi ṉāṭu mūru</l>
 <l>            moṇṇuta larivai nalampā rāṭṭip</l>
@@ -46,7 +43,7 @@
 <l>            vaḷakañ cērnta ciṟunutal</l>
 <l>            kaḻaṟum melikku nōyā kiṉṟē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>            Won’t we perish, since that [is] a fetter,</l>
 <l rend="indent">            experiencing something difficult, being the wish to prepare for</l>
 <l rend="indent2">            mounting the palmyra horse, wearing a garland</l>

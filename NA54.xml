@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA54-kiḷavi">
-        <p type="edition">itu kāmammikka kaḻipaṭar kiḷavi.</p>
-        <p type="translation" xml:lang="en">This is the speech [situation] of excessive affliction when desire has increased.</p>
+      <div rend="parallel">
+        <p xml:id="NA54-kiḷavi">itu kāmammikka kaḻipaṭar kiḷavi.</p>
+        <p xml:lang="en">This is the speech [situation] of excessive affliction when desire has increased.</p>
       </div>
-      <div xml:id="NA54">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA54">
 <l>            vaḷainīr mēyntu kiḷaimutaṟ celīi</l>
 <l>            vāppaṟai virumpiṉai yāyiṉun tūcciṟai</l>
 <l>            yirumpulā varuntaniṉ kiḷaiyoṭu ciṟitiruntu</l>
@@ -48,7 +46,7 @@
 <l>            ṟeṇṭirai maṇippuṟan taivaruṅ </l>
 <l>            kaṇṭal vēlinun tuṟaikiḻa vōṟkē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l rend="indent">Even if you, after grazing the curved waters(?)<note place="foot">This first formulaic phrase is interpreted by T.V.G. as shells grazing the water (which might refer to a phenomenon to be observed on South-Indian beaches: shells standing upright in the strip of sand perpetually flooded by waves – in groups not unlike herds of cattle on a meadow – and diving into the sands every time the water comes back). There are certainly places where we have to come back to such an interpretation, here, however, the absolutive <term xml:lang="ta">mēyntu</term> rather invites subject identity with the main clause, which would mean the <term xml:lang="ta">kuruku</term>.</note>, moving among</l>
 <l rend="indent">[your] flock, are longing for leaping flight, [you with] pure wings,</l>
 <l>stay a little [longer] with your flock to eat big flesh,</l>

@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA216-kiḷavi">
-        <p type="edition">itu talaimakaṭkup pāṅkiyiṉār kēṭpat talaimakaṉ talainiṉ ṟoḻukappaṭāniṉṟa parattai pāṇarkkāyiṉum viṟaliyarkkāyiṉuñ colluvāḷāy neruṅkic colliyatu.</p>
-        <p type="translation" xml:lang="en">This is the other woman, in front of whom HE was standing, said directed to, as one speaking to be it the bards, be it the dancing girl, so that those close to HER would hear.</p>
+      <div rend="parallel">
+        <p xml:id="NA216-kiḷavi">itu talaimakaṭkup pāṅkiyiṉār kēṭpat talaimakaṉ talainiṉ ṟoḻukappaṭāniṉṟa parattai pāṇarkkāyiṉum viṟaliyarkkāyiṉuñ colluvāḷāy neruṅkic colliyatu.</p>
+        <p xml:lang="en">This is the other woman, in front of whom HE was standing, said directed to, as one speaking to be it the bards, be it the dancing girl, so that those close to HER would hear.</p>
       </div>
-      <div xml:id="NA216">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA216">
 <l>            tuṉitīr kūṭṭamoṭu tuṉṉā rāyiṉu</l>
 <l>            miṉitō kāṇunark kāṇpuḻi vāḻtal</l>
 <l>            kaṇṇuṟu viḻumaṅ kaipō lutavi</l>
@@ -48,7 +45,7 @@
 <l>            kēṭṭō raṉaiyā rāyiṉum </l>
 <l>            vēṭṭō rallatu piṟariṉ ṉārē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l rend="indent">Even if he doesn’t approach [us] with union to end the disgust,</l>
 <l>is it pleasing to live while seeing the one that sees(?)<note place="foot"><term xml:lang="ta">kāṇunar</term> is explained here by T.V.G. as someone who is nice to look at, and indeed this would make sense out of this sentence, and it would even refer to a topos, because without parallels for such a use of the present participle this seems a little arbitrary.</note>?</l>
 <l rend="indent">Even if he doesn’t remove the misery we have,</l>

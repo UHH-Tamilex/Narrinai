@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA75-kiḷavi">
-        <p type="edition">itu cēṭpaṭukkappaṭ ṭāṟṟāṉāya talaivaṉ ṟōḻi kēṭpac colliyatu.</p>
-        <p type="translation" xml:lang="en">This is HE, who could not bear it to be kept at a distance, said while the confidante was listening.</p>
+      <div rend="parallel">
+        <p xml:id="NA75-kiḷavi">itu cēṭpaṭukkappaṭ ṭāṟṟāṉāya talaivaṉ ṟōḻi kēṭpac colliyatu.</p>
+        <p xml:lang="en">This is HE, who could not bear it to be kept at a distance, said while the confidante was listening.</p>
       </div>
-      <div xml:id="NA75">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA75">
 <l>            nayaṉiṉ maiyiṟ payaṉitu veṉṉātu</l>
 <l>            pūmpoṟip polinta vaḻalumi ḻakaṉpaip</l>
 <l>            pāmpuyi raṇaṅki yāṅku mīṅkitu</l>
@@ -47,7 +45,7 @@
 <l>            ṇuṟāa nōkka muṟṟaveṉ</l>
 <l>            paita ṉeñca muyyu māṟē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l rend="indent">Without [even] saying “this [is] gain, in the absence of longing”,</l>
 <l rend="indent">[wounding me] like<note place="foot"><term xml:lang="ta">yāṅkum</term>: all the mss./editions (including Nacc. on TP 103 who quotes this poem) read unanimously this strange <term xml:lang="ta">-um</term> attached to the comparative particle. It does not make sense.</note> the lethal wound of the snake, gently,</l>
 <l rend="indent2">with fire-spitting interior, glittering with flower[-like] spots,</l>

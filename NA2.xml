@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA2-kiḷavi">
-        <p type="edition">iḵtuṭaṉpōkāniṉṟārai yiṭaiccurattuk kaṇṭār colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what is said by the onlookers in the middle of the desert to those who were eloping.</p>
+      <div rend="parallel">
+        <p xml:id="NA2-kiḷavi">iḵtuṭaṉpōkāniṉṟārai yiṭaiccurattuk kaṇṭār colliyatu.</p>
+        <p xml:lang="en">This is what is said by the onlookers in the middle of the desert to those who were eloping.</p>
       </div>
-      <div xml:id="NA2">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA2">
 <l>            aḻuntupaṭa vīḻnta peruntaṇ kuṉṟat</l>
 <l>            toliva līnti ṉulavai yaṅkāṭ</l>
 <l>            ṭāṟuceṉ mākkaḷ ceṉṉi yeṟinta</l>
@@ -47,7 +45,7 @@
 <l>            kāloṭu paṭṭa māri</l>
 <l>            mālvarai miḷirkku murumiṉuṅ koṭitē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
          <l rend="indent2">The desert of Īṅkai trees climbing Iṇṭu trees,</l> 
          <l rend="indent2">where in the evening the big-headed cub of the tiger</l>
          <l rend="indent4">peers out of the hemp,</l>

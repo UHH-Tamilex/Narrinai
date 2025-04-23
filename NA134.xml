@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA134-kiḷavi">
-        <p type="edition">iḵtiṟceṟippāreṉa vāṟṟāḷāya talaiviyai yaḵtila reṉpatupaṭat tōḻi colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what the confidante said to HER who did not have the strength thinking they would confine [her] to the house so that it was said that they would forgo that.</p>
+      <div rend="parallel">
+        <p xml:id="NA134-kiḷavi">iḵtiṟceṟippāreṉa vāṟṟāḷāya talaiviyai yaḵtila reṉpatupaṭat tōḻi colliyatu.</p>
+        <p xml:lang="en">This is what the confidante said to HER who did not have the strength thinking they would confine [her] to the house so that it was said that they would forgo that.</p>
       </div>
-      <div xml:id="NA134">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA134">
 <l>            iṉiti ṉiṉitu talaippaṭutu meṉpa</l>
 <l>            titukol vāḻi tōḻi kātalar</l>
 <l>            varukuṟi ceyta varaiyakac ciṟutiṉaic</l>
@@ -46,7 +44,7 @@
 <l>            melliya viṉiya kūṟali ṉiyāṉaḵ</l>
 <l>            tollēṉ pōla vuraiyā ṭuvalē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>Does this say, oh friend,</l>
 <l rend="indent">that something sweeter than sweet will happen to us?</l>
 <l>Mother actually does not seem herself, saying:</l>

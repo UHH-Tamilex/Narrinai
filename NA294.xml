@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA294-kiḷavi">
-        <p type="edition">itu maṇamaṉaiyuṭ pukka tōḻi talaimakaḷatu kaviṉkaṇṭu colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what the confidante said who entered the marriage house upon seeing HER beauty.</p>
+      <div rend="parallel">
+        <p xml:id="NA294-kiḷavi">itu maṇamaṉaiyuṭ pukka tōḻi talaimakaḷatu kaviṉkaṇṭu colliyatu.</p>
+        <p xml:lang="en">This is what the confidante said who entered the marriage house upon seeing HER beauty.</p>
         </div>
-      <div xml:id="NA294">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA294">
 <l>            tīyum vaḷiyum vicumpupayan tāṅku</l>
 <l>            nōyu miṉpamu mākiṉṟu mātō</l>
 <l>            māya maṉṟu tōḻi vēypayiṉ</l>
@@ -46,7 +43,7 @@
 <l>            cilampuṭaṉ kamaḻuñ cāra</l>
 <l>            lilaṅkumalai nāṭaṉ malarnta mārpē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l rend="indent2">As the sky’s spreading fire and wind,</l>
 <l>hasn’t it become pain and pleasure?</l>
 <l>– the blooming chest of the man from a land of shining mountains</l>

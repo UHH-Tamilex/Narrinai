@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA171-kiḷavi">
-        <p type="edition">itu pirivuṇarttappaṭṭa tōḻi talaimakaṭ kuraittatu.</p>
-        <p type="translation" xml:lang="en">This is what the confidante to whom the separation had been announced said to HER.</p>
+      <div rend="parallel">
+        <p xml:id="NA171-kiḷavi">itu pirivuṇarttappaṭṭa tōḻi talaimakaṭ kuraittatu.</p>
+        <p xml:lang="en">This is what the confidante to whom the separation had been announced said to HER.</p>
       </div>
-      <div xml:id="NA171">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA171">
 <l>            nīrnacaik kūkkiya vuyaval yāṉai</l>
 <l>            vēṉiṟ kuṉṟattu vevvaraik kavāa</l>
 <l>            ṉilañcelac cellāk kayantalaik kuḻavi</l>
@@ -47,7 +45,7 @@
 <l>            ḷārva neñcamō ṭaḷaii </l>
 <l>            mārpuṟap paṭuttaṉ marīiya kaṇṇē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>If he traverses the difficult desert with many mountains, deserting us,</l>
 <l rend="indent">the man from a land, where the soft-headed [elephant] calf, un[able to] go</l>
 <l rend="indent2">when the suffering [mother] elephant, shaken by yearning for water, goes</l>

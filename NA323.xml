@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA323-kiḷavi">
-        <p type="edition">itu tōḻi yiravukkuṟi nērntatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante granted a night tryst.</p>
+      <div rend="parallel">
+        <p xml:id="NA323-kiḷavi">itu tōḻi yiravukkuṟi nērntatu.</p>
+        <p xml:lang="en">This is how the confidante granted a night tryst.</p>
         </div>
-      <div xml:id="NA323">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA323">
 <l>            ōṅkit tōṉṟun tīṅkaṭ peṇṇai</l>
 <l>            naṭuva ṇatuvē teyya maṭavara</l>
 <l>            lāyamum yāṉu maṟiyā tavaṇa</l>
@@ -48,7 +45,7 @@
 <l>            terimaṇi kēṭṭalu maritē</l>
 <l>            varumā ṟītavaṇ maṟavā tīmē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>It is in the middle<note place="foot">Here I do not see a way to render in the translation the admonishing nuance of the particle <term xml:lang="ta">teyya</term>.</note></l>
 <l>of palmyra trees with sweet toddy that appear high,</l>
 <l>the village<note place="foot">Here we have to assume that <term xml:lang="ta">pākkam</term> is the subject of <term xml:lang="ta">naṭuvaṇatē-teyya</term>, in spite of the missing particle marking. It might be possible to argue that it is meant as an open-ended postposition, since it is also from the village where it is difficult to hear the chariot’s bell of the following sentence.</note> with small homes of the father of the good one</l>

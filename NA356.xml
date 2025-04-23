@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA356-kiḷavi">
-        <p type="edition">itu varaivu maṟukkappaṭ ṭāṟṟāṉākiya talaimakaṉ ṟaṉṉeñciṟkuc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what HE said to his own heart, being unable to bear it when the marriage was refused.</p>
+      <div rend="parallel">
+        <p xml:id="NA356-kiḷavi">itu varaivu maṟukkappaṭ ṭāṟṟāṉākiya talaimakaṉ ṟaṉṉeñciṟkuc colliyatu.</p>
+        <p xml:lang="en">This is what HE said to his own heart, being unable to bear it when the marriage was refused.</p>
         </div>
-      <div xml:id="NA356">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA356">
 <l>            nilantāḻ maruṅkiṟ ṟeṇkaṭaṉ mēynta</l>
 <l>            vilaṅkumeṉ ṟūvic ceṅkā laṉṉam</l>
 <l>            poṉpaṭu neṭuṅkōṭ ṭimayat tucci</l>
@@ -46,7 +43,7 @@
 <l>            kātali yuḻaiya ḷākak</l>
 <l>            kuṇakkutōṉṟu veḷḷiyi ṉemakkumār varumē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>          You suffered, live, my mind,</l>
 <l rend="indent">          in going [and] coming,</l>
 <l rend="indent4">           as the unwearying enduring wing</l>

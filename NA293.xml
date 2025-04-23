@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,14 +27,14 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA293-kiḷavi">
-        <p type="edition">1. itu tāy maṉaimaruṇṭu colliyatu.
+      <div rend="parallel">
+        <p xml:id="NA293-kiḷavi">1. itu tāy maṉaimaruṇṭu colliyatu.
             2. avariṭattāraik kaṇṭu colliyatūumām.</p>
-        <p type="translation" xml:lang="en">1. This is what the mother said in the confusion of the house.
+        <p xml:lang="en">1. This is what the mother said in the confusion of the house.
             2. It is also what she(?) said upon seeing the people in his place.</p>
         </div>
-      <div xml:id="NA293">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA293">
 <l>            maṇikkura ṉoccit teriyal cūṭip</l>
 <l>            paṉikka ḷārkaip pārmutu kuyava</l>
 <l>            ṉiṭupali nuvalu makaṉṟalai maṉṟattu</l>
@@ -48,7 +45,7 @@
 <l>            koṇṭuṭaṉ pōka valitta</l>
 <l>            vaṉkaṭ kāḷaiyai yīṉṟa tāyē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>Can she really have great haste,<note place="foot">I read here an allusion to the preparations of the marriage feast which now, since THEY have eloped, will take place in HIS village and will have to be conducted by his family, while the <term xml:lang="ta">mātō</term> marks the rhetoric question, here implying that the other mother cannot care as much as she herself would have done. T.V.G., however, wants to read a curse to the other mother: "may she undergo great distress".</note></l>
 <l rend="indent3">like us whenever we see [her] flower-eyed companions</l>
 <l rend="indent">in the old village of old victory that has [always] conducted festivals</l>

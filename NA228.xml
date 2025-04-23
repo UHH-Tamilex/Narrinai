@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA228-kiḷavi">
-        <p type="edition">itu tōḻi ciṟaippuṟamākat talaimakaṭkuc colluvāḷāyt talaimakaṉ kēṭpac colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what the confidante said so that HE would hear, being one who speaks to HER when [he] was behind the fence.</p>
+      <div rend="parallel">
+        <p xml:id="NA228-kiḷavi">itu tōḻi ciṟaippuṟamākat talaimakaṭkuc colluvāḷāyt talaimakaṉ kēṭpac colliyatu.</p>
+        <p xml:lang="en">This is what the confidante said so that HE would hear, being one who speaks to HER when [he] was behind the fence.</p>
       </div>
-      <div xml:id="NA228">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA228">
 <l>            eṉṉeṉap paṭumō tōḻi miṉṉuvaci</l>
 <l>            patirkura leḻili mutirkaṭaṉ ṟīrak</l>
 <l>            kaṇṭūrpu virinta kaṉaiyiru ṇaṭunāṭ</l>
@@ -46,7 +43,7 @@
 <l>            yaḻuntupaṭa viṭarakat tiyampu</l>
 <l>            meḻuntuvī ḻaruviya malaikiḻa vōṉē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>What can be said, friend?<note place="foot">The same formulaic beginning is to be found in KT 194.1.</note></l>
 <l>Does he not have [any] consideration for us,</l>
 <l rend="indent">coming along [this] bad difficult way at midnight in deep darkness</l>

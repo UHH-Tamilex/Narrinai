@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA55-kiḷavi">
-        <p type="edition">itu varaiviṭai melivāṟṟuvikkun tōḻi talaivaṟkuc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what the confidante, who was encouraging [HER in her] weakness [until] the time of marriage, said to HIM. C1, G1+2: This is what SHE said to the confidante who was encouraging [HER in her] weakness [until] the time of marriage.</p>
+      <div rend="parallel">
+        <p xml:id="NA55-kiḷavi">itu varaiviṭai melivāṟṟuvikkun tōḻi talaivaṟkuc colliyatu.</p>
+        <p xml:lang="en">This is what the confidante, who was encouraging [HER in her] weakness [until] the time of marriage, said to HIM. C1, G1+2: This is what SHE said to the confidante who was encouraging [HER in her] weakness [until] the time of marriage.</p>
       </div>
-      <div xml:id="NA55">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA55">
 <l>            ōṅkumalai nāṭa voḻikaniṉ vāymai</l>
 <l>            kāmputalai maṇanta kallatarc ciṟuneṟi</l>
 <l>            yuṟupakai pēṇā tiraviṉ vantivaḷ</l>
@@ -49,7 +47,7 @@
 <l>            cānta ñekiḻi kāṭṭi</l>
 <l>            yīṅkā yiṉavā leṉṟiciṉ yāṉē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l rend="indent">O man from a land of high mountains,</l>
 <l rend="indent3">let your truthfulness stay behind.</l>
 <l rend="indent2">Looking as if with a cluster of eyes<note place="foot"><term xml:lang="ta">kaṇ kōḷ āka</term>: this phrase referring to the way the mother looks might be interpreted at least in two ways, either as above (which would be literally: "looking so [her] eyes become a [whole] cluster") or, thinking of <term xml:lang="ta">kōḷ</term> as an epithet given to tigers: "looking, while [her] eyes turned murderous".</note></l>

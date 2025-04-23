@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA36-kiḷavi">
-        <p type="edition">iḵtiravukkuṟic ciṟaippuṟamākat tōḻi colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what the confidante said at the night tryst while he was behind the fence.</p>
+      <div rend="parallel">
+        <p xml:id="NA36-kiḷavi">iḵtiravukkuṟic ciṟaippuṟamākat tōḻi colliyatu.</p>
+        <p xml:lang="en">This is what the confidante said at the night tryst while he was behind the fence.</p>
       </div>
-      <div xml:id="NA36">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA36">
 <l>            kuṟuṅkai yirumpulik kōḷva lēṟṟai</l>
 <l>            pūnuta lirumpiṭi pulampat tākkit</l>
 <l>            tāḻnīr naṉantalaip peruṅkaḷi ṟaṭūuṅ</l>
@@ -46,7 +44,7 @@
 <l>            tāṉāk kauvait tākat</l>
 <l>            tāṉeṉ ṉiḻantativ vaḻuṅka lūrē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l rend="indent">Believing the word</l>
 <l rend="indent2">of the man from the mountain with a mind of stone<note place="foot"><term xml:lang="ta">kallakam</term> can be taken to refer to HIM or to the mountain: "inside the rocks".</note>,</l>
 <l rend="indent3">where the male of the short-handed big tiger, strong in</l>

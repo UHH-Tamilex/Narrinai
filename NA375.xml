@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA375-kiḷavi">
-        <p type="edition">itu varaiyātu neṭuṅkālam vantoḻukat talaimakaḷatu nilaiyuṇarnta tōḻi varaivu kaṭāyatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante urged for marriage who perceived HER state when [HE] was coming for a long time without marrying.</p>
+      <div rend="parallel">
+        <p xml:id="NA375-kiḷavi">itu varaiyātu neṭuṅkālam vantoḻukat talaimakaḷatu nilaiyuṇarnta tōḻi varaivu kaṭāyatu.</p>
+        <p xml:lang="en">This is how the confidante urged for marriage who perceived HER state when [HE] was coming for a long time without marrying.</p>
         </div>
-      <div xml:id="NA375">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA375">
 <l>            nīṭuciṉaip puṉṉai naṟuntā tutirak</l>
 <l>            kōṭupuṉai kurukiṉ ṟōṭutalaip peyarum</l>
 <l>            palpūṅ kāṉaṉ malkunīrc cērppa</l>
@@ -46,7 +43,7 @@
 <l>            yeṟivaṉa pōla varūu</l>
 <l>            muyarmaṇaṟ paṭappaiyem muṟaivi ṉūrē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l rend="indent2">          Since you have no love,</l>
 <l>          o man from the coast of rising waters by the seashore grove of many flowers,</l>
 <l rend="indent">            where the flocks of herons decorating the branches gather together,</l>

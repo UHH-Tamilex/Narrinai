@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA51-kiḷavi">
-        <p type="edition">iḵtāṟṟatēta mañci vēṟuppaṭṭāḷ veṟiyāṭaluṟṟaviṭattuc ciṟaippuṟamākac colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what is said, afraid suffering that is unbearable, by her who was changed when the Veṟi dance took place while [HE] was behind the fence.</p>
+      <div rend="parallel">
+        <p xml:id="NA51-kiḷavi">iḵtāṟṟatēta mañci vēṟuppaṭṭāḷ veṟiyāṭaluṟṟaviṭattuc ciṟaippuṟamākac colliyatu.</p>
+        <p xml:lang="en">This is what is said, afraid suffering that is unbearable, by her who was changed when the Veṟi dance took place while [HE] was behind the fence.</p>
       </div>
-      <div xml:id="NA51">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA51">
 <l>            yāṅkuccey vāṅko ṟōḻi yōṅkukaḻaik</l>
 <l>            kāmpuṭai viṭarakañ cilampap pāmpuṭaṉ</l>
 <l>            ṟōṅkuvarai miḷira vāṭṭi vīṅkucelaṟ</l>
@@ -48,7 +46,7 @@
 <l>            pētai yāciṉi yocitta </l>
 <l>            vītā vēṅkaiya malaikiḻa vōṟkē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>What can we do, friend?</l>
 <l rend="indent">Offering intense drops with harsh-voiced [thunder-]strokes,</l>
 <l rend="indent">a swelling movement, shaking, so that they overturn,</l>

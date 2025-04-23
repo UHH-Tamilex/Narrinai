@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA178-kiḷavi">
-        <p type="edition">itu ciṟaippuṟamākat tōḻi ceṟippaṟivuṟīiyatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante informed about [HER] being confined in the house while [HE] was behind the fence.</p>
+      <div rend="parallel">
+        <p xml:id="NA178-kiḷavi">itu ciṟaippuṟamākat tōḻi ceṟippaṟivuṟīiyatu.</p>
+        <p xml:lang="en">This is how the confidante informed about [HER] being confined in the house while [HE] was behind the fence.</p>
       </div>
-      <div xml:id="NA178">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA178">
 <l>            āṭamai yākka maitupicain taṉṉa</l>
 <l>            tōṭamai tūvit taṭantā ṇārai</l>
 <l>            nalaṉuṇap paṭṭa nalkūr pēṭai</l>
@@ -46,7 +44,7 @@
 <l>            puḷḷoli maṇiccet tōrppa</l>
 <l>            viḷintaṉṟu mātavat teḷintaveṉ ṉeñcē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>The chariot of the man from the cool ghat,</l>
 <l rend="indent">where the poor female heron, whose virginity had been consumed</l>
 <l rend="indent2">by the broad-footed male, feathers dense in a mass,</l>

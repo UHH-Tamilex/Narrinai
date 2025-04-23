@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA126-kiḷavi">
-        <p type="edition">itu poruḷ valitta neñciṉait talaivaṉ neruṅkic celavaḻuṅkiyatu.</p>
-        <p type="translation" xml:lang="en">This is how he prevented going, directed to [his] heart that was striving for wealth.</p>
+      <div rend="parallel">
+        <p xml:id="NA126-kiḷavi">itu poruḷ valitta neñciṉait talaivaṉ neruṅkic celavaḻuṅkiyatu.</p>
+        <p xml:lang="en">This is how he prevented going, directed to [his] heart that was striving for wealth.</p>
       </div>
-      <div xml:id="NA126">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA126">
 <l>            paiṅkāy nalliṭa morīiya ceṅkāyk</l>
 <l>            karuṅkaḷi yīntiṉ veṇpuṟak kaḷari</l>
 <l>            yiṭunī ṟāṭiya kaṭunaṭai yorutta</l>
@@ -48,7 +46,7 @@
 <l>            ṉillāp poruṭpiṇic cēṟi</l>
 <l>            vallē neñcam vāykkaniṉ viṉaiyē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l rend="indent3">If they say wealth too gives joy</l>
 <l rend="indent2">that is made traversing the road through the ruined lands,</l>
 <l rend="indent">where the quick-gaited male that bathed in the dust from<note place="foot">The formulaic parallels of this passage in NA 41.2 and 302.8 show that here, strangely, a phrase has been broken up over two lines. Thus <term xml:lang="ta">iṭu</term> at the beginning of the line in fact connects with <term xml:lang="ta">kaḷari</term> of the previous line as a sort of ablative conjunction, without verbal force.</note> the</l>

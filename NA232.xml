@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA232-kiḷavi">
-        <p type="edition">itu pakal vantāṉai “iravu vā” veṉat tōḻi colliyatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante said to the one who came by day “come by night!”</p>
+      <div rend="parallel">
+        <p xml:id="NA232-kiḷavi">itu pakal vantāṉai “iravu vā” veṉat tōḻi colliyatu.</p>
+        <p xml:lang="en">This is how the confidante said to the one who came by day “come by night!”</p>
       </div>
-      <div xml:id="NA232">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA232">
 <l>            ciṟukaṇ yāṉaip peruṅkai yīriṉaṅ</l>
 <l>            kuḷavit taṇkayaṅ kuḻaiyat tīṇṭic</l>
 <l>            cōlai vāḻai muṇaii yayalatu</l>
@@ -46,7 +43,7 @@
 <l>            vīyuka virinta muṉṟiṟ</l>
 <l>            kalkeḻu pākkat talkiṉai celiṉē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>O man from the land of great mountains,</l>
 <l rend="indent">where the large-trunked pair of small-eyed elephants,</l>
 <l rend="indent2">after taking, until they are tired, possession of the cool pond</l>

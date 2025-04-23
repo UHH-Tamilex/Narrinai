@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA383-kiḷavi">
-        <p type="edition">itu tōḻi yāṟupārttuṟṟuc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what is said to the confidante after the experience of looking at the path.</p>
+      <div rend="parallel">
+        <p xml:id="NA383-kiḷavi">itu tōḻi yāṟupārttuṟṟuc colliyatu.</p>
+        <p xml:lang="en">This is what is said to the confidante after the experience of looking at the path.</p>
         </div>
-      <div xml:id="NA383">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA383">
 <l>            kallayaṟ kalitta karuṅkāl vēṅkai</l>
 <l>            yalaṅkalan toṭalai yaṉṉa kuruḷai</l>
 <l>            vayappuṉiṟ ṟirumpiṇāp pacitteṉa vayappuli</l>
@@ -46,7 +43,7 @@
 <l>            pāmpuṭaṉ ṟirikku murumō</l>
 <l>            ṭōṅkuvarai nāṭanī varuta lāṉē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l rend="indent4">          At dreadful midnight,</l>
 <l rend="indent">          when the strong tiger roars with the voice of thunder, having</l>
 <l rend="indent">         killed the elephant bull, attacking so that [its] spotted face was spoiled,</l>

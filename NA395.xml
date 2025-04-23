@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="NA395-kiḷavi">
-            <p type="edition">itu nalantolaintatu.</p>
-            <p type="translation" xml:lang="en">This is how the innocence was lost.</p>
+        <div rend="parallel">
+            <p xml:id="NA395-kiḷavi">itu nalantolaintatu.</p>
+            <p xml:lang="en">This is how the innocence was lost.</p>
             </div>
-      <div xml:id="NA395">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA395">
 <l>            yārai yeluva yāmē nīyemak</l>
 <l>            kiyāraiyu mallai notuma lāḷaṉai</l>
 <l>            yaṉaittāṟ koṇkavem miṭaiyē niṉaippiṟ</l>
@@ -47,7 +44,7 @@
 <l>            kaṭalkeḻu māntai yaṉṉavem</l>
 <l>            vēṭṭaṉai yallaiyā ṉalantantu ceṉmē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>            Who [are] you, friend(?)?</l>
 <l rend="indent4">            We, for us you</l>
 <l>        are nobody at all, you [are] a stranger.</l>

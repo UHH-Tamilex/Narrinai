@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA247-kiḷavi">
-        <p type="edition">itu “nīṭṭiyāmai varai” yeṉat tōḻi colliyatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante comforted HER who had become weak in the time of separation.</p>
+      <div rend="parallel">
+        <p xml:id="NA247-kiḷavi">itu “nīṭṭiyāmai varai” yeṉat tōḻi colliyatu.</p>
+        <p xml:lang="en">This is how the confidante comforted HER who had become weak in the time of separation.</p>
         </div>
-      <div xml:id="NA247">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA247">
 <l>            toṉṟupaṭu tuppoṭu muraṇmikac ciṉaiik</l>
 <l>            koṉṟa yāṉaic ceṅkōṭu kaḻāa</l>
 <l>            vaḻituḷip poḻinta viṉkura leḻili</l>
@@ -46,7 +43,7 @@
 <l>            liruntiṟai kūṭiya pacalaikku</l>
 <l>            maruntupiṟi tiṉmainaṟ kaṟintaṉai ceṉmē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>O man from a land, where the sweet-voiced clouds,</l>
 <l rend="indent2">from which the dwindling drops have flown</l>
 <l rend="indent2">without washing<note place="foot"><term xml:lang="ta">kaḻāa</term>: T.V.G. takes the form as affirmative here.</note> the red tusks of the elephant that killed,</l>

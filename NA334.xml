@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA334-kiḷavi">
-        <p type="edition">itu tōḻi yiravukkuṟi mukampukkatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante sought the favour of a night tryst.</p>
+      <div rend="parallel">
+        <p xml:id="NA334-kiḷavi">itu tōḻi yiravukkuṟi mukampukkatu.</p>
+        <p xml:lang="en">This is how the confidante sought the favour of a night tryst.</p>
         </div>
-      <div xml:id="NA334">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA334">
 <l>karuviraṉ mantic cemmukap peruṅkiḷai</l>
 <l>peruvarai yaṭukkat taruvi yāṭi</l>
 <l>yōṅkukaḻai yūcaṟ ṟūṅki vēṅkai</l>
@@ -46,7 +43,7 @@
 <l>miṉṉuvaci viḷakkattu varumeṉi</l>
 <l>ṉeṉṉō tōḻinam miṉṉuyir nilaiyē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>          The man from the land inside the mountains,</l>
 <l rend="indent">          where the black-fingered female monkey, [her] red-faced big<note place="foot"><term xml:lang="ta">perum kiḷai</term>: here T.V.G. wants to read "relations big in number", which might be more convincing in the context.</note> relations<note place="foot">Either we stick to the given word order, and then we have one absolutive inserted here with a different subject, or we take <term xml:lang="ta">manti</term> as subject also of <term xml:lang="ta">āṭi</term>, but then we have to presume that <term xml:lang="ta">cem mukam perum kiḷai</term> is misplaced to a position after manti, as T.V.G. understands.</note></l>
 <l rend="indent2">          playing in the waterfall on the side of the big mountain,</l>

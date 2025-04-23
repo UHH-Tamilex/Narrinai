@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA201-kiḷavi">
-        <p type="edition">itu kaḻaṟiya pāṅkaṟkut talaimakaṉ uraittatu.</p>
-        <p type="translation" xml:lang="en">This is what HE said to the charioteer who reproached [him].</p>
+      <div rend="parallel">
+        <p xml:id="NA201-kiḷavi">itu kaḻaṟiya pāṅkaṟkut talaimakaṉ uraittatu.</p>
+        <p xml:lang="en">This is what HE said to the charioteer who reproached [him].</p>
       </div>
-      <div xml:id="NA201">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA201">
 <l>            malaiyuṟai kuṟavaṉ kātaṉ maṭamakaḷ</l>
 <l>            peṟalaruṅ kuraiya ḷaruṅkaṭik kāppiṉaḷ</l>
 <l>            colletir koḷḷā ḷiṉaiya ḷaṉaiyō</l>
@@ -48,7 +46,7 @@
 <l>            māyā viyaṟkaip pāvai pōlap</l>
 <l>            pōtalol lāḷeṉ ṉeñcat tāḷē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>The beloved [and] inexperienced daughter of the Kuṟavaṉ</l>
 <l rend="indent4">staying in the mountains,</l>
 <l>she [is] difficult to obtain, she [is] guarded by severe protection,</l>

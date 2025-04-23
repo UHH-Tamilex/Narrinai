@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA330-kiḷavi">
-        <p type="edition">itu tōḻi talaimakaṉai vāyiṉ maṟuttatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante refused the door to HIM.</p>
+      <div rend="parallel">
+        <p xml:id="NA330-kiḷavi">itu tōḻi talaimakaṉai vāyiṉ maṟuttatu.</p>
+        <p xml:lang="en">This is how the confidante refused the door to HIM.</p>
         </div>
-      <div xml:id="NA330">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA330">
 <l>            taṭamarup perumaip piṟaḻcuva lirumpōttu</l>
 <l>            maṭanaṭai nāraip palliṉa miriya</l>
 <l>            neṭunīrt taṇkayan tuṭumeṉa pāyntu</l>
@@ -48,7 +45,7 @@
 <l>            naṉṟi cāṉṟa kaṟpō</l>
 <l>            ṭempā ṭāta lataṉiṉu maritē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l rend="indent4">        O man from the fertile village,</l>
 <l>            where the dark male with irregular<note place="foot"><term xml:lang="ta">piṟaḻ cuval</term>: the verb <term xml:lang="ta">piṟaḻ</term> is slightly surprising here, since elsewhere in the NA it is used several times of the leaping of the <term xml:lang="ta">Vāḷai</term> fish. So, if it is not meant to refer to the fact that the bull does not keep its neck steady, we might consider the less well-attested, but formulaic variant <term xml:lang="ta">piṇar cuval</term>: "rough-necked" (cf. NA 336.1).</note> nape of the broad-horned buffalo cow</l>
 <l>        springs with a splash(?) into the cool pond of deep(?)<note place="foot"><term xml:lang="ta">neṭu nīr</term>: since this is the water of a pond or tank, <term xml:lang="ta">neṭu</term> can either refer to the water being deep, or, in a temporal extension, to the water being permanent.</note> water,</l>

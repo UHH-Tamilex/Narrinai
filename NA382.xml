@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA382-kiḷavi">
-        <p type="edition">iḵtoruvaḻit taṇanta kālattup poḻutu paṭa vāṟṟāḷāki niṉṟa talaimakaḷait tōḻi yāṟṟuvikkallā ḷāyiṉāṭkut talaimakaḷ colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what SHE said to the confidante who was encouraging HER who stood there as one who was unable to bear it when time passed in the time when [HE] had departed on a temporary absence.</p>
+      <div rend="parallel">
+        <p xml:id="NA382-kiḷavi">iḵtoruvaḻit taṇanta kālattup poḻutu paṭa vāṟṟāḷāki niṉṟa talaimakaḷait tōḻi yāṟṟuvikkallā ḷāyiṉāṭkut talaimakaḷ colliyatu.</p>
+        <p xml:lang="en">This is what SHE said to the confidante who was encouraging HER who stood there as one who was unable to bear it when time passed in the time when [HE] had departed on a temporary absence.</p>
         </div>
-      <div xml:id="NA382">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA382">
 <l>          kāṉaṉ mālaik kaḻinīr malka</l>
 <l>          nīṉiṟa neyta ṉiraiyitaḻ porunta</l>
 <l>          vāṉā talaikkuṅ kaṭaṉmī ṉaruntip</l>
@@ -46,7 +43,7 @@
 <l>          taṇṇan tuṟaiva ṉāṇa</l>
 <l>          naṇṇār tūṟṟum paḻitā ṉuṇṭē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>          Even if [our] precious lives go to ruin, [you of] fine jewels,</l>
 <l rend="indent3">          suffering much upon being in the land of the one who abandoned [us],</l>
 <l rend="indent">          where the birds joining together in the nest with flocks of birds become full</l>

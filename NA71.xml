@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA71-kiḷavi">
-        <p type="edition">itu talaivaṉait tōḻi celavaḻuṅkuvittatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante prevents HIM from going.</p>
+      <div rend="parallel">
+        <p xml:id="NA71-kiḷavi">itu talaivaṉait tōḻi celavaḻuṅkuvittatu.</p>
+        <p xml:lang="en">This is how the confidante prevents HIM from going.</p>
       </div>
-      <div xml:id="NA71">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA71">
 <l>            maṉṉāp poruṭpiṇi muṉṉi yiṉṉatai</l>
 <l>            vaḷaiyaṇi muṉkainiṉ ṉikuḷaik kuṇartteṉap</l>
 <l>            paṉmā ṇiratti rāyiṟ ceṉmeṉa</l>
@@ -48,7 +46,7 @@
 <l>            mayilaḷ pulampak kēṭṭoṟum </l>
 <l>            pomma lōti peruvitup puṟavē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l rend="indent2">If she lets go of [you],</l>
 <l rend="indent3">she for whom it is suitable that she also lets go of [you],</l>
 <l rend="indent2">saying “go”, when you have begged for many times,</l>

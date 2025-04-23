@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA274-kiḷavi">
-        <p type="edition">itu tōḻi paruvamāṟupaṭṭatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante disagreed with the season.</p>
+      <div rend="parallel">
+        <p xml:id="NA274-kiḷavi">itu tōḻi paruvamāṟupaṭṭatu.</p>
+        <p xml:lang="en">This is how the confidante disagreed with the season.</p>
         </div>
-      <div xml:id="NA274">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA274">
 <l>            neṭuvāṉ miṉṉik kuṟuntuḷit talaiip</l>
 <l>            paṭumaḻai poḻinta pakuvāyk kuṉṟat</l>
 <l>            tuḻaimā ṉampiṇai tīṇṭali ṉiḻaimakaḷ</l>
@@ -46,7 +43,7 @@
 <l>            ṭirumpuli vaḻaṅkuñ cōlaip</l>
 <l>            peruṅkal vaippiṟ curaṉiṟan tōrē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>Didn’t he use to say<note place="foot"><term xml:lang="ta">kūṟiṉṟu-um uṭaiyar</term>: supposedly this idiom (literally "he possesses saying") expresses an iterative or even habitual quality, here to be understood as past tense because of the context. Is there an additional nuance in the -<term xml:lang="ta">um</term> added to <term xml:lang="ta">kūṟiṉṟu</term>? The particle -<term xml:lang="ta">ōmaṟṟē</term> certainly gives the question a strong rhetoric flavour ("he definitely had said so"), which is rendered in the translation by way of negation.</note></l>
 <l rend="indent3">“will you come with us, [you of] thick hair,</l>
 <l rend="indent2">on the short many routes confused<note place="foot"><term xml:lang="ta">kumiḻ talai mayaṅkiya</term>: how to understand this phrase? I feel it might refer to the tree tops closing over the small path, but T.V.G. for one explains that it refers to fruit falling from the trees on the route.</note> with the tops of Kumiḻ trees,</l>

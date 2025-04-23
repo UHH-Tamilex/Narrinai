@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA277-kiḷavi">
-        <p type="edition">itu paṭṭapiṉṟai varaiyātu kiḻavōṉ neṭṭiṭaik kaḻintu poruḷvayiṉ piriya vāṟṟāḷākiya talaimaka ṭumpikkuc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what SHE said to the bee when HE separated for the sake of wealth after a long intervall had passed without marrying after it had happened.</p>
+      <div rend="parallel">
+        <p xml:id="NA277-kiḷavi">itu paṭṭapiṉṟai varaiyātu kiḻavōṉ neṭṭiṭaik kaḻintu poruḷvayiṉ piriya vāṟṟāḷākiya talaimaka ṭumpikkuc colliyatu.</p>
+        <p xml:lang="en">This is what SHE said to the bee when HE separated for the sake of wealth after a long intervall had passed without marrying after it had happened.</p>
         </div>
-      <div xml:id="NA277">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA277">
 <l>            koṭiyai vāḻi tumpi yinnōy</l>
 <l>            paṭukatil lamma yāṉiṉak kuraitteṉa</l>
 <l>            meyyē karumai yaṉṟiyuñ cevva</l>
@@ -49,7 +46,7 @@
 <l>            vemmalai yaruñcura miṟantōrk</l>
 <l>            keṉṉilai yuraiyāy ceṉṟavaṇ varavē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>Cruel you [are], oh bee, for going [and] coming there:<note place="foot">Here syntax can only work if we read a <term xml:lang="ta">pūṭṭu vil</term>: the last half-line can only be integrated when read as dependant on <term xml:lang="ta">koṭiyai</term>, and then most probably the <term xml:lang="ta">uraiyāy</term> also has to be read as a further explication of <term xml:lang="ta">koṭiyai</term> and thus as participial noun and subject apposition.</note></l>
 <l rend="indent3">since I told you “would that this pain passed by,”</l>
 <l>[your] body, besides its being black, [is your] knowledge</l>

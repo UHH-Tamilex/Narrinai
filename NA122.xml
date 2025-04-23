@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA122-kiḷavi">
-        <p type="edition">itu ciṟaippuṟamākat tōḻi talaivik kuraippāḷāyt talaivaṉ kēṭpac colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what the confidante said as one spleaking to HER so that HE would hear it while [he] was behind the fence.</p>
+      <div rend="parallel">
+        <p xml:id="NA122-kiḷavi">itu ciṟaippuṟamākat tōḻi talaivik kuraippāḷāyt talaivaṉ kēṭpac colliyatu.</p>
+        <p xml:lang="en">This is what the confidante said as one spleaking to HER so that HE would hear it while [he] was behind the fence.</p>
       </div>
-      <div xml:id="NA122">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA122">
 <l>            iruṅka laṭukkat teṉṉaiya ruḻuta</l>
 <l>            karuṅkāṟ centiṉai kaṭiyu muṇṭaṉa</l>
 <l>            kallaka varaippiṟ kāṉkeḻu ciṟukuṭi</l>
@@ -48,7 +46,7 @@
 <l>            nīyē cūḻtal vēṇṭum </l>
 <l>            pūvēy kaṇṇiyatu poruntu māṟē.</l>
     </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>They (the parrots?) have taken in the scent<note place="foot"><term xml:lang="ta">kaṭi-y-um uṇṭaṉa</term>: thus the literal meaning of the phrase, which might refer to an elliptical <term xml:lang="ta">kiḷi</term>; parakeets noticing that the millet is ripe. The explanation given by T.V.G. (who takes -um as an expletive, while it might simply be a coordinative with <term xml:lang="ta">mauval-um</term> and with <term xml:lang="ta">aṉṉai-y-um</term> of the next two sentences) is different. He suggests a translation: "the [grains] of millet have been harvested".</note> of the black-stalked red millet</l>
 <l rend="indent">[on the field] ploughed by my people on the slope with dark stones,</l>
 <l>and the wild jasmines have budded at the side of the wealth(?)</l>

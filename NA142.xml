@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA142-kiḷavi">
-        <p type="edition">itu viṉaimuṟṟi mīḷun talaimakaṉ ṟērppākaṟkuc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what HE, who was returning after the work had been accomplished, said to the charioteer.</p>
+      <div rend="parallel">
+        <p xml:id="NA142-kiḷavi">itu viṉaimuṟṟi mīḷun talaimakaṉ ṟērppākaṟkuc colliyatu.</p>
+        <p xml:lang="en">This is what HE, who was returning after the work had been accomplished, said to the charioteer.</p>
       </div>
-      <div xml:id="NA142">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA142">
 <l>            vāṉikupu corinta vayaṅkupeyaṟ kaṭaināṭ</l>
 <l>            pāṇi koṇṭa palkāṉ melluṟi</l>
 <l>            ñelikōṟ kalappai yataḷoṭu curukkip</l>
@@ -47,7 +45,7 @@
 <l>            mullai cāṉṟa kaṟpiṉ </l>
 <l>            melliyaṟ kuṟumaka ḷuṟaivi ṉūrē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>It [is] in the woodlands,</l>
 <l rend="indent">where the milk-selling shepherd, palm-mat put on [his] back,</l>
 <l rend="indent2">folding together with a skin the bag<note place="foot">Or: a <term xml:lang="ta">kalappai</term> which consists of skin.</note> [and] churning-wood,</l>

@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,16 +27,16 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA220-kiḷavi">
-        <p type="edition">1. itu kuṟai nērnta tōḻi talaimakaḷai mukampukkatu.
+      <div rend="parallel">
+        <p xml:id="NA220-kiḷavi">1. itu kuṟai nērnta tōḻi talaimakaḷai mukampukkatu.
             2. piṉṉiṉṟa talaimakaṉ ṟōḻi kēṭpat talaimakaḷai yōmpaṭuttatūumām.
             3. tāṉ āṟṟāṉāyc colliyatūumām.</p>
-        <p type="translation" xml:lang="en">1. This is how the confidante who had granted [HIS] request sought favour with HER.
+        <p xml:lang="en">1. This is how the confidante who had granted [HIS] request sought favour with HER.
             2. It is also how the confidante cheered HER up so that HE who was standing behind [her] would hear.
             3. It is also what he said as one who could not bear it.</p>
       </div>
-      <div xml:id="NA220">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA220">
 <l>            ciṟumaṇi toṭarntu peruṅkaccu niṟīik</l>
 <l>            kuṟumuki ḻerukkiṉ kaṇṇi cūṭi</l>
 <l>            yuṇṇā naṉmāp paṇṇi yemmuṭaṉ</l>
@@ -51,7 +48,7 @@
 <l>            kayalē ruṇkaṭ kuṟumakaṭ</l>
 <l>            kayalō rākaleṉ ṟemmoṭu paṭalē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>All too noble indeed</l>
 <l>[are] the young(?) little people<note place="foot"><term xml:lang="ta">ciṟu kuṟu mākkaḷ</term>: the first attribute, ciṟu, presumably refers to the age of the people, that is, they are children or youths. kuṟu is a usual attribute for the hill inhabitants, and it might either refer to their being short of stature, or it might be an adjective to <term xml:lang="ta">kuṟavam</term>. (Or is it possible that the name has a semantic meaning, that they are actually called "the short people?)</note> who move about<note place="foot"><term xml:lang="ta">tiritaru</term>: <term xml:lang="ta">taru</term> in its usual auxiliary function of an unstoppable movement. <term xml:lang="ta">tiri</term> as a verbal root can either be the intransitive, and then refer to the movement of the people themselves, or the transitive, and then <term xml:lang="ta">mā</term> might be the direct object: they drag the horse along the street, as T.V.G. interprets it.</note> together in the street,</l>
 <l rend="indent2">together with us on the good horse that does not eat,<note place="foot">Thus another circumscription of the <term xml:lang="ta">maṭal</term>, the horse made out of palmyra stems.</note></l>

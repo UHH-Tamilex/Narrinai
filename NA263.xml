@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA263-kiḷavi">
-        <p type="edition">itu ciṟaippuṟamākat tōḻi talaimakaṉai varaivu kaṭāyatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante urged HIM for marriage when [he] was behind the fence.</p>
+      <div rend="parallel">
+        <p xml:id="NA263-kiḷavi">itu ciṟaippuṟamākat tōḻi talaimakaṉai varaivu kaṭāyatu.</p>
+        <p xml:lang="en">This is how the confidante urged HIM for marriage when [he] was behind the fence.</p>
         </div>
-      <div xml:id="NA263">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA263">
 <l>            piṟaivaṉap piḻanta nutalum yāḻani</l>
 <l>            ṉiṟaivarai nillā vaḷaiyu maṟaiyā</l>
 <l>            tūralar tūṟṟuṅ kauvaiyu nāṇiṭ</l>
@@ -47,7 +44,7 @@
 <l>            karappavuṅ karappavuṅ kaimmik</l>
 <l>            kuraitta tōḻi yuṇka ṇīrē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l rend="indent2">Even if we do not tell him a word,</l>
 <l rend="indent">out of shame for [our] forehead that has lost [its] crescent moon beauty</l>
 <l rend="indent">and [our] bangles that won’t stay on the joints and the rumour</l>

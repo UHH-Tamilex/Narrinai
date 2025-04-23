@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,13 +27,13 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA182-kiḷavi">
-        <p type="edition">1. itu varaivu nīṭṭippa vāṟṟāḷāya talaimakaḷ ciṟaippuṟamākac colliyatu.
+      <div rend="parallel">
+        <p xml:id="NA182-kiḷavi">1. itu varaivu nīṭṭippa vāṟṟāḷāya talaimakaḷ ciṟaippuṟamākac colliyatu.
             2. varaivu nīṭṭippat talaimaka ḷāṟṟāmai yaṟinta tōḻi ciṟaippuṟamākac colli varaivu kaṭāyatūumām.</p>
-        <p type="translation" xml:lang="en">ET: 1. This is what SHE, who was unable to bear it when [he] delayed marriage, said while [HE] was behind the fence. 2. It is also how the confidante, who knew of HER inability to bear it when [he] delayed marriage, urged [him] for marriage, speaking while [HE] is behind the fence.</p>
+        <p xml:lang="en">ET: 1. This is what SHE, who was unable to bear it when [he] delayed marriage, said while [HE] was behind the fence. 2. It is also how the confidante, who knew of HER inability to bear it when [he] delayed marriage, urged [him] for marriage, speaking while [HE] is behind the fence.</p>
       </div>
-      <div xml:id="NA182">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA182">
 <l>            nilavu maṟaintaṉ ṟiruḷum paṭṭaṉ</l>
 <l>            ṟōvat taṉṉa viṭaṉuṭai varaippiṟ</l>
 <l>            pāvai yaṉṉa niṟpuṟaṅ kākkuñ</l>
@@ -47,7 +45,7 @@
 <l>            vaṟuntalaip peruṅkaḷiṟu pōlat</l>
 <l>            tamiyaṉ vantōṉ paṉiyalai nilaiyē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>Moonlight has been hidden and darkness has come</l>
 <l>and mother has fallen asleep in excellent prosperity,</l>
 <l rend="indent3">guarding us like the pupil<note place="foot">Or: "like a doll", T.V.G. ascertaining that beloved girls can be thought of as dolls.</note> [of her eye]</l>

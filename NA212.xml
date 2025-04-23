@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA212-kiḷavi">
-        <p type="edition">itu poruṇ muṭittut talaimakaṉoṭu vanta vāyilkaḷ vāy varavu kēṭṭa tōḻi talaimakaṭkuc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what the confidante, who had heard of [his] coming from the mouth of the mediator wo had come along with HIM agter having accomplished wealth, said to HER.</p>
+      <div rend="parallel">
+        <p xml:id="NA212-kiḷavi">itu poruṇ muṭittut talaimakaṉoṭu vanta vāyilkaḷ vāy varavu kēṭṭa tōḻi talaimakaṭkuc colliyatu.</p>
+        <p xml:lang="en">This is what the confidante, who had heard of [his] coming from the mouth of the mediator wo had come along with HIM agter having accomplished wealth, said to HER.</p>
       </div>
-      <div xml:id="NA212">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA212">
 <l>            pārvai vēṭṭuvaṉ paṭuvalai verīi</l>
 <l>            neṭuṅkāṟ kaṇantuḷam pulampuko ṭeḷviḷi</l>
 <l>            curañcel koṭiyar katumeṉa vicaikku</l>
@@ -50,7 +48,7 @@
 <l>matta nīḷiṭaic ceṉṟōr nattuṟantu</l>
 </lg>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>He has come to us, oh friend,</l>
 <l rend="indent2">crossing the long big hills</l>
 <l rend="indent">of the Vaṭukar with angry dogs [and] fierce-voiced Pampai drums,</l>

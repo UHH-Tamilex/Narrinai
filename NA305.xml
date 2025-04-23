@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA305-kiḷavi">
-        <p type="edition">1. itu naṟṟāy tōḻikkuc colliyatu. 2. maṉaimaruṭciyumām.</p>
-        <p type="translation" xml:lang="en">1. This is what the real mother said to the confidante. 2. It is also the confusion of the house.</p>
+      <div rend="parallel">
+        <p xml:id="NA305-kiḷavi">1. itu naṟṟāy tōḻikkuc colliyatu. 2. maṉaimaruṭciyumām.</p>
+        <p xml:lang="en">1. This is what the real mother said to the confidante. 2. It is also the confusion of the house.</p>
         </div>
-      <div xml:id="NA305">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA305">
 <l>variyaṇi pantum vāṭiya vayalaiyu</l>
 <l>mayilaṭi yaṉṉa mākkura ṉocciyuṅ</l>
 <l>kaṭiyuṭai viyaṉakark kāṇvarat tōṉṟat</l>
@@ -47,7 +44,7 @@
 <l>yilaṅkilai veḷvēl viṭalaiyai</l>
 <l>vilaṅkumalai yāriṭai naliyuṅko leṉavē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>The line-adorned ball and the faded Vayalai</l>
 <l>and the Nocci with big ears as a peacock’s foot,</l>
 <l rend="indent">when these appear for [my eyes] to see<note place="foot"><term xml:lang="ta">kāṇ vara</term>: how to account for <term xml:lang="ta">vara</term> here? "So that [I] come (= happen) to see [them]"?</note> in the well-protected wide</l>

@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA158-kiḷavi">
-        <p type="edition">iḵtāṟupārttuṟṟa vaccattāl ciṟaippuṟamākac colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what was said while [HE] was behind the fence out of fear after having seen the path.</p>
+      <div rend="parallel">
+        <p xml:id="NA158-kiḷavi">iḵtāṟupārttuṟṟa vaccattāl ciṟaippuṟamākac colliyatu.</p>
+        <p xml:lang="en">This is what was said while [HE] was behind the fence out of fear after having seen the path.</p>
       </div>
-      <div xml:id="NA158">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA158">
 <l>            amma vāḻi tōḻi namvayiṉ</l>
 <l>            yāṉō kāṇē ṉatutāṉ karantē</l>
 <l rend="indent4">            vantaṉṟu maṉṉō kaṇṇē kaṇṇiṟ</l>
@@ -46,7 +44,7 @@
 <l>            vēṅkai mutaloṭu tuṭaikku</l>
 <l>            mōṅkumalai nāṭaṉ varūu māṟē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>Alas, oh friend, among us(?)<note place="foot"><term xml:lang="ta">namvayiṉ</term>, 1st pl., is hard to integrate into the sentence, since the predicate is 1st sg., and as the exclusive nuance is already expressed by <term xml:lang="ta">yāṉō</term>, it is not quite clear what it contributes to the sense.</note></l>
 <l>I, on my part, don't see it, having hidden itself.</l>
 <l>{It has certainly come to the eye? For the eye,}</l>

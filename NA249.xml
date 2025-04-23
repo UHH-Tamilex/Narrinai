@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA249-kiḷavi">
-        <p type="edition">itu varaiviṭai melintatu.</p>
-        <p type="translation" xml:lang="en">This is what [expresses] a weakened [state] during the time to the marriage.</p>
+      <div rend="parallel">
+        <p xml:id="NA249-kiḷavi">itu varaiviṭai melintatu.</p>
+        <p xml:lang="en">This is what [expresses] a weakened [state] during the time to the marriage.</p>
         </div>
-      <div xml:id="NA249">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA249">
 <l>            irumpi ṉaṉṉa karuṅkōṭṭup puṉṉai</l>
 <l>            nīlat taṉṉa pācilai yakantoṟum</l>
 <l>            veḷḷi yaṉṉa viḷaṅkiṇar nāppaṭ</l>
@@ -48,7 +45,7 @@
 <l>            vampaṉ mūtū ralareḻac </l>
 <l>            ceṉṟa taṉṟō koṇkaṉ ṟērē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>The chariot of the man from the sea, hasn’t it gone</l>
 <l rend="indent">so that gossip rises in this talkative old village,</l>
 <l>[the chariot] which appeared<note place="foot">Here the variants <term xml:lang="ta">tōṉṟiya</term> and <term xml:lang="ta">tōṉṟi</term> both have to be connected with <term xml:lang="ta">tēr</term> (because the preceding absolutive <term xml:lang="ta">nillā</term> has to refer to the chariot), although <term xml:lang="ta">tōṉṟiya</term> would more easily construe with alar as subject.</note> noisily in the wealthy pretty quarter</l>

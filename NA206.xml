@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA206-kiḷavi">
-        <p type="edition">itu talaimakaṉ ciṟaippuṟattāṉākat tōḻi colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what the confidante said when HE was behind the fence.</p>
+      <div rend="parallel">
+        <p xml:id="NA206-kiḷavi">itu talaimakaṉ ciṟaippuṟattāṉākat tōḻi colliyatu.</p>
+        <p xml:lang="en">This is what the confidante said when HE was behind the fence.</p>
       </div>
-      <div xml:id="NA206">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA206">
 <l>            tuyttalaip puṉiṟṟukkural pālvār piṟaiñcit</l>
 <l>            tōṭalaik koṇṭaṉa vēṉa leṉṟu</l>
 <l>            tuṟukaṉ mīmicaik kuṟuvaṉa kuḻīic</l>
@@ -47,7 +45,7 @@
 <l>            kalkeḻu nāṭaṉ kēṇmai </l>
 <l>            yaṟintaṉaḷ kollaḵ taṟikaleṉ yāṉē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l rend="indent2">When my father came,</l>
 <l rend="indent">[thinking] “the millet [plants] have come to sway in masses,</l>
 <l rend="indent">[their] cotton-headed newly born ears bowing, overflowing with milk”<note place="foot">The subtle syntax especially of the first two lines is once again far from clear. The most natural thing is to connect <term xml:lang="ta">koṇṭaṉa</term> with <term xml:lang="ta">ēṉal</term>., and explain the plural as the single millet plants. But what is the meaning of <term xml:lang="ta">koḷ</term> here? Do we simply have to understand the auxiliary here, as giving a reflexive nuance to the <term xml:lang="ta">alai</term>?</note>,</l>

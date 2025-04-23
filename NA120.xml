@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA120-kiḷavi">
-        <p type="edition">itu viruntu vāyilākap pukka talaivaṉ colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what HE said who had entered, [wishing for] a feast as a mediator.</p>
+      <div rend="parallel">
+        <p xml:id="NA120-kiḷavi">itu viruntu vāyilākap pukka talaivaṉ colliyatu.</p>
+        <p xml:lang="en">This is what HE said who had entered, [wishing for] a feast as a mediator.</p>
       </div>
-      <div xml:id="NA120">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA120">
 <l>            taṭamarup perumai maṭanaṭaik kuḻavi</l>
 <l>            tūṇṭoṟum yātta kāṇṭaku nalliṟ</l>
 <l>            koṭuṅkuḻai peyta ceḻuñcey pēḻai</l>
@@ -48,7 +46,7 @@
 <l>            ciṟiya muḷḷeyiṟu tōṉṟa</l>
 <l>            muṟuval koṇṭa mukaṅkāṇ kammē.</l>
     </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>That dark young woman, she [is] in the kitchen,<note place="foot">Syntax and impact of lines 3-9 are not at all clear and, as usual, under-marked.</note></l>
 <l rend="indent">being vexed with us, she who wiped off with the top of [her] pretty cloth</l>
 <l rend="indent">the perspiration in many minute [drops], impressed on her crescent</l>

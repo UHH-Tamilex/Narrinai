@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA109-kiḷavi">
-        <p type="edition">itu piriviṭai yāṟṟāḷāya talaimakaḷatu nilai kaṇṭa tōḻikkut talaimakaḷ colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what SHE said to [her] confidante who saw state of HER who unable to bear it in the time of separation.</p>
+      <div rend="parallel">
+        <p xml:id="NA109-kiḷavi">itu piriviṭai yāṟṟāḷāya talaimakaḷatu nilai kaṇṭa tōḻikkut talaimakaḷ colliyatu.</p>
+        <p xml:lang="en">This is what SHE said to [her] confidante who saw state of HER who unable to bear it in the time of separation.</p>
       </div>
-      <div xml:id="NA109">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA109">
 <l>            oṉṟutu meṉṟa toṉṟupaṭu naṭpiṟ</l>
 <l>            kātala rakaṉṟeṉak kalaṅkip pētuṟ</l>
 <l>            ṟaṉṉa tōvin naṉṉuta ṉilaiyeṉa</l>
@@ -46,7 +44,7 @@
 <l>            ṉilaiyeṉa voruvē ṉāki</l>
 <l>            yulamarak kaḻiyumip pakaṉmaṭi poḻutē.</l>
     </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>[O you of] adorning jewels who do not stop asking:</l>
 <l rend="indent2">"being confused [and] agitated because [your] lover departed,</l>
 <l rend="indent2">in intimacy bound of old that said “we will be one”,</l>

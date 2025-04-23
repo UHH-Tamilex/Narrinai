@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA344-kiḷavi">
-        <p type="edition">itu tōḻi ciṟaippuṟamākat talaimakaṉ kēṭpac colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what the confidante said so that HE would hear when he was behind the fence.</p>
+      <div rend="parallel">
+        <p xml:id="NA344-kiḷavi">itu tōḻi ciṟaippuṟamākat talaimakaṉ kēṭpac colliyatu.</p>
+        <p xml:lang="en">This is what the confidante said so that HE would hear when he was behind the fence.</p>
         </div>
-      <div xml:id="NA344">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA344">
 <l>            aṇivarai maruṅki ṉaituvaḷarn tiṭṭa</l>
 <l>            maṇiyēr tōṭṭa maiyā rēṉa</l>
 <l>            lirumpiṭit taṭakkaiyiṟ ṟaṭaiiya perumpuṉaṅ</l>
@@ -49,7 +46,7 @@
 <l>            centiṉai yuṇaṅka ṟokukku</l>
 <l>            miṉkaḷ yāṇarttam muṟaivi ṉūrkkē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l rend="indent2">If our eyes [are] guarding, [o you of] choice jewels,</l>
 <l rend="indent">            the big field, plump<note place="foot">Actually the <term xml:lang="ta">taṭaiiya</term> is awkwardly positioned. It cannot well apply to the field. To be precise, here it looks rather like a real <term xml:lang="ta">peyareccam</term> (of a defective verb): "the big field on which, as the broad trunk of the large she-elephant, the millet has become plump".</note> as the broad trunk of the large she-elephant,</l>
 <l rend="indent">            of millet, full of collyrium, with leaves resembling sapphires(?),</l>

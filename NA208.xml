@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA208-kiḷavi">
-        <p type="edition">itu celavuṟṟāratu kuṟippaṟin tāṟṟāḷāya talaimaka ḷuraippat tōḻi colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what the confidante said when SHE spoke who was unable to bear it after having understood the intention of the one who was about to go.</p>
+      <div rend="parallel">
+        <p xml:id="NA208-kiḷavi">itu celavuṟṟāratu kuṟippaṟin tāṟṟāḷāya talaimaka ḷuraippat tōḻi colliyatu.</p>
+        <p xml:lang="en">This is what the confidante said when SHE spoke who was unable to bear it after having understood the intention of the one who was about to go.</p>
       </div>
-      <div xml:id="NA208">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA208">
 <l>            viṟalcāy viḷaṅkiḻai nekiḻa vimmi</l>
 <l>            yaṟalpō ṟeṇmaṇi yiṭaimulai naṉaippa</l>
 <l>            viḷivila kaliḻuṅ kaṇṇoṭu peritaḻin</l>
@@ -48,7 +46,7 @@
 <l>            yiṉṟuṇaip pirintōr nāṭit</l>
 <l>            taruvatu pōlum perumaḻaik kuralē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l rend="indent2">Sobbing, while the shining jewels become loose, [your] bravery exhausted,</l>
 <l rend="indent2">greatly desolate, with eyes that weep unceasingly,</l>
 <l rend="indent">so that [your] breasts become wet in between with sapphires clear as water,</l>

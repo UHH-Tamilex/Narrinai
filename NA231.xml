@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA231-kiḷavi">
-        <p type="edition">ciṟaippuṟamākat tōḻi colli varaivu kaṭāyatu.</p>
-        <p type="translation" xml:lang="en">The confidante urging for marriage, speaking while [HE] is behind the fence.</p>
+      <div rend="parallel">
+        <p xml:id="NA231-kiḷavi">ciṟaippuṟamākat tōḻi colli varaivu kaṭāyatu.</p>
+        <p xml:lang="en">The confidante urging for marriage, speaking while [HE] is behind the fence.</p>
       </div>
-      <div xml:id="NA231">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA231">
 <l>            maiyaṟa viḷaṅkiya maṇiniṟa vicumpiṟ</l>
 <l>            kaitoḻu marapi ṉeḻumīṉ pōlap</l>
 <l>            peruṅkaṭaṟ parappi ṉirumpuṟan tōyac</l>
@@ -46,7 +43,7 @@
 <l>            kāṉalaṅ koṇkaṉ ṟanta</l>
 <l>            kāta ṉammoṭu nīṅkā māṟē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>The ghat,</l>
 <l rend="indent">where the little white crows, many together, search,</l>
 <l rend="indent3">so that [their] big backs get wet, the extension of the dark sea,</l>

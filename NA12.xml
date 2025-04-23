@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA12-kiḷavi">
-        <p type="edition">itu tōḻi yuṭaṉpōk kañcuvittatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante induces fear of elopement.</p>
+      <div rend="parallel">
+        <p xml:id="NA12-kiḷavi">itu tōḻi yuṭaṉpōk kañcuvittatu.</p>
+        <p xml:lang="en">This is how the confidante induces fear of elopement.</p>
       </div>
-      <div xml:id="NA12">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA12">
 <l>            viḷampaḻaṅ kamaḻuṅ kamañcūṟ kuḻicip</l>
 <l>            pācan tiṉṟa tēykāṉ matta</l>
 <l>            neyteri yiyakkam veḷiṉmutaṉ muḻaṅkum</l>
@@ -48,7 +46,7 @@
 <l>            taṉvarait taṉṟiyuṅ kaluḻntaṉa kaṇṇē.</l>
 
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
         <l rend="indent">When the churning stick's base thunders,<note place="foot"><term xml:lang="ta">yakkam veḷil mutal muḻaṅkum</term>: or it "thunders melodiously".</note> in motion to clear the butter,</l>
         <l rend="indent">in the milk-mixture(?), [its] foot(?)<note place="foot">Strangely enough <term xml:lang="ta">kāl</term> seems here to refer to the head of the churning stick, for that is the portion on which the rope is fastened, while the actual foot should be submerged in the liquid.</note> diminished, eaten away by the cord,</l>
         <l rend="indent2">in the pot filled to the brim<note place="foot"><term xml:lang="ta">kaman cūl</term>: literally "the fully pregnant pot".</note>, smelling of wood-apple,</l>

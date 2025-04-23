@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA285-kiḷavi">
-        <p type="edition">itu tōḻi ciṟaippuṟamākat talaimakaṭkuc colluvāḷāyt talaimakaṉ kēṭpa “vampalu malaru māyiṟṟu” eṉṟu colliyatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante said, as one who speaks to HER, so that HE would hear when [he] was behind the fence “there has been scandal and gossip.”</p>
+      <div rend="parallel">
+        <p xml:id="NA285-kiḷavi">itu tōḻi ciṟaippuṟamākat talaimakaṭkuc colluvāḷāyt talaimakaṉ kēṭpa “vampalu malaru māyiṟṟu” eṉṟu colliyatu.</p>
+        <p xml:lang="en">This is how the confidante said, as one who speaks to HER, so that HE would hear when [he] was behind the fence “there has been scandal and gossip.”</p>
         </div>
-      <div xml:id="NA285">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA285">
 <l>            aravirai tēru māriru ṇaṭunā</l>
 <l>            ḷiraviṉ varuta laṉṟiyu muravukkaṇai</l>
 <l>            vaṉkaik kāṉavaṉ veñcilai vaṇakki</l>
@@ -48,7 +45,7 @@
 <l>            mayalō rampali ṉakalāṉ </l>
 <l>            pakaliṉ varūu meṟipuṉat tāṉē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>The intimacy with the man from a land of hills,</l>
 <l rend="indent">where the strong-handed forest man with strong arrow bends</l>
 <l rend="indent">[his] cruel bow</l>

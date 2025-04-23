@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA269-kiḷavi">
-        <p type="edition">1. itu tōḻi vāyiṉ maṟuttatu. 2. celavaḻuṅkuvittatu.</p>
-        <p type="translation" xml:lang="en">1. This is how the confidante refused mediation/the door. 2. What prevents going.</p>
+      <div rend="parallel">
+        <p xml:id="NA269-kiḷavi">1. itu tōḻi vāyiṉ maṟuttatu. 2. celavaḻuṅkuvittatu.</p>
+        <p xml:lang="en">1. This is how the confidante refused mediation/the door. 2. What prevents going.</p>
         </div>
-      <div xml:id="NA269">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA269">
 <l>            kurumpai maṇippūṭ peruñceṅ kiṇkiṇip</l>
 <l>            pālār tuvarvāyp paimpūð putalvaṉ</l>
 <l>            mālaik kaṭṭiṉ mārpūr piḻiya</l>
@@ -46,7 +43,7 @@
 <l>            ciṟupal kuṉṟa miṟappō</l>
 <l>            raṟivār yāravar muṉṉi yavvē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>The one who traverses many small hills</l>
 <l rend="indent">without saying</l>
 <l rend="indent">“she fetters<note place="foot">Here syntax is very awkwardly twisted, but I suggest to read <term xml:lang="ta">kātali</term> as subject to <term xml:lang="ta">piṇikkum</term>, while the <term xml:lang="ta">niṉaintu</term> clause has to be taken as a kind of parenthesis.</note> [me] like a creeper a big tree,”</l>

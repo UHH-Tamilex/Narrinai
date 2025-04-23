@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA203-kiḷavi">
-        <p type="edition">itu talaimakaṉ ciṟaippuṟattāṉākat tōḻi colli varaivu kaṭāyatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante urged for marriage, speaking when HE was behind the fence.</p>
+      <div rend="parallel">
+        <p xml:id="NA203-kiḷavi">itu talaimakaṉ ciṟaippuṟattāṉākat tōḻi colli varaivu kaṭāyatu.</p>
+        <p xml:lang="en">This is how the confidante urged for marriage, speaking when HE was behind the fence.</p>
       </div>
-      <div xml:id="NA203">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA203">
 <l>            muḻaṅkutirai keḻīiya mūri yekkart</l>
 <l>            taṭantāṭ ṭāḻai muḷḷuṭai neṭuntōṭ</l>
 <l>            ṭakamaṭaṟ potuḷiya mukaimutir vāṉpūṅ</l>
@@ -47,7 +45,7 @@
 <l>            ceytataṉ ṟappa laṉṟiyu </l>
 <l>            muyavuppuṇarn taṉṟiv vaḻuṅka lūrē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>Without considering that escaping is difficult,</l>
 <l rend="indent4">even if separated [just] for one day,</l>
 <l rend="indent">from our intimacy that was enjoyable in the seashore-grove</l>

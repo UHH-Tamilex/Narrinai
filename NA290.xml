@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA290-kiḷavi">
-        <p type="edition">1. itu parattai viṟali mēlvaittut talaimakaṉai neruṅkic colliyatu. 2. parattaiyiṟ piriya vāyilāyp pukka pāṇaṉukkut tōḻi colliyatūumām.</p>
-        <p type="translation" xml:lang="en">1. This is what the other women said in the direction of HIM, putting it on the dancing girl. 2. It is also what the confidante said to the brad who had entered as a mediator when [HE] had separated for another woman.</p>
+      <div rend="parallel">
+        <p xml:id="NA290-kiḷavi">1. itu parattai viṟali mēlvaittut talaimakaṉai neruṅkic colliyatu. 2. parattaiyiṟ piriya vāyilāyp pukka pāṇaṉukkut tōḻi colliyatūumām.</p>
+        <p xml:lang="en">1. This is what the other women said in the direction of HIM, putting it on the dancing girl. 2. It is also what the confidante said to the brad who had entered as a mediator when [HE] had separated for another woman.</p>
         </div>
-      <div xml:id="NA290">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA290">
 <l>            vayalveḷ ḷāmpaṟ cūṭutaru putuppūk</l>
 <l>            kaṉṟuṭaip puṉiṟṟā tiṉṟa micci</l>
 <l>            lōyvuṭai naṭaippaka ṭāru mūraṉ</l>
@@ -46,7 +43,7 @@
 <l>            taṇkamaḻ putumala rūtum</l>
 <l>            vaṇṭeṉa moḻipa makaṉeṉ ṉārē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>In case you desired<note place="foot"><term xml:lang="ta">veḵkiṉai āyiṉ</term>: here we have the perfective aspect in order to express the hypothetical conditional.</note> an attachment to the man from the village,</l>
 <l rend="indent">where a bull with weary gait feeds on the rest of what was eaten by a cow,</l>
 <l rend="indent2">with [her] calf just born, from the new flowers,</l>

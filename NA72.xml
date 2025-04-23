@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,13 +28,13 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA72-kiḷavi">
-        <p type="edition">itu tōḻi ciṟaippuṟamākat talaivik kuraippāḷāyc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what the confidante said as one who is talking to HER while [HE] was behind the fence.
+      <div rend="parallel">
+        <p xml:id="NA72-kiḷavi">itu tōḻi ciṟaippuṟamākat talaivik kuraippāḷāyc colliyatu.</p>
+        <p xml:lang="en">This is what the confidante said as one who is talking to HER while [HE] was behind the fence.
             (ETv: What the confidante, who had agreed to [his] request, said so that SHE would grant [his] request.)</p>
       </div>
-      <div xml:id="NA72">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA72">
 <l>            pēṇupa pēṇār periyō reṉpatu</l>
 <l>            nāṇuttak kaṉṟatu kāṇuṅ kālai</l>
 <l>            yuyirō raṉṉa ceyirtīr naṭpi</l>
@@ -49,7 +47,7 @@
 <l>            pularvatu kollavaṉ naṭpeṉa </l>
 <l>            vañcuva ṟōḻiyeṉ ṉeñcat tāṉē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>For saying “great ones may either value it or not”<note place="foot">T.V.G. reads <term xml:lang="ta">pēṇupa</term> not as a finite verb, but as an participial noun n.pl.: 'the things to be esteemed', that is, 'the doctrines to be followed'. So either great people do not heed them, or it is two finite verbs in sequence, then giving the meaning that great ones will either do one or the other, one cannot be sure. The point is in any case that one of the women has doubted HIS integrity, and the other one tells her off; actually I think SHE is talking to the confidante.</note></l>
 <l>shame is fitting<note place="foot"><term xml:lang="ta">takkaṉṟu</term>: here and in line 5 it is impossible to render the perfective aspect in the translation, unless with a quite heavy „it has come to be fitting".</note>, when one looks at it.<note place="foot"><term xml:lang="ta">kāṇum kālai</term>: this is one of the definition phrases well-known from the theoretical literature. The implication in this context might be that the thing stated is something obvious.</note></l>
 <l>Very great desolation is what is fitting indeed</l>

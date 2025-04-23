@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA320-kiḷavi">
-        <p type="edition">itu parattai taṉakkup pāṅkāyiṉār kēṭpa neruṅkic colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what the other woman said towards ??? so that those close to her would hear.</p>
+      <div rend="parallel">
+        <p xml:id="NA320-kiḷavi">itu parattai taṉakkup pāṅkāyiṉār kēṭpa neruṅkic colliyatu.</p>
+        <p xml:lang="en">This is what the other woman said towards ??? so that those close to her would hear.</p>
         </div>
-      <div xml:id="NA320">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA320">
 <l>            viḻavu muḻantaṉṟu muḻavun tūṅkiṉ</l>
 <l>            ṟevaṉkuṟit taṉaḷko leṉṟi yāyiṟ</l>
 <l>            ṟaḻaiyaṇin talamvaru malkuṟ ṟeruvi</l>
@@ -47,7 +44,7 @@
 <l>            yeḻiṉmā mēṉi makaḷir</l>
 <l>            viḻumān taṉartaṅ koḻunaraik kāttē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>The festival is over and the drums are hung up.</l>
 <l rend="indent3">If you should ask</l>
 <l rend="indent3">“what did she intend?”,</l>

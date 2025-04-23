@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA85-kiḷavi">
-        <p type="edition">itu talaivaṉ varavuṇarnta tōḻi talaivik kuraittatu.</p>
-        <p type="translation" xml:lang="en">This is what the condante, who had understood that HE would come, said to HER.</p>
+      <div rend="parallel">
+        <p xml:id="NA85-kiḷavi">itu talaivaṉ varavuṇarnta tōḻi talaivik kuraittatu.</p>
+        <p xml:lang="en">This is what the condante, who had understood that HE would come, said to HER.</p>
       </div>
-      <div xml:id="NA85">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA85">
 <l>            āymalar maḻaikkaṇ ṭeṇpaṉi yuṟaippavum</l>
 <l>            vēymaruḷ paṇaittōḷ viṟaliḻai nekiḻavu</l>
 <l>            mampaṉ mūtū rarava māyiṉuṅ</l>
@@ -47,7 +45,7 @@
 <l>            kāntaḷañ ciṟukuṭip pakukku </l>
 <l>            mōṅkumalai nāṭaṉiṉ ṉacaiyi ṉāṉē.</l>
         </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>Even when clear dew drips from [your] rain eyes, choice flowers,</l>
 <l>even when the victorious jewels on [your] bamboo-like bamboo shoulders become loose, even if the old village resounds in rumours,</l>
 <l rend="indent3">please let him not come, friend,</l>

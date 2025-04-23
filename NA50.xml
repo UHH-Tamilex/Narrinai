@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA50-kiḷavi">
-        <p type="edition">itu tōḻi pāṇaṟku vāyiṉ maṟuttatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante refused the door to the bard.</p>
+      <div rend="parallel">
+        <p xml:id="NA50-kiḷavi">itu tōḻi pāṇaṟku vāyiṉ maṟuttatu.</p>
+        <p xml:lang="en">This is how the confidante refused the door to the bard.</p>
       </div>
-      <div xml:id="NA50">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA50">
 <l>            aṟiyā maiyi ṉaṉṉai yañcik</l>
 <l>            kuḻaiyaṉ kōtaiyaṉ kuṟumpain toṭiyaṉ</l>
 <l>            viḻavayar tuṇaṅkai taḻūukañ cella</l>
@@ -48,7 +46,7 @@
 <l>            naṟunuta larivai pōṟṟeṉ </l>
 <l>            ciṟumai perumaiyiṟ kāṇātu tuṇintē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l rend="indent2">Fearing mother for [her] not knowing,</l>
 <l>we didn't go to embrace [him] in the Tuṇaṅkai danced at the festival,</l>
 <l rend="indent3">him with earrings, a garland [and] small green[-golden] bracelets.</l>

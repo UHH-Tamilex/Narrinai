@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA255-kiḷavi">
-        <p type="edition">iḵtāṟupārttuṟṟatu.</p>
-        <p type="translation" xml:lang="en">This is what is experienced when seeing the path.</p>
+      <div rend="parallel">
+        <p xml:id="NA255-kiḷavi">iḵtāṟupārttuṟṟatu.</p>
+        <p xml:lang="en">This is what is experienced when seeing the path.</p>
         </div>
-      <div xml:id="NA255">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA255">
 <l>            kaḻutukāl kiḷara vūrmaṭin taṉṟē</l>
 <l>            yurukeḻu marapiṟ kuṟiñci pāṭik</l>
 <l>            kaṭiyuṭai viyaṉakark kāṉavar tuñcār</l>
@@ -48,7 +45,7 @@
 <l>            ṭirumaṇi yaravuttērn tuḻala </l>
 <l>            vurumuccivan teṟiyu mōṅkuvarai yāṟē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>While the time of the demons comes up, the village has become inactive.</l>
 <l rend="indent2">Singing [their] fearful Kuṟiñci [tune] in the customary way</l>
 <l>the forest people(?)<note place="foot"><term xml:lang="ta">kāṉavar</term>: here there is reason to consider an emendation to <term xml:lang="ta">kāvalar</term>, as would be much better in tune with topos and context.</note> in [their] protected wide mansion don’t sleep.</l>

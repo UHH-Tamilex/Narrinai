@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA38-kiḷavi">
-        <p type="edition">itu talaivi vaṉpuṟai yetiraḻintuc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what SHE said in answer to consolation.</p>
+      <div rend="parallel">
+        <p xml:id="NA38-kiḷavi">itu talaivi vaṉpuṟai yetiraḻintuc colliyatu.</p>
+        <p xml:lang="en">This is what SHE said in answer to consolation.</p>
       </div>
-      <div xml:id="NA38">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA38">
 <l>            vēṭṭam poyyātu valaivaḷañ ciṟappap</l>
 <l>            pāṭṭam poyyātu paratavar pakara</l>
 <l>            virumpaṉan tīmpiḻi yuṇpōr makiḻu</l>
@@ -47,7 +45,7 @@
 <l>            peṇṇai yivaru māṅkaṇ</l>
 <l>            veṇmaṇaṟ paṭappaiyem maḻuṅka lūrē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
 <l>Even if the loudly roaring [sea?]<note place="foot"><term xml:lang="ta">ārkali</term> is, according to T.V.G., to be understood as a <term xml:lang="sa">bahuvrīhi</term> denoting "sea".</note> is fertile,</l>
 <l rend="indent2">where the eaters are delighted,</l>

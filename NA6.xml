@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA6-kiḷavi">
-        <p type="edition">iḵtiravukkuṟip pāṟpaṭ ṭāṟṟāṉāya talaivaṉ ṟōḻi kēṭpat taṉṉeñciṟkuc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what he, who was unable to take part in the night tryst, said to his heart while the confidante was listening.</p>
+      <div rend="parallel">
+        <p xml:id="NA6-kiḷavi">iḵtiravukkuṟip pāṟpaṭ ṭāṟṟāṉāya talaivaṉ ṟōḻi kēṭpat taṉṉeñciṟkuc colliyatu.</p>
+        <p xml:lang="en">This is what he, who was unable to take part in the night tryst, said to his heart while the confidante was listening.</p>
       </div>
-      <div xml:id="NA6">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA6">
 <l>            nīrvaḷa rāmpaṟ ṟūmpuṭait tiraṇkā</l>
 <l>            ṉārurit taṉṉa mataṉiṉ māmaik</l>
 <l>            kuvaḷai yaṉṉa vēnteḻiṉ maḻaikka</l>
@@ -49,7 +47,7 @@
 <l>            perumpē tuṟuvaḷyām vantaṉa meṉavē.</l>
 
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
         <l rend="indent">If only [we] could get someone going to reach</l>
         <l rend="indent2">the little woman with big shoulders [and] hips with beauty spots,</l>
         <l rend="indent3">rain eyes of eminent grace like the blue waterlily,</l>

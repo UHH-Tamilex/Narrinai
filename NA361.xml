@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA361-kiḷavi">
-        <p type="edition">itu vāyilkaḷoṭu tōḻi yuṟaḻntu colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what the confidante said, being close with the mediators.</p>
+      <div rend="parallel">
+        <p xml:id="NA361-kiḷavi">itu vāyilkaḷoṭu tōḻi yuṟaḻntu colliyatu.</p>
+        <p xml:lang="en">This is what the confidante said, being close with the mediators.</p>
         </div>
-      <div xml:id="NA361">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA361">
 <l>           ciṟuvī mullaip peritukama ḻalari</l>
 <l>           tāṉuñ cūṭiṉa ṉiḷaiyaru malaintaṉar</l>
 <l>           vicumpukaṭap paṉṉa polampaṭaik kalimāp</l>
@@ -46,7 +43,7 @@
 <l>           marumpaṭa rakala nīkki</l>
 <l>           viruntayar viruppiṉa ṭiruntiḻai yōḷē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>Very fragrant blossoms of small-blossomed jasmine</l>
 <l>he himself wore, and [his] young [attendants] put [them] on, too.</l>
 <l>The spirited horses with golden harness,</l>

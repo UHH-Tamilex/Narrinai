@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA25-kiḷavi">
-        <p type="edition">itu talaimakaḷait tōḻi kuṟai nayappak kūṟiyatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante told HER to grant [HIS] request.</p>
+      <div rend="parallel">
+        <p xml:id="NA25-kiḷavi">itu talaimakaḷait tōḻi kuṟai nayappak kūṟiyatu.</p>
+        <p xml:lang="en">This is how the confidante told HER to grant [HIS] request.</p>
       </div>
-      <div xml:id="NA25">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA25">
 <l>            avvaḷai verini ṉarakkīrt taṉṉa</l>
 <l>            cevvari yitaḻa cēṇāṟu piṭavi</l>
 <l>            ṉaṟuntā tāṭiya tumpi pacuṅkēḻp</l>
@@ -49,7 +47,7 @@
 <l>            kaṇṭuṅ kaḻaṟoṭi valittaveṉ</l>
 <l>            paṇpil ceyti niṉaippā kiṉṟē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
 <l>The man from the fertile mountain,</l>
 <l rend="indent">where the bee that played in the fragrant pollen of the</l>

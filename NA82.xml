@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA82-kiḷavi">
-        <p type="edition">itu tōḻiyiṟ puṇarccikkaṇ ṭaṉṉilaik koḷīiyatu.</p>
-        <p type="translation" xml:lang="en">This is how HE makes his stand during the union [with the help] of the confidante.</p>
+      <div rend="parallel">
+        <p xml:id="NA82-kiḷavi">itu tōḻiyiṟ puṇarccikkaṇ ṭaṉṉilaik koḷīiyatu.</p>
+        <p xml:lang="en">This is how HE makes his stand during the union [with the help] of the confidante.</p>
       </div>
-      <div xml:id="NA82">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA82">
 <l>            nōyu makiḻcciyum vīṭac ciṟanta</l>
 <l>            vēyvaṉap puṟṟa tōḷai nīyē</l>
 <l>            yeṉṉuḷ varutiyō naṉṉaṭaik koṭicci</l>
@@ -47,7 +45,7 @@
 <l>            kōṇāy koṇṭa koḷḷaik </l>
 <l>            kāṉavar peyarkkuñ ciṟukuṭi yāṉē.</l>
         </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>O you with a shoulder that had the beauty of bamboo,</l>
 <l rend="indent2">excellent, while it is destroyed by pain and joy<note place="foot">Actually the variant <term xml:lang="ta">makiḻcci</term>, "joy", seems to make more motific sense: it is the alternation between HIS coming and not coming that destroys HER beauty. This literal paradox (that beauty might be destroyed by joy) might have induced a later scribe to exchange <term xml:lang="ta">makiḻcci</term> by <term xml:lang="ta">nekiḻcci</term>. Strange, however, is this address in the context of the poem, if we are prepared to take it with tradition as a poem addressed to a girl too young to understand the implication (in which case it might be preferable to read <term xml:lang="ta">nekiḻcci</term> and take the infinitive in another way: "so that pain and emaciation will be destroyed"). If we take it as an offer of marriage (which would be very rare in this poetry), it would be aptly addressed to a woman worn out by a phase of <term xml:lang="ta">kaḷavu</term>.</note>,</l>
 <l>will you come to me, o creeper-woman of good gait?</l>

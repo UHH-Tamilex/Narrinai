@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,14 +27,14 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA128-kiḷavi">
-        <p type="edition">1. itu kuṟai nērnta tōḻi talaivi kuṟai nayappak kūṟiyatu.
+      <div rend="parallel">
+        <p xml:id="NA128-kiḷavi">1. itu kuṟai nērnta tōḻi talaivi kuṟai nayappak kūṟiyatu.
             2. tōḻikkut talaivi yaṟattoṭu niṉṟatūumām.</p>
-        <p type="translation" xml:lang="en">1. This is what the confindante who agreed to [his] request said so that SHE would grant the request.
+        <p xml:lang="en">1. This is what the confindante who agreed to [his] request said so that SHE would grant the request.
             2. It is also how SHE stood up with virtue (~ revealed the truth) to [her] confidante.</p>
       </div>
-      <div xml:id="NA128">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA128">
 <l>            pakaleri cuṭariṉ mēṉi cāyavum</l>
 <l>            pāmpūr matiyi ṉutaloḷi karappavu</l>
 <l>            meṉakkunī yuraiyā yāyiṉai niṉakkiyā</l>
@@ -49,7 +47,7 @@
 <l>            ṭaḵtē niṉainta neñcamō </l>
 <l>            ṭiḵtā kiṉriyā ṉuṟṟa nōyē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l rend="indent">“Although [your] body is emaciated</l>
 <l rend="indent3">as the glow of a flame at midday,</l>
 <l rend="indent">although the brightness of [your] forehead is hidden</l>

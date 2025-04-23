@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA219-kiḷavi">
-        <p type="edition">itu varaiviṭai vaittup piriya vāṟṟāḷāya talaimakaḷ tōḻikkuc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what SHE who was unable to bear it when [HE] separated after having fixed the time of marriage said to the confidante.</p>
+      <div rend="parallel">
+        <p xml:id="NA219-kiḷavi">itu varaiviṭai vaittup piriya vāṟṟāḷāya talaimakaḷ tōḻikkuc colliyatu.</p>
+        <p xml:lang="en">This is what SHE who was unable to bear it when [HE] separated after having fixed the time of marriage said to the confidante.</p>
       </div>
-      <div xml:id="NA219">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA219">
 <l>            kaṇṇun tōḷun taṇṇaṟuṅ katuppum</l>
 <l>            paḻanala miḻantu pacalai pāya</l>
 <l>            viṉṉuyir perumpiṟi tāyiṉu meṉṉatūum</l>
@@ -47,7 +44,7 @@
 <l>            kāṉalam peruntuṟaic cērppaṉ</l>
 <l>            ṟāṉē yāṉē puṇarnta māṟē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l rend="indent">Even if [my] sweet life becomes greatly different,<note place="foot"><term xml:lang="ta">perum piṟitu āku/uṟu</term>: this idiom is traditionally interpreted as a metaphor for death (cf. KT 17, 69, 302).</note></l>
 <l rend="indent2">when eyes and shoulder and cool fragrant hair</l>
 <l rend="indent2">have lost [their] old goodness while pallor has spread,</l>

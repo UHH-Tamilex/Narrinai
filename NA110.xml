@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA110-kiḷavi">
-        <p type="edition">1. itu maṉaimaruṭci. 2. makaṇilai yuraittatūumām.</p>
-        <p type="translation" xml:lang="en">1. This is the confusion in the house. 2. It is also what is said about the state of the girl.</p>
+      <div rend="parallel">
+        <p xml:id="NA110-kiḷavi">1. itu maṉaimaruṭci. 2. makaṇilai yuraittatūumām.</p>
+        <p xml:lang="en">1. This is the confusion in the house. 2. It is also what is said about the state of the girl.</p>
       </div>
-      <div xml:id="NA110">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA110">
 <l>            piracaṅ kalanta veṇcuvait tīmpāl</l>
 <l>            virikatirp poṟkalat torukai yēntip</l>
 <l>            puṭaippiṟ cuṟṟu pūntalaic ciṟukō</l>
@@ -49,7 +47,7 @@
 <l>            ḷoḻukunīr nuṇaṅkaṟal pōlap</l>
 <l>            poḻutumaṟut tuṇṇuñ ciṟumatu kaiyaḷē.</l>
     </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>She playing small games, who refuses commands,</l>
 <l rend="indent">running through the arbour so that [her] upright old foster-mother</l>
 <l rend="indent2">with soft white tresses stays behind, [her] motion become weak,</l>

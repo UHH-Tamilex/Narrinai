@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,13 +27,13 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA281-kiḷavi">
-        <p type="edition">1. itu vaṉpoṟai yetiraḻinta talaimaka ṭōḻikkuc colliyatu.
+      <div rend="parallel">
+        <p xml:id="NA281-kiḷavi">1. itu vaṉpoṟai yetiraḻinta talaimaka ṭōḻikkuc colliyatu.
             2. āṟṟāḷeṉak kavaṉṟa tōḻi talaimakaṭ kuraittūumām.</p>
-        <p type="translation" xml:lang="en">1. This is what SHE who was desolate inspite of encouragement said to the confidante. 2. It is also what the confidante who was anxious that [she] would not bear it said to HER.</p>
+        <p xml:lang="en">1. This is what SHE who was desolate inspite of encouragement said to the confidante. 2. It is also what the confidante who was anxious that [she] would not bear it said to HER.</p>
         </div>
-      <div xml:id="NA281">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA281">
 <l>            māciṉ maratta paliyuṇ kākkai</l>
 <l>            vaḷiporu neṭuñciṉait taḷiyoṭu tūṅki</l>
 <l>            velpōrc cōḻar kaḻāark koḷḷu</l>
@@ -49,7 +46,7 @@
 <l>            tuñcā mākalu maṟivō </l>
 <l>            raṉpilar tōḻinaṅ kāta lōrē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>He [is] devoid of love, friend, our lover,</l>
 <l>he who knows we will be sleepless ,</l>
 <l rend="indent">being very much troubled by the harshness of our [eyes’] dew,</l>

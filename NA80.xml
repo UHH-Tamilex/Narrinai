@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA80-kiḷavi">
-        <p type="edition">itu cēṭpaṭukkap paṭṭāṉāya talaivaṉ ṟōḻi kēṭpat taṉṉeñciṟ kuraittatu.</p>
-        <p type="translation" xml:lang="en">This is what HE, who was being kept at a distance, said to his heart while the confidante was listening.</p>
+      <div rend="parallel">
+        <p xml:id="NA80-kiḷavi">itu cēṭpaṭukkap paṭṭāṉāya talaivaṉ ṟōḻi kēṭpat taṉṉeñciṟ kuraittatu.</p>
+        <p xml:lang="en">This is what HE, who was being kept at a distance, said to his heart while the confidante was listening.</p>
       </div>
-      <div xml:id="NA80">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA80">
 <l>            maṉṟa verumai malartalaik kārā</l>
 <l>            ṉiṉṟīm pāṟpayaṅ koṇmār kaṉṟuviṭ</l>
 <l>            ṭūrkkuṟu mākkaṇ mēṟkoṇṭu kaḻiyum</l>
@@ -46,7 +44,7 @@
 <l>            peruntōṭ kuṟumaka ḷallatu</l>
 <l>            maruntupiṟi tillaiyā ṉuṟṟa nōykkē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>There is no other remedy for the pain I had</l>
 <l rend="indent">besides the little woman with big shoulders</l>
 <l rend="indent">who lets herself down in the cool pond during the month of Tai,<note place="foot">For women to bath in the month of Tai is, according to T.V.G., an austerity performed to gain certain benefits (in this case the acquisition of the right man); see also Kal. 59.10-13.</note></l>

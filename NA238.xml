@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA238-kiḷavi">
-        <p type="edition">itu talaimakaḷ paruvaṅkaṇ ṭaḻintatu.</p>
-        <p type="translation" xml:lang="en">This is how SHE is desolate when seeing the season.</p>
+      <div rend="parallel">
+        <p xml:id="NA238-kiḷavi">itu talaimakaḷ paruvaṅkaṇ ṭaḻintatu.</p>
+        <p xml:lang="en">This is how SHE is desolate when seeing the season.</p>
         </div>
-      <div xml:id="NA238">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA238">
 <l>            vaṟaṅkola vīnta kāṉattuk kuṟumpūṅ</l>
 <l>            kōtai makaḷir kuḻūunirai kaṭuppa</l>
 <l>            vaṇṭuvāy tiṟappa viṇṭa piṭava</l>
@@ -48,7 +45,7 @@
 <l>            kaṉiyā neñcat tāṉu </l>
 <l>            miṉiya vallaniṉ ṉiṭinavil kuralē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>O great big rain made in season,</l>
 <l rend="indent">situated<note place="foot"><term xml:lang="ta">naṇṇiya</term> is slightly uncomfortable here, and T.V.G. wants to connect it with the <term xml:lang="ta">avar</term> of line 6 (which is very much in the tradition of <term xml:lang="ta">Nacciṉārkkiṉiyar</term>), but the point might be that the season probably has also reached the road, not only HER village.</note> on the big road in evening twilight,</l>
 <l rend="indent2">with Piṭavus that have unfolded when the bees opened</l>

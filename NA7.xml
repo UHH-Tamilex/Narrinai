@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA7-kiḷavi">
-        <p type="edition">itu paṭṭapiṉṟai varaiyātu kiḻavō ṉeṭṭiṭaik kaḻintu poruḷvayiṟ piriya āṟṟāḷāyt talaivikkut tōḻi colliyatu. </p>
-        <p type="translation" xml:lang="en">This is what the confidante said to HER who was unable to bear it when HE separated for the sake of wealth after a long interval had passed of not marrying after it had happened.</p>
+      <div rend="parallel">
+        <p xml:id="NA7-kiḷavi">itu paṭṭapiṉṟai varaiyātu kiḻavō ṉeṭṭiṭaik kaḻintu poruḷvayiṟ piriya āṟṟāḷāyt talaivikkut tōḻi colliyatu. </p>
+        <p xml:lang="en">This is what the confidante said to HER who was unable to bear it when HE separated for the sake of wealth after a long interval had passed of not marrying after it had happened.</p>
       </div>
-      <div xml:id="NA7">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA7">
 <l>            cūruṭai naṉantalaic cuṉainīr malkap</l>
 <l>            peruvarai yaṭukkat taruvi yārppak</l>
 <l>            kallalait tiḻitaruṅ kaṭuvaraṟ kāṉyāṟṟuk</l>
@@ -47,7 +45,7 @@
 <l>            ciṟiyilaic cantiṉa vāṭuperuṅ kāṭṭē.</l>
 
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
         <l>The sky, rumbling with loud-voiced thunder,</l>
         <l rend="indent2">so that the water in the mountain pools increases in the fearful vast area,</l>
 	    <l rend="indent2">so that waterfalls roar on the side of the big mountain,</l>

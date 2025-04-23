@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,13 +27,13 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA310-kiḷavi">
-        <p type="edition">1. itu vāyilākap pukka viṟaliyait tōḻi colliyatu.
+      <div rend="parallel">
+        <p xml:id="NA310-kiḷavi">1. itu vāyilākap pukka viṟaliyait tōḻi colliyatu.
             2. viṟaliyai yetirppaṭṭa parattai colliyatūumām.</p>
-        <p type="translation" xml:lang="en">1. This is what the confidante said to the dancing girl who had entered as a mediator. 2. It is also what the other woman said who was confronted with the dancing girl.</p>
+        <p xml:lang="en">1. This is what the confidante said to the dancing girl who had entered as a mediator. 2. It is also what the other woman said who was confronted with the dancing girl.</p>
         </div>
-      <div xml:id="NA310">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA310">
 <l>            viḷakki ṉaṉṉa cuṭarviṭu tāmaraik</l>
 <l>            kaḷiṟṟuccevi yaṉṉa pācaṭai tayaṅka</l>
 <l>            vuṇṭuṟai makaḷi ririyak kuṇṭunīr</l>
@@ -49,7 +46,7 @@
 <l>            vaḷḷuyirt taṇṇumai pōla</l>
 <l>            vuḷyātu millatōr pōrvaiyuñ collē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>Foolish woman, opposed<note place="foot">Funnily, the interpretation of this poem depends on this one word <term xml:lang="ta">etirnta</term>, which obviously can mean both agreeing and disagreeing. If it is agreeing, then we can go along with the <term xml:lang="ta">kiḷavi</term> which makes this a poem addressed by the confidante to the <term xml:lang="ta">viṟali</term> as a matchmaker. If it is disagreeing, then it may well be a poem about a woman of the family (the neighbourhood) who does not want to give away the daughter, though it is clear that in the end everybody will have to consent.</note> to giving [your] daughter away</l>
 <l rend="indent">tomorrow to the man from the village, where the Vāḷai fish are leaping</l>
 <l rend="indent2">in the deep water so that the women retreat at the drinking[-water] ghat,</l>

@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA86-kiḷavi">
-        <p type="edition">itu kuṟittap paruvattiṉ viṉaimuṭittu vantamai kēṭṭa tōḻi talaivik kuraittatu.</p>
-        <p type="translation" xml:lang="en">This is what the confidante, who had heard of [his] return after the work had been finished at the time he intended, said to HER.</p>
+      <div rend="parallel">
+        <p xml:id="NA86-kiḷavi">itu kuṟittap paruvattiṉ viṉaimuṭittu vantamai kēṭṭa tōḻi talaivik kuraittatu.</p>
+        <p xml:lang="en">This is what the confidante, who had heard of [his] return after the work had been finished at the time he intended, said to HER.</p>
       </div>
-      <div xml:id="NA86">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA86">
 <l>            aṟavar vāḻi tōḻi maṟavar</l>
 <l>            vēleṉa virinta katuppiṟ ṟōla</l>
 <l>            pāṇṭi loppiṟ pakaṉṟai malaruṅ</l>
@@ -45,7 +43,7 @@
 <l>            naṟṟaḷir nayavara nuṭaṅku</l>
 <l>            muṟṟā vēṉiṉ muṉṉivan tōrē.</l>
         </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>Dutiful [is] he<note place="foot">Here we might also read a general statement, and then the construction has to be understood in a different way, namely <term xml:lang="ta">aṟavar</term> as an ante-positioned predicate noun and <term xml:lang="ta">vantōr</term> as subject: "dutiful [are] those who have come back before summer is at an end". The implication is in any case that HE has not come back in time, since SHE is shivering in the dew.</note>, oh friend,</l>
 <l>– who has come back before summer is at an end,</l>
 <l rend="indent">when the good sprouts of the mimosa are swaying so as to raise</l>
