@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA58-kiḷavi">
-        <p type="edition">itu pakaṟkuṟi vantu nīṅkun talaimakaṉ pōkku nōkkit tōḻi yiraviṉmēl vaittuc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what the confidante said, putting it on the night, having seen HIM go who had come to the day tryst [and] left.</p>
+      <div rend="parallel">
+        <p xml:id="NA58-kiḷavi">itu pakaṟkuṟi vantu nīṅkun talaimakaṉ pōkku nōkkit tōḻi yiraviṉmēl vaittuc colliyatu.</p>
+        <p xml:lang="en">This is what the confidante said, putting it on the night, having seen HIM go who had come to the day tryst [and] left.</p>
       </div>
-      <div xml:id="NA58">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA58">
 <l>            peṟumutu celvar poṉṉuṭaip putalvar</l>
 <l>            ciṟutōṭ kōtta cevvarip paṟaiyiṉ</l>
 <l>            kaṇṇakat teḻutiya kurīip pōlak</l>
@@ -48,7 +46,7 @@
 <l>            nīṭunīrp paṉittuṟaic cērppa </l>
 <l>            ṉōṭutēr nuṇṇuka nuḻaitta māvē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>Shouldn't they be slapped<note place="foot"><term xml:lang="ta">paṭīiyar mātō</term>: what may be the impact of <term xml:lang="ta">mātō</term>? Can it be a rhetorical question, implying the uncomfortable truth that there is actually no means to bring HIM here any faster?</note> with a stick,</l>
 <l rend="indent3">like the bird<note place="foot">The majority of the witnesses read <term xml:lang="ta">kurīi</term>, a small bird, which might or might not be a likely picture to adorn a child's drum, but how to imagine a bird-shaped stick for whipping horses? Preferable might be here, with G1+2, <term xml:lang="ta">kuṟiyē</term>, in spite of the problem of encountering an <term xml:lang="ta">-ē</term> in the middle of a subordinate period, but unfortunately this looks like an attempt at emendation.</note> drawn into the eye</l>
 <l rend="indent3">of the red-lined drum stringed to the small shoulder</l>

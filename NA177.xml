@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA177-kiḷavi">
-        <p type="edition">itu celavuk kuṟippaṟinta talaimakaḷ tōḻik kuraittatu.</p>
-        <p type="translation" xml:lang="en">This is what SHE who had understood [his] intention of going said to the confidante.</p>
+      <div rend="parallel">
+        <p xml:id="NA177-kiḷavi">itu celavuk kuṟippaṟinta talaimakaḷ tōḻik kuraittatu.</p>
+        <p xml:lang="en">This is what SHE who had understood [his] intention of going said to the confidante.</p>
       </div>
-      <div xml:id="NA177">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA177">
 <l>            parantupaṭu kūreri kāṉa naippa</l>
 <l>            marantī yuṟṟa makiḻtalai yaṅkāṭ</l>
 <l>            ṭotukkarum veñcura miṟantaṉar maṟṟavar</l>
@@ -46,7 +44,7 @@
 <l>            teḻuteḻi luṇkaṭ pāvai</l>
 <l>            yaḻitaru veḷḷa nīntu nāḷē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>He has but gone to traverse<note place="foot"><term xml:lang="ta">iṟantavar maṟṟu</term>: here the p.a. expresses the fact of the action being on its way, though not completed. What does the <term xml:lang="ta">maṟṟu</term> do here? Of all possible actions just this one?</note> the hot desert, difficult to control,</l>
 <l rend="indent">of the [once] delightful pretty wilderness where the trees have caught fire,</l>
 <l rend="indent2">while sharp flames, coming up [and] spreading, crush the forest.</l>

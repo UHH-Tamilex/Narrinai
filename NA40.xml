@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA40-kiḷavi">
-        <p type="edition">itu talaimakaṭkup pāṅkāyiṉār kēṭpap parattaic colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what the other woman said to HER when the people close [to her] were listening.</p>
+      <div rend="parallel">
+        <p xml:id="NA40-kiḷavi">itu talaimakaṭkup pāṅkāyiṉār kēṭpap parattaic colliyatu.</p>
+        <p xml:lang="en">This is what the other woman said to HER when the people close [to her] were listening.</p>
       </div>
-      <div xml:id="NA40">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA40">
 <l>            neṭunā voṇmaṇi kaṭimaṉai yiraṭṭak</l>
 <l>            kuraiyilaip pōkiya viravumaṇaṟ pantarp</l>
 <l>            perumpāṇ kāval pūṇṭeṉa vorucārt</l>
@@ -49,7 +47,7 @@
 <l>            vakaṉṟuṟai yūraṉum vantaṉaṉ</l>
 <l>            ciṟantōṉ peyaraṉ piṟanta māṟē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 
 <l rend="indent">While long-tongued bright bells sound in the protected house,</l>
 <l rend="indent2">because<note place="foot"><term xml:lang="ta">pūṇṭeṉa</term> presumably has to be understood as a causal clause, though it is not clear at all what could be reasoned for here. K.P. (based on N.I.) translates a comparison, but I for one do not see this in the text.</note> protection has been made by a great tune in the arbour</l>

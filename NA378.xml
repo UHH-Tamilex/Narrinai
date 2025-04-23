@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA378-kiḷavi">
-        <p type="edition">1. itu tōḻi ciṟaippuṟamākac colliyatu. 2. talaimaka ṉoruvaḻit taṇantapiṉṉai vaṉpoṟai yetirmoḻintatūumām.</p>
-        <p type="translation" xml:lang="en">1. This is what the confidante said when [HE] was behind the fence. 2. It is also how [SHE] was desolate in the face of consolation after HE had departed on a temporary absence.</p>
+      <div rend="parallel">
+        <p xml:id="NA378-kiḷavi">1. itu tōḻi ciṟaippuṟamākac colliyatu. 2. talaimaka ṉoruvaḻit taṇantapiṉṉai vaṉpoṟai yetirmoḻintatūumām.</p>
+        <p xml:lang="en">1. This is what the confidante said when [HE] was behind the fence. 2. It is also how [SHE] was desolate in the face of consolation after HE had departed on a temporary absence.</p>
         </div>
-      <div xml:id="NA378">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA378">
 <l>yāmamu neṭiya kaḻiyuṅ kāmamuṅ</l>
 <l>kaṇpaṭa līyātu perukun teṇkaṭaṉ</l>
 <l>muḻaṅkutirai muḻaviṉ pāṇiyiṟ paipayap</l>
@@ -49,7 +46,7 @@
 <l>pāṭimiḻ paṉinīrc cērppaṉoṭu</l>
 <l>nāṭā tiyainta naṇpiṉa taḷavē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>          Midnight is passing by for a long time and desire is</l>
 <l rend="indent">          increasing without granting the eyes to close.</l>
 <l rend="indent4">          The thundering waves<note place="foot">Actually we would expect another coordination here. But perhaps another -<term xml:lang="ta">um</term> was not possible for metrical reasons. In any case, it also seems possible to read three dependant temporal <term xml:lang="ta">peyareccam</term> clauses.</note></l>

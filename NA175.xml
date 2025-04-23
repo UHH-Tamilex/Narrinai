@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA175-kiḷavi">
-        <p type="edition">itu ciṟaippuṟamākac colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what is said when [HE] was behind the fence.</p>
+      <div rend="parallel">
+        <p xml:id="NA175-kiḷavi">itu ciṟaippuṟamākac colliyatu.</p>
+        <p xml:lang="en">This is what is said when [HE] was behind the fence.</p>
       </div>
-      <div xml:id="NA175">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA175">
 <l>            neṭuṅkaṭa lalaitta koṭuntimiṟ paratavar</l>
 <l>            koḻumīṉ koḷḷai yaḻimaṇaṟ kuvaii</l>
 <l>            mīṉe yaṭṭik kiḷiñcil pottiya</l>
@@ -45,7 +43,7 @@
 <l>            cuṭuvāṉ pōla nōkku</l>
 <l>            maṭupā laṉṉaveṉ pacalai meyyē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>Was it known<note place="foot"><term xml:lang="ta">aṉṉai aṟintaṉṟō ilaḷē</term>: again we see the perfective neuter singular used in negation as a verbal noun (cf. note on NA 27.6). Here, however, we are also confronted with a particle marking which seems to demand two sentences (which is by no means an isolated case; cf. NA 193.5, 239.9). It seems possible to try this way: "as for mother knowing ..., she does not."</note> to mother herself,</l>
 <l rend="indent">[our connection?]<note place="foot"><term xml:lang="ta">tuṟaivaṉoṭu</term> is asyndetic again. Perhaps we have to assume an ellipsis of the above kind.</note> with the man from the ghat</l>
 <l rend="indent2">where the Puṉṉai trees are high, with fragrant blossoms,</l>

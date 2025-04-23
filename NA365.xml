@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA365-kiḷavi">
-        <p type="edition">itu tōḻi talaimakaṉ ciṟaippuṟattāṉākat talaimakaṭ kuraippāḷā yiyaṟpaḻit tiṉṉatu ceytu meṉpāḷāyc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what the confidante said as one talking to HER when HE was behind the fence, being one who, although acting this way, speaks belittling [his] qualities. [G1+2: This has the gist of [HIS] who heard [it] marrying HER.]</p>
+      <div rend="parallel">
+        <p xml:id="NA365-kiḷavi">itu tōḻi talaimakaṉ ciṟaippuṟattāṉākat talaimakaṭ kuraippāḷā yiyaṟpaḻit tiṉṉatu ceytu meṉpāḷāyc colliyatu.</p>
+        <p xml:lang="en">This is what the confidante said as one talking to HER when HE was behind the fence, being one who, although acting this way, speaks belittling [his] qualities. [G1+2: This has the gist of [HIS] who heard [it] marrying HER.]</p>
         </div>
-      <div xml:id="NA365">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA365">
 <l>            aruṅkaṭi yaṉṉai kāva ṉīvip</l>
 <l>            peruṅkaṭai yiṟantu maṉṟam pōkip</l>
 <l>            pakalē palaruṅ kāṇa nāṇviṭ</l>
@@ -46,7 +43,7 @@
 <l>            vāṉṟōy māmalai nāṭaṉaic</l>
 <l>            cāṉṟō yallai yeṉṟaṉam varaṟkē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>            Passing beyond mother’s guarding, severely protective,</l>
 <l>            crossing the big gate(?), going to the village common,</l>
 <l rend="indent4">                at midday! for many to see shame quit [me],</l>

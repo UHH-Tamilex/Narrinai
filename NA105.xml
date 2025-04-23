@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA105-kiḷavi">
-        <p type="edition">iḵtiṭaiccurattu mīḷaluṟṟa neñciṉait talaivaṉ kaḻaṟiyatu.</p>
-        <p type="translation" xml:lang="en">This is how HE grumbles with [his] heart that experienced [the desire] to turn back in the middle of the desert.</p>
+      <div rend="parallel">
+        <p xml:id="NA105-kiḷavi">iḵtiṭaiccurattu mīḷaluṟṟa neñciṉait talaivaṉ kaḻaṟiyatu.</p>
+        <p xml:lang="en">This is how HE grumbles with [his] heart that experienced [the desire] to turn back in the middle of the desert.</p>
       </div>
-      <div xml:id="NA105">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA105">
 <l>            muḷikoṭi valanta muḷḷarai yilavat</l>
 <l>            toḷirciṉai yatira vīci viḷipaṭa</l>
 <l>            vevvaḷi vaḻaṅkum vēypayiṉ maruṅkiṟ</l>
@@ -46,7 +44,7 @@
 <l>            vaṇṭupaṭu vāṉpōtu kamaḻu</l>
 <l>            mañci lōti yarumpaṭa ruṟavē.</l>
     </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l rend="indent">Without talking of the 
 <choice>
 <seg>crossroads</seg>

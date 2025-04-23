@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA145-kiḷavi">
-        <p type="edition">iḵtiravukkuṟi vanta ciṟaippuṟattāṉākat tōḻi varaivu kaṭāyatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante urged for marriage while [HE] who had come for the night tryst was behind the fence.</p>
+      <div rend="parallel">
+        <p xml:id="NA145-kiḷavi">iḵtiravukkuṟi vanta ciṟaippuṟattāṉākat tōḻi varaivu kaṭāyatu.</p>
+        <p xml:lang="en">This is how the confidante urged for marriage while [HE] who had come for the night tryst was behind the fence.</p>
       </div>
-      <div xml:id="NA145">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA145">
 <l>            iruṅkaḻi poruta vīra veṇmaṇaṉ</l>
 <l>            mākkoṭi yaṭumpiṉ māyita ḻalari</l>
 <l>            kūntaṉ makaḷir kōtaik kūṭṭuṅ</l>
@@ -47,7 +45,7 @@
 <l>            naḷḷeṉ kaṅkulum varuvarō </l>
 <l>            vamma vāḻiyavar tērmaṇik kuralē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l rend="indent3">Even before there was reason,</l>
 <l rend="indent4">since we were attached</l>
 <l rend="indent">in warm intimacy to the desirous man from the sea,</l>

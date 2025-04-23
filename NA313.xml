@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA313-kiḷavi">
-        <p type="edition">itu tōḻi ciṟaippuṟamākat talaimakaṭkuc colluvāḷāyp puṉamaḻi vuraittuc ceṟippaṟivuṟīiyatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante informed of confinement by talking about the ruin of the field as one speaking to HER when [HE] was behind the fence.</p>
+      <div rend="parallel">
+        <p xml:id="NA313-kiḷavi">itu tōḻi ciṟaippuṟamākat talaimakaṭkuc colluvāḷāyp puṉamaḻi vuraittuc ceṟippaṟivuṟīiyatu.</p>
+        <p xml:lang="en">This is how the confidante informed of confinement by talking about the ruin of the field as one speaking to HER when [HE] was behind the fence.</p>
         </div>
-      <div xml:id="NA313">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA313">
 <l>          karuṅkāl vēṅkai nāḷuṟu putuppū</l>
 <l>          poṉcey kammiyaṉ kaiviṉai kaṭuppat</l>
 <l>          takaivaṉap puṟṟak kaṇṇi kaṭṭaḻit</l>
@@ -48,7 +45,7 @@
 <l>          taruviyi ṉolitta lāṉāk</l>
 <l>          koypataṅ koḷḷunāṅ kūun tiṉaiyē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>How will we be [attainable], friend,</l>
 <l rend="indent">for the keen one of exceeding love, the one who saw [us]</l>
 <l rend="indent2">decorating for adornment [our] sprouting many tresses,</l>

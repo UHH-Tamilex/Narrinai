@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA319-kiḷavi">
-        <p type="edition">itu kāppu mikutikka ṇāṟṟāṉāki talaimakaṉ ṟalaimakaḷai niṉaintu taṉṉuḷḷē colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what HE who was unable to bear it during the increase of guarding said to his own heart when thinking of HER.</p>
+      <div rend="parallel">
+        <p xml:id="NA319-kiḷavi">itu kāppu mikutikka ṇāṟṟāṉāki talaimakaṉ ṟalaimakaḷai niṉaintu taṉṉuḷḷē colliyatu.</p>
+        <p xml:lang="en">This is what HE who was unable to bear it during the increase of guarding said to his own heart when thinking of HER.</p>
         </div>
-      <div xml:id="NA319">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA319">
 <l>            ōtamu moliyō viṉṟē yūtaiyun</l>
 <l>            tātuḷar kāṉaṟ ṟavveṉ ṟaṉṟē</l>
 <l>            maṇaṉmali mūtū rakaṉeṭun teruviṟ</l>
@@ -48,7 +45,7 @@
 <l>            mīṉkaṇ ṭuñcum poḻutum</l>
 <l>            yāṉkaṇ ṭuñcēṉ yātuko ṉilaiyē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>The sound of the flood has stopped,</l>
 <l rend="indent4">and the cold wind,</l>
 <l>whiffling pollen has come down intensely<note place="foot">Here we clearly have an ideophone and a transmissional problem, namely four different versions of the semantically irreducible part. "<term xml:lang="ta">tav</term>" is certainly the lectior facilior, but it is the only one that makes sense to me, since there is a parallel in KT 356 where it obviously conveys intensity.</note> on the seashore grove.</l>

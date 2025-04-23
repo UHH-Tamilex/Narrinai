@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,13 +27,13 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA173-kiḷavi">
-        <p type="edition">1. itu tōḻi talaivik kuraippāḷāyc ciṟaippuṟamākac colliyatu.
+      <div rend="parallel">
+        <p xml:id="NA173-kiḷavi">1. itu tōḻi talaivik kuraippāḷāyc ciṟaippuṟamākac colliyatu.
             2. veṟi yaccuṟīit tōḻi yaṟattoṭu nilai payappittatūumām.</p>
-        <p type="translation" xml:lang="en">1. This is what the confidante said as one who is talking to HER while [HE] was behind the fence. 2. It is also how the confidante makes [her] agree to standing up to virtue (~ revealing the truth) by making [her] fear the Veṟi dance.</p>
+        <p xml:lang="en">1. This is what the confidante said as one who is talking to HER while [HE] was behind the fence. 2. It is also how the confidante makes [her] agree to standing up to virtue (~ revealing the truth) by making [her] fear the Veṟi dance.</p>
       </div>
-      <div xml:id="NA173">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA173">
 <l>            cuṉaippūk kuṟṟun toṭalai taiiyu</l>
 <l>            malaicceṅ kāntaṭ kaṇṇi tantun</l>
 <l>            taṉvaḻip paṭūu nannayan taruḷi</l>
@@ -47,7 +45,7 @@
 <l>            ṉeṭuvēṭ kēta muṭaittō</l>
 <l>            toṭiyōy kūṟumati viṉavuval yāṉē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>Even if we(?) talk of this pain, [and] show mother by eye [or] in a dream</l>
 <l rend="indent2">the difficulties, who had realised “[it is time for] the Veṟi dance”,</l>
 <l>he<note place="foot">Here we have once more one of these sections where syntax is nearly unmarked, and the message is consequently uncertain. T.V.G. explains the gist to be that <term xml:lang="ta">Murukaṉ</term>, in spite of being worshipped by the girls, does not help them to inform the mother of HER lover and thus avoid the exorcism ceremony. This would explain the use of the neuter finite verb form <term xml:lang="ta">vārātu</term>, which goes with <term xml:lang="ta">muruku</term>, but the possibility, perhaps even the poetic intention, of an alternative version should not be excluded, namely that she directly speaks about the lover.</note> does not come,</l>

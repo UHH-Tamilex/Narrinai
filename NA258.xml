@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA258-kiḷavi">
-        <p type="edition">itu tōḻi ceṟippaṟivuṟīiyatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante informed of confinement.</p>
+      <div rend="parallel">
+        <p xml:id="NA258-kiḷavi">itu tōḻi ceṟippaṟivuṟīiyatu.</p>
+        <p xml:lang="en">This is how the confidante informed of confinement.</p>
         </div>
-      <div xml:id="NA258">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA258">
 <l>            palpūṅ kāṉaṟ pakaṟkuṟi marīic</l>
 <l>            celval koṇka ceṟittaṉaḷ yāyē</l>
 <l>            katirkāl vempak kalkāy ñāyiṟṟut</l>
@@ -48,7 +45,7 @@
 <l>            maruṅkūrp paṭṭiṉat taṉṉaviva </l>
 <l>            ṇeruṅkē relvaḷai yōṭuva kaṇṭē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>Having come to the meeting-place at midday, in the many-flowered seashore grove, I go,</l> 
 <l>[back], man from the sea.</l>
 <l rend="indent4">Mother has confined [her],</l>

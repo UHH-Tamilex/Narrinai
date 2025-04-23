@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA123-kiḷavi">
-        <p type="edition">itu talaivaṉ ciṟaippuṟamākat tōḻi talaivik kuraippāḷāyc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what the confidante said as one who is talking to HER while HE was behind the fence.</p>
+      <div rend="parallel">
+        <p xml:id="NA123-kiḷavi">itu talaivaṉ ciṟaippuṟamākat tōḻi talaivik kuraippāḷāyc colliyatu.</p>
+        <p xml:lang="en">This is what the confidante said as one who is talking to HER while HE was behind the fence.</p>
       </div>
-      <div xml:id="NA123">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA123">
 <l>            uraiyāy vāḻi tōḻi yiruṅkaḻi</l>
 <l>            yiraiyār kuruki ṉiraippaṟait toḻuti</l>
 <l>            vāṅkumaṭaṟ kuṭampait tūṅkiruṭ ṭuvaṉṟum</l>
@@ -49,7 +47,7 @@
 <l>            niṉakkuperun tuyara mākiya nōyē.</l>
 
     </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l rend="indent3">You don't talk, friend,</l>
 <l rend="indent4">of the pain that has become a great misery for you</l>
 <l rend="indent3">so that even playing a little is spoiled:</l>

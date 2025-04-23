@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA244-kiḷavi">
-        <p type="edition">iḵtaṟattoṭu nilai valitta tōḻiyait talaivi mukampukkatu.</p>
-        <p type="translation" xml:lang="en">This is how SHE sought the favour of the confidante who was intent of standing up with virtue (~revealing the truth).</p>
+      <div rend="parallel">
+        <p xml:id="NA244-kiḷavi">iḵtaṟattoṭu nilai valitta tōḻiyait talaivi mukampukkatu.</p>
+        <p xml:lang="en">This is how SHE sought the favour of the confidante who was intent of standing up with virtue (~revealing the truth).</p>
         </div>
-      <div xml:id="NA244">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA244">
 <l>            viḻunta mārip peruntaṇ cāraṟ</l>
 <l>            kūtirk kūtaḷat talari nāṟu</l>
 <l>            mātar vaṇṭi ṉayavarun tīṅkuraṉ</l>
@@ -48,7 +45,7 @@
 <l>            ceyalai yantaḷi raṉṉaveṉ </l>
 <l>            mataṉiṉ māmaip pacalaiyuṅ kaṇṭē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>As for telling one thing to the man from the land of high mountains,</l>
 <l rend="indent">where the Acuṇam<note place="foot">The <term xml:lang="ta">Acuṇam</term> is another of these fabulous beasts. According to T.V.G., it is very fond of music and can be killed by a harsh tone. We find it in NA 304 and AN 88, which means there seems to be no old commentary passage explaining.</note> on the mountain-side fragrant with scents listens</l>
 <l rend="indent2">to the desire-evoking<note place="foot"><term xml:lang="ta">nayavarum</term>: another <term xml:lang="ta">peyareccam</term> does not seem to make sense here. We cannot but read it as an attribute.</note> sweet voice of the beautiful bees,</l>

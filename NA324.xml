@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA324-kiḷavi">
-        <p type="edition">1. itu talaimakaṉ pāṅkaṟkuc colliyatu. 2. iṭaiccurattuk kaṇṭōr colliyatūumām.</p>
-        <p type="translation" xml:lang="en">1. This is what HE said to [his] companion. 2. It is also what the onlookers said in the middle of the desert.</p>
+      <div rend="parallel">
+        <p xml:id="NA324-kiḷavi">1. itu talaimakaṉ pāṅkaṟkuc colliyatu. 2. iṭaiccurattuk kaṇṭōr colliyatūumām.</p>
+        <p xml:lang="en">1. This is what HE said to [his] companion. 2. It is also what the onlookers said in the middle of the desert.</p>
         </div>
-      <div xml:id="NA324">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA324">
 <l>            antō tāṉē yaḷiya ṭāyē</l>
 <l>            nontaḻi yavalamō ṭeṉṉā kuvaḷkol</l>
 <l>            poṉpōṉ mēṉit taṉmaka ṇayantōḷ</l>
@@ -46,7 +43,7 @@
 <l>            yañci lōti yivaḷuṟum</l>
 <l>            pañci mellaṭi naṭaipayiṟ ṟummē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>Alas for it. Pitiable mother.</l>
 <l>Aching, with destructive affliction – what will become of her?</l>
 <l>The one she longed for as for her own daughter, with gold-like body,</l>

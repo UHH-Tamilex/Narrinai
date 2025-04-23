@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA5-kiḷavi">
-        <p type="edition">itu talaivaṉ celavuk kuṟippaṟintu vēṟupaṭṭa talaivikkut tōḻi colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what the confidante said to HER who had changed after understanding HIS intention of going.</p>
+      <div rend="parallel">
+        <p xml:id="NA5-kiḷavi">itu talaivaṉ celavuk kuṟippaṟintu vēṟupaṭṭa talaivikkut tōḻi colliyatu.</p>
+        <p xml:lang="en">This is what the confidante said to HER who had changed after understanding HIS intention of going.</p>
       </div>
-      <div xml:id="NA5">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA5">
 <l>            nilanī rārak kuṉṟaṅ kuḻaippa</l>
 <l>            vakalvāyp paiñcuṉaip payirkāl yāppak</l>
 <l>            kuṟavar koṉṟa kuṟaikkoṭi naṟaippavar</l>
@@ -47,7 +45,7 @@
 <l>            mayaṅkitaḻ maḻaikkaṇ payanta tūtē.</l>
 
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
         <l>In the time of the cold season too,</l>
         <l rend="indent4">when the busy clouds,</l>
         <l rend="indent">from which great rain has flown, rise to the South [and] sound,</l>

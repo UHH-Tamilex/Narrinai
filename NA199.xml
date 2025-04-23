@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA199-kiḷavi">
-        <p type="edition">itu vaṉpoṟai yetiraḻintatu.</p>
-        <p type="translation" xml:lang="en">This is being desolate in the face of consolation.</p>
+      <div rend="parallel">
+        <p xml:id="NA199-kiḷavi">itu vaṉpoṟai yetiraḻintatu.</p>
+        <p xml:lang="en">This is being desolate in the face of consolation.</p>
       </div>
-      <div xml:id="NA199">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA199">
 <l>            ōṅkumaṇa luṭutta neṭumāp peṇṇai</l>
 <l>            vīṅkumaṭaṟ kuṭampaip paital veṇkuruku</l>
 <l>            naḷḷeṉ yāmat tuyavutō ṟuruki</l>
@@ -47,7 +45,7 @@
 <l>            paipaya vimaikkun tuṟaivaṉ </l>
 <l>            meytōy muyakkaṅ kāṇā vūṅkē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>I won't remember<note place="foot">T.V.G. reads here, with EN and ET: <term xml:lang="ta">uḷaṉē vāḻi tōḻi</term> "I [still] exist, oh friend." Actually, both variants do not go well with the usual impact of the <term xml:lang="ta">ūṅku</term> constructions which is that of temporal anteriority. So here we have to understand something like "until" for the whole to make sense.</note>, oh friend,</l>
 <l rend="indent2">        broken inside, with my mind like mire,</l>
 <l rend="indent2">        melting with every [sound of] suffering at deepest midnight</l>

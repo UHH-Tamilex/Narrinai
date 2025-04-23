@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA278-kiḷavi">
-        <p type="edition">itu tōḻi talaimakaṭku varaivu malintatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante rejoiced at HER marriage.</p>
+      <div rend="parallel">
+        <p xml:id="NA278-kiḷavi">itu tōḻi talaimakaṭku varaivu malintatu.</p>
+        <p xml:lang="en">This is how the confidante rejoiced at HER marriage.</p>
         </div>
-      <div xml:id="NA278">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA278">
 <l>            paṭukāḻ nāṟiya parāaraip puṉṉai</l>
 <l>            yaṭumaraṉ mokkuḷi ṉirumpuvā yaviḻap</l>
 <l>            poṉṉi ṉaṉṉa tātupaṭu paṉmalar</l>
@@ -46,7 +43,7 @@
 <l>            kuḷampiṉuñ cēyiṟā voṭuṅkiṉa</l>
 <l>            kōtaiyu mellā mūtaiveṇ maṇalē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>Know<note place="foot"><term xml:lang="ta">aṟinticiṉ</term>: this form unmarked for person can be used at least for the 1st and the 2nd sg., and since here we have no clarifying pronoun <term xml:lang="ta">yāṉ</term>, I had rather take it as an imperative. T.V.G., however, reads a 1st person.</note> now that he will become [your] husband,</l>
 <l>the man from the ghat,</l>
 <l rend="indent2">where green unripe fruit becoming soft with oil hang</l>

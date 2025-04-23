@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA83-kiḷavi">
-        <p type="edition">iḵtiravukkuṟi vanta talaivaṉ ciṟaippuṟattāṉākat tōḻi colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what the confidante said while HE who had come to the night tryst was behind the fence.</p>
+      <div rend="parallel">
+        <p xml:id="NA83-kiḷavi">iḵtiravukkuṟi vanta talaivaṉ ciṟaippuṟattāṉākat tōḻi colliyatu.</p>
+        <p xml:lang="en">This is what the confidante said while HE who had come to the night tryst was behind the fence.</p>
       </div>
-      <div xml:id="NA83">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA83">
 <l>            emmūr vāyi loṇṭuṟait taṭaiiya</l>
 <l>            kaṭavuṇ mutumarat tuṭaṉuṟai paḻakiya</l>
 <l>            tēyā vaḷaivāyt teṇkaṭ kūrukir</l>
@@ -45,7 +43,7 @@
 <l>            tuñcā talamarum poḻuti</l>
 <l>            ṉañcuvarak kaṭuṅkural payiṟṟā tīmē.</l>
         </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>O strong [and] old(?)<note place="foot">Can <term xml:lang="ta">muntu</term> here mean more than just ‘old’?</note> owl whose drum of a mouth languishes,</l>
 <l>[you with] sharp nail, clear eyes [and] untiring(?) curved beak,</l>
 <l rend="indent">familiar for staying together in the plump god[-inhabited] old tree</l>

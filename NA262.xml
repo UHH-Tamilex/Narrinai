@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA262-kiḷavi">
-        <p type="edition">itu talaimakaḷāṟṟāk kuṟippaṟintu piriviṭai vilakkiyatu.</p>
-        <p type="translation" xml:lang="en">This is how SHE blocks in the middle of the separation, having understood [HIS] intention, being unable to bear it.</p>
+      <div rend="parallel">
+        <p xml:id="NA262-kiḷavi">itu talaimakaḷāṟṟāk kuṟippaṟintu piriviṭai vilakkiyatu.</p>
+        <p xml:lang="en">This is how SHE blocks in the middle of the separation, having understood [HIS] intention, being unable to bear it.</p>
         </div>
-      <div xml:id="NA262">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA262">
 <l>            taṇpuṉak karuviḷaik kaṇpōṉ māmala</l>
 <l>            rāṭumayiṟ pīliyiṉ vāṭaiyoṭu tuyalvara</l>
 <l>            vuṟaimayak kuṟṟa vūrtuñ ciyāmattu</l>
@@ -47,7 +44,7 @@
 <l>            pirivi ṉeñceṉṉu māyi</l>
 <l>            ṉaritumaṉ ṟamma viḷamaiya tiḷivē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>Severe indeed, alas, [is] the abuse(?) of youth<note place="foot">Here it is difficult to decide between the variants. Most printed editions read <term xml:lang="ta">iṉmaiyatu</term> (which might be interpreted as "poverty") instead of iḷamaiyatu, in fact the spelling of these two is so close that it might be difficult to distinguish. In any case, both are topoi: HE has to go, because having nothing is unworthy, and if he goes, he mourns the waste of youth.</note>,</l>
 <l rend="indent">when the heart speaks of separation,<note place="foot"><term xml:lang="ta">piriviṉ neñcu eṉṉum</term>: here again we have several variants and all of them seem possible (apart from some misspelled letters in G1+2). Best attested seems <term xml:lang="ta">pirivaṉ neñcu eṉṉum</term>, "the heart says ‘I will separate’", but even ET’s <term xml:lang="ta">pirivu naṉṟu eṉṉum</term> "it is said that separation [is] something good" is not inconceivable.</note></l>
 <l rend="indent2">as manly work is compelling, even leaving her</l>

@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA64-kiḷavi">
-        <p type="edition">itu piriviṭait talaiviya tarumai kaṇṭu tūtuviṭak karutiya tōḻikkut talaivi colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what SHE said to the confidante who intended to send a messenger fter seeing HER difficulties in the time of separation.</p>
+      <div rend="parallel">
+        <p xml:id="NA64-kiḷavi">itu piriviṭait talaiviya tarumai kaṇṭu tūtuviṭak karutiya tōḻikkut talaivi colliyatu.</p>
+        <p xml:lang="en">This is what SHE said to the confidante who intended to send a messenger fter seeing HER difficulties in the time of separation.</p>
       </div>
-      <div xml:id="NA64">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA64">
 <l>            eṉṉa rāyiṉu miṉiniṉai voḻika</l>
 <l>            vaṉṉa vāka viṉaiyaṟ ṟōḻi</l>
 <l>            yiṉṉa mākat tuṟantōr naṭpeṉa</l>
@@ -50,7 +48,7 @@
 <l>            kāmam paṭaraṭa varuntiya</l>
 <l>            nōymali varuttaṅ kāṇaṉmā remarē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>Of whatever kind he may be, let the thought stay behind now.</l>
 <l>Since things are thus, don't despair, friend.</l>
 <l rend="indent4">[Thinking]</l>

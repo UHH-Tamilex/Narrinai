@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA165-kiḷavi">
-        <p type="edition">1. itu notumalar varaiyum paruvattut tōḻi talaivik kaṟattoṭu nilai payappac colliyatu. 2. varaivu malintatūumām.</p>
-        <p type="translation" xml:lang="en">1. This is what the confidante said to HER at the moment strangers had come with a marriage proposal so that she would agree to standing up to virtue (~ revealing the truth). 2. It is also what rejoices in marriage.</p>
+      <div rend="parallel">
+        <p xml:id="NA165-kiḷavi">1. itu notumalar varaiyum paruvattut tōḻi talaivik kaṟattoṭu nilai payappac colliyatu. 2. varaivu malintatūumām.</p>
+        <p xml:lang="en">1. This is what the confidante said to HER at the moment strangers had come with a marriage proposal so that she would agree to standing up to virtue (~ revealing the truth). 2. It is also what rejoices in marriage.</p>
       </div>
-      <div xml:id="NA165">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA165">
 <l>            amarkka ṇāmā ṉaruniṟa muḷkātu</l>
 <l>            paṇaitta pakaḻip pōkkuniṉaintu kāṉava</l>
 <l>            ṉaṇaṅkoṭu niṉṟatu malaivāṉ koḷkeṉak</l>
@@ -45,7 +43,7 @@
 <l>            paṉṉa vākuka veṉṉā</l>
 <l>            ṉolkā toḻimikap palkiṉa tūtē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>The man from a land of hills,</l>
 <l rend="indent">where the forest inhabitant, thinking of the move of [his] arrow that failed,</l>
 <l rend="indent2">not piercing the vital spot<note place="foot">TVG explains that <term xml:lang="ta">niṟam</term> here means the forefront of the cow, but I rather think that we have here one further instance of a special meaning of <term xml:lang="ta">niṟam</term> as "the vital spot" of an animal (which can be etymologically related to <term xml:lang="ta">niṟam</term> "breast", DEDR 3681); cf. KT 272.5.</note> difficult [to hit] of the pretty-eyed wild cow,</l>

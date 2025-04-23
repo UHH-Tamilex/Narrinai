@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA45-kiḷavi">
-        <p type="edition">itu kuṟai vēṇṭiya talaivaṉait tōḻi cēṭpaṭuttatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante kept HIM who had requests at a distance.</p>
+      <div rend="parallel">
+        <p xml:id="NA45-kiḷavi">itu kuṟai vēṇṭiya talaivaṉait tōḻi cēṭpaṭuttatu.</p>
+        <p xml:lang="en">This is how the confidante kept HIM who had requests at a distance.</p>
       </div>
-      <div xml:id="NA45">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA45">
 <l>            ivaḷē, kāṉa ṉaṇṇiya kāmar ciṟukuṭi</l>
 <l>            nīṉiṟap peruṅkaṭal kalaṅka vuḷpukku</l>
 <l>            mīṉeṟi paratavar {kātaṉ} makaḷē</l>
@@ -48,7 +46,7 @@
 <l>            nummoṭu puraivatō vaṉṟē </l>
 <l>            yemma ṉōriṟ cemmalu muṭaittē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>She,</l>
 <l rend="indent2">she [is] the daughter of fishermen, catching fish,</l>
 <l rend="indent3">entering the inside of the blue-coloured great sea so that it is stirred up, </l>

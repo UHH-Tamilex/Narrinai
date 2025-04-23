@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA364-kiḷavi">
-        <p type="edition">itu talaimakaḷ piriviṭai melintatu.</p>
-        <p type="translation" xml:lang="en">This is how SHE became weak in the time of separation. [G1+2: The gist is the confidante’s sending out a messenger.]</p>
+      <div rend="parallel">
+        <p xml:id="NA364-kiḷavi">itu talaimakaḷ piriviṭai melintatu.</p>
+        <p xml:lang="en">This is how SHE became weak in the time of separation. [G1+2: The gist is the confidante’s sending out a messenger.]</p>
         </div>
-      <div xml:id="NA364">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA364">
 <l>            colliya paruvaṅ kaḻintaṉ ṟellaiyu</l>
 <l>            mayaṅkiru ṇaṭunāṇ maṅkulō ṭoṉṟi</l>
 <l>            yārkali vāṉa nīrpotin tiyaṅkap</l>
@@ -49,7 +46,7 @@
 <l>            vuyircelat tuṉaitaru mālai</l>
 <l>            ceyirtīr māriyō ṭoruṅkutalai variṉē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>            The season [he] had spoken of has passed by.</l>
 <l>            If a few [more] pleasing days pass by,</l>
 <l>            while the water is bundled [and] stirs in the fully bustling sky,</l>

@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA259-kiḷavi">
-        <p type="edition">itu tōḻi talaimakaṉaic ceṟippaṟivuṟīi varaivu kaṭāyatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante urged for marriage, informing HIM about the confinement.</p>
+      <div rend="parallel">
+        <p xml:id="NA259-kiḷavi">itu tōḻi talaimakaṉaic ceṟippaṟivuṟīi varaivu kaṭāyatu.</p>
+        <p xml:lang="en">This is how the confidante urged for marriage, informing HIM about the confinement.</p>
         </div>
-      <div xml:id="NA259">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA259">
 <l>            yāṅkuccey vāṅko ṟōḻi poṉvī</l>
 <l>            vēṅkai yōṅkiya tēṅkamaḻ cāraṟ</l>
 <l>            peruṅka ṉāṭaṉō ṭirumpuṉat talkic</l>
@@ -47,7 +44,7 @@
 <l>            kaṭalpeyarn taṉaiya vākip</l>
 <l>            pularpataṅ koṇṭaṉa vēṉaṟ kuralē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>What do we do, friend?</l>
 <l>I see they seem [to become] small [and] very rare,</l>
 <l rend="indent2">the [moments of] intimacy, enjoyable [and] greatly desired,</l>

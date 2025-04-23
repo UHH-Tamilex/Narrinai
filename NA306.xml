@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA306-kiḷavi">
-        <p type="edition">1. itu puṉamaṭi yuraittuc ceṟippaṟivuṟīiyatu. 2. ciṟaippuṟamumām.</p>
-        <p type="translation" xml:lang="en">1. This is what informed of confinement by talking about the bending [crops] on the fields. 2. It is also [HIS] being behind the fence.</p>
+      <div rend="parallel">
+        <p xml:id="NA306-kiḷavi">1. itu puṉamaṭi yuraittuc ceṟippaṟivuṟīiyatu. 2. ciṟaippuṟamumām.</p>
+        <p xml:lang="en">1. This is what informed of confinement by talking about the bending [crops] on the fields. 2. It is also [HIS] being behind the fence.</p>
         </div>
-      <div xml:id="NA306">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA306">
 <l>            tantai vittiya meṉṟiṉai paipayac</l>
 <l>            ciṟukiḷi kaṭital piṟakkiyā vaṇatō</l>
 <l>            kuḷirpaṭu kaiyaḷ koṭicci celkeṉa</l>
@@ -48,7 +45,7 @@
 <l>            ceṟittōṭ ṭelvaḷaik kuṟumakaḷ</l>
 <l>            ciṟupuṉat talkiya perumpuṟa nilaiyē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>Where [is] afterwards the chasing away of small parrots,</l>
 <l>gently, from the soft millet sown by father?</l>
 <l rend="indent">“The creeper woman, stirring the kettle-drum in her hand, may go,”</l>

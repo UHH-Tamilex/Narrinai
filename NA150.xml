@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA150-kiḷavi">
-        <p type="edition">itu talainiṉṟoḻukappaṭāniṉṟa parattait talaivaṉai neruṅkip pāṇaṟ kuraittatu.</p>
-        <p type="translation" xml:lang="en">This is what the other woman, who kept ???, said to the bard, addressing HIM.</p>
+      <div rend="parallel">
+        <p xml:id="NA150-kiḷavi">itu talainiṉṟoḻukappaṭāniṉṟa parattait talaivaṉai neruṅkip pāṇaṟ kuraittatu.</p>
+        <p xml:lang="en">This is what the other woman, who kept ???, said to the bard, addressing HIM.</p>
       </div>
-      <div xml:id="NA150">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA150">
 <l>            nakainaṉ kuṭaiyaṉ pāṇanum perumakaṉ</l>
 <l>            miḷaivali citaiyak kaḷiṟupala parappi</l>
 <l>            yaraṇpala kaṭanta muraṇko ṭāṉai</l>
@@ -47,7 +45,7 @@
 <l>            kaṇṇuṭaic ciṟukōl paṟṟik </l>
 <l>            katamperi tuṭaiyaḷyā yaḻuṅkalō vilaḷē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>He [is] smiling well, bard, your great man.</l>
 <l>Does he [now] desert [us], after having taken [our] heart</l>
 <l rend="indent">that was one [with him] since he showed a garland and a chaplet</l>

@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA92-kiḷavi">
-        <p type="edition">itu piriviṭai vēṟupaṭṭa kiḻattikkut tōḻi colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what SHE, who was changed in the time of separation, said to [her] confidante.</p>
+      <div rend="parallel">
+        <p xml:id="NA92-kiḷavi">itu piriviṭai vēṟupaṭṭa kiḻattikkut tōḻi colliyatu.</p>
+        <p xml:lang="en">This is what SHE, who was changed in the time of separation, said to [her] confidante.</p>
       </div>
-      <div xml:id="NA92">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA92">
 <l>            uḷḷār kollō tōḻi tuṇaiyoṭu</l>
 <l>            vēṉi lōtip pāṭunaṭai vaḻalai</l>
 <l>            varimā ṉukumpiṉ vāṭi yavaṇa</l>
@@ -45,7 +43,7 @@
 <l>            vilkaṭin tūṭṭiṉa peyaruṅ</l>
 <l>            kolkaḷiṟ ṟoruttal curaṉiṟan tōrē.</l>
         </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>Won't he remember, friend,</l>
 <l>– the one who traversed the desert of the killing elephant bulls</l>
 <l rend="indent2">that return, after having been chased away by the bow(?)<note place="foot"><term xml:lang="ta">vil-kaṭintu</term>: this phrase is explained in a peculiar way by T.V.G., namely in the sense that <term xml:lang="ta">vil</term> would here mean a lid put on the well to protect it, which is taken away by the elephants in order to get at the water. Actually, the absolutive would speak in T.V.G.'s favour, since the subject should be the elephant, but there are so many counter-examples that this argument does not count for much.</note>,</l>

@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA89-kiḷavi">
-        <p type="edition">itu poruṇ muṟṟi maṟuttantā ṉeṉakkēṭṭa tōḻi talaivik kuraittatu.</p>
-        <p type="translation" xml:lang="en">What the confidante, who had hear that he would be restored after having accomplished wealth, said to HER.</p>
+      <div rend="parallel">
+        <p xml:id="NA89-kiḷavi">itu poruṇ muṟṟi maṟuttantā ṉeṉakkēṭṭa tōḻi talaivik kuraittatu.</p>
+        <p xml:lang="en">What the confidante, who had hear that he would be restored after having accomplished wealth, said to HER.</p>
       </div>
-      <div xml:id="NA89">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA89">
 <l>            koṇṭa lāṟṟi viṇṭalaic ceṟīiyar</l>
 <l>            tiraipitir kaṭuppa mukaṭukan tēṟi</l>
 <l>            niraittunirai koṇṭa kamañcūṉ māmaḻai</l>
@@ -47,7 +45,7 @@
 <l>            vaṉka ṇāḷarō ṭiyainta </l>
 <l>            puṉkaṇ mālaiyum pulampumun tuṟuttē.</l>
         </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>On the last days of successive(?) rains, when the dwindling drops</l>
 <l rend="indent">of the fully pregnant clouds that formed an orderly row are spent,</l>
 <l rend="indent2">having risen upwards to the top so that the spray of the waves is</l>

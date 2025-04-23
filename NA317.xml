@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA317-kiḷavi">
-        <p type="edition">itu tōḻi talaimakaṉai varaivu kaṭāyatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante urged HIM for marriage.</p>
+      <div rend="parallel">
+        <p xml:id="NA317-kiḷavi">itu tōḻi talaimakaṉai varaivu kaṭāyatu.</p>
+        <p xml:lang="en">This is how the confidante urged HIM for marriage.</p>
         </div>
-      <div xml:id="NA317">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA317">
 <l>            nīṭiruñ cilampiṟ piṭiyoṭu puṇarnta</l>
 <l>            pūmpoṟi yorutta lēntukaik kaṭuppat</l>
 <l>            tōṭutalai vāṅkiya nīṭukuraṟ paintiṉai</l>
@@ -47,7 +44,7 @@
 <l>            yāyamoṭu kuṟṟa kuvaḷai</l>
 <l>            māyitaḻ māmalar puraiiya kaṇṇē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>O man from the land of high mountains,</l>
 <l rend="indent">where the green parrot with a coral-red beak seizes</l>
 <l rend="indent3">the fresh millet with lengthening ears bending the heads to [their] leaves,</l>

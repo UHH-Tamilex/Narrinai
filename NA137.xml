@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA137-kiḷavi">
-        <p type="edition">itu talaivaṉ celavaḻuṅkiyatu.</p>
-        <p type="translation" xml:lang="en">This is how they prevents HIM from going.</p>
+      <div rend="parallel">
+        <p xml:id="NA137-kiḷavi">itu talaivaṉ celavaḻuṅkiyatu.</p>
+        <p xml:lang="en">This is how they prevents HIM from going.</p>
       </div>
-      <div xml:id="NA137">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA137">
 <l>            taṇṇiya kamaḻun tāḻiruṅ kūntaṟ</l>
 <l>            ṟaṭameṉ paṇaittōṇ maṭanal lāḷvayiṟ</l>
 <l>            piriyac cūḻntaṉai yāyi ṉariyatoṉ</l>
@@ -46,7 +44,7 @@
 <l>            kuṉṟa vaippiṉ kāṉañ</l>
 <l>            ceṉṟucē ṇakaṟal valliya nīyē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l rend="indent3">If you have considered separating</l>
 <l rend="indent4">from the good one with broad soft bamboo shoulders</l>
 <l rend="indent4">[and] hanging dark tresses that smell coolly,</l>

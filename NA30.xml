@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA30-kiḷavi">
-        <p type="edition">itu parattaiyiṟ pirintu vanta talaivaṉ “yāraiyu maṟiyēṉ” eṉṟāṟkut tōḻi colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what the confidante said to HIM who came [back] after separating from the other woman [and] who said “I do not know anybody”.</p>
+      <div rend="parallel">
+        <p xml:id="NA30-kiḷavi">itu parattaiyiṟ pirintu vanta talaivaṉ “yāraiyu maṟiyēṉ” eṉṟāṟkut tōḻi colliyatu.</p>
+        <p xml:lang="en">This is what the confidante said to HIM who came [back] after separating from the other woman [and] who said “I do not know anybody”.</p>
       </div>
-      <div xml:id="NA30">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA30">
 <l>            kaṇṭaṉeṉ makiḻna kaṇṭevaṉ ceykō</l>
 <l>            pāṇaṉ kaiyatu paṇpuṭaic cīṟiyāḻ</l>
 <l>            yāṇar vaṇṭi ṉimmeṉa vimiru</l>
@@ -47,7 +45,7 @@
 <l>            palarkoḷ palakai pōla</l>
 <l>            vāṅka vāṅkaniṉ ṟūṅkañar nilaiyē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>I saw, o delightful one</l>
 <l rend="indent2">– and having seen [it], what can I do? –</l>
 <l>the state of distress that hung over you, when you were dragged</l>

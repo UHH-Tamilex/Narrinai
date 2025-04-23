@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA35-kiḷavi">
-        <p type="edition">itu maṇamaṉaip piṟṟaiñāṉṟu pukka tōḻi “naṉkāṟṟuvittāy” eṉṟa talaimakaṟkuc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante who had entered the marriage house some time after said to HIM: “you have kept up well!” (EV: This is what the confidante said to HIM who had said to her “you have kept up well”.)</p>
+      <div rend="parallel">
+        <p xml:id="NA35-kiḷavi">itu maṇamaṉaip piṟṟaiñāṉṟu pukka tōḻi “naṉkāṟṟuvittāy” eṉṟa talaimakaṟkuc colliyatu.</p>
+        <p xml:lang="en">This is how the confidante who had entered the marriage house some time after said to HIM: “you have kept up well!” (EV: This is what the confidante said to HIM who had said to her “you have kept up well”.)</p>
       </div>
-      <div xml:id="NA35">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA35">
 <l>            poṅkutirai poruta vārmaṇa laṭaikaraip</l>
 <l>            puṉkā ṉāvaṟ potippuṟa viruṅkaṉi</l>
 <l>            kiḷaicettu moytta tumpi paḻañcettup</l>
@@ -49,7 +47,7 @@
 <l>            kaṭkaḻi cerukkat taṉṉa</l>
 <l>            kāmaṅ kollivaḷ kaṇpacan tatuvē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>Just see! [Was] like this ever before</l>
 <l>her beauty,</l>
 <l rend="indent3">like Māntai with [its] ghat,</l>

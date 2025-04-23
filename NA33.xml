@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA33-kiḷavi">
-        <p type="edition">itu pirivuṇarttappaṭṭa talaimakaḷatu kuṟippaṟinta tōḻi talaimakaṟkuc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what was said to HIM by the confidante who had understood the intention of HER who had been informed of the separation.</p>
+      <div rend="parallel">
+        <p xml:id="NA33-kiḷavi">itu pirivuṇarttappaṭṭa talaimakaḷatu kuṟippaṟinta tōḻi talaimakaṟkuc colliyatu.</p>
+        <p xml:lang="en">This is what was said to HIM by the confidante who had understood the intention of HER who had been informed of the separation.</p>
       </div>
-      <div xml:id="NA33">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA33">
 <l>            paṭucuṭa raṭainta paḵvāy neṭuvarai</l>
 <l>            murampucēr ciṟukuṭip paranta mālaip</l>
 <l>            pulampukūṭ ṭuṇṇum pulleṉ maṉṟattuk</l>
@@ -49,7 +47,7 @@
 <l>            nallaka vaṉamulaik karaicērpu</l>
 <l>            malkupuṉal paranta malarēr kaṇṇē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>[Her] blossom-like eyes spread<note place="foot"><term xml:lang="ta">paranta</term> presumably has to be read as a finite verb n.pl. (cf. NA 5 <term xml:lang="ta">payanta</term>).</note> an increasing flood,</l>
 <l rend="indent">joining the shore of the beautiful breasts in [her] good bosom,</l>
 <l rend="indent2">as [she] looked into my face, she of heavy words:</l>

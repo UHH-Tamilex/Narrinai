@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA187-kiḷavi">
-        <p type="edition">itu talaimakaṉpakaṟkuṟi vantu mīḷvāṉatu celavu nōkkit talaimakaḷ taṉṉuḷḷē colluvāḷāyc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what SHE said as one speaking to her own heart with respect to the going of HIM who returned after having come to the daytime tryst.</p>
+      <div rend="parallel">
+        <p xml:id="NA187-kiḷavi">itu talaimakaṉpakaṟkuṟi vantu mīḷvāṉatu celavu nōkkit talaimakaḷ taṉṉuḷḷē colluvāḷāyc colliyatu.</p>
+        <p xml:lang="en">This is what SHE said as one speaking to her own heart with respect to the going of HIM who returned after having come to the daytime tryst.</p>
       </div>
-      <div xml:id="NA187">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA187">
 <l>            neytal kūmpa niḻalkuṇak koḻukak</l>
 <l>            kalcēr maṇṭilañ civantunilan taṇiyap</l>
 <l>            palpūṅ kāṉalu malkiṉ ṟaṉṟē</l>
@@ -46,7 +44,7 @@
 <l>            miṉṉivar koṭumpūṭ koṇkaṉō</l>
 <l>            ṭiṉṉakai mēvanā māṭiya poḻilē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l rend="indent">        While the blue waterlilies close, while the shadow falls eastward,</l>
 <l rend="indent">        while the stone-joining [sun-]disk reddens [and] the ground is appeased,</l>
 <l>    the many-flowered seashore-grove has come to rest<note place="foot"><term xml:lang="ta">alkiṉṟaṉṟē</term>: T.V.G. reads here <term xml:lang="ta">malkiṉṟaṉṟu</term>, which he explains as "decreasing in beauty" (which is the semantic opposite of the usual increasing).</note></l>

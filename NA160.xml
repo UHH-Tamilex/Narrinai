@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA160-kiḷavi">
-        <p type="edition">itu kaḻaṟṟetirmaṟai.</p>
-        <p type="translation" xml:lang="en">This is in reply to reproach.</p>
+      <div rend="parallel">
+        <p xml:id="NA160-kiḷavi">itu kaḻaṟṟetirmaṟai.</p>
+        <p xml:lang="en">This is in reply to reproach.</p>
       </div>
-      <div xml:id="NA160">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA160">
 <l>            nayaṉu naṇpu nāṇunaṉ kuṭaimaiyum</l>
 <l>            payaṉum paṇpum pāṭaṟin toḻukalu</l>
 <l>            nummiṉu maṟikuveṉ maṉṉē kammeṉa</l>
@@ -46,7 +44,7 @@
 <l>            yetirmalarp piṇaiya laṉṉaviva</l>
 <l>            ḷarimatar maḻaikkaṇ kāṇā vūṅkē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>Even more than you, for sure, I knew,</l>
 <l rend="indent">of longing and affection and shame and possession of the good</l>
 <l rend="indent">and yield and quality and behaving with knowledge of propriety<note place="foot">What is enumerated here, all seems to be agreeable social values of one kind or the other, but actually <term xml:lang="ta">nāṇ</term> is the only one of them with a sufficiently clear impact.</note></l>

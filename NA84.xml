@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA84-kiḷavi">
-        <p type="edition">itu piriviṭai yāṟṟāḷāya talaivi tōḻikkuc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what SHE, was was unable to bear it during the separation, said to [her] confidante.</p>
+      <div rend="parallel">
+        <p xml:id="NA84-kiḷavi">itu piriviṭai yāṟṟāḷāya talaivi tōḻikkuc colliyatu.</p>
+        <p xml:lang="en">This is what SHE, was was unable to bear it during the separation, said to [her] confidante.</p>
       </div>
-      <div xml:id="NA84">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA84">
 <l>            kaṇṇun tōḷun taṇṇaṟuṅ katuppun</l>
 <l>            titalai yalkulum palapā rāṭṭi</l>
 <l>            nerunalu mivaṇar maṉṉē yiṉṟē</l>
@@ -48,7 +46,7 @@
 <l>            ṉirantōr māṟṟa lāṟṟā</l>
 <l>            villiṉ vāṭkai vallā tōrē.</l>
         </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>Even yesterday he [was] here indeed,</l>
 <l rend="indent3">praising in many [words my] eyes and shoulders</l>
 <l rend="indent3">and cool fragrant hair and hips with beauty spots.</l>

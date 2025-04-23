@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA325-kiḷavi">
-        <p type="edition">itu tōḻi celavaḻuṅkuvittatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante prevented [HIM] from going.</p>
+      <div rend="parallel">
+        <p xml:id="NA325-kiḷavi">itu tōḻi celavaḻuṅkuvittatu.</p>
+        <p xml:lang="en">This is how the confidante prevented [HIM] from going.</p>
         </div>
-      <div xml:id="NA325">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA325">
 <l>          kavitalai yeṇkiṉ parumayi rēṟṟai</l>
 <l>          yiraitēr vēṭkaiyi ṉiraviṟ pōki</l>
 <l>          nīṭuceyaṟ citalait tōṭupuṉain teṭutta</l>
@@ -46,7 +43,7 @@
 <l>          vīṅkunīr vārak kaṇṭun</l>
 <l>          takumō peruma tavirkanuñ celavē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>Crossing<note place="foot"><term xml:lang="ta">nīnti māṟṟu</term>: actually we would expect this to be the subject of the <term xml:lang="ta">takumō</term>, but then it would have to be a verbal noun nīntal. Should we emend the text here or accept an anacoluthic construction (that can be moreover easily camouflaged in the English translation)?</note> the crossroad difficult to pass(?),</l>
 <l rend="indent2">where the huge-furred male of the bear with overhanging head,</l>
 <l rend="indent3">going at night in desire to search for prey,</l>

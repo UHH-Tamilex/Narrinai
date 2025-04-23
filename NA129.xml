@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA129-kiḷavi">
-        <p type="edition">itu pirivuṇarttappaṭṭa tōḻi talaimakaḷai mukampukkatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante who had been informed of the separation approached HER for a favour.</p>
+      <div rend="parallel">
+        <p xml:id="NA129-kiḷavi">itu pirivuṇarttappaṭṭa tōḻi talaimakaḷai mukampukkatu.</p>
+        <p xml:lang="en">This is how the confidante who had been informed of the separation approached HER for a favour.</p>
       </div>
-      <div xml:id="NA129">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA129">
 <l>            perunakai kēḷāy tōḻi kātala</l>
 <l>            rorunāḷ kaḻiyiṉu muyirvēṟu paṭūum</l>
 <l>            pomma lōti nammiva ṇoḻiyac</l>
@@ -45,7 +43,7 @@
 <l>            paṭumaḻai yurumi ṉuraṟṟukura</l>
 <l>            ṉaṭunāḷ yāmattun tamiyaṅ kēṭṭē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>Hear the great joke<note place="foot">This quasi formula with nakai at the beginning of the poem is a little strange in the context. Either we take it as a formula slightly worn out, without much semantic impact here apart from arousing attention for a message to the confidante, or we take it as a bitter sarcasm: the confidante is to hear what started as joking between the lovers. Thirdly, we might also consider a semantic shift from "joke" to something like "incongruity".</note>, friend.</l>
 <l rend="indent4">[Our] lover,</l>
 <l>he himself says he will go</l>

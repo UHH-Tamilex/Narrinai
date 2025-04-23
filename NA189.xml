@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA189-kiḷavi">
-        <p type="edition">itu piriviṭai melinta talaimakaḷait tōḻi vaṟpuṟuttiyatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante comforts HER who has become weak in the time of separation.</p>
+      <div rend="parallel">
+        <p xml:id="NA189-kiḷavi">itu piriviṭai melinta talaimakaḷait tōḻi vaṟpuṟuttiyatu.</p>
+        <p xml:lang="en">This is how the confidante comforts HER who has become weak in the time of separation.</p>
       </div>
-      <div xml:id="NA189">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA189">
 <l>            tammala tillā nannayan taruḷi</l>
 <l>            yiṉṉum vārā rāyiṉuñ ceṉṉiyar</l>
 <l>            teṟalaruṅ kaṭavuṇ muṉṉar cīṟiyāḻ</l>
@@ -46,7 +44,7 @@
 <l>            cilampi yañciṉai verūu</l>
 <l>            malaṅka lulavaiyaṅ kāṭiṟan tōrē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l rend="indent">        Even if he doesn't come right now,</l>
 <l rend="indent">        being considerate [and] longing for us who don't exist without him,</l>
 <l>    will he go by ship on the Gangā,</l>

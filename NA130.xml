@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA130-kiḷavi">
-        <p type="edition">itu piriviṭai melinta talaivi vaṉpoṟai yetiraḻintu colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what SHE who has weakened in the time separation said in desolation in the face of being comforted.</p>
+      <div rend="parallel">
+        <p xml:id="NA130-kiḷavi">itu piriviṭai melinta talaivi vaṉpoṟai yetiraḻintu colliyatu.</p>
+        <p xml:lang="en">This is what SHE who has weakened in the time separation said in desolation in the face of being comforted.</p>
       </div>
-      <div xml:id="NA130">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA130">
 <l>            vaṭuviṉṟu niṟainta māṉṟērt teṇkaṇ</l>
 <l>            maṭivāyt taṇṇumai naṭuva ṇārppak</l>
 <l>            kōli ṉeṟintu kālait tōṉṟiya</l>
@@ -48,7 +46,7 @@
 <l>            vaiyaka varaiyaḷa viṟanta</l>
 <l>            vevva nōypiṟi tuyavuttuṇai yiṉṟē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>Is there anything as pleasing as a living made by oneself(?)<note place="foot">Here <term xml:lang="ta">tamatu</term> certainly must be read as a genitive, but this is awkward in the actual construction (<term xml:lang="ta">cey</term> seems to demand an instrumental). It is tempting to change the word order: "one's living, made in..."</note></l>
 <l rend="indent">in this excellent old village with public work of an upright kind<note place="foot">What are the sociological implications of this description?</note>,</l>
 <l rend="indent2">that befalls in the morning, the clear-eyed leather-mouthed</l>

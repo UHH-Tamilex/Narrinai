@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA91-kiḷavi">
-        <p type="edition">itu tōḻi talaimakaṭku varaivu malinturaittatu.</p>
-        <p type="translation" xml:lang="en">This is what the confidante said to HER, rejoicing about the marriage.</p>
+      <div rend="parallel">
+        <p xml:id="NA91-kiḷavi">itu tōḻi talaimakaṭku varaivu malinturaittatu.</p>
+        <p xml:lang="en">This is what the confidante said to HER, rejoicing about the marriage.</p>
       </div>
-      <div xml:id="NA91">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA91">
 <l>            nīyuṇarn taṉaiyē tōḻi vīyukap</l>
 <l>            puṉṉai pūtta viṉṉiḻa luyarkaraip</l>
 <l>            pāṭimiḻ paṉikkaṭa ṟuḻaiip peṭaiyō</l>
@@ -48,7 +46,7 @@
 <l>            kaṭumāp pūṇṭa neṭuntēr</l>
 <l>            neṭunīrc cērppaṉ pakalivaṇ varavē.</l>
         </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>You have realised, friend,</l>
 <l rend="indent">that the man from the coast of the long water comes here by day,</l>
 <l rend="indent2">in the long chariot yoked with swift horses</l>

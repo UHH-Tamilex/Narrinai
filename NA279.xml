@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA279-kiḷavi">
-        <p type="edition">itu makaṭpōkkiya tāy colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what the mother said who had let [her] daughter go.</p>
+      <div rend="parallel">
+        <p xml:id="NA279-kiḷavi">itu makaṭpōkkiya tāy colliyatu.</p>
+        <p xml:lang="en">This is what the mother said who had let [her] daughter go.</p>
         </div>
-      <div xml:id="NA279">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA279">
 <l>            vēmpi ṉoṇpaḻa muṇaii yiruppait</l>
 <l>            tēmpāl ceṟṟa tīmpaḻa ṉacaii</l>
 <l>            vaikupaṉi yuḻanta vāval ciṉaitoṟu</l>
@@ -48,7 +45,7 @@
 <l>            cilampu kaḻīiya celvam </l>
 <l>            piṟaruḻaik kaḻintaveṉ ṉāyiḻai yaṭiyē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>Did they become weary, bearing the fine sand</l>
 <l rend="indent">on the route, where the red trunk of the Ōmai tree,</l>
 <l rend="indent">kicked by the hungry she-elephant, twinkles at the time the sunlight is hot,</l>

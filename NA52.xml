@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA52-kiḷavi">
-        <p type="edition">itu talaivaṉ celavaḻuṅkiyatu.</p>
-        <p type="translation" xml:lang="en">This is what prevents HIM from going.</p>
+      <div rend="parallel">
+        <p xml:id="NA52-kiḷavi">itu talaivaṉ celavaḻuṅkiyatu.</p>
+        <p xml:lang="en">This is what prevents HIM from going.</p>
       </div>
-      <div xml:id="NA52">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA52">
 <l>            mākkoṭi yatiraṟ pūvoṭu pātiri</l>
 <l>            tūttakaṭ ṭetirmalar vēynta kūntaṉ</l>
 <l>            maṇaṅkamaḻ nāṟṟa marīi yāmivaḷ</l>
@@ -49,7 +47,7 @@
 <l>            kaivaḷa miyaiva tāyiṉu </l>
 <l>            maitē kamma viyaintucey poruḷē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>We won't go to leave<note place="foot">Or <term xml:lang="ta">cel</term> in auxuliary function: "we cannot leave...".</note> the swelling salty<note place="foot"><term xml:lang="ta">uvar</term>: T.V.G.'s explanation is that this word can also mean 'sweetness', but this may simply be a question of perspective: physical or emotional.</note> embraces, embracing</l>
 <l rend="indent2">so that we be joined with her beauty-spot-adorned bosom,</l>
 <l rend="indent">joining together in the odorous fragrance of perfumes(?)<note place="foot">How to relate and interpret these three words connected with fragrance: <term xml:lang="ta">maṇam kamaḻ nāṟṟam</term>?</note></l>

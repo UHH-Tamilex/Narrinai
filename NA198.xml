@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA198-kiḷavi">
-        <p type="edition">itu piṉceṉṟa cevili yiṭaiccurattuk kaṇṭārkkuc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante encouraged HER who was unable to bear it when the marriage was delayed.</p>
+      <div rend="parallel">
+        <p xml:id="NA198-kiḷavi">itu piṉceṉṟa cevili yiṭaiccurattuk kaṇṭārkkuc colliyatu.</p>
+        <p xml:lang="en">This is how the confidante encouraged HER who was unable to bear it when the marriage was delayed.</p>
       </div>
-      <div xml:id="NA198">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA198">
 <l>            cēyiṉ varūu matavali yāvuyarn</l>
 <l>            tōmai nīṭiya kāṉiṭai yatta</l>
 <l>            muṉṉā ḷumpark kaḻinta veṉmakaḷ</l>
@@ -48,7 +46,7 @@
 <l>            tantai taṉṉū rituvē</l>
 <l>            yīṉṟēṉ yāṉē polikanum peyarē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>O strong man that comes from a distance, water sank so as to fill [my] eyes<note place="foot"><term xml:lang="ta">kaṇ paṭa nīr āḻntaṉṟē</term>: the meaning is clear, but the phrasing seems awkward, since actually <term xml:lang="ta">āḻ</term> is "to sink into something", so we would expect the eyes as subject, which is impossible because of the inf. paṭa (and because of the n.sg. predicate).</note></l>
 <l rend="indent">	[because of] my daughter who passed by over there yesterday</l>
 <l rend="indent2">	on the road in the midst of the forest where Ōmai trees have grown long</l>

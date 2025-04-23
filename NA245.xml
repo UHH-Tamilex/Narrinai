@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA245-kiḷavi">
-        <p type="edition">itu kuṟai nērnta tōḻi talaimakaḷai mukampukkatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante who had granted [HIS] request sought the favour of HER.</p>
+      <div rend="parallel">
+        <p xml:id="NA245-kiḷavi">itu kuṟai nērnta tōḻi talaimakaḷai mukampukkatu.</p>
+        <p xml:lang="en">This is how the confidante who had granted [HIS] request sought the favour of HER.</p>
         </div>
-      <div xml:id="NA245">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA245">
 <l>            nakaiyā kiṉṟē tōḻi takaiya</l>
 <l>            vaṇimalar muṇṭakat tāypūṅ kōtai</l>
 <l>            maṇimaru ḷaimpāl vaṇṭupaṭat taiit</l>
@@ -49,7 +46,7 @@
 <l>            curumpimir cuṭarnuta ṉōkkip</l>
 <l>            peruṅkaṭaṟ cērppaṉ ṟoḻutuniṉ ṟatuvē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>A smile came of it, friend,</l>
 <l>[he] standing in worship, the man from the coast of the great sea,</l>
 <l rend="indent">looking at [my] glowing forehead where bees hum</l>

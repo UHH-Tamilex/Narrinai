@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA253-kiḷavi">
-        <p type="edition">itu ceṟippaṟivuṟīi varaivu kaṭāyatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante urged for marriage, informing of confinement.</p>
+      <div rend="parallel">
+        <p xml:id="NA253-kiḷavi">itu ceṟippaṟivuṟīi varaivu kaṭāyatu.</p>
+        <p xml:lang="en">This is how the confidante urged for marriage, informing of confinement.</p>
         </div>
-      <div xml:id="NA253">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA253">
 <l>            puḷḷuppati cēriṉum puṇarntōrk kāṇiṉum</l>
 <l>            paḷḷi yāṉaiyiṉ veyya vuyiriṉai</l>
 <l>            kaḻipaṭar varuntiya vevvamoṭu peritaḻin</l>
@@ -46,7 +43,7 @@
 <l>            palavuṟu kuṉṟam pōlap</l>
 <l>            peruṅkavi ṉeytiya varuṅkāp piṉaḷē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>You who sigh hotly, as an elephant in [its] resting place,</l>
 <l rend="indent2">when the birds join [their] abodes and</l>
 <l rend="indent2">when you see those that are united,</l>

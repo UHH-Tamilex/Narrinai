@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="NA387-kiḷavi">
-            <p type="edition">itu piriviṭai melinta talaimakaḷait tōḻi paruvaṅkāṭṭi vaṟpuṟīiyatu.</p>
-            <p type="translation" xml:lang="en">This is how the confidante encouraged HER, who had become weak in the time of separation, by pointing out the season.</p>
+        <div rend="parallel">
+            <p xml:id="NA387-kiḷavi">itu piriviṭai melinta talaimakaḷait tōḻi paruvaṅkāṭṭi vaṟpuṟīiyatu.</p>
+            <p xml:lang="en">This is how the confidante encouraged HER, who had become weak in the time of separation, by pointing out the season.</p>
             </div>
-      <div xml:id="NA387">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA387">
 <l>            neṟiyiruṅ katuppu nīṇṭa tōḷu</l>
 <l>            mamma nāḷun toṉṉalañ citaiya</l>
 <l>            vōrāc centoṭai yorīiya kaṇṇik</l>
@@ -48,7 +45,7 @@
 <l>            ṇeṭumperuṅ kuṉṟa muṟṟik</l>
 <l>            kaṭumpeyal poḻiyuṅ kalikeḻu vāṉē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l rend="indent">            The curly dark hair and the long shoulders,</l>
 <l rend="indent">            alas, while [their] old beauty is wasted daily,</l>
 <l>        will he come, oh friend,</l>

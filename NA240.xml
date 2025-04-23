@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,13 +27,13 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA240-kiḷavi">
-        <p type="edition">1. itu piriviṭai melinta talaimakaḷ colliyatu.
+      <div rend="parallel">
+        <p xml:id="NA240-kiḷavi">1. itu piriviṭai melinta talaimakaḷ colliyatu.
             2. neñciṉāl poruḷ valikkappaṭ ṭāṟṟāṉāya talaimakaṉ colliyatūumām.</p>
-        <p type="translation" xml:lang="en">1. This what SHE said who has become weak in the time of separation. 2. It is also when HE said, being unable to bear it as he was being compelled by [his] heart to [earn] wealth.</p>
+        <p xml:lang="en">1. This what SHE said who has become weak in the time of separation. 2. It is also when HE said, being unable to bear it as he was being compelled by [his] heart to [earn] wealth.</p>
         </div>
-      <div xml:id="NA240">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA240">
 <l>            aitē kammaviv vulakupaṭait tōṉē</l>
 <l>            vaiyēr vāleyiṟ ṟoṇṇutaṟ kuṟumakaḷ</l>
 <l>            kaikavar muyakka meyyuṟat tiruki</l>
@@ -48,7 +45,7 @@
 <l>            yāṉai yiṉanirai vauvum</l>
 <l>            kāṉan tiṇṇiya malaipōṉ ṟiciṉē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>Let him go easily, him who created this world.</l>
 <l rend="indent2">Even if it is so that sleep comes at intervalls,</l>
 <l>the bosom with swelling breasts that sighed lamentingly</l>

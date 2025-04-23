@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA65-kiḷavi">
-        <p type="edition">itu viriccip peṟṟup pukaṉṟa tōḻi talaimakaṭkuc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what SHE said to the confidante who entered after having received a disembodied voice.</p>
+      <div rend="parallel">
+        <p xml:id="NA65-kiḷavi">itu viriccip peṟṟup pukaṉṟa tōḻi talaimakaṭkuc colliyatu.</p>
+        <p xml:lang="en">This is what SHE said to the confidante who entered after having received a disembodied voice.</p>
       </div>
-      <div xml:id="NA65">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA65">
 <l>            amuta muṇkanam mayiliya lāṭṭi</l>
 <l>            kiṭaṅki ṉaṉṉa viṭṭukkarai kāṉyāṟṟuk</l>
 <l>            kalaṅkum pāci nīrilaik kalāva</l>
@@ -46,7 +44,7 @@
 <l>            lurumiṭaik kaṭiyiṭi karaiyum</l>
 <l>            perumalai nāṭaṉai varumeṉ ṟōḷē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>May she eat ambrosia, our woman of peacock nature,</l>
 <l rend="indent2">she who said the man from the land of big mountains will come,</l>
 <l rend="indent">where the elephant with a number of wounds that had fought with a tiger,</l>

@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA360-kiḷavi">
-        <p type="edition">1. itu parattaiyiṟ pirinta talaimakaṉait tōḻi talaimakaḷ kuṟippaṟintu vāyiṉ maṟuttatu. 2. talaimaka ḷūṭic colliyatūumām.</p>
-        <p type="translation" xml:lang="en">1. This is how the confidante, knowing HER intention, refused the door to HIM who had separated for the sake of another woman. 2. It is also what SHE said in quarrel.</p>
+      <div rend="parallel">
+        <p xml:id="NA360-kiḷavi">1. itu parattaiyiṟ pirinta talaimakaṉait tōḻi talaimakaḷ kuṟippaṟintu vāyiṉ maṟuttatu. 2. talaimaka ḷūṭic colliyatūumām.</p>
+        <p xml:lang="en">1. This is how the confidante, knowing HER intention, refused the door to HIM who had separated for the sake of another woman. 2. It is also what SHE said in quarrel.</p>
         </div>
-      <div xml:id="NA360">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA360">
 <l>            muḻavumukam pularntu muṟaiyi ṉāṭiya</l>
 <l>            viḻavoḻi kaḷatta pāvai pōla</l>
 <l>            nerunaip puṇarntōr putunalam vauvi</l>
@@ -48,7 +45,7 @@
 <l>            tuṟṟaniṉ viḻuma muvappeṉ</l>
 <l>            maṟṟuṅ kūṭu maṉaimaṭi tuyilē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>            You may go, great one,</l>
 <l rend="indent">            to obtain the soft shoulder of women given today,</l>
 <l rend="indent">            snatching the new innocence of those [you] united with yesterday,</l>

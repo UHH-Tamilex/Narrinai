@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA62-kiḷavi">
-        <p type="edition">itu muṉṉoru kālattup poruḷvayiṟ pirintu vanta talaivaṉ piṉṉum poruḷ valikkap paṭṭa neñciṟkuc celavaḻuṅkuvittatu.</p>
-        <p type="translation" xml:lang="en">This is how HE, who at an earlier time had come [back] after separating for the sake of wealth, prevents [his] heart from going when it again coveted wealth.</p>
+      <div rend="parallel">
+        <p xml:id="NA62-kiḷavi">itu muṉṉoru kālattup poruḷvayiṟ pirintu vanta talaivaṉ piṉṉum poruḷ valikkap paṭṭa neñciṟkuc celavaḻuṅkuvittatu.</p>
+        <p xml:lang="en">This is how HE, who at an earlier time had come [back] after separating for the sake of wealth, prevents [his] heart from going when it again coveted wealth.</p>
       </div>
-      <div xml:id="NA62">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA62">
 <l>            vērpiṇi vetirttuk kālporu naralicai</l>
 <l>            kantupiṇi yāṉai yayarvuyirt taṉṉa</l>
 <l>            veṉṟūḻ nīṭiya vēypayi laḻuvattuk</l>
@@ -47,7 +45,7 @@
 <l>            vulavai yākiya maratta</l>
 <l>            kalpiṟaṅku māmalai yumparaḵ teṉavē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l rend="indent">Standing in thought, looking at the moon creeping up the hill</l>
 <l rend="indent">with a rustling depth of bamboo, when the sun lengthened,</l>
 <l rend="indent">sighing like an elephant fettered to a post lying down</l>

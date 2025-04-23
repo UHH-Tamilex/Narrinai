@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,13 +28,13 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA28-kiḷavi">
-        <p type="edition">1. itu piriviṉka ṇāṟṟāḷākiya talaivikkut tōḻi colliyatu. 2. itu kuṟai nayappu.</p>
-        <p type="translation" xml:lang="en">1. This is what the confidante said to HER who did not have the strength in the time of separation.
+      <div rend="parallel">
+        <p xml:id="NA28-kiḷavi">1. itu piriviṉka ṇāṟṟāḷākiya talaivikkut tōḻi colliyatu. 2. itu kuṟai nayappu.</p>
+        <p xml:lang="en">1. This is what the confidante said to HER who did not have the strength in the time of separation.
             2. This is granting the request.</p>
       </div>
-      <div xml:id="NA28">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA28">
 <l>            eṉkaik koṇṭu taṉka ṇoṟṟiyun</l>
 <l>            taṉkaik koṇṭe ṉaṉṉuta ṉīviyu</l>
 <l>            maṉṉai pōla viṉiya kūṟiyuṅ</l>
@@ -47,7 +45,7 @@
 <l>            lōṭumaḻai kiḻikkuñ ceṉṉik </l>
 <l>            kōṭuyar piṟaṅkaṉ malaikiḻa vōṉē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l rend="indent3">Pressing my hands to his eyes<note place="foot">Literally: "taking my hands [and pressing [them] to his eyes".</note></l>
 <l rend="indent3">and stroking my forehead with his hands</l>
 <l rend="indent3">and speaking sweet things like mother</l>

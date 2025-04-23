@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA115-kiḷavi">
-        <p type="edition">itu piriviṭai yāṟṟāḷāya talaimakaḷait tōḻi paruvaṅ koṇṭāṭi vaṟpuṟuttiyatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante comforts HER, who was unable to bear it during the separation, by appreciating the season.</p>
+      <div rend="parallel">
+        <p xml:id="NA115-kiḷavi">itu piriviṭai yāṟṟāḷāya talaimakaḷait tōḻi paruvaṅ koṇṭāṭi vaṟpuṟuttiyatu.</p>
+        <p xml:lang="en">This is how the confidante comforts HER, who was unable to bear it during the separation, by appreciating the season.</p>
       </div>
-      <div xml:id="NA115">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA115">
 <l>            malarnta poykaip pūkkuṟ ṟaḻuṅka</l>
 <l>            vayarnta vāyaṅ kaṇṇiṉitu paṭīiya</l>
 <l>            raṉṉaiyuñ ciṟitutaṇin tuyiriṉa ḷiṉṉīrt</l>
@@ -47,7 +45,7 @@
 <l>            ḻulappiṉṟu peṟiṉun taviralar </l>
 <l>            kēṭṭici ṉallaṉō vicumpiṉ ṟakavē.</l>
     </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l rend="indent">“While the eyes of [my] companions, who were engaged to the point of</l>
 <l rend="indent">exhaustion in plucking flowers in the pond that bloomed, close pleasantly,</l>
 <l rend="indent">mother is one who sighs, a little appeased, and in the opening</l>

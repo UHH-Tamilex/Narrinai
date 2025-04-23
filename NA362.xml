@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA362-kiḷavi">
-        <p type="edition">iḵtuṭaṉpōkāniṉṟa talaimakaṉ ṟalaimakaṭkuc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what HE who was eloping [with her] said to HER.</p>
+      <div rend="parallel">
+        <p xml:id="NA362-kiḷavi">iḵtuṭaṉpōkāniṉṟa talaimakaṉ ṟalaimakaṭkuc colliyatu.</p>
+        <p xml:lang="en">This is what HE who was eloping [with her] said to HER.</p>
         </div>
-      <div xml:id="NA362">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA362">
 <l>            viṉaiyamai pāvaiyi ṉiyali nuntai</l>
 <l>            maṉaivarai yiṟantu vantaṉai yāyiṟ</l>
 <l>            ṟalaināṭ ketiriya taṇpata veḻili</l>
@@ -47,7 +44,7 @@
 <l>            yamarvari ṉañcēṉ peyarkkuva</l>
 <l>            ṉumarvariṉ maṟaikuvaṉ māa yōḷē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l rend="indent2">            If you were to come<note place="foot"><term xml:lang="ta">vantaṉai āyiṉ</term> can be either understood as a hypothetical conditional or as a temporal sequence: "once you have come".</note>, traversing the border of your father’s</l>
 <l rend="indent2">            house, moving forward like an artfully fashioned doll(?)<note place="foot"><term xml:lang="ta">viṉai amai pāvai</term>: literally (possibly) "a doll effected by work[manship]" - does this under-marked attribute refer to the doll’s being fashioned by an artisan or to something it does?</note>,</l>
 <l>        you might play a little,</l>

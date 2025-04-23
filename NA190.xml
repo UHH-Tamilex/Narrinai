@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,13 +27,13 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA190-kiḷavi">
-        <p type="edition">1. itu piṉṉiṉṟa talaimaka ṉāṟṟāṉāy neñciṟkuc colliyatu. 2. allakuṟippaṭṭu mīḷvāṉ neñciṟkuc colliyatūumām.
+      <div rend="parallel">
+        <p xml:id="NA190-kiḷavi">1. itu piṉṉiṉṟa talaimaka ṉāṟṟāṉāy neñciṟkuc colliyatu. 2. allakuṟippaṭṭu mīḷvāṉ neñciṟkuc colliyatūumām.
             3. iṭaiccurattuc ceṉṟu talaimaka ṇalamuḷḷi mīḷaluṟṟa neñciṉaik kaḻaṟiyatūumām.</p>
-        <p type="translation" xml:lang="en">1. This is what HE who stood behind [her] said to [his] heart, being one who could not bear it. 2. It is also what the one who returned after having been led astray by a [wrong] sign said to [his] heart. 3. It is also how he reproaches the heart that suffers [from the wish] to go back when remembering HER beauty after having gone right into the desert.</p>
+        <p xml:lang="en">1. This is what HE who stood behind [her] said to [his] heart, being one who could not bear it. 2. It is also what the one who returned after having been led astray by a [wrong] sign said to [his] heart. 3. It is also how he reproaches the heart that suffers [from the wish] to go back when remembering HER beauty after having gone right into the desert.</p>
       </div>
-      <div xml:id="NA190">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA190">
 <l>            nōviṉi vāḻiya neñcē mēvā</l>
 <l>            rāraraṇ kaṭanta māri vaṇmakiḻt</l>
 <l>            titalai yeḵkiṟ cēntaṉ ṟantai</l>
@@ -46,7 +44,7 @@
 <l>            valaimāṉ maḻaikkaṭ kuṟumakaḷ</l>
 <l>            ciṉmoḻit tuvarvāy nakaikkumakiḻn tōyē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>        Ache now – may you live, heart –</l>
 <l>        you who delighted in the smile of the coral mouth with few words</l>
 <l rend="indent">            of the little woman with rain eyes, [as] a deer in the net,</l>

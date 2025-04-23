@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA197-kiḷavi">
-        <p type="edition">itu varaivu nīṭa vāṟṟāḷākiya talaimakaḷait tōḻi yāṟṟuvittatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante encouraged HER who was unable to bear it when the marriage was delayed.</p>
+      <div rend="parallel">
+        <p xml:id="NA197-kiḷavi">itu varaivu nīṭa vāṟṟāḷākiya talaimakaḷait tōḻi yāṟṟuvittatu.</p>
+        <p xml:lang="en">This is how the confidante encouraged HER who was unable to bear it when the marriage was delayed.</p>
       </div>
-      <div xml:id="NA197">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA197">
 <l>            tōḷē toṭinekiḻn taṉavē nutalē</l>
 <l>            pīrivar malariṟ pacappūrn taṉṟē</l>
 <l>            kaṇṇun taṇpaṉi vaikiṉa vaṉṉō</l>
@@ -48,7 +46,7 @@
 <l>            reyilūr paḵṟōl pōlac</l>
 <l>            ceṉmaḻai tavaḻumavar naṉmalai nāṭṭē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>“[My] shoulders, the bracelets have become loose.</l>
 <l rend="indent4">		[My] forehead,</l>
 <l>pallor crept up like the climbing blossoms of the Pīr.</l>

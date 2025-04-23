@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA338-kiḷavi">
-        <p type="edition">iḵtoruvaḻit taṇantakālai yāṟṟāta talaimakaḷ vaṉpoṟai yetirmoḻintatu.</p>
-        <p type="translation" xml:lang="en">This is what SHE who was unable to bear it in the time [HE] has departed on a temporary absence said in the face of encouragement.</p>
+      <div rend="parallel">
+        <p xml:id="NA338-kiḷavi">iḵtoruvaḻit taṇantakālai yāṟṟāta talaimakaḷ vaṉpoṟai yetirmoḻintatu.</p>
+        <p xml:lang="en">This is what SHE who was unable to bear it in the time [HE] has departed on a temporary absence said in the face of encouragement.</p>
         </div>
-      <div xml:id="NA338">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA338">
 <l>            kaṭuṅkatir ñāyiṟu malaimaṟain taṉṟē</l>
 <l>            vaṭumpukoṭi tumiya vāḻi pōḻntavar</l>
 <l>            neṭuntē riṉṉoli yiravun tōṉṟā</l>
@@ -49,7 +46,7 @@
 <l>            vuyircelak kaṭaiip puṇartuṇaip</l>
 <l>            payirta lāṉāp paitalaṅ kurukē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>The sun with swift rays has vanished behind the mountain.</l>
 <l>Even at night the sweet sound of his chariot does not appear,</l>
 <l>crossing with [its] wheels so that they are severed the Aṭumpu creeper.</l>

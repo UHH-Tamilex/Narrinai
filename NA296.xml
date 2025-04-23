@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA296-kiḷavi">
-        <p type="edition">itu tōḻiyāṟ pirivuṇarttappaṭṭa talaimakaḷ colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what SHE said who was informed of the separation by the confidante.</p>
+      <div rend="parallel">
+        <p xml:id="NA296-kiḷavi">itu tōḻiyāṟ pirivuṇarttappaṭṭa talaimakaḷ colliyatu.</p>
+        <p xml:lang="en">This is what SHE said who was informed of the separation by the confidante.</p>
         </div>
-      <div xml:id="NA296">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA296">
 <l>            eṉṉō vatuko ṟōḻi maṉṉar</l>
 <l>            viṉaival yāṉaip pukarmukat taṇinta</l>
 <l>            poṉce yōṭai puṉainalaṅ kaṭuppap</l>
@@ -46,7 +43,7 @@
 <l>            celpa veṉpa kātala</l>
 <l>            roḻitu meṉpanām varuntupaṭa ruḻantē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>What will stop [it], friend?</l>
 <l>He will go, they say, [our] lover,</l>
 <l>hastening with a mind thinking just of work,</l>

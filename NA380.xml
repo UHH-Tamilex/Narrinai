@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA380-kiḷavi">
-        <p type="edition">itu pāṇaṟkut tōḻi vāyiṉ maṟuttatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante refused the door to the bard.</p>
+      <div rend="parallel">
+        <p xml:id="NA380-kiḷavi">itu pāṇaṟkut tōḻi vāyiṉ maṟuttatu.</p>
+        <p xml:lang="en">This is how the confidante refused the door to the bard.</p>
         </div>
-      <div xml:id="NA380">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA380">
 <l>            neyyuṅ kuyyu māṭi maiyoṭu</l>
 <l>            mācupaṭ ṭaṉṟē kaliṅkamun tōḷuṅ</l>
 <l>            titalai meṉmulait tīmpāl piliṟṟap</l>
@@ -52,7 +49,7 @@
 <l>            puraviyum pūṇilai muṉikuva</l>
 <l>            virakila moḻiyalyām vēṭṭatil vaḻiyē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l rend="indent4">            Fumbling with ghee and curry,</l>
 <l>            [our] cloth is stained with dirt and [our] shoulders, embracing [our] son,</l>
 <l rend="indent">                while sweet milk drizzles from [our] soft breasts with beauty spots,</l>
