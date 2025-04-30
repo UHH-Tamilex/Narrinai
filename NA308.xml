@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA308-kiḷavi">
-        <p type="edition">itu neñciṉāṟ poruḷ valikkappaṭṭa talaimakaṉ ṟalaimakaḷai yeyti yāṟṟāṉāy neñciṟkuc collic celavaḻuṅkiyatu.</p>
-        <p type="translation" xml:lang="en">This is how HE, who was forced to [pursue] wealth by [his own] heart, dispensed with going, speaking to the heart as one who was unable to bear it when reaching HER.</p>
+      <div rend="parallel">
+        <p xml:id="NA308-kiḷavi">itu neñciṉāṟ poruḷ valikkappaṭṭa talaimakaṉ ṟalaimakaḷai yeyti yāṟṟāṉāy neñciṟkuc collic celavaḻuṅkiyatu.</p>
+        <p xml:lang="en">This is how HE, who was forced to [pursue] wealth by [his own] heart, dispensed with going, speaking to the heart as one who was unable to bear it when reaching HER.</p>
         </div>
-      <div xml:id="NA308">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA308">
 <l>            celavirai vuṟṟa varavam pōṟṟi</l>
 <l>            malarē ruṇkaṇ paṉivara vāyiḻai</l>
 <l>            yāntaṟ karaiyavu nāṇiṉaḷ varuvōḷ</l>
@@ -48,7 +45,7 @@
 <l>            perumaḻaip peyaṟkēṟ ṟāṅkumeṉ</l>
 <l>            poruṇmali neñcam puṇarntuvan taṉṟē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>Upon noticing the noise produced by the hurry to go,</l>
 <l>	even as we call her of choice jewels, while dew comes into</l>
 <l>[her] blossom-like collyrium eyes, she would come ashamed.</l>

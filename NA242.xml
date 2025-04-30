@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA242-kiḷavi">
-        <p type="edition">itu viṉaimuṟṟi maṟuttarāniṉṟa talaimakaṉ kārkaṇṭu pākaṟkuc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what HE, who was bringing back [his] wealth after having accomplished [it], said to the charioteer upon seeing the season.</p>
+      <div rend="parallel">
+        <p xml:id="NA242-kiḷavi">itu viṉaimuṟṟi maṟuttarāniṉṟa talaimakaṉ kārkaṇṭu pākaṟkuc colliyatu.</p>
+        <p xml:lang="en">This is what HE, who was bringing back [his] wealth after having accomplished [it], said to the charioteer upon seeing the season.</p>
         </div>
-      <div xml:id="NA242">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA242">
 <l>            ilaiyil piṭava mīrmala rarumpap</l>
 <l>            putalivar taḷavam pūṅkoṭi yaviḻap</l>
 <l>            poṉṉeṉak koṉṟai malara maṇiyeṉap</l>
@@ -47,7 +44,7 @@
 <l>            kāmar neñcamō ṭakalāt</l>
 <l>            tēṭūu niṉṟa viralai yēṟē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l rend="indent">While the wet blossoms of the leafless Piṭavam bud,</l>
 <l rend="indent">while the flower creepers of the golden jasmine open, climbing the bushes,</l>
 <l rend="indent">while the gold-like Laburnum blossoms,</l>

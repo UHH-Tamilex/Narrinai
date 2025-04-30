@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA26-kiḷavi">
-        <p type="edition">itu talaivi pirivuṇarntu vēṟupaṭṭamai collit tōḻi celavaḻuṅkuvittatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante prevents [HIS] going, speaking of HER having changed after understanding that [HE] would separate.</p>
+      <div rend="parallel">
+        <p xml:id="NA26-kiḷavi">itu talaivi pirivuṇarntu vēṟupaṭṭamai collit tōḻi celavaḻuṅkuvittatu.</p>
+        <p xml:lang="en">This is how the confidante prevents [HIS] going, speaking of HER having changed after understanding that [HE] would separate.</p>
       </div>
-      <div xml:id="NA26">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA26">
 <l>            nōkō yāṉē nekiḻntaṉa vaḷaiyē</l>
 <l>            cevvi cērnta puḷḷi veḷḷarai</l>
 <l>            viṇṭup puraiyum puṇarnilai neṭuṅkūṭṭup</l>
@@ -48,7 +46,7 @@
     <l>miṉṉī rōtip paṇaiperun tōḷē</l></lg>
 
 </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>Ah, I ache. They have become loose, [my] bangles,</l>
 <l>– for her of big shoulders, with dark hair all around,</l>
 <l rend="indent2">with beauty spots like piled gold, with sharp teeth.</l>

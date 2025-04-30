@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,14 +27,14 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA185-kiḷavi">
-        <p type="edition">1. itu pāṅkaṟkut talaivaṉ colliyatu.
+      <div rend="parallel">
+        <p xml:id="NA185-kiḷavi">1. itu pāṅkaṟkut talaivaṉ colliyatu.
             2. cēṭpaṭukkun tōḻikkut talaivaṉ colliyatūumām.</p>
-        <p type="translation" xml:lang="en">1. This is what HE said to [his] companion.
+        <p xml:lang="en">1. This is what HE said to [his] companion.
             2. It is also what HE said to the confidante who kept [him] at a distance.</p>
       </div>
-      <div xml:id="NA185">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA185">
 <l>            āṉā nōyō ṭaḻipaṭark kalaṅkik</l>
 <l>            kāmaṅ kaimmikak kaiyaṟu tuyaraṅ</l>
 <l>            kāṇavu nalkā yāyiṟ pāṇar</l>
@@ -50,7 +48,7 @@
 <l>            viṉaimāṇ pāvai yaṉṉōḷ</l>
 <l>            kolaicūḻn taṉaḷā ṉōkō yāṉē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l rend="indent3">With unending pain, perturbed by destructive affliction,</l>
 <l rend="indent3">in motionless misery, while desire exceeds,</l>
 <l rend="indent">– if you don't grant even seeing [her],</l>

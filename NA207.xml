@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA207-kiḷavi">
-        <p type="edition">itu notumalar varaivuḻit tōḻi cevilik kaṟattoṭu niṉṟatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante stood up to virtue (~ revealed the truth) to the foster mother when there was a marriage [offer] by strangers.</p>
+      <div rend="parallel">
+        <p xml:id="NA207-kiḷavi">itu notumalar varaivuḻit tōḻi cevilik kaṟattoṭu niṉṟatu.</p>
+        <p xml:lang="en">This is how the confidante stood up to virtue (~ revealed the truth) to the foster mother when there was a marriage [offer] by strangers.</p>
       </div>
-      <div xml:id="NA207">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA207">
 <l>            kaṇṭal vēlik kaḻicūḻ paṭappai</l>
 <l>            muṇṭakam vēynta kuṟiyiṟaik kurampaik</l>
 <l>            koḻumīṉ koḷpavar pākkaṅ kalleṉa</l>
@@ -49,7 +47,7 @@
 <l>            kolaiveñ ciṟāar pāṟpaṭ ṭaṉaḷē.</l>
             
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>[His] coming does not end, the long chariot prepared,</l>
 <l rend="indent">noisily, to the village of those who are taking rich fish,</l>
 <l rend="indent2">in huts with short-eaved [roofs] covered in Muṇṭakam</l>

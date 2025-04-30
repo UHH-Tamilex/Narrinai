@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA369-kiḷavi">
-        <p type="edition">itu paṭṭapiṉṟai varaiyātu poruḷvayiṟ pirin tāṟṟāḷākiya talaimakaḷ vaṉpoṟai yetiraḻintatu.</p>
-        <p type="translation" xml:lang="en">This is how SHE was desolate in the face of encouragement, being unable to bear it [when HE] separated for the sake of wealth without marrying after it had happened.</p>
+      <div rend="parallel">
+        <p xml:id="NA369-kiḷavi">itu paṭṭapiṉṟai varaiyātu poruḷvayiṟ pirin tāṟṟāḷākiya talaimakaḷ vaṉpoṟai yetiraḻintatu.</p>
+        <p xml:lang="en">This is how SHE was desolate in the face of encouragement, being unable to bear it [when HE] separated for the sake of wealth without marrying after it had happened.</p>
         </div>
-      <div xml:id="NA369">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA369">
 <l>            cuṭarciṉan taṇintu kuṉṟañ cēra</l>
 <l>            niṟaipaṟai kurukiṉam vicumpukan toḻuka</l>
 <l>            vellai paipayak kaḻippi mullai</l>
@@ -48,7 +45,7 @@
 <l>            ciṟaiyaṭuṅ kaṭumpuṉa laṉṉave</l>
 <l>            ṉiṟaiyaruṅ kāma nīntu māṟē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l rend="indent">If it blossoms even today, great bleak evening,</l>
 <l rend="indent2">	when the bud mouths of the jasmine open, daylight passing gently,</l>
 <l rend="indent2">	while a group of full-winged herons ascend the sky [and] pass,</l>

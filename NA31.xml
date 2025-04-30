@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA31-kiḷavi">
-        <p type="edition">itu talaivaṉ ciṟaippuṟattāṉākat talaivi vaṉpuṟai yetiraḻintatu.</p>
-        <p type="translation" xml:lang="en">This is how SHE was desolate in answer to consolation while HE was behind the fence.</p>
+      <div rend="parallel">
+        <p xml:id="NA31-kiḷavi">itu talaivaṉ ciṟaippuṟattāṉākat talaivi vaṉpuṟai yetiraḻintatu.</p>
+        <p xml:lang="en">This is how SHE was desolate in answer to consolation while HE was behind the fence.</p>
       </div>
-      <div xml:id="NA31">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA31">
 <l>            māyirum parappakan tuṇiya nōkkic</l>
 <l>            cēyiṟā veṟinta ciṟuveṇ kākkai</l>
 <l>            pāyirum paṉikkaḻi tuḻaiip paiṅkāṟ</l>
@@ -49,7 +47,7 @@
 <l>            kulavuttirai yōtam verūu</l>
 <l>            muravunīrc cērppaṉoṭu maṇavā vūṅkē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>Sweet [was] the ghat too,</l>
 <l rend="indent3">with [its] small-blossomed Ñāḻal trees,</l>
 <l rend="indent2">where the little white crow that has thrown up red prawns,</l>

@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA351-kiḷavi">
-        <p type="edition">itu tōḻi yarukutoṭuttatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante came close [to the matter].</p>
+      <div rend="parallel">
+        <p xml:id="NA351-kiḷavi">itu tōḻi yarukutoṭuttatu.</p>
+        <p xml:lang="en">This is how the confidante came close [to the matter].</p>
         </div>
-      <div xml:id="NA351">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA351">
 <l>            iḷamai tīrntaṉa ḷivaḷeṉa vaḷamaṉai</l>
 <l>            yaruṅkaṭip paṭuttaṉai yāyiṉuñ ciṟantivaḷ</l>
 <l>            pacantaṉa ḷeṉpa tuṇarāy paṉṉā</l>
@@ -46,7 +43,7 @@
 <l>            ciṟutiṉai viyaṉpuṉaṅ kāppiṟ</l>
 <l>            peṟukuvaṇ maṉṉōveṉ ṟōḻitaṉ ṉalaṉē</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l rend="indent">Even if you have put [her] under heavy protection</l>
 <l rend="indent2">in the wealthy house, saying</l>
 <l rend="indent4">“she has come to the end of youth<note place="foot"><term xml:lang="ta">iḷamai</term> here obviously refers to the period of childhood − sexual immaturity.</note>”,</l>

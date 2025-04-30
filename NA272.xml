@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,13 +27,13 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA272-kiḷavi">
-        <p type="edition">1. itu varaiyātu neṭuṅkālam vantoḻuka vāṟṟāḷāya talaimakaḷ colliyatu.
+      <div rend="parallel">
+        <p xml:id="NA272-kiḷavi">1. itu varaiyātu neṭuṅkālam vantoḻuka vāṟṟāḷāya talaimakaḷ colliyatu.
             2. tōḻi talaimakaṭkuc colluvāḷāyt talaimakaṉ kēṭpac colliyatūumām.</p>
-        <p type="translation" xml:lang="en">1. What SHE said who was unable to bear it when [HE] kept coming for a long time without marrying. 2. It is also what the confidante said as one who is speaking to HER so that HE would hear it.</p>
+        <p xml:lang="en">1. What SHE said who was unable to bear it when [HE] kept coming for a long time without marrying. 2. It is also what the confidante said as one who is speaking to HER so that HE would hear it.</p>
         </div>
-      <div xml:id="NA272">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA272">
 <l>            kaṭalaṅ kākkaic cevvāyc cēval</l>
 <l>            paṭiva makaḷir koṭikoy taḻitta</l>
 <l>            pomma laṭumpiṉ veṇmaṇa loruciṟaik</l>
@@ -48,7 +45,7 @@
 <l>            yampaṉ mūtū raṟintatu</l>
 <l>            nōyā kiṉṟatu nōyiṉum peritē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>Since [my] yearning became false with the decline</l>
 <l rend="indent">of the man from the ghat,</l>
 <l rend="indent4">where the red-beaked male</l>

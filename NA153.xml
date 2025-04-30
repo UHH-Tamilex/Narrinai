@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA153-kiḷavi">
-        <p type="edition">itu piriviṭai melinta talaivi colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what SHE said who was weakened in the time of marriage.</p>
+      <div rend="parallel">
+        <p xml:id="NA153-kiḷavi">itu piriviṭai melinta talaivi colliyatu.</p>
+        <p xml:lang="en">This is what SHE said who was weakened in the time of marriage.</p>
       </div>
-      <div xml:id="NA153">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA153">
 <l>            kuṇakaṭaṉ mukantu kuṭakkēr piruḷi</l>
 <l>            maṇṭiṇi ñālam viḷaṅkak kammiyar</l>
 <l>            cempucori pāṉaiyiṉ miṉṉiyev vāyun</l>
@@ -46,7 +44,7 @@
 <l>            vāḻvōr pōkiya pērūrp</l>
 <l>            pāḻkāt tirunta taṉimakaṉ pōṉṟē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l rend="indent2">Because [my] heart has gone to him</l>
 <l>– like the sweet-voiced cloud, that has achieved its task everywhere(?)<note place="foot"><term xml:lang="ta">evvāy-um</term>: T.V.G. explains this as an adverb of place ("at whatever place") which is not backed up by the TL (which does not even give "place" among the meaning of <term xml:lang="ta">vāy</term>), but nevertheless conceivable and plausible in the context.</note>,</l>
 <l rend="indent2">drawing [water] from the eastern sea, rising [and] darkening to the west,</l>

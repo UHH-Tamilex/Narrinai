@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA140-kiḷavi">
-        <p type="edition">itu kuṟai maṟukkappaṭṭa talaivaṉ ṟaṉṉeñciṉai neruṅkiyatu.</p>
-        <p type="translation" xml:lang="en">This is how HE who had [his] requests refused addresses [his] own heart.</p>
+      <div rend="parallel">
+        <p xml:id="NA140-kiḷavi">itu kuṟai maṟukkappaṭṭa talaivaṉ ṟaṉṉeñciṉai neruṅkiyatu.</p>
+        <p xml:lang="en">This is how HE who had [his] requests refused addresses [his] own heart.</p>
       </div>
-      <div xml:id="NA140">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA140">
 <l>            koṇṭaṉ māmaḻai kuṭakkērpu kuḻaitta</l>
 <l>            ciṟukō liṇara peruntaṇ cāntam</l>
 <l>            vakaicē raimpāṟ kaipeṟa vārip</l>
@@ -47,7 +45,7 @@
 <l>            maruntuya ravalan tīrkku </l>
 <l>            maruntupiṟi tillaiyā ṉuṟṟa nōykkē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>Whether she has consideration or whether she has no consideration,</l>
 <l>the emotionless woman who moves with a ball over the expanse</l>
 <l rend="indent3">of moonlit sand, where the long chariot of [her] father wanders,</l>

@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA287-kiḷavi">
-        <p type="edition">itu kāppu mikutikka ṇāṟṟāḷākiya talaimakaḷ colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what SHE said who was unable to bear it during the increase in guarding.</p>
+      <div rend="parallel">
+        <p xml:id="NA287-kiḷavi">itu kāppu mikutikka ṇāṟṟāḷākiya talaimakaḷ colliyatu.</p>
+        <p xml:lang="en">This is what SHE said who was unable to bear it during the increase in guarding.</p>
         </div>
-      <div xml:id="NA287">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA287">
 <l>            vicumpuṟaḻ puricai vempa muṟṟip</l>
 <l>            paiṅkaṇ yāṉai vēntupuṟat tiṟutta</l>
 <l>            nalleyi luṭaiyō ruṭaiya meṉṉum</l>
@@ -48,7 +45,7 @@
 <l>            tērmaṇit teḷḷicaik kolleṉa </l>
 <l>            vūrmaṭi kaṅkulun tuyiṉmaṟan tatuvē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>[My] strong heart, that was not afraid</l>
 <l rend="indent">at the time he came, for desire [is] great,</l>
 <l rend="indent2">without fear of the shivering<note place="foot"><term xml:lang="ta">naṭuṅku pakai</term>: here actually the Tamil is imprecise (as is poetic licence); in fact the enmity should be one that makes shiver.</note> enmity of the fear[-ful] crocodile,</l>

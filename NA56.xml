@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA56-kiḷavi">
-        <p type="edition">itu varaiviṭai melivāṟṟuvikkun tōḻikkut talaivi colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what SHE said to the confidante who was encouraging [HER in her] weakness [until] the time of marriage.</p>
+      <div rend="parallel">
+        <p xml:id="NA56-kiḷavi">itu varaiviṭai melivāṟṟuvikkun tōḻikkut talaivi colliyatu.</p>
+        <p xml:lang="en">This is what SHE said to the confidante who was encouraging [HER in her] weakness [until] the time of marriage.</p>
       </div>
-      <div xml:id="NA56">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA56">
 <l>            kuṟunilaik kuraviṉ ciṟunaṉai naṟuvī</l>
 <l>            vaṇṭutaru nāṟṟam vaḷikalan tīyak</l>
 <l>            kaṇkaḷi peṟūuṅ kaviṉpeṟu kālai</l>
@@ -47,7 +45,7 @@
 <l>            yēti lāṭṭi yivaḷeṉap</l>
 <l>            pōyiṉṟu kollō nōytalai maṇantē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>[My] heart, gone to make [him] unhappy</l>
 <l rend="indent2">to the one who made loose [my] light bangles</l>
 <l rend="indent">at a time that obtains beauty, when the eye obtains delight by</l>

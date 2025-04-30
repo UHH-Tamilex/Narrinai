@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA292-kiḷavi">
-        <p type="edition">iḵtiravukkuṟi maṟuttatu.</p>
-        <p type="translation" xml:lang="en">This is what refused a night tryst.</p>
+      <div rend="parallel">
+        <p xml:id="NA292-kiḷavi">iḵtiravukkuṟi maṟuttatu.</p>
+        <p xml:lang="en">This is what refused a night tryst.</p>
         </div>
-      <div xml:id="NA292">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA292">
 <l>            neṭuṅta ṇārak kalaṅkuciṉai valanta</l>
 <l>            pacuṅkē ḻilaiya naṟuṅkoṭit tamālan</l>
 <l>            tīntēṉ koḷpavar vāṅkupu pariyum</l>
@@ -46,7 +43,7 @@
 <l>            karāam pēṇā yiravuvariṉ</l>
 <l>            vāḻē ṉaiya maikūr paṉiyē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>You who don’t think of the forest with fertile regions,</l>
 <l>where the Tamālam in fragrant creepers with green lustrous leaves</l>
 <l>that encircled the stirring branches of the long cool<note place="foot"><term xml:lang="ta">neṭum taṇ āram</term>: this attribute of the sandal looks strange (unless we suppose that the first part of the attribute refers to the tree, the second to the paste), but the variant <term xml:lang="ta">neṭum kaṇ</term> is even less satisfactory.</note> sandal</l>

@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA156-kiḷavi">
-        <p type="edition">iḵtiravukkuṟi maṟuttatu.</p>
-        <p type="translation" xml:lang="en">This is how a night tryst is refused.</p>
+      <div rend="parallel">
+        <p xml:id="NA156-kiḷavi">iḵtiravukkuṟi maṟuttatu.</p>
+        <p xml:lang="en">This is how a night tryst is refused.</p>
       </div>
-      <div xml:id="NA156">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA156">
 <l>            nīyē</l>
 <l>            yaṭiyaṟin totuṅkā vāriruḷ vanteṅ</l>
 <l>            kaṭiyuṭai viyaṉakark kāva ṉīviyum</l>
@@ -48,7 +46,7 @@
 <l>            pāṭimiḻ viṭarmukai muḻaṅka</l>
 <l>            vāṭumaḻai yiṟuttateṅ kōṭuyar kuṉṟē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>You have great love, o man from the land of big stones,</l>
 <l rend="indent">you, coming through difficult darkness, when [orientation] is reduced to</l>
 <l rend="indent">knowing by foot, and passing by the watch of our well-protected wide mansion.</l>

@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA235-kiḷavi">
-        <p type="edition">itu varaivu nīṭa vāṟṟāḷāṅ kālattut tōḻi varaivu malintatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante rejoiced in marriage at a time when she was unable to bear it when the marriage was delayed.</p>
+      <div rend="parallel">
+        <p xml:id="NA235-kiḷavi">itu varaivu nīṭa vāṟṟāḷāṅ kālattut tōḻi varaivu malintatu.</p>
+        <p xml:lang="en">This is how the confidante rejoiced in marriage at a time when she was unable to bear it when the marriage was delayed.</p>
         </div>
-      <div xml:id="NA235">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA235">
 <l>            uravuttirai poruta piṇarpaṭu taṭavumuta</l>
 <l>            laravu vāyā muḷḷilait tāḻai</l>
 <l>            poṉṉēr tātiṟ puṉṉaiyoṭu kamaḻum</l>
@@ -47,7 +44,7 @@
 <l>            paṭumaṇik kalimā kaṭaii</l>
 <l>            neṭunīrc cērppaṉ varūu māṟē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>Even if he has come to the sign by day in the many-flowered</l>
 <l rend="indent">seashore grove, where</l>
 <l rend="indent2">the Tāḻai trees with thorny leaves are not surpassed by snakes<note place="foot"><term xml:lang="ta">aravu vāyā</term> is a problem, and it does not become less so by adopting the better attested variant, <term xml:lang="ta">aravu vāḷ vāyā</term>. T.V.G. wants to read <term xml:lang="ta">vāyā</term> as a word of comparison and <term xml:lang="ta">aravu-vāḷ</term> as a single word for "saw". This has the look of an adhoc solution. One possibility with <term xml:lang="ta">aravu</term>, however, is that the Tāḻai thorns are as sharp or even sharper than a snake’s tooth.</note>,</l>

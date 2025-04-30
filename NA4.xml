@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA4-kiḷavi">
-        <p type="edition">itu talaivaṉ ciṟaippuṟattāṉākat tōḻi yalaraccan tōṉṟac colli varaivu kaṭāyatu.</p>
-        <p type="translation" xml:lang="en">This is [how] the confidante asked for marriage by saying that the fear of gossip has come up.</p>
+      <div rend="parallel">
+        <p xml:id="NA4-kiḷavi">itu talaivaṉ ciṟaippuṟattāṉākat tōḻi yalaraccan tōṉṟac colli varaivu kaṭāyatu.</p>
+        <p xml:lang="en">This is [how] the confidante asked for marriage by saying that the fear of gossip has come up.</p>
       </div>
-      <div xml:id="NA4">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA4">
 <l>            kāṉalañ ciṟukuṭik kaṭaṉmēm paratavar</l>
 <l>            nīṉiṟap puṉṉaik koḻuniḻa lacaiit</l>
 <l>            taṇperum parappi ṉoṇpata nōkki</l>
@@ -50,7 +48,7 @@
 <l>            miruṅkaḻic cērppiṟṟa muṟaivi ṉūrkkē.</l>
 
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
         <l rend="indent">“The gossip about the man from the ghat,</l>
         <l rend="indent">where fishermen, [their] little homes by the seashore grove close to the sea,</l>
         <l rend="indent">stay in the rich shade of the blue-coloured Puṉṉai tree,</l>

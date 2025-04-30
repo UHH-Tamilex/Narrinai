@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA321-kiḷavi">
-        <p type="edition">itu viṉaimuṟṟi mīḷvāṉ ṟērppākaṟkuc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what the one returning after having accomplished [his] work said to the charioteer.</p>
+      <div rend="parallel">
+        <p xml:id="NA321-kiḷavi">itu viṉaimuṟṟi mīḷvāṉ ṟērppākaṟkuc colliyatu.</p>
+        <p xml:lang="en">This is what the one returning after having accomplished [his] work said to the charioteer.</p>
         </div>
-      <div xml:id="NA321">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA321">
 <l>            cennilap puṟaviṉ puṉmayirp puruvai</l>
 <l>            pāṭiṉ ṟeṇmaṇit tōṭutalaip peyarak</l>
 <l>            kāṉa mullaik kayavā yalarip</l>
@@ -47,7 +44,7 @@
 <l>            kuruntaviḻ kuṟumpoṟai payiṉṟa</l>
 <l>            peruṅkali mūtūr marantōṉ ṟummē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>In the evening when the rays disappear, when the glow joins the stones<note place="foot">I.e., the sun joins the western mountains.</note></l>
 <l>to adorn the backside of the slopes of brahmin women<note place="foot">Here we encounter a construction problem. The parallelism with line 2 as well as contents ask for <term xml:lang="ta">makaḷir</term> as the subject of <term xml:lang="ta">aṇiya</term>. But then we are stuck with <term xml:lang="ta">cāral puṟattu</term> - T.V.G.’s solution that the women put on the flowers on the backside of the slope is as adhoc as the version given above.</note></l>
 <l>with deep-mouthed flowers of the forest jasmine,</l>

@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA367-kiḷavi">
-        <p type="edition">itu varaivu malintatu.</p>
-        <p type="translation" xml:lang="en">This is how marriage is urged for.</p>
+      <div rend="parallel">
+        <p xml:id="NA367-kiḷavi">itu varaivu malintatu.</p>
+        <p xml:lang="en">This is how marriage is urged for.</p>
         </div>
-      <div xml:id="NA367">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA367">
 <l>            koṭuṅkaṭ kākkaik kūrvāyp pēṭai</l>
 <l>            naṭuṅkuciṟaip piḷḷai taḻīik kiḷaipayirntu</l>
 <l>            karuṅkaṭ karuṉaic cennel veṇcōṟu</l>
@@ -50,7 +47,7 @@
 <l>            viriyuḷai naṉmā kaṭaiip</l>
 <l>            pariyātu varuvarip paṉipaṭu nāḷē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>O young woman of soft nature,</l>
 <l>{with shining bracelets in a choice row [and] with a forehead</l>
 <l rend="indent">	as good as} Arumaṉ’s famous Ciṟukuṭi with old houses,</l>

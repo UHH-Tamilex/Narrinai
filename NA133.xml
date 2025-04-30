@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA133-kiḷavi">
-        <p type="edition">itu varaiviṭai vaittup pirivāṟṟāḷāya talaivi vaṟpuṟukkun tōḻikkuc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what SHE, who did not have the strength during the separation after the time for the marriage had been fixed, said to [her] confidante who was comforting [her].</p>
+      <div rend="parallel">
+        <p xml:id="NA133-kiḷavi">itu varaiviṭai vaittup pirivāṟṟāḷāya talaivi vaṟpuṟukkun tōḻikkuc colliyatu.</p>
+        <p xml:lang="en">This is what SHE, who did not have the strength during the separation after the time for the marriage had been fixed, said to [her] confidante who was comforting [her].</p>
       </div>
-      <div xml:id="NA133">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA133">
 <l>            tōḷē toṭikoṭ pāṉā kaṇṇē</l>
 <l>            vāḷīr vaṭiyiṉ vaṭiviḻan taṉavē</l>
 <l>            nutalum pacalai pāyiṉṟu titalaic</l>
@@ -47,7 +45,7 @@
 <l>            tōymaṭ ciṉṉīr pōla </l>
 <l>            nōymali neñciṟ kēmamāñ ciṟitē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>The word full of desire [and] love<note place="foot">The syntax of this line is dubious. The commentaries take <term xml:lang="ta">kām-uṟu</term> as an epithet of <term xml:lang="ta">tōḻi</term> which then would have to be read as a antepositioned vocative, a thing fairly rare (except for the <term xml:lang="ta">amma vāḻi</term> variant). I suggest to take it as the first attribute of <term xml:lang="ta">kiḷavi</term>, with a vocative <term xml:lang="ta">tōḻi</term> inserted into the string description.</note>, friend,</l>
 <l rend="indent">that says “he does not cause the misery we have”,</l>
 <l rend="indent2">while hot-mouthed women spread scandal:</l>

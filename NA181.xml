@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA181-kiḷavi">
-        <p type="edition">itu viṉaimuṟṟip pukuntatu kaṇṭa tōḻi makiḻntu uraittatu.</p>
-        <p type="translation" xml:lang="en">What the confidante who saw [HIM] enter after having finished [his] work said in joy.</p>
+      <div rend="parallel">
+        <p xml:id="NA181-kiḷavi">itu viṉaimuṟṟip pukuntatu kaṇṭa tōḻi makiḻntu uraittatu.</p>
+        <p xml:lang="en">What the confidante who saw [HIM] enter after having finished [his] work said in joy.</p>
       </div>
-      <div xml:id="NA181">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA181">
 <l>            uḷḷuṟai kurīik kāraṇaṟ cēval</l>
 <l>            piṟapulat tuṇaiyō ṭuṟaipulat talki</l>
 <l>            vantataṉ cevvi nōkkip pēṭai</l>
@@ -49,7 +47,7 @@
 <l>            vantaṉṟu peruviṟa ṟērē</l>
 <l>            yuyntaṉ ṟākumiva ḷāynutaṟ kaviṉē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l rend="indent">So that the cool corn is cut off by the horses adorned with garlands</l>
 <l>[of bells] that have lost [their] pleasing sound because it was called to a halt</l>
 <l rend="indent4">by mad(?) evening, come<note place="foot">The syntax of the whole bird structure is decidedly strange. Actually we would expect an -<term xml:lang="ta">um-peyareccam</term>, as the usual syntactical link with the evening. Perhaps this is what induces T.V.G. to connect vanta with the birds instead, that is, with the male bird coming and begging for entry. This is against custom, against formulaic usage (<term xml:lang="ta">kaiyaṟa vanta</term> being quite frequent in the descriptions of the evening), and it would not be plausible with the word order.</note> to end [all] action,</l>

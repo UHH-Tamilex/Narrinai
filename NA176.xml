@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA176-kiḷavi">
-        <p type="edition">itu parattait talaivi pāṅkikkup pāṅkāyiṉār kēṭpa viṟalik kuraittatu.</p>
-        <p type="translation" xml:lang="en">This is what the other woman said to the dancing girls so that those close to the one who is close to HER would hear.</p>
+      <div rend="parallel">
+        <p xml:id="NA176-kiḷavi">itu parattait talaivi pāṅkikkup pāṅkāyiṉār kēṭpa viṟalik kuraittatu.</p>
+        <p xml:lang="en">This is what the other woman said to the dancing girls so that those close to the one who is close to HER would hear.</p>
       </div>
-      <div xml:id="NA176">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA176">
 <l>            ennayan tuṟaivi yāyiṉ yānayantu</l>
 <l>            nalkiṉam viṭṭate ṉalattō ṉavvayiṟ</l>
 <l>            cālpi ṉaḷitta laṟiyā tavaṭkavaḷ</l>
@@ -47,7 +45,7 @@
 <l>            meṉmela vicaikkuñ cāraṟ </l>
 <l>            kuṉṟa vēlitta muṟaivi ṉūrē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>When she longed for us permanently, we, longing [for her],</l>
 <l>granted it.<note place="foot">Here, too, syntax and message are enigmatic. Since in the beginning there is no direct object for <term xml:lang="ta">nalkiṉam</term>, and below there is no verb for <term xml:lang="ta">ūr</term>, it seems best to read a circular construction. The point might be, as T.V.G. affirms, that the rival woman allows the man to go home (at the time the maid has been sent with the message of the end of the wife's menstruation), or that the two women in question are about to meet in the place of the one who is "<term xml:lang="ta">ennayantu uṟaivi</term>". See, however, the b version which construes differently.</note> What has been let off on that side, by [our] good man?(?)<note place="foot">My suggestion is to split at the end of line 2, and to read a question as to what has been said by the man, here called <term xml:lang="ta">nalattōṉ</term>, possibly ironically, referring to the fact that the usual situation is turned upside down: the woman speaking is the one with the power to act, condescening to see the other one, presumably his wife.</note></l>
 <l>Does it say “she is full of love for her,</l>

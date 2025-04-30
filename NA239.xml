@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA239-kiḷavi">
-        <p type="edition">itu tōḻi talaimakaṉ ciṟaippuṟamākac colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what the confidante said when HE was behind the fence.</p>
+      <div rend="parallel">
+        <p xml:id="NA239-kiḷavi">itu tōḻi talaimakaṉ ciṟaippuṟamākac colliyatu.</p>
+        <p xml:lang="en">This is what the confidante said when HE was behind the fence.</p>
         </div>
-      <div xml:id="NA239">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA239">
 <l>            ñāṉṟa ñāyiṟu kuṭamalai maṟaiya</l>
 <l>            māṉṟa mālai makiḻnta paratava</l>
 <l>            riṉitupeṟu perumī ṉeḷitaṉiṉ māṟi</l>
@@ -49,7 +46,7 @@
 <l>            muyaṅkeṉak kaliḻnta vivvū</l>
 <l>            reṟṟā vatukolyāṉ maṟṟoṉṟu ceyiṉē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>As for listening<note place="foot">For the type of negation where the perfective neuter singular in -<term xml:lang="ta">aṉṟu</term> has to be analysed as an verbal noun see note on NA 27, for the marking with -<term xml:lang="ta">ō</term> see note on NA 175.6.</note> to the request(?)<note place="foot">Do we have to understand <term xml:lang="ta">toḻil</term> in the sense of <term xml:lang="ta">kuṟai</term> here?</note>, consenting</l>
 <l rend="indent">to the man from the coast of abundant waters,</l>
 <l rend="indent">with plentiful dark backwaters,</l>

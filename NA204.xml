@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA204-kiḷavi">
-        <p type="edition">itu piṉṉiṉṟa talaimaka ṉāṟṟāṉāyt tōḻi kēṭpat taṉṉeñciṟkuc colliyatu.</p>
-        <p type="translation" xml:lang="en"/>
+      <div rend="parallel">
+        <p xml:id="NA204-kiḷavi">itu piṉṉiṉṟa talaimaka ṉāṟṟāṉāyt tōḻi kēṭpat taṉṉeñciṟkuc colliyatu.</p>
+        <p xml:lang="en"/>
       </div>
-      <div xml:id="NA204">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA204">
 <l>            taḷircēr taṇṭaḻai taii nuntai</l>
 <l>            kuḷirvāy viyaṉpuṉat teṟpaṭa varukō</l>
 <l>            kuṟuñcuṉaik kuvaḷai yaṭaiccinām puṇariya</l>
@@ -48,7 +46,7 @@
 <l>            koṭicci celpuṟa nōkki</l>
 <l>            viṭutta neñcam viṭalol lātē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>“shall I come when the light comes<note place="foot"><term xml:lang="ta">el paṭa</term>: here the expression is ambiguous, since <term xml:lang="ta">paṭu</term> can refer to the rising of the sun as well as to its setting. kuḷir probably is one of the instruments used to drive away the parrots from the field, and the meetings outside the house are usually the meetings at day time, but neither of these hints is decisive.</note> to the field fit for the drum</l>
 <l rend="indent">of your father, knitting cool foliage joining with sprouts?</l>
 <l>Shall I come for us to play<note place="foot"><term xml:lang="ta">āṭukam varukō</term>: here a double verb form which is not totally congruent, the first being 1st pl., the second 1st sg., though it seems to function in the usual way.</note> on the fragrant cool slope</l>

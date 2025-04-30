@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA11-kiḷavi">
-        <p type="edition">itu kāppu mikutikka ṇiṭaiyīṭupaṭ ṭāṟṟāḷākat talaimakaṭkut talaimakaṉ ciṟaippuṟattāṉākat tōḻi colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what the confidante said while HE was behind the fence to HER who was unable to bear it when obstacles turned up in an increase of guarding.</p>
+      <div rend="parallel">
+        <p xml:id="NA11-kiḷavi">itu kāppu mikutikka ṇiṭaiyīṭupaṭ ṭāṟṟāḷākat talaimakaṭkut talaimakaṉ ciṟaippuṟattāṉākat tōḻi colliyatu.</p>
+        <p xml:lang="en">This is what the confidante said while HE was behind the fence to HER who was unable to bear it when obstacles turned up in an increase of guarding.</p>
       </div>
-      <div xml:id="NA11">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA11">
 <l>            peyyātu vaikiya kōtai pōla</l>
 <l>            meycā yiṉaiyavar ceykuṟi piḻaippa</l>
 <l>            vuḷḷi notumalar nērpurai teḷḷitiṉ</l>
@@ -47,7 +45,7 @@
 <l>            nilavu virintaṉṟāṟ kāṉa lāṉē.</l>
 
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
         <l>O you emaciated in [your] body, like a garland kept unworn,<note place="foot">Here we have two possibilities of understanding <term xml:lang="ta">peyyātu</term>, namely either as "unworn" or as "unwatered". The parallel to be found in KT 9.2f. (<term xml:lang="ta">ceppiṉ tamiya vaikiya | peyyā pūviṉ mey cāyiṉaḷē</term>) made me adopt the former possibility.</note></l>
         <l>leave off<note place="foot"><term xml:lang="ta">oḻika</term>: the translation forces us to render an impersonal construction in the Tamil (<term xml:lang="ta">uḷ koḷal oḻika</term> "may the taking to mind stop") by a personal one as see above.</note> in your heart</l>
         <l rend="indent">from taking vexation to mind, saying:</l>

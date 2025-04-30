@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA66-kiḷavi">
-        <p type="edition">itu maṉaimaruṭci.</p>
-        <p type="translation" xml:lang="en">This is the confusion in the house.</p>
+      <div rend="parallel">
+        <p xml:id="NA66-kiḷavi">itu maṉaimaruṭci.</p>
+        <p xml:lang="en">This is the confusion in the house.</p>
       </div>
-      <div xml:id="NA66">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA66">
 <l>            miḷakupey taṉaiya cuvaiya puṉkā</l>
 <l>            yulaṟutalai yukāayc citarcitart tuṇṭa</l>
 <l>            pulampuko ṇeṭuñciṉai yēṟi niṉaintutaṉ</l>
@@ -48,7 +46,7 @@
 <l>            māṇalaṅ kaiyaṟak kaluḻumeṉ </l>
 <l>            māyak kuṟumakaṇ malarēr kaṇṇe.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l rend="indent">Even if she is united with the lover she longed for</l>
 <l rend="indent2">on the hot dusty way where the red(?) dove suffers,</l>
 <l rend="indent2">whirling in a frenzy, its neck shining with spots,</l>

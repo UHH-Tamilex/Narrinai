@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA143-kiḷavi">
-        <p type="edition">maṉaimaruṭci.</p>
-        <p type="translation" xml:lang="en">Confusion in the house. (G1+2: 1. This is what the mother said who had had [her] daughter go. 2. Confusion in the house.)</p>
+      <div rend="parallel">
+        <p xml:id="NA143-kiḷavi">maṉaimaruṭci.</p>
+        <p xml:lang="en">Confusion in the house. (G1+2: 1. This is what the mother said who had had [her] daughter go. 2. Confusion in the house.)</p>
       </div>
-      <div xml:id="NA143">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA143">
 <l>            aitē kamma yāṉē yoyyeṉat</l>
 <l>            tarumaṇaṉ ñemiriya tirunakar muṟṟat</l>
 <l>            tōrai yāyamu nocciyuṅ kāṇṭoṟu</l>
@@ -46,7 +44,7 @@
 <l>            ḷaṟiyēṉ pōla vuyirē</l>
 <l>            ṉaṟiya nāṟuniṉ katuppeṉ ṟēṉē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>Beautiful, go<note place="foot">The imperative <term xml:lang="ta">ēku</term> refers to the fact that the girl has already gone with her lover, and the speaker (mother or foster-mother) has no intention to stop her, accepting a fait accompli.</note>, alas, [is] it.</l>
 <l rend="indent4">I, oy<note place="foot">How to connect and how to interpret <term xml:lang="ta">oyyeṉa</term>?</note>,</l>
 <l rend="indent">even more than me who weeps, me, eyes overflowing with water</l>

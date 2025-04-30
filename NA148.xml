@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA148-kiḷavi">
-        <p type="edition">itu pirivuṇarntu vēṟupaṭṭa talaiviyait tōḻi vaṟpuṟīiyatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante comforted HER who was changed when informed of the separation.</p>
+      <div rend="parallel">
+        <p xml:id="NA148-kiḷavi">itu pirivuṇarntu vēṟupaṭṭa talaiviyait tōḻi vaṟpuṟīiyatu.</p>
+        <p xml:lang="en">This is how the confidante comforted HER who was changed when informed of the separation.</p>
       </div>
-      <div xml:id="NA148">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA148">
 <l>            vaṇṇa nōkkiyu meṉmoḻi kūṟiyu</l>
 <l>            nīyavaṇ varuta lāṟṟā yeṉattān</l>
 <l>            toṭaṅki yāḷviṉaip pirintō riṉṟē</l>
@@ -48,7 +46,7 @@
 <l>            maruñcura miṟappa reṉpa</l>
 <l>            varuntēṉ ṟōḻi vāykkavar celavē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l rend="indent2">When looking at [my] colour and when talking soft words</l>
 <l>he himself began saying “you cannot come there”</l>
 <l>[and] separated for mens' work today.</l>

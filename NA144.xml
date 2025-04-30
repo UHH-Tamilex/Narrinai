@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA144-kiḷavi">
-        <p type="edition">iḵtāṟṟa tētattiṟkuk kavaṉṟu ciṟaippuṟamākat talaivi colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what SHE said, anxious because of the dangers of the way, while [HE] was behind the fence.</p>
+      <div rend="parallel">
+        <p xml:id="NA144-kiḷavi">iḵtāṟṟa tētattiṟkuk kavaṉṟu ciṟaippuṟamākat talaivi colliyatu.</p>
+        <p xml:lang="en">This is what SHE said, anxious because of the dangers of the way, while [HE] was behind the fence.</p>
       </div>
-      <div xml:id="NA144">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA144">
 <l>            peruṅkaḷi ṟuḻuvai tākkali ṉirumpiṭik</l>
 <l>            karuvi māmaḻai yarava mañcum</l>
 <l rend="indent4">            vāṅkamaik kaḻaiyi ṉaralum pūcaṟkup</l>
@@ -49,7 +47,7 @@
 <l>            viravumalar poṟitta tōḷa</l>
 <l>            riraviṉ varuta laṟiyā tōṟkē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>Thus it has become, friend,</l>
 <l rend="indent2">while my strange foolish heart causes distress</l>
 <l rend="indent2">and my bud-like kajal eyes are weeping,</l>

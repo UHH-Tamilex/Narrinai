@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA161-kiḷavi">
-        <p type="edition">itu viṉaimuṟṟip peyarun talaivaṉ tērppākaṉ kēṭpac colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what HE who came back after finishung [his] work] said so that [his] charioteer would hear.</p>
+      <div rend="parallel">
+        <p xml:id="NA161-kiḷavi">itu viṉaimuṟṟip peyarun talaivaṉ tērppākaṉ kēṭpac colliyatu.</p>
+        <p xml:lang="en">This is what HE who came back after finishung [his] work] said so that [his] charioteer would hear.</p>
       </div>
-      <div xml:id="NA161">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA161">
 <l>            iṟaiyu maruntoḻiṉ muṭitteṉap poṟaiya</l>
 <l>            kaṇpō ṉīlañ cuṉaitoṟu malara</l>
 <l>            vītā vēṅkaiya viyaṉeṭum puṟavi</l>
@@ -48,7 +46,7 @@
 <l>            putalvaṟ kāṭṭip poykkun</l>
 <l>            titalai yalkuṟ ṟēmoḻi yāṭkē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>Have the birds informed [her], clearly,</l>
 <l rend="indent">of our coming here, so that the strength of [her] arms shall enclose [us]<note place="foot">Can this be the meaning of the strange phrase <term xml:lang="ta">tōḷvali yāppa</term>?</note>,</l>
 <l rend="indent3">while the covering hoofs cut off the many petals of Malabar-lilies,</l>

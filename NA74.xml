@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA74-kiḷavi">
-        <p type="edition">itu talaivi pāṇarkku vāyiṉ maṟuttatu.</p>
-        <p type="translation" xml:lang="en">This is how SHE refused the door to the bard.</p>
+      <div rend="parallel">
+        <p xml:id="NA74-kiḷavi">itu talaivi pāṇarkku vāyiṉ maṟuttatu.</p>
+        <p xml:lang="en">This is how SHE refused the door to the bard.</p>
       </div>
-      <div xml:id="NA74">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA74">
 <l>            vaṭikkatir tiritta vaṉñāṭ peruvalai</l>
 <l>            yiṭikkuraṟ puṇarip pauvat tiṭumār</l>
 <l>            niṟaiyap peyta vampi kāḻōr</l>
@@ -48,7 +46,7 @@
 <l>            kaṇṭal vēliya vūravaṉ </l>
 <l>            peṇṭeṉa vaṟintaṉṟu peyarttalō varitē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>The man from the coast of the great sea with small-blossomed Ñāḻal trees,</l>
 <l rend="indent2">where the fishermen carry, like elephant bulls hard to restrain</l>
 <l rend="indent2">by the rod-bearer, the small boats, fully laden(?)<note place="foot">The phrase <term xml:lang="ta">niṟaiya peyta</term> is syntactically unclear. T.V.G. explains that the nets fill the boats, which seems sensible.</note>, in order to</l>

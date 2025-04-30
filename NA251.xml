@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA251-kiḷavi">
-        <p type="edition">itu ciṟaippuṟamākac ceṟippaṟivuṟīiyatu.</p>
-        <p type="translation" xml:lang="en">This is what informs of confinement when [HE] is behind the fence.</p>
+      <div rend="parallel">
+        <p xml:id="NA251-kiḷavi">itu ciṟaippuṟamākac ceṟippaṟivuṟīiyatu.</p>
+        <p xml:lang="en">This is what informs of confinement when [HE] is behind the fence.</p>
         </div>
-      <div xml:id="NA251">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA251">
 <l>            neṭunī raruviya kaṭumpāṭ ṭāṅkaṭ</l>
 <l>            piṇimuta laraiya peruṅkal vāḻaik</l>
 <l>            koḻumuta lāykaṉi manti kavaru</l>
@@ -48,7 +45,7 @@
 <l>            tōṭiṭaṅ kōṭāy kiḷarntu </l>
 <l>            nīṭiṉai viḷaimō vāḻiya tiṉaiyē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>You, you see [me]<note place="foot">Actually, it is tempting here to read a vocative phrase: "o you who see", but <term xml:lang="ta">kāṇpōy</term> ought to be a finite verb. In any case the post-positioned subject <term xml:lang="ta">nī</term> is meant to have vocative force here.</note> protecting you too,</l>
 <l>we, longing for the man from the land of good mountains,</l>
 <l rend="indent">where the she-monkey seizes the choice ripe fruit with rich base<note place="foot">T.V.G. interprets here <term xml:lang="ta">koḻu mutal</term> as the especially good first yield of the plant.</note></l>

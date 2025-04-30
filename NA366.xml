@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA366-kiḷavi">
-        <p type="edition">iḵtulakiyaṟ kūṟip poruḷvayiṉ piriya valitta neñciṟkut talaimakaṉ colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what HE said to the heart that covetted separating for the sake of wealth, talking about the way of the world.</p>
+      <div rend="parallel">
+        <p xml:id="NA366-kiḷavi">iḵtulakiyaṟ kūṟip poruḷvayiṉ piriya valitta neñciṟkut talaimakaṉ colliyatu.</p>
+        <p xml:lang="en">This is what HE said to the heart that covetted separating for the sake of wealth, talking about the way of the world.</p>
         </div>
-      <div xml:id="NA366">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA366">
 <l>            aravukkiḷarn taṉṉa viravuṟu palkāḻ</l>
 <l>            vīṭuṟu nuṇṭuki lūṭuvan timaikkun</l>
 <l>            tiruntiḻai yalkuṟ peruntōṭ kuṟumakaṇ</l>
@@ -49,7 +46,7 @@
 <l>            vaṭapula vāṭaikkup pirivōr</l>
 <l>            maṭavar vāḻiyiv vulakat tāṉē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>Those who separate for the north wind from the northern fields,</l>
 <l rend="indent">	that presses, so that the pretty shafts of the bamboo sway,</l>
 <l rend="indent2">	on the nests made with effort by the birds ripe in wisdom(?),</l>

@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA79-kiḷavi">
-        <p type="edition">itu pirivuṇarntu vēṟupaṭṭa talaimaka ṭōḻikkuc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what SHE, who was changed after understanding that [HE] would separate, said to [her] confidante.</p>
+      <div rend="parallel">
+        <p xml:id="NA79-kiḷavi">itu pirivuṇarntu vēṟupaṭṭa talaimaka ṭōḻikkuc colliyatu.</p>
+        <p xml:lang="en">This is what SHE, who was changed after understanding that [HE] would separate, said to [her] confidante.</p>
       </div>
-      <div xml:id="NA79">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA79">
 <l>            ciṟainā ḷīṅkai yuṟainaṉi tiraḷvī</l>
 <l>            kūṉār naṉmaṉaik kuṟuntoṭi makaḷir</l>
 <l>            maṇalāṭu kaḻaṅki ṉaṟaimicait tāa</l>
@@ -49,7 +47,7 @@
 <l rend="indent4">            yātaṉiṉ ṟavirkkuvaṅ kollō</l>
 <l rend="indent4">            nōtaku muḷḷaṅ kātalar celavē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>“Is it difficult too, when we consider, to separate</l>
 <l>those that are united, for them to be [re-]united,</l>
 <l rend="indent">when the one who separated has come from the crossroads difficult</l>

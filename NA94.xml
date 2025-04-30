@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA94-kiḷavi">
-        <p type="edition">itu talaimakaṉ ciṟaippuṟamākat talaivi tōḻik kuraippāḷāyc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is was SHE said, as one who os talking to [her] confidante, while HE was behind the hedge.</p>
+      <div rend="parallel">
+        <p xml:id="NA94-kiḷavi">itu talaimakaṉ ciṟaippuṟamākat talaivi tōḻik kuraippāḷāyc colliyatu.</p>
+        <p xml:lang="en">This is was SHE said, as one who os talking to [her] confidante, while HE was behind the hedge.</p>
       </div>
-      <div xml:id="NA94">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA94">
 <l>            nōyalaik kalaṅkiya mataṉaḻi poḻutiṟ</l>
 <l>            kāmañ ceppa lāṇmakaṟ kamaiyum</l>
 <l>            yāṉeṉ</l>
@@ -47,7 +45,7 @@
 <l>            ṉārva muṭaiya rāki</l>
 <l>            mārpaṇaṅ kuṟunarai yaṟiyā tōṉē.</l>
         </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l rend="indent">When it is appropriate for the male(?)<note place="foot"><term xml:lang="ta">āḷ makaṉ</term>, literally "the son of a man" - can it mean here more than "male"?</note> to speak of desire</l>
 <l rend="indent2">at a time when [I] perish from passion<note place="foot"><term xml:lang="ta">mataṉ</term>: T.V.G. wants to take <term xml:lang="ta">mataṉ</term> in this case not as the usual sexual passion, but as mental strength which perishes because of <term xml:lang="ta">kāmam</term> ("at a time when self-control perishes"). It is, however, equally well possible to read it as an instrumental/dative: to yield to passion.</note> that was stirred up,</l>
 <l rend="indent3">slapped by pain,</l>

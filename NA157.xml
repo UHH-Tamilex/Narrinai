@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA157-kiḷavi">
-        <p type="edition">itu poruḷvayiṉ pirinta talaivaṉ paruvam uṇarnta neñciṟ kuraittatu.</p>
-        <p type="translation" xml:lang="en">This what HE who had separated for the sake of wealth said to [his] heart that had perceived the season.</p>
+      <div rend="parallel">
+        <p xml:id="NA157-kiḷavi">itu poruḷvayiṉ pirinta talaivaṉ paruvam uṇarnta neñciṟ kuraittatu.</p>
+        <p xml:lang="en">This what HE who had separated for the sake of wealth said to [his] heart that had perceived the season.</p>
       </div>
-      <div xml:id="NA157">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA157">
 <l>            iruṅkaṇ ñālat tīṇṭutoḻi lutavip</l>
 <l>            perumpeyal poḻinta vaḻinā ḷamaiyattup</l>
 <l>            palpoṟi yaraviṉ celpuṟaṅ kaṭuppa</l>
@@ -46,7 +44,7 @@
 <l>            yampūn tātuk kaṉṉa</l>
 <l>            nuṇpaḵ ṟitti māa yōḷē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>At the time of successive days when great raining has flown,</l>
 <l rend="indent2">having contributed [its] labour here for the world of vast area,</l>
 <l>in summer, right on the day(?)<note place="foot">How to understand <term xml:lang="ta">nāḷ patam vēṉil</term>?</note> the water in the river has thinned,</l>

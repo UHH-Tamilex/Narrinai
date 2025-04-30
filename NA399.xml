@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="NA399-kiḷavi">
-            <p type="edition">1. itu neṭuṅkālam vantoḻuka vāṟṟāmai vēṟupaṭa niṉṟa talaimakaḷait tōḻi “em perumā ṉitaṟkāya nallatu puriyum” eṉṟu talaimakaṉ ciṟaippuṟattāṉākac colliyatu. 2. “itaṟkāya nallatu puriyum perumāṉ ṟiṟam vēṇṭum” eṉṟāṭkut talaimakaḷ colliyatūumām.</p>
-            <p type="translation" xml:lang="en">1. This is how the confidante said to HER who stood [there] when she underwent changes on account of [her] inability to bear it when [HE] kept coming for a long time, when HE was behind the fence: “our great man will do good for it’s sake.” 2. It is also what SHE said to her who said “it is necessary for the great man to do good for it’s sake.”</p>
+        <div rend="parallel">
+            <p xml:id="NA399-kiḷavi">1. itu neṭuṅkālam vantoḻuka vāṟṟāmai vēṟupaṭa niṉṟa talaimakaḷait tōḻi “em perumā ṉitaṟkāya nallatu puriyum” eṉṟu talaimakaṉ ciṟaippuṟattāṉākac colliyatu. 2. “itaṟkāya nallatu puriyum perumāṉ ṟiṟam vēṇṭum” eṉṟāṭkut talaimakaḷ colliyatūumām.</p>
+            <p xml:lang="en">1. This is how the confidante said to HER who stood [there] when she underwent changes on account of [her] inability to bear it when [HE] kept coming for a long time, when HE was behind the fence: “our great man will do good for it’s sake.” 2. It is also what SHE said to her who said “it is necessary for the great man to do good for it’s sake.”</p>
             </div>
-      <div xml:id="NA399">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA399">
 <l>            aruvi yārkkum peruvarai yaṭukkattuk</l>
 <l>            kuruti yoppiṉ kamaḻpūṅ kāntaḷ</l>
 <l>            variyaṇic ciṟakiṉ vaṇṭuṇa malarum</l>
@@ -47,7 +44,7 @@
 <l>            perumai yuṭaiya ḷeṉpatu</l>
 <l>            tarumō tōḻiniṉ ṟirunutaṟ kaviṉē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>            The man from a land of big mountains,</l>
 <l rend="indent">            where the youthful elephant cow,</l>
 <l rend="indent">            who gave birth in the brightly glittering light</l>

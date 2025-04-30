@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA78-kiḷavi">
-        <p type="edition">itu varaivu malintatu.</p>
-        <p type="translation" xml:lang="en">This is how [they] rejoice in the marriage.</p>
+      <div rend="parallel">
+        <p xml:id="NA78-kiḷavi">itu varaivu malintatu.</p>
+        <p xml:lang="en">This is how [they] rejoice in the marriage.</p>
       </div>
-      <div xml:id="NA78">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA78">
 <l>            kōṭcuṟā vaḻaṅkum vāṭkē ḻiruṅkaḻi</l>
 <l>            maṇiyēr neytaṉ māmalar niṟaiyap</l>
 <l>            poṉṉēr nuṇṭātu puṉṉai tāam</l>
@@ -48,7 +46,7 @@
 <l>            valavaṉ kōluṟa vaṟiyā </l>
 <l>            vuravunīrc cērppaṉ ṟērmaṇik kuralē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>We will escape suffering here, with increasing pain,</l>
 <l rend="indent">at evening when the glow goes, when affliction comes [and] assaults [us]</l>
 <l rend="indent2">in the seashore grove fragrant with flowers of the Tāḻai tree, aerial roots</l>

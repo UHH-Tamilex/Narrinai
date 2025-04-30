@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA202-kiḷavi">
-        <p type="edition">iḵtuṭaṉpōkāniṉṟa talaimakaṉ talaimakaṭkuc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what HE who was eloping [with her] said to HER.</p>
+      <div rend="parallel">
+        <p xml:id="NA202-kiḷavi">iḵtuṭaṉpōkāniṉṟa talaimakaṉ talaimakaṭkuc colliyatu.</p>
+        <p xml:lang="en">This is what HE who was eloping [with her] said to HER.</p>
       </div>
-      <div xml:id="NA202">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA202">
 <l>            puliporac civanta pulālañ ceṅkōṭ</l>
 <l>            ṭolipaṉ mutta mārppa valiciṟantu</l>
 <l>            vaṉcuvaṟ parārai murukkik kaṉṟoṭu</l>
@@ -47,7 +45,7 @@
 <l>            celcuṭar neṭuṅkoṭi pōlap </l>
 <l>            palpūṅ kōṅka maṇinta kāṭē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>While [we?] are coming to see jointly(?) the cave in the clefts of</l>
 <l>the big mountain,</l>
 <l rend="indent">where the broad-trunked elephant bull,</l>

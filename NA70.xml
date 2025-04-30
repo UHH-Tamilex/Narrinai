@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA70-kiḷavi">
-        <p type="edition">itu kāmammikka kaḻipaṭar kiḷavi.</p>
-        <p type="translation" xml:lang="en">This the speech [situation] of exceeding affliction when desire had increased.</p>
+      <div rend="parallel">
+        <p xml:id="NA70-kiḷavi">itu kāmammikka kaḻipaṭar kiḷavi.</p>
+        <p xml:lang="en">This the speech [situation] of exceeding affliction when desire had increased.</p>
       </div>
-      <div xml:id="NA70">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA70">
 <l>            ciṟuveḷḷāṅ kurukē ciṟuveḷḷāṅ kurukē</l>
 <l>            tuṟaipō kaṟuvait tūmaṭi yaṉṉa</l>
 <l>            niṟaṅkiḷar tūvic ciṟuveḷḷāṅ kurukē</l>
@@ -46,7 +44,7 @@
 <l>            kaḻaṉi nallūr makiḻnarkke</l>
 <l>            ṉiḻainekiḻ paruvaral ceppā tōyē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>Little white egret! Little white egret!</l>
 <l rend="indent">Feathers resplendent in colour like a clean garment</l>
 <l rend="indent">from cloth that went to the ghat,</l>

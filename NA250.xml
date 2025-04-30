@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA250-kiḷavi">
-        <p type="edition">itu putalvaṉoṭu pukka talaimaka ṉāṟṟāṉāyp pāṇaṟ kuraittatu.</p>
-        <p type="translation" xml:lang="en">This is what HE who entered with [his] son said to the bard, being unable to bear it.</p>
+      <div rend="parallel">
+        <p xml:id="NA250-kiḷavi">itu putalvaṉoṭu pukka talaimaka ṉāṟṟāṉāyp pāṇaṟ kuraittatu.</p>
+        <p xml:lang="en">This is what HE who entered with [his] son said to the bard, being unable to bear it.</p>
         </div>
-      <div xml:id="NA250">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA250">
 <l>            nakukam vārāy pāṇa pakuvā</l>
 <l>            yaripey kiṇkiṇi yārppat teruviṟ</l>
 <l>            ṟērnaṭai payiṟṟun tēmoḻip putalvaṉ</l>
@@ -47,7 +44,7 @@
 <l>            verūumāṉ piṇaiyi ṉorīi</l>
 <l>            yārai yōveṉ ṟikantuniṉ ṟatuvē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>We had to laugh<note place="foot"><term xml:lang="ta">nakukam</term> is a modal form without temporal impact, but the <term xml:lang="ta">kuṟukiṉēm āka</term> of the sub-clause makes clear that this is an account of was has already taken place.</note>, come, bard,</l>
 <l rend="indent">at [her] standing aside, saying “who [are] you?”,</l>
 <l rend="indent2">renouncing [us] as the doe the stag when it is frightened,</l>

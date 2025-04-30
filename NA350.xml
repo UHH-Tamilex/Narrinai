@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA350-kiḷavi">
-        <p type="edition">itu talaimaka ḷūṭal maṟuttāḷ colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what SHE said, being one who refuses [him while] quarrelling.</p>
+      <div rend="parallel">
+        <p xml:id="NA350-kiḷavi">itu talaimaka ḷūṭal maṟuttāḷ colliyatu.</p>
+        <p xml:lang="en">This is what SHE said, being one who refuses [him while] quarrelling.</p>
         </div>
-      <div xml:id="NA350">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA350">
 <l>            veṇṇe larinar taṇṇumai verīip</l>
 <l>            paḻaṉap palpuḷ ḷiriyak kaḻaṉi</l>
 <l>            vāṅkuciṉai marutat tūṅkutuṇa rutirun</l>
@@ -47,7 +44,7 @@
 <l>            yākil kalaṅkaḻīi yaṟṟum</l>
 <l>            vāral vāḻi kavaiiniṉ ṟōḷē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>            Even if my old beauty is lost,</l>
 <l rend="indent">            like Iruppai of generous Virāṉ [who has many?] chariots,</l>
 <l rend="indent2">            where the trailing clusters on the Marutam trees with bowing branches</l>

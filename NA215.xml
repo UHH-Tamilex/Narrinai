@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA215-kiḷavi">
-        <p type="edition">1. itu pakaṟkuṟi vantu mīḷvāṉai “avaḷāṟṟun taṉmaiyaḷ allaḷ nīr iṅkut taṅkal pālīr. emarum iṉṉatoru tavaṟṟiṉar” eṉat tōḻi talaimakaṟkuc colliyatu. 2. iravukkuṟi maṟuttu varaivu kaṭāyatūumām.</p>
-        <p type="translation" xml:lang="en">1. This is what the confidante said to HIM who was returning after having come to the day tryst: “It is your fate to support here the one who does not have her own people who are able [to do so] for her. Our people are at fault in this respect.” 2. It is also urging for marriage by refusing the night tryst.</p>
+      <div rend="parallel">
+        <p xml:id="NA215-kiḷavi">1. itu pakaṟkuṟi vantu mīḷvāṉai “avaḷāṟṟun taṉmaiyaḷ allaḷ nīr iṅkut taṅkal pālīr. emarum iṉṉatoru tavaṟṟiṉar” eṉat tōḻi talaimakaṟkuc colliyatu. 2. iravukkuṟi maṟuttu varaivu kaṭāyatūumām.</p>
+        <p xml:lang="en">1. This is what the confidante said to HIM who was returning after having come to the day tryst: “It is your fate to support here the one who does not have her own people who are able [to do so] for her. Our people are at fault in this respect.” 2. It is also urging for marriage by refusing the night tryst.</p>
       </div>
-      <div xml:id="NA215">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA215">
 <l>            kuṇakaṭa livarntu kurūukkatir parappip</l>
 <l>            pakalkeḻu celvaṉ kuṭamalai maṟaiyap</l>
 <l>            pulampuvan tiṟutta puṉkaṇ mālai</l>
@@ -48,7 +46,7 @@
 <l>            kōṭcuṟāk kuṟitta muṉpoṭu</l>
 <l>            vēṭṭam vāyā temarvā ralarē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l rend="indent3">Since you [are] here today,</l>
 <l rend="indent">in the noisy village that lies close to the shore,</l>
 <l rend="indent2">while the glittering waves are dashing in the blue-coloured extension,</l>

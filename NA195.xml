@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA195-kiḷavi">
-        <p type="edition">itu kaḷaviṉkaṇ neṭuṅkālam vantoḻuka vāṟṟāḷāyiṉa tōḻi varaivu kaṭāyatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante urged for marriage who was unable to bear it when during the secret phase a long time came [and] passed.</p>
+      <div rend="parallel">
+        <p xml:id="NA195-kiḷavi">itu kaḷaviṉkaṇ neṭuṅkālam vantoḻuka vāṟṟāḷāyiṉa tōḻi varaivu kaṭāyatu.</p>
+        <p xml:lang="en">This is how the confidante urged for marriage who was unable to bear it when during the secret phase a long time came [and] passed.</p>
       </div>
-      <div xml:id="NA195">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA195">
 <l>            aruḷā yākalō koṭitē yiruṅkaḻik</l>
 <l>            kuruḷai nīrnāy koḻumīṉ māntit</l>
 <l>            tillaiyam potumpiṟ paḷḷi koḷḷu</l>
@@ -45,7 +43,7 @@
 <l>            ṉīralait tōṟṟam pōla</l>
 <l>            vīriya kaluḻunī nayantōḷ kaṇṇē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>That you should not be considerate?</l>
 <l rend="indent4">It [is] cruel,</l>
 <l>o tender man from the lonely [seashore],</l>

@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA112-kiḷavi">
-        <p type="edition">itu paruvavaraviṉka ṇāṟṟāḷāya talaiviyait tōḻi vaṟpuṟuttiyatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante comforted HER who was unable to bear it during the coming of the season.</p>
+      <div rend="parallel">
+        <p xml:id="NA112-kiḷavi">itu paruvavaraviṉka ṇāṟṟāḷāya talaiviyait tōḻi vaṟpuṟuttiyatu.</p>
+        <p xml:lang="en">This is how the confidante comforted HER who was unable to bear it during the coming of the season.</p>
       </div>
-      <div xml:id="NA112">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA112">
 <l>            viruntevaṉ ceykō tōḻi cāra</l>
 <l>            larumpaṟa malarnta karuṅkāl vēṅkaic</l>
 <l>            curumpimi raṭukkam pulampak kaḷiṟaṭ</l>
@@ -45,7 +43,7 @@
 <l>            malaiyimaip patupōṉ miṉṉic</l>
 <l>            cilaiva lēṟṟoṭu ceṟintavim maḻaikkē.</l>
     </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>How can I give a feast, friend,</l>
 <l rend="indent">for this rain, dense with resounding strong strokes [of thunder],</l>
 <l rend="indent2">flashing as if [it were] the mountain's twinkling,</l>

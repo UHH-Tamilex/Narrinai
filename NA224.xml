@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA224-kiḷavi">
-        <p type="edition">itu tōḻiyāṟ pirivuṇarttappaṭṭa talaimakaḷ peyarttuñ col kaṭāvappaṭṭu “aṟivilātēm eṉṉai colliyum piriyār ākārō” veṉṟu colliyatu.</p>
-        <p type="translation" xml:lang="en">This is how SHE, who had been informed by the confidante of the separation, was again urged with a word [and] said “We have no knowledge. Even though [he? you?] speak to me, he will not separate, will he?”</p>
+      <div rend="parallel">
+        <p xml:id="NA224-kiḷavi">itu tōḻiyāṟ pirivuṇarttappaṭṭa talaimakaḷ peyarttuñ col kaṭāvappaṭṭu “aṟivilātēm eṉṉai colliyum piriyār ākārō” veṉṟu colliyatu.</p>
+        <p xml:lang="en">This is how SHE, who had been informed by the confidante of the separation, was again urged with a word [and] said “We have no knowledge. Even though [he? you?] speak to me, he will not separate, will he?”</p>
       </div>
-      <div xml:id="NA224">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA224">
 <l>            aṉpiṉar maṉṉum periya rataṉṟalaip</l>
 <l>            piṉpaṉi yamaiyam varumeṉa muṉpaṉik</l>
 <l>            koḻuntu muntuṟīik kuravarum piṉavē</l>
@@ -48,7 +45,7 @@
 <l>            viṉaimūcu kavalai vilaṅkiya </l>
 <l>            vemmuṉai yaruñcura muṉṉi yōrkkē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>The love of great people is something permanent.<note place="foot">Here it is impossible to decide whether SHE intends a general statement or whether she just talks of her own great love. The Tamil gives both in one.</note></l>
 <l rend="indent4">On top of that</l>
 <l>the Kura trees have budded, made to come as the fore-front</l>

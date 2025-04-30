@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA131-kiḷavi">
-        <p type="edition">itu maṇamaṉaiyiṉ piṟṟaiñāṉṟu pukka tōḻiyait talaivaṉ “vēṟupaṭāmai yāṟṟuvittāy periyai kāṇ” eṉṟāṟkut tōḻi colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what the confidante said to HIM who said to the confidante, who had afterwards entered the marriage house: “look at you great one who gave strength so that [SHE] would not ungo changes”.</p>
+      <div rend="parallel">
+        <p xml:id="NA131-kiḷavi">itu maṇamaṉaiyiṉ piṟṟaiñāṉṟu pukka tōḻiyait talaivaṉ “vēṟupaṭāmai yāṟṟuvittāy periyai kāṇ” eṉṟāṟkut tōḻi colliyatu.</p>
+        <p xml:lang="en">This is what the confidante said to HIM who said to the confidante, who had afterwards entered the marriage house: “look at you great one who gave strength so that [SHE] would not ungo changes”.</p>
       </div>
-      <div xml:id="NA131">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA131">
 <l>            āṭiya toḻilu malkiya poḻilu</l>
 <l>            muḷḷa lākā vuyavu neñcamō</l>
 <l>            ṭūṭalu muṭaiyamō vuyarmaṇaṟ cērppa</l>
@@ -45,7 +43,7 @@
 <l>            kaṭkamaḻ poṟaiyā ṟaṉṉave</l>
 <l>            ṉaṟṟō ṇekiḻa maṟatta ṉumakkē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l>Are we, o man from the coast of high sands, to have vexation,</l>
 <l rend="indent2">with a suffering heart, not to remember<note place="foot"><term xml:lang="ta">uḷḷal ākā</term> has to be read here as a second verbal noun depending on <term xml:lang="ta">uṭaiyam</term>, standing in apposition to <term xml:lang="ta">ūṭal</term>, negated, however, by <term xml:lang="ta">ākā</term>.</note></l>
 <l>the games<note place="foot"><term xml:lang="ta">oḻil</term>, chosen for the sake of rhyming with <term xml:lang="ta">poḻil</term>, presumably refers here to the things THEY did together, which does not quite agree with the usual meaning "task", though something like "occupation" might do.</note> we played and the grove where we stayed?</l>

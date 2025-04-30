@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA353-kiḷavi">
-        <p type="edition">itu tōḻi yāṟṟa tarumai yañcit tāṉāṟṟāḷāyc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what the confidante said, being herself unable to bear it, afraid of the difficulty of [his] path.</p>
+      <div rend="parallel">
+        <p xml:id="NA353-kiḷavi">itu tōḻi yāṟṟa tarumai yañcit tāṉāṟṟāḷāyc colliyatu.</p>
+        <p xml:lang="en">This is what the confidante said, being herself unable to bear it, afraid of the difficulty of [his] path.</p>
         </div>
-      <div xml:id="NA353">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA353">
 <l>            āḷil peṇṭir tāḷiṟ ceyta</l>
 <l>            nuṇaṅkunuṇ paṉuval pōlak kaṇaṅkoḷa</l>
 <l>            vāṭumaḻai tavaḻuṅ kōṭuyar neṭuvarai</l>
@@ -48,7 +45,7 @@
 <l>            veñciṉa murumi ṉuraṟu</l>
 <l>            mañcuvaru ciṟuneṟi varuta lāṉē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>          O man from the sky-touching mountain,</l>
 <l rend="indent">          where the beloved inexperienced daughter of the stone-ploughing</l>
 <l rend="indent">           hill people</l>

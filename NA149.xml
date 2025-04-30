@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA149-kiḷavi">
-        <p type="edition">1. itu tōḻi talaiviyai yuṭaṉpōkku valittatu. 2. ciṟaippuṟamākac colliyatūumām.</p>
-        <p type="translation" xml:lang="en">1. This is how the confidante forced HER to elope. 2. It is also what is said while [HE] is behind the fence.</p>
+      <div rend="parallel">
+        <p xml:id="NA149-kiḷavi">1. itu tōḻi talaiviyai yuṭaṉpōkku valittatu. 2. ciṟaippuṟamākac colliyatūumām.</p>
+        <p xml:lang="en">1. This is how the confidante forced HER to elope. 2. It is also what is said while [HE] is behind the fence.</p>
       </div>
-      <div xml:id="NA149">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA149">
 <l>            cilarum palaruṅ kaṭaikka ṇōkki</l>
 <l>            mūkki ṉuccic cuṭṭuviral cērtti</l>
 <l>            maṟukiṟ peṇṭi rampa ṟūṟṟac</l>
@@ -46,7 +44,7 @@
 <l>            celavayarn ticiṉāl yāṉē</l>
 <l>            yalarcuman toḻikaviv vaḻuṅka lūrē.</l>
             </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l rend="indent2">Looking from the corner of [her] eye at the few and the many,</l>
 <l rend="indent2">putting [her] index finger to the tip of [her] nose(?),<note place="foot">How to interpret line 2? Is this a gesture of being deep in thought?</note></l>
 <l rend="indent3">when the women in the street spread rumours,</l>

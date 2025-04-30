@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div xml:id="NA389-kiḷavi">
-            <p type="edition">itu pakaṟkuṟi vantoḻukāniṉṟa kālattut talaimakaṉ kēṭpac colliyatu.</p>
-            <p type="translation" xml:lang="en">This is what was said so that HE would hear in the time [he] kept coming to the day tryst.</p>
+        <div rend="parallel">
+            <p xml:id="NA389-kiḷavi">itu pakaṟkuṟi vantoḻukāniṉṟa kālattut talaimakaṉ kēṭpac colliyatu.</p>
+            <p xml:lang="en">This is what was said so that HE would hear in the time [he] kept coming to the day tryst.</p>
             </div>
-      <div xml:id="NA389">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA389">
 <l>            vēṅkai yumpuli yīṉṟaṉa varuviyun</l>
 <l>            tēmpaṭu neṭuvarai maṇiyiṉ māṉu</l>
 <l>            maṉṉaiyu mamarntunōk kiṉaḷē yeṉṉaiyuṅ</l>
@@ -48,7 +45,7 @@
 <l>            naṉpo ṉimaikku nāṭaṉō </l>
 <l>            ṭaṉpuṟu kāma mamaikanan toṭarpē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>            The Vēṅkai trees have brought forth tigers</l>
 <l rend="indent4">            and the waterfalls</l>
 <l>        resemble sapphires on the long mountain flowing with honey</l>

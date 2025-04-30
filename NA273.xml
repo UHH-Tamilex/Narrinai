@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA273-kiḷavi">
-        <p type="edition">itu tōḻi talaimakaṉatu varavuṇarntu talaimakaṭ kuraippāḷāy “niṉ vēṟupāṭu tāykkup pulaṉāka vavaḷ vēlaṉaik kūvi veṟiyayarum” eṉpatupaṭac colliyatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante said, as one who is talking to HER, after having understood HIS coming: “as your changes are within the knowledge of [your] mother, she calls the spear-bearer [and] prepares for the Veṟi [dance]”.</p>
+      <div rend="parallel">
+        <p xml:id="NA273-kiḷavi">itu tōḻi talaimakaṉatu varavuṇarntu talaimakaṭ kuraippāḷāy “niṉ vēṟupāṭu tāykkup pulaṉāka vavaḷ vēlaṉaik kūvi veṟiyayarum” eṉpatupaṭac colliyatu.</p>
+        <p xml:lang="en">This is how the confidante said, as one who is talking to HER, after having understood HIS coming: “as your changes are within the knowledge of [your] mother, she calls the spear-bearer [and] prepares for the Veṟi [dance]”.</p>
         </div>
-      <div xml:id="NA273">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA273">
 <l>            iḵtevaṉ kollō tōḻi meyparan</l>
 <l>            tevvaṅ kūrnta vēmuṟu tuyaram</l>
 <l>            vemmaiyiṟ ṟāṉvarut tuṟīi namvayi</l>
@@ -47,7 +44,7 @@
 <l>            kuṉṟa nāṭaṉai yuḷḷutoṟu</l>
 <l>            neñcunaṭuk kuṟūumavar paṇputaru paṭarē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>What [is] this, friend,</l>
 <l>[that] affliction his nature gives [us], which makes the heart tremble</l>
 <l rend="indent">whenever it remembers the man from a land of hills,</l>

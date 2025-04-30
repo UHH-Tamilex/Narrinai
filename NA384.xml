@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA384-kiḷavi">
-        <p type="edition">iḵtuṭaṉpōkāniṉṟāṉ malintu taṉṉeñciṟkuc colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what is said in joy by the one who was eloping [with her].</p>
+      <div rend="parallel">
+        <p xml:id="NA384-kiḷavi">iḵtuṭaṉpōkāniṉṟāṉ malintu taṉṉeñciṟkuc colliyatu.</p>
+        <p xml:lang="en">This is what is said in joy by the one who was eloping [with her].</p>
         </div>
-      <div xml:id="NA384">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA384">
 <l>            paṇpuṟap puṟaviṉ ceṅkāṟ cēval</l>
 <l>            kaḷari yōṅkiya kavaimuṭ kaḷḷi</l>
 <l>            muḷariyaṅ kuṭampaiyi ṉīṉṟiḷaip paṭṭa</l>
@@ -48,7 +45,7 @@
 <l>            ṭaruntuya ruḻanta kālai</l>
 <l>            marunteṉap paṭūu maṭavō ḷaiyē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>            Didn’t we see [her] while walking over the gold-like</l>
 <l rend="indent">            new blossoms that had spread<note place="foot"><term xml:lang="ta">parantaṉa</term>: what to do - read an unmarked sentence end or a <term xml:lang="ta">muṟṟeccam</term>?</note> from the Vēṅkai tree on a good day</l>
 <l rend="indent">            that blossomed in the middle of the road to infamous(?) distant lands,</l>

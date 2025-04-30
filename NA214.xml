@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA214-kiḷavi">
-        <p type="edition">iḵtulakiyalāṟ pirivuṇarttappaṭṭa talaimakaṉ kuṟitta paruvaṅkaṇṭu talaimakaḷ colliyatu.</p>
-        <p type="translation" xml:lang="en">This is what SHE said when seeing the season HE, who had been informed of the separation because of the nature of the world, had indicated.</p>
+      <div rend="parallel">
+        <p xml:id="NA214-kiḷavi">iḵtulakiyalāṟ pirivuṇarttappaṭṭa talaimakaṉ kuṟitta paruvaṅkaṇṭu talaimakaḷ colliyatu.</p>
+        <p xml:lang="en">This is what SHE said when seeing the season HE, who had been informed of the separation because of the nature of the world, had indicated.</p>
       </div>
-      <div xml:id="NA214">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA214">
 <l>            icaiyu miṉpamu mītalu mūṉṟu</l>
 <l>            macaiyuna riruntōrk karumpuṇar viṉeṉa</l>
 <l>            viṉaivayiṟ pirinta vēṟupaṭu koḷkai</l>
@@ -48,7 +46,7 @@
 <l>            nakuvatu pōla miṉṉi</l>
 <l>            yārppatu pōlumik kārppeyaṟ kuralē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>Doesn’t he hear it, friend,</l>
 <l rend="indent">[our] blemishless lover who had departed for wealth to be made,</l>
 <l rend="indent">traversing mountains, many [of them], of collyrium-covered mountains,</l>

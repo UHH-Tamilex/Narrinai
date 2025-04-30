@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA276-kiḷavi">
-        <p type="edition">itu pakaṟkuṟi vantu peyarun talaimakaṉai yulakiyaṟ colliyatu.</p>
-        <p type="translation" xml:lang="en">This is how [the confidante] spoke about the nature of the world to HIM who returned, having come to the day tryst.</p>
+      <div rend="parallel">
+        <p xml:id="NA276-kiḷavi">itu pakaṟkuṟi vantu peyarun talaimakaṉai yulakiyaṟ colliyatu.</p>
+        <p xml:lang="en">This is how [the confidante] spoke about the nature of the world to HIM who returned, having come to the day tryst.</p>
         </div>
-      <div xml:id="NA276">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA276">
 <l>            kōṭu tuvaiyāk kōḷvāy nāyoṭu</l>
 <l>            kāṭutēr nacaiiya vayamāṉ vēṭṭu</l>
 <l>            vayavar makaḷi reṉṟi yāyiṟ</l>
@@ -47,7 +44,7 @@
 <l>            vāṅkamai paḻuniya naṟavuṇṭu</l>
 <l>            vēṅkai muṉṟiṟ kuravaiyuṅ kaṇṭē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>If you say we are the women of men strong in</l>
 <l rend="indent">hunting the strong stag, that yearn for searching the wilderness</l>
 <l rend="indent">with [their] dogs with seizing mouths, sounding the horn noisily,</l>

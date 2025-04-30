@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +28,12 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA23-kiḷavi">
-        <p type="edition">iḵtāṟṟāmaiyai yuṇarnta tōḻi varaivu kaṭāyatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante who had perceived [HER] incapacity to bear [it] asked for marriage.</p>
+      <div rend="parallel">
+        <p xml:id="NA23-kiḷavi">iḵtāṟṟāmaiyai yuṇarnta tōḻi varaivu kaṭāyatu.</p>
+        <p xml:lang="en">This is how the confidante who had perceived [HER] incapacity to bear [it] asked for marriage.</p>
       </div>
-      <div xml:id="NA23">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA23">
 <l>            toṭipaḻi maṟaittaliṟ ṟōḷuyn taṉavē</l>
 <l>            vaṭikkoḷ kūḻai yāyamō ṭāṭali</l>
 <l>            ṉiṭippu meyyatoṉ ṟuṭaittē kaṭikkoḷa</l>
@@ -46,7 +44,7 @@
 <l>            ṟeṇṇīr malariṟ ṟolainta</l>
 <l>            kaṇṇē kāmaṅ karappari yavvē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>The shoulders lived while concealing the blame of the bracelets.</l>
 <l rend="indent">While dancing with companions with styled short [hair],</l>
 <l>the noise possesses one single body.</l>

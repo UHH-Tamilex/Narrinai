@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA237-kiḷavi">
-        <p type="edition">itu tōḻi yuraimāṟupaṭṭatu.</p>
-        <p type="translation" xml:lang="en">This is how the confidante is inimical in word.</p>
+      <div rend="parallel">
+        <p xml:id="NA237-kiḷavi">itu tōḻi yuraimāṟupaṭṭatu.</p>
+        <p xml:lang="en">This is how the confidante is inimical in word.</p>
         </div>
-      <div xml:id="NA237">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA237">
 <l>            naṉimikap pacantu tōḷuñ cāayp</l>
 <l>            paṉimali kaṇṇum paṇṭu pōlā</l>
 <l>            viṉṉuyi raṉṉa pirivaruṅ kātalar</l>
@@ -47,7 +44,7 @@
 <l>            vulaka muvappa vōtarum</l>
 <l>            vēṟuppal luruvi ṉērtaru maḻaiyē.</l>
             </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>The vexation that says:</l>
 <l rend="indent3">“[our] lover from whom separation is difficult</l>
 <l rend="indent3">as from [our] sweet life has left [and] prolonged [his absence],</l>

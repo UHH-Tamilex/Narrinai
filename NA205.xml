@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,14 +27,14 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA205-kiḷavi">
-        <p type="edition">1. itu talaimakaṉ ṟaṉṉeñciṟkuc collic celavaḻuṅkiyatu.
+      <div rend="parallel">
+        <p xml:id="NA205-kiḷavi">1. itu talaimakaṉ ṟaṉṉeñciṟkuc collic celavaḻuṅkiyatu.
             2. tōḻi celavaḻuṅkac colliyatūumām.</p>
-        <p type="translation" xml:lang="en">1. This is how HE prevented going, speaking to his own heart.
+        <p xml:lang="en">1. This is how HE prevented going, speaking to his own heart.
             2. It is also how the confidante prevented going.</p>
       </div>
-      <div xml:id="NA205">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA205">
 <l>            aruvi yārkkum peruvarai yaṭukkat</l>
 <l>            tāḷi naṉmāṉ vēṭṭeḻu kōḷukirp</l>
 <l>            pūmpoṟi yuḻuvai tolaicciya vainnuti</l>
@@ -49,7 +47,7 @@
 <l>            nīrmali kataḻpeya ṟalaiiya </l>
 <l>            vāyniṟam puraiyumivaṇ māmaik kaviṉē.</l>
         </lg>
-        <lg type="translation" xml:lang="en">
+        <lg xml:lang="en">
 <l>O you who do not say that the forest is difficult to approach,</l>
 <l rend="indent">where the good bull(?) of the Āḷi<note place="foot"><term xml:lang="ta">Āḷi</term> is, alas, another of these fabulous beasts. Here the context is too thin by far, but judging also from other descriptions, especially in the Akanāṉūṟu, it seems to be carnivorous and dangerous, feared by elephants and tigers (cf. AN 78.1, 252.2, 381.1).</note> drags along the strong elephant bull</l>
 <l rend="indent2">with raised white tusks with sharp tips that had destroyed</l>

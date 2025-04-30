@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,12 +27,12 @@
     </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-      <div xml:id="NA103-kiḷavi">
-        <p type="edition">itu poruḷvayiṉ pirinta talaivaṉ iṭaiccurat tāṟṟā tākiya neñciṉaik kaḻaṟiyatu.</p>
-        <p type="translation" xml:lang="en">This is how HE who had separated for the sake of wealth grumbled with [his] heart that had become unable to bear it in the middle of the desert.</p>
+      <div rend="parallel">
+        <p xml:id="NA103-kiḷavi">itu poruḷvayiṉ pirinta talaivaṉ iṭaiccurat tāṟṟā tākiya neñciṉaik kaḻaṟiyatu.</p>
+        <p xml:lang="en">This is how HE who had separated for the sake of wealth grumbled with [his] heart that had become unable to bear it in the middle of the desert.</p>
       </div>
-      <div xml:id="NA103">
-        <lg type="edition">
+      <div rend="parallel">
+        <lg xml:id="NA103">
 <l>            oṉṟuterin turaittici ṉeñcē puṉkāṟ</l>
 <l>            ciṟiyilai vēmpiṉ periya koṉṟu</l>
 <l>            kaṭāaṅ cerukkiya kaṭuñciṉa muṉpiṟ</l>
@@ -47,7 +45,7 @@
 <l>            yāḷviṉaik kakalvā meṉiṉu </l>
 <l>            mīḷvā meṉiṉu nītuṇin tatuvē.</l>
     </lg>
-       <lg type="translation" xml:lang="en">
+       <lg xml:lang="en">
 <l rend="indent4">Having understood one thing,</l>
 <l>heart, speak</l>
 <l rend="indent4">– of what you have resolved: whether you say we return,</l>
