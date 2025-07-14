@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -68,7 +70,7 @@
           </body>
             </text>
             <standOff type="wordsplit" corresp="#NA17">
-<interp type="alignment" select="0">51MG25MG3MG14MG29MG41MG11MG4MG3MG33MG6MG12MGMR10MG16MG73MG5MG3MG3M,360MG</interp>
+<interp type="alignment" select="0">76MG3MG14MG29MG41MG11MG4MG3MG33MG6MG12MGMR10MG16MG73MG5MG3MG3M,359MG</interp>
 <entry>
 <form>nāḷ</form>
 <def>day</def>
@@ -139,16 +141,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form>iḻi-</form>
+<form>iḻi</form>
 <def>fall</def>
-<form type="sandhi">iḻi</form>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>tarum</form>
-<def>giving-</def>
+<def>giving</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
@@ -508,9 +509,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>niṟam</form>
+<form>niṟa<c type="geminated">t</c></form>
 <def>colour</def>
-<form type="sandhi">niṟat</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
