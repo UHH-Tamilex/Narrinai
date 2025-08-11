@@ -1,0 +1,572 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Naṟṟiṇai</title> 5. <persName xml:lang="ta">Peruṅkuṉṟūr kiḻār</persName>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div rend="parallel">
+        <p xml:id="NA5-kiḷavi">itu talaivaṉ celavuk kuṟippaṟintu vēṟupaṭṭa talaivikkut tōḻi colliyatu.</p>
+        <p xml:lang="en">This is what the confidante said to HER who had changed after understanding HIS intention of going.</p>
+      </div>
+      <div rend="parallel">
+        <lg xml:id="NA5">
+<l>            nilanī rārak kuṉṟaṅ kuḻaippa</l>
+<l>            vakalvāyp paiñcuṉaip payirkāl yāppak</l>
+<l>            kuṟavar koṉṟa kuṟaikkoṭi naṟaippavar</l>
+<l>            naṟuṅkā ḻārañ cuṟṟuvaṉa vakaippap</l>
+<l>            perumpuyal poḻinta toḻila veḻili </l>
+<l>            teṟkēr piraṅku maṟcirak kālaiyu</l>
+<l>            maritē kātalarp pirita liṉṟucela</l>
+<l>            vikupeyal tarūum vāṭaiyoṭu</l>
+<l>            mayaṅkitaḻ maḻaikkaṇ payanta tūtē.</l>
+
+        </lg>
+        <lg xml:lang="en">
+        <l>In the time of the cold season too,</l>
+        <l rend="indent4">when the busy clouds,</l>
+        <l rend="indent">from which great rain has flown, rise to the South [and] sound,</l>
+        <l rend="indent2">for the earth to fill up with water, for the hills to be sprouting,</l>
+        <l rend="indent2">for the crops to crowd by wide-mouthed fresh mountain pools,</l>
+        <l rend="indent2">for fragrant creepers to shoot forth, surrounding the sandal tree</l>
+        <l rend="indent2">with fragrant core, deficient creepers weeded by the hill people,<note place="foot">Is <term xml:lang="ta">kuṟavar koṉṟa kuṟai koṭi</term> to be read as an apposition to <term xml:lang="ta">naṟi pavar</term>? What is the message?</note></l>
+        <l>separating from the lover [and] going<note place="foot">Here <term xml:lang="ta">pirital</term> and <term xml:lang="ta">celavu</term> are read as a coordinate double subject, but an apposition is equally possible: "going today [which means] separating".</note> today is difficult:</l>
+        <l>rain eyes with dishevelled lashes have brought forth the message,</l>
+        <l rend="indent3">along with the north wind, which brings showering rain.</l>
+        <lg type="alternate" sameAs="7-9b"> 
+          <l>difficult [to pass on is] it – the message</l>
+	        <l>that [her] rain eyes with dishevelled petals have turned pale,</l>
+	        <l>along with the north wind, which brings showering rain,</l>
+	        <l>[because of] the lover’s separating [and] going today.<note place="foot">The seemingly simple construction of this poem is not so simple after all. Solution a takes <term xml:lang="ta">kātalar pirital iṉṟu celavu</term> as subjects to <term xml:lang="ta">aritē</term>, which would mean there is an open-ended postposition without apparent function in the following sentence. The predicate of this second sentence would be insufficiently marked as such: <term xml:lang="ta">payanta</term> is by form and usage a peyareccam, and only the lack of a proper predicate for <term xml:lang="ta">tūtu</term> gives rise to the thought that it might be a p.a. n.pl. Solution b is more satisfactory from the syntactic point of view, but still we have to take <term xml:lang="ta">pirital</term> and <term xml:lang="ta">celavu</term> as unmarked datives. They can only be integrated as the reason for the eyes’ turning pale.</note></l>
+        </lg>
+
+        </lg>
+        
+      </div>
+    </body>
+  </text>
+  <standOff type="wordsplit" corresp="#NA5">
+<interp type="alignment" select="0">4MR150MG3MG19MG7M2G25MG29MG23M2G2M,271MG</interp>
+<entry>
+<form>nilam</form>
+<def>ground</def>
+<form type="sandhi">nilan</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nīr</form>
+<def>water</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āra<c type="geminated">k</c></form>
+<def>become-full</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṉṟam</form>
+<def>hill</def>
+<form type="sandhi">kuṉṟaṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuḻaippa</form>
+<def>sprout</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>akal</form>
+<def>widen</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāy<c type="geminated">p</c></form>
+<def>mouth</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paim</form>
+<def>fresh</def>
+<form type="sandhi">paiñ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cuṉai<c type="geminated">p</c></form>
+<def>mountain pool</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>payir</form>
+<def>crop</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kālyāppa<c type="geminated">k</c></form>
+<def>crowd</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṟavar</form>
+<def>hill people</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṉṟa</form>
+<def>felled</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṟai<c type="geminated">k</c></form>
+<def>deficiency</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṭi</form>
+<def>creeper</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṟai<c type="geminated">p</c></form>
+<def>odour</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pavar</form>
+<def>creeper</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṟum</form>
+<def>fragrant</def>
+<form type="sandhi">naṟuṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāḻ</form>
+<def>core</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āram</form>
+<def>sandal tree</def>
+<form type="sandhi">ārañ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cuṟṟuvaṉa</form>
+<def>surround-they</def>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+  <gram type="role">imperfective aspect</gram>
+  <gram type="role">muṟṟeccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>akaippa<c type="geminated">p</c></form>
+<def>sprout</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puyal</form>
+<def>raining</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poḻinta</form>
+<def>flown</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toḻila</form>
+<def>work-they</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eḻili</form>
+<def>cloud</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>teṟk<c type="elided">u</c></form>
+<def>south</def>
+<form type="sandhi">teṟk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ērp<c type="elided">u</c></form>
+<def>risen</def>
+<form type="sandhi">ērp</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iraṅkum</form>
+<def>sounding-</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṟcira<c type="geminated">k</c></form>
+<def>cool season</def>
+</entry>
+<entry>
+<form>kālai-<c type="glide">y</c>um</form>
+<def>time</def>
+<form type="simple">kālai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>arit<c type="elided">u</c>-ē</form>
+<def>difficult-it</def>
+<form type="simple">aritu</form>
+<form type="sandhi">arit</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>kātalar<c type="geminated">p</c></form>
+<def>lover</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pirital</form>
+<def>separating</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉṟu</form>
+<def>today</def>
+</entry>
+<entry>
+<form>celav<c type="elided">u</c></form>
+<def>going</def>
+<form type="sandhi">celav</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iku</form>
+<def>shower</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peyal</form>
+<def>raining</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tarūum</form>
+<def>giving-</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāṭaiyoṭu</form>
+<def>north wind</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mayaṅk<c type="elided">u</c></form>
+<def>be-confused</def>
+<form type="sandhi">mayaṅk</form>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>itaḻ</form>
+<def>lash</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maḻai<c type="geminated">k</c></form>
+<def>rain</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<superEntry type="ambiguous">
+<entry><entry>
+<form>payanta</form>
+<def>yielded</def>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry></entry>
+<entry><entry>
+<form>payanta</form>
+<def>paled-</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry></entry>
+</superEntry>
+<entry>
+<form>tūt<c type="elided">u</c>-ē</form>
+<def>message</def>
+<form type="simple">tūtu</form>
+<form type="sandhi">tūt</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+  <standOff corresp="#NA5-kiḷavi" type="wordsplit">
+<interp type="alignment" select="0">24MG40M,64MG</interp>
+<entry>
+<form>itu</form>
+<def>this</def>
+</entry>
+<entry>
+<form>talaivaṉ</form>
+<def>hero</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>celavu<c type="geminated">k</c></form>
+<def>going</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṟipp<c type="elided">u</c></form>
+<def>intention</def>
+<form type="sandhi">kuṟipp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṟintu</form>
+<def>known</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṟupaṭṭa</form>
+<def>undergone-changes</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaivikku<c type="geminated">t</c></form>
+<def>heroine</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>confidante</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliyatu</form>
+<def>spoken-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff><standOff corresp="#NA5-kiḷavi" type="apparatus"><listApp>
+<app><note xml:lang="en">ET: talaimakaṭku+</note></app>
+</listApp></standOff><standOff corresp="#NA5" type="apparatus"><listApp>
+<app loc="25,33">
+        <lem wit="#EN #ER #ET #EV">vakalvāy</lem>
+        <rdg wit="#C1">lukalvāy</rdg>
+        </app>
+<app loc="52,58">
+        <lem wit="#EN #ER #ET #EV">yāppak</lem>
+        <rdg wit="#C1">yāppa</rdg>
+        </app>
+<app loc="121,131">
+        <lem wit="#C1 #EN #ETv">perumpuyal</lem>
+        <rdg wit="#ER #ET #EV">perumpeyal</rdg>
+        </app>
+<app loc="144,150">
+        <lem wit="#C1 #EN #ER #ET #EV">veḻili</lem>
+        <rdg wit="#G3">veḻil</rdg>
+        </app>
+<app loc="198,216">
+        <lem wit="#ET">liṉṟucela
+vikupeyal</lem>
+        <rdg wit="#C1 #EN #ETv #EV">liṉṟuce
+likuḷaiyart</rdg>
+<rdg wit="#ER">liṉṟuce
+liḷaiyart</rdg>
+        </app>
+<app loc="241,250">
+        <lem wit="#EN #ER #ET #EV">maḻaikkaṇ</lem>
+        <rdg wit="#C1">maḻaikkaṉai</rdg>
+        </app>
+</listApp>
+<listWit>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="EN">
+  <abbr type="siglum">EN</abbr>
+  <expan><term xml:lang="ta">Nārāyaṇacāmi Aiyar</term>edition 1915 (rep. by Kaḻakam 1952, rev.ed. 1967 = 4th ed.)</expan>
+  <witness xml:id="ENv">
+    <abbr type="siglum">ENv</abbr>
+    <expan><term xml:lang="ta">Nārāyaṇacāmi Aiyar</term>edition 1915 (rep. by Kaḻakam 1952, rev.ed. 1967 = 4th ed.), variant reading</expan>
+  </witness>
+</witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="ER">
+  <abbr type="siglum">ER</abbr>
+  <expan><term xml:lang="ta">Rājam</term>edition 1957 (rep. by NCBH 1981 = 2nd ed.)</expan>
+</witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="ET">
+  <abbr type="siglum">ET</abbr>
+  <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.)</expan>
+  <witness xml:id="ETv">
+    <abbr type="siglum">ETv</abbr>
+    <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.), variant reading</expan>
+  </witness>
+    <witness xml:id="ETv2">
+    <abbr type="siglum">ETv2</abbr>
+    <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.), variant reading</expan>
+  </witness>
+</witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="EV">
+  <abbr type="siglum">EV</abbr>
+  <expan><term xml:lang="ta">Vēṅkaṭarāmaṉ</term>edition 1989 (UVSL)</expan>
+</witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C1" source="witnesses/C1.xml">
+    <abbr type="siglum">C1</abbr>
+    <expan>palm-leaf manuscript from the UVSL [1076//2234] complete (except NA 234 and NA 385.7f. and from NA 274)</expan>
+    <witness xml:id="C1v">
+      <abbr type="siglum">C1v</abbr>
+      <expan>palm-leaf manuscript from the UVSL [1076//2234] complete (except NA 234 and NA 385.7f. and from NA 274), variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G3" source="witnesses/G3.xml">
+    <abbr type="siglum"/>
+    <expan>paper manuscript from  GOML [TR 1066/R 5745]: paper, college copy-book</expan>
+  </witness>
+</listWit></standOff></TEI>
