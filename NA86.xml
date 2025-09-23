@@ -458,4 +458,97 @@
   <gram type="role">perfective aspect</gram>
 </gramGrp>
 </entry>
-</standOff></TEI>
+</standOff><standOff corresp="#NA86" type="apparatus"><listApp>
+<app loc="0,6">
+        <lem wit="#C1 #EN #ER #ET">aṟavar</lem>
+        <rdg wit="#G1 #G2">aṟava</rdg>
+        </app>
+<app loc="6,10">
+        <lem wit="#G1 #G2 #EN #ER #ET">vāḻi</lem>
+        <rdg wit="#C1">pāḻi</rdg>
+        </app>
+<app loc="72,81">
+        <lem wit="#G1 #G2 #EN #ER #ET">kaṭumpaṉi</lem>
+        <rdg wit="#C1">kaṭumaṉi</rdg>
+        </app>
+<app loc="96,110">
+        <lem wit="#C1 #G1 #G2 #EN #ER #ETv">kāṇṭakak
+kaival</lem>
+        <rdg wit="#ET">kaṇṭōr
+kaival</rdg>
+        </app>
+<app loc="110,125">
+        <lem wit="#C1 #G1 #G2 #EN #ER #ETv">viṉaivaṉ ṟaiyupu</lem>
+        <rdg wit="#ET">kammiyaṉ taiyupu</rdg>
+        </app>
+<app loc="132,159">
+        <lem wit="#C1 #G1 #G2 #EN #ER #ETv">curitaka  vuruviṉa vākip periya</lem>
+        <rdg wit="#ET">vayantaka ... payanta</rdg>
+        </app>
+<app loc="148,153">
+        <lem wit="#G1 #G2 #EN #ER #ET">vākip</lem>
+        <rdg wit="#C1">vāyp</rdg>
+        </app>
+<app loc="175,180">
+        <lem wit="#C1 #EN #ER #ET">aviḻa</lem>
+        <rdg wit="#G1 #G2">aviḻu</rdg>
+        </app>
+<app loc="219,231">
+        <lem wit="#C1 #G1 #G2 #EN #ER #ET">muṉṉivan tōrē</lem>
+        <rdg wit="#ETv">muṟṟivan tōrē</rdg>
+        </app>
+</listApp>
+<listWit>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C1" source="witnesses/C1.xml">
+    <abbr type="siglum">C1</abbr>
+    <expan>palm-leaf manuscript from the UVSL [1076//2234] complete (except NA 234 and NA 385.7f. and from NA 274)</expan>
+    <witness xml:id="C1v">
+      <abbr type="siglum">C1v</abbr>
+      <expan>palm-leaf manuscript from the UVSL [1076//2234] complete (except NA 234 and NA 385.7f. and from NA 274), variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="EN">
+  <abbr type="siglum">EN</abbr>
+  <expan><term xml:lang="ta">Nārāyaṇacāmi Aiyar</term>edition 1915 (rep. by Kaḻakam 1952, rev.ed. 1967 = 4th ed.)</expan>
+  <witness xml:id="ENv">
+    <abbr type="siglum">ENv</abbr>
+    <expan><term xml:lang="ta">Nārāyaṇacāmi Aiyar</term>edition 1915 (rep. by Kaḻakam 1952, rev.ed. 1967 = 4th ed.), variant reading</expan>
+  </witness>
+</witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="ER">
+  <abbr type="siglum">ER</abbr>
+  <expan><term xml:lang="ta">Rājam</term>edition 1957 (rep. by NCBH 1981 = 2nd ed.)</expan>
+</witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="ET">
+  <abbr type="siglum">ET</abbr>
+  <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.)</expan>
+  <witness xml:id="ETv">
+    <abbr type="siglum">ETv</abbr>
+    <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.), variant reading</expan>
+  </witness>
+    <witness xml:id="ETv2">
+    <abbr type="siglum">ETv2</abbr>
+    <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.), variant reading</expan>
+  </witness>
+   <witness xml:id="ETv3">
+    <abbr type="siglum">ETv3</abbr>
+    <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.), variant reading</expan>
+  </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G1" source="witnesses/G1.xml">
+    <abbr type="siglum"/>
+    <expan>paper manuscript from GOML [PS 67/D 231]</expan>
+    <witness xml:id="G1v">
+      <abbr type="siglum">G1v</abbr>
+      <expan>paper manuscript from GOML [PS 67/D 231], variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G2" source="witnesses/G2.xml">
+    <abbr type="siglum"/>
+    <expan>paper manuscript from  GOML [TR 1064/R 5743]: identical with G1</expan>
+    <witness xml:id="G2v">
+      <abbr type="siglum">G2v</abbr>
+      <expan>paper manuscript from GOML [TR 1064/R 5743]: identical with G1, variant reading</expan>
+    </witness>
+  </witness>
+</listWit></standOff></TEI>
