@@ -515,4 +515,98 @@
   <gram type="role">perfective aspect</gram>
 </gramGrp>
 </entry>
-</standOff></TEI>
+</standOff><standOff corresp="#NA80" type="apparatus"><listApp>
+<app loc="5,12">
+        <lem wit="#G1 #G2 #EN #ER #ET">verumai</lem>
+        <rdg wit="#C1">perumai</rdg>
+        </app>
+<app loc="12,27">
+        <lem wit="#C1 #EN #ER #ET">malartalaik kārā</lem>
+        <rdg wit="#G1 #G2">malartalaikka cārā</rdg>
+        </app>
+<app loc="55,63">
+        <lem wit="#C1 #G1 #G2 #EN #ER #ET">ṭūrkkuṟu</lem>
+        <rdg wit="#ETv">ṭaṟaikkuṟu</rdg>
+        </app>
+<app loc="94,103">
+        <lem wit="#EN #ER #ET">viṭiyaliṉ</lem>
+        <rdg wit="#C1 #ETv">viṭiyal</rdg>
+<rdg wit="#G1 #G2">viḻalaṉ</rdg>
+        </app>
+<app loc="132,139">
+        <lem wit="#G1 #G2 #EN #ER #ET">tantaṉa</lem>
+        <rdg wit="#C1">tantakaṉa</rdg>
+        </app>
+<app loc="139,147">
+        <lem wit="#G1 #G2 #EN #ER #ETv">ṉivaṉeṉa</lem>
+        <rdg wit="#C1 #ET">ṉivaṇeṉa</rdg>
+        </app>
+<app loc="164,171">
+        <lem wit="#EN #ER #ET">takunāṇ</lem>
+        <rdg wit="#C1">takumnāṇ</rdg>
+<rdg wit="#G1 #G2">tarunāṇ</rdg>
+        </app>
+<app loc="171,178">
+        <lem wit="#G1 #G2 #EN #ER #ET">taṭaiit</lem>
+        <rdg wit="#C1">taṭai</rdg>
+        </app>
+<app loc="227,246">
+        <lem wit="#EN #ER #ET">maruntupiṟi tillaiyā</lem>
+        <rdg wit="#C1 #G1 #G2">maruntil laiyā</rdg>
+<rdg wit="#ETv">marunti vaṇillai</rdg>
+        </app>
+</listApp>
+<listWit>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G1" source="witnesses/G1.xml">
+    <abbr type="siglum"/>
+    <expan>paper manuscript from GOML [PS 67/D 231]</expan>
+    <witness xml:id="G1v">
+      <abbr type="siglum">G1v</abbr>
+      <expan>paper manuscript from GOML [PS 67/D 231], variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G2" source="witnesses/G2.xml">
+    <abbr type="siglum"/>
+    <expan>paper manuscript from  GOML [TR 1064/R 5743]: identical with G1</expan>
+    <witness xml:id="G2v">
+      <abbr type="siglum">G2v</abbr>
+      <expan>paper manuscript from GOML [TR 1064/R 5743]: identical with G1, variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="EN">
+  <abbr type="siglum">EN</abbr>
+  <expan><term xml:lang="ta">Nārāyaṇacāmi Aiyar</term>edition 1915 (rep. by Kaḻakam 1952, rev.ed. 1967 = 4th ed.)</expan>
+  <witness xml:id="ENv">
+    <abbr type="siglum">ENv</abbr>
+    <expan><term xml:lang="ta">Nārāyaṇacāmi Aiyar</term>edition 1915 (rep. by Kaḻakam 1952, rev.ed. 1967 = 4th ed.), variant reading</expan>
+  </witness>
+</witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="ER">
+  <abbr type="siglum">ER</abbr>
+  <expan><term xml:lang="ta">Rājam</term>edition 1957 (rep. by NCBH 1981 = 2nd ed.)</expan>
+</witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="ET">
+  <abbr type="siglum">ET</abbr>
+  <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.)</expan>
+  <witness xml:id="ETv">
+    <abbr type="siglum">ETv</abbr>
+    <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.), variant reading</expan>
+  </witness>
+    <witness xml:id="ETv2">
+    <abbr type="siglum">ETv2</abbr>
+    <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.), variant reading</expan>
+  </witness>
+   <witness xml:id="ETv3">
+    <abbr type="siglum">ETv3</abbr>
+    <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.), variant reading</expan>
+  </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C1" source="witnesses/C1.xml">
+    <abbr type="siglum">C1</abbr>
+    <expan>palm-leaf manuscript from the UVSL [1076//2234] complete (except NA 234 and NA 385.7f. and from NA 274)</expan>
+    <witness xml:id="C1v">
+      <abbr type="siglum">C1v</abbr>
+      <expan>palm-leaf manuscript from the UVSL [1076//2234] complete (except NA 234 and NA 385.7f. and from NA 274), variant reading</expan>
+    </witness>
+  </witness>
+</listWit></standOff></TEI>
