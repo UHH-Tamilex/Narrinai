@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -492,7 +494,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>aṟintaṉaḷ-kol<c type="geminated">l</c></form>
+<form><c type="glide">y</c>aṟintaṉaḷ-kol</form>
 <def>she knew</def>
 <form type="simple">aṟintaṉaḷ</form>
 <form type="sandhi"><c type="glide">y</c>aṟintaṉaḷ</form>
@@ -503,9 +505,9 @@
 <gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
 </entry>
 <entry>
-<form>aḵt<c type="elided">u</c></form>
+<form><c type="geminated">l</c>aḵt<c type="elided">u</c></form>
 <def>that</def>
-<form type="sandhi">aḵt</form>
+<form type="sandhi"><c type="geminated">l</c>aḵt</form>
 </entry>
 <entry>
 <form>aṟikaleṉ</form>
