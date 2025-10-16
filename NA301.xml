@@ -1,4 +1,7 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -60,7 +63,7 @@
 <interp type="alignment" select="0">47ML158MG16ML5MG19MG2M,251MG</interp>
 <entry>
 <form>nīḷ</form>
-<def>be-tall</def>
+<def>be tall</def>
 <form type="sandhi">nīṇ</form>
 <gramGrp>
   <gram type="role">verbal root</gram>
@@ -75,7 +78,7 @@
 </entry>
 <entry>
 <form>kalitta</form>
-<def>swollen-</def>
+<def>swollen</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
   <gram type="role">peyareccam</gram>
@@ -121,7 +124,7 @@
 </entry>
 <entry>
 <form>puraiyum</form>
-<def>resembling-</def>
+<def>resembling</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
@@ -296,7 +299,7 @@
 </entry>
 <entry>
 <form>ivaḷ</form>
-<def>this-one</def>
+<def>this one</def>
 <gramGrp>
   <gram type="role">feminine singular</gram>
 </gramGrp>
@@ -391,7 +394,7 @@
 </entry>
 <entry>
 <form>kamaḻ</form>
-<def>be-fragrant</def>
+<def>be fragrant</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -408,14 +411,14 @@
 </entry>
 </standOff>
       <standOff corresp="#NA301-kiḷavi" type="wordsplit">
-<interp type="alignment" select="0">52M2G29MG12M,95MG</interp>
+<interp type="alignment" select="0">52MG29MG12M,24MG42MG26MG</interp>
 <entry>
 <form>itu</form>
 <def>this</def>
 </entry>
 <entry>
 <form>cēṭpaṭuttu<c type="geminated">p</c></form>
-<def>kept-at-a-distance</def>
+<def>kept at a distance</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
@@ -435,7 +438,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>“aṉpiṉ</form>
+<form>aṉpiṉ</form>
 <def>love</def>
 <gramGrp>
   <gram type="role">oblique</gram>
@@ -450,24 +453,27 @@
 </entry>
 <entry>
 <form>taku</form>
-<def>be-fit</def>
+<def>be fit</def>
 <form type="sandhi">ṟaku</form>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>vakaiyat<c type="elided">u</c>-ōr</form>
+<form>vakaiyat<c type="elided">u</c></form>
 <def>manner-it</def>
-<form type="sandhi">vakaiyatōr</form>
+<form type="sandhi">vakaiyat</form>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">neuter singular</gram>
-  <gram type="role">relative</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>āṟṟāmaiyiṉāṉ”</form>
+<form>ōr</form>
+<def>one</def>
+</entry>
+<entry>
+<form>āṟṟāmaiyiṉāṉ</form>
 <def>inability</def>
 <gramGrp>
   <gram type="role">instrumental</gram>
