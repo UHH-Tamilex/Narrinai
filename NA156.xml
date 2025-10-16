@@ -580,4 +580,96 @@
   <gram type="role">perfective aspect</gram>
 </gramGrp>
 </entry>
-</standOff></TEI>
+</standOff><standOff corresp="#NA156" type="apparatus"><listApp>
+<app loc="56,63">
+        <lem wit="#C1 #G1 #EN #ER #ET">ṉīviyum</lem>
+        <rdg wit="#G2">ṉīvuyum</rdg>
+        </app>
+<app loc="68,75">
+        <lem wit="#C1 #G1 #G2">piṉaiyō</lem>
+        <rdg wit="#EN #ER #ET">piṉaiyē</rdg>
+        </app>
+<app loc="75,82">
+        <lem wit="#C1 #G1 #G2">peruṅka</lem>
+        <rdg wit="#EN #ER #ET">peruṅkaṉ</rdg>
+        </app>
+<app loc="207,215">
+        <lem wit="#C1 #G1 #G2 #EN #ER #ETv">lārntava</lem>
+        <rdg wit="#ET">lārkaiya</rdg>
+        </app>
+<app loc="222,229">
+        <lem wit="#EN #ER #ET">periyar</lem>
+        <rdg wit="#C1 #G1 #G2">periya</rdg>
+<rdg wit="#ETv">periyarmaṉ</rdg>
+        </app>
+<app loc="229,236">
+        <lem wit="#C1 #EN #ER #ETv">pāṭimiḻ</lem>
+        <rdg wit="#G1 #G2">pāṭimiḷ</rdg>
+        </app>
+<app loc="236,253">
+        <lem wit="#C1 #G1 #G2 #EN #ER #ET">viṭarmukai muḻaṅka</lem>
+        <rdg wit="#ETv">viṭaraka muḻaṅkum</rdg>
+        </app>
+<app loc="262,272">
+        <lem wit="#C1 #G1 #G2 #EN #ER #ETv">yiṟuttateṅ</lem>
+        <rdg wit="#ET">yiṟuttaveṅ</rdg>
+        </app>
+<app loc="272,279">
+        <lem wit="#EN #ER #ET">kōṭuyar</lem>
+        <rdg wit="#C1 #G1 #G2">kōṭuyaraṅ</rdg>
+        </app>
+</listApp>
+<listWit>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C1" source="witnesses/C1.xml">
+    <abbr type="siglum">C1</abbr>
+    <expan>palm-leaf manuscript from the UVSL [1076//2234] complete (except NA 234 and NA 385.7f. and from NA 274)</expan>
+    <witness xml:id="C1v">
+      <abbr type="siglum">C1v</abbr>
+      <expan>palm-leaf manuscript from the UVSL [1076//2234] complete (except NA 234 and NA 385.7f. and from NA 274), variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G1" source="witnesses/G1.xml">
+    <abbr type="siglum"/>
+    <expan>paper manuscript from GOML [PS 67/D 231]</expan>
+    <witness xml:id="G1v">
+      <abbr type="siglum">G1v</abbr>
+      <expan>paper manuscript from GOML [PS 67/D 231], variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="EN">
+  <abbr type="siglum">EN</abbr>
+  <expan><term xml:lang="ta">Nārāyaṇacāmi Aiyar</term>edition 1915 (rep. by Kaḻakam 1952, rev.ed. 1967 = 4th ed.)</expan>
+  <witness xml:id="ENv">
+    <abbr type="siglum">ENv</abbr>
+    <expan><term xml:lang="ta">Nārāyaṇacāmi Aiyar</term>edition 1915 (rep. by Kaḻakam 1952, rev.ed. 1967 = 4th ed.), variant reading</expan>
+  </witness>
+</witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="ER">
+  <abbr type="siglum">ER</abbr>
+  <expan><term xml:lang="ta">Rājam</term>edition 1957 (rep. by NCBH 1981 = 2nd ed.)</expan>
+</witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="ET">
+  <abbr type="siglum">ET</abbr>
+  <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.)</expan>
+  <witness xml:id="ETv">
+    <abbr type="siglum">ETv</abbr>
+    <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.), variant reading</expan>
+  </witness>
+    <witness xml:id="ETv2">
+    <abbr type="siglum">ETv2</abbr>
+    <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.), variant reading</expan>
+  </witness>
+   <witness xml:id="ETv3">
+    <abbr type="siglum">ETv3</abbr>
+    <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.), variant reading</expan>
+  </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G2" source="witnesses/G2.xml">
+    <abbr type="siglum"/>
+    <expan>paper manuscript from  GOML [TR 1064/R 5743]: identical with G1</expan>
+    <witness xml:id="G2v">
+      <abbr type="siglum">G2v</abbr>
+      <expan>paper manuscript from GOML [TR 1064/R 5743]: identical with G1, variant reading</expan>
+    </witness>
+  </witness>
+</listWit></standOff></TEI>
