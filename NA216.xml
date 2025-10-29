@@ -601,4 +601,102 @@
   <gram type="role">perfective aspect</gram>
 </gramGrp>
 </entry>
-</standOff></TEI>
+</standOff><standOff corresp="#NA216" type="apparatus"><listApp>
+<app loc="7,16">
+        <lem wit="#C1 #EN #ER #ET">kūṭṭamoṭu</lem>
+        <rdg wit="#G1 #G2">kūṭamoṭu</rdg>
+        </app>
+<app loc="27,33">
+        <lem wit="#G1 #G2">miṉitō</lem>
+        <rdg wit="#C1">miṉitōr</rdg>
+<rdg wit="#EN #ER #ET">miṉitē</rdg>
+        </app>
+<app loc="33,41">
+        <lem wit="#C1 #EN #ER #ET">kāṇunark</lem>
+        <rdg wit="#G1 #G2">kāṇu nāka</rdg>
+        </app>
+<app loc="54,73">
+        <lem wit="#C1 #EN #ER #ET">kaṇṇuṟu viḻumaṅ kaipō</lem>
+        <rdg wit="#G1 #G2">kaṇṇu viḻuṅkaipō</rdg>
+        </app>
+<app loc="116,126">
+        <lem wit="#C1 #EN #ER #ET">yavari lūrē</lem>
+        <rdg wit="#G1 #G2">yavarila ṉūrē</rdg>
+        </app>
+<app loc="162,177">
+        <lem wit="#EN #ER #ETv">kaḻaṉiyi ṉitaṇat</lem>
+        <rdg wit="#G1 #G2">kaḻaṉi yiṉataṇat</rdg>
+<rdg wit="#C1 #ET">kaḻaṉi yitaṇat</rdg>
+        </app>
+<app loc="198,205">
+        <lem wit="#C1 #G1 #G2 #EN #ER #ET">kavaṟṟa</lem>
+        <rdg wit="#ETv">tūṟṟa</rdg>
+        </app>
+<app loc="227,233">
+        <lem wit="#C1 #G1 #G2 #EN #ER #ETv">vuṇṇik</lem>
+        <rdg wit="#ET">maṇṇik</rdg>
+        </app>
+<app loc="238,245">
+        <lem wit="#G1 #G2 #EN #ETv">raṉaiyā</lem>
+        <rdg wit="#C1 #ER">raṉaiya</rdg>
+<rdg wit="#ET">reṉaiya</rdg>
+        </app>
+</listApp>
+<listWit>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C1" source="witnesses/C1.xml">
+    <abbr type="siglum">C1</abbr>
+    <expan>palm-leaf manuscript from the UVSL [1076//2234] complete (except NA 234 and NA 385.7f. and from NA 274)</expan>
+    <witness xml:id="C1v">
+      <abbr type="siglum">C1v</abbr>
+      <expan>palm-leaf manuscript from the UVSL [1076//2234] complete (except NA 234 and NA 385.7f. and from NA 274), variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="EN">
+  <abbr type="siglum">EN</abbr>
+  <expan><term xml:lang="ta">Nārāyaṇacāmi Aiyar</term>edition 1915 (rep. by Kaḻakam 1952, rev.ed. 1967 = 4th ed.)</expan>
+  <witness xml:id="ENv">
+    <abbr type="siglum">ENv</abbr>
+    <expan><term xml:lang="ta">Nārāyaṇacāmi Aiyar</term>edition 1915 (rep. by Kaḻakam 1952, rev.ed. 1967 = 4th ed.), variant reading</expan>
+  </witness>
+  <witness xml:id="ENv2">
+    <abbr type="siglum">ENv2</abbr>
+    <expan><term xml:lang="ta">Nārāyaṇacāmi Aiyar</term>edition 1915 (rep. by Kaḻakam 1952, rev.ed. 1967 = 4th ed.), variant reading</expan>
+  </witness>
+</witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="ER">
+  <abbr type="siglum">ER</abbr>
+  <expan><term xml:lang="ta">Rājam</term>edition 1957 (rep. by NCBH 1981 = 2nd ed.)</expan>
+</witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="ET">
+  <abbr type="siglum">ET</abbr>
+  <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.)</expan>
+  <witness xml:id="ETv">
+    <abbr type="siglum">ETv</abbr>
+    <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.), variant reading</expan>
+  </witness>
+    <witness xml:id="ETv2">
+    <abbr type="siglum">ETv2</abbr>
+    <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.), variant reading</expan>
+  </witness>
+   <witness xml:id="ETv3">
+    <abbr type="siglum">ETv3</abbr>
+    <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.), variant reading</expan>
+  </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G1" source="witnesses/G1.xml">
+    <abbr type="siglum"/>
+    <expan>paper manuscript from GOML [PS 67/D 231]</expan>
+    <witness xml:id="G1v">
+      <abbr type="siglum">G1v</abbr>
+      <expan>paper manuscript from GOML [PS 67/D 231], variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G2" source="witnesses/G2.xml">
+    <abbr type="siglum"/>
+    <expan>paper manuscript from  GOML [TR 1064/R 5743]: identical with G1</expan>
+    <witness xml:id="G2v">
+      <abbr type="siglum">G2v</abbr>
+      <expan>paper manuscript from GOML [TR 1064/R 5743]: identical with G1, variant reading</expan>
+    </witness>
+  </witness>
+</listWit></standOff></TEI>
