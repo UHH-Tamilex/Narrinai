@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -61,7 +63,7 @@
           </body>
             </text>
             <standOff type="wordsplit" corresp="#NA23">
-<interp type="alignment" select="0">29MG22MG18MG3MG6M2G58MG50MG10MG32MG13MG5MG4M,261MG</interp>
+<interp type="alignment" select="0">29MG22MG18MG3MG6M2G58MG50MG10MG32MG13MG6MG3M,261MG</interp>
 <entry>
 <form>toṭi</form>
 <def>bracelet</def>
@@ -413,9 +415,10 @@
 </gramGrp>
 </entry>
 <entry>
-<form>ariya-<c type="geminated">v</c><c type="glide">v</c>ē</form>
+<form>ariya<c type="geminated">v</c>-<c type="glide">v</c>ē</form>
 <def>difficult-they</def>
 <form type="simple">ariya</form>
+<form type="sandhi">ariya<c type="geminated">v</c></form>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">neuter plural</gram>
