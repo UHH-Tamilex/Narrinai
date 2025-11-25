@@ -466,4 +466,106 @@
   <gram type="role">perfective aspect</gram>
 </gramGrp>
 </entry>
-</standOff></TEI>
+</standOff><standOff corresp="#NA325" type="apparatus"><listApp>
+<app loc="15,23">
+        <lem wit="#C1 #G1 #G2">parumayi</lem>
+        <rdg wit="#EN #ER #ET">parūumayi</rdg>
+        </app>
+<app loc="45,52">
+        <lem wit="#G1 #G2 #EN #ER #ET">ṉiraviṟ</lem>
+        <rdg wit="#C1">ṉiraviṉiṟ</rdg>
+        </app>
+<app loc="73,83">
+        <lem wit="#G1 #G2 #EN #ER #ETv">tōṭupuṉain</lem>
+        <rdg wit="#C1">tōṭupuṉain</rdg>
+<rdg wit="#ET">tōṭuḻan</rdg>
+        </app>
+<app loc="83,90">
+        <lem wit="#C1 #EN #ER #ET">teṭutta</lem>
+        <rdg wit="#G1 #G2">teṭut</rdg>
+        </app>
+<app loc="90,97">
+        <lem wit="#C1 #EN #ER #ET">varavāḻ</lem>
+        <rdg wit="#G1 #G2">tavarvāḻ</rdg>
+        </app>
+<app loc="102,108">
+        <lem wit="#C1 #G1 #G2 #EN #ER #ETv">moḻiya</lem>
+        <rdg wit="#ET">maḻiya</rdg>
+        </app>
+<app loc="108,115">
+        <lem wit="#EN #ER #ET">voyyeṉa</lem>
+        <rdg wit="#C1 #G1 #G2">veyyeṉa</rdg>
+        </app>
+<app loc="129,141">
+        <lem wit="#EN #ER #ET">riṭappa vāṅku</lem>
+        <rdg wit="#G1 #G2">raṭappa lāṅku</rdg>
+<rdg wit="#C1">ṭappa lāṅku</rdg>
+        </app>
+<app loc="180,196">
+        <lem wit="#C1 #G1 #G2 #EN #ER #ET">putunalañ citaiya</lem>
+        <rdg wit="#ETv">putunalam pulampa</rdg>
+        </app>
+<app loc="196,204">
+        <lem wit="#C1 #EN #ER #ETv">vīṅkunīr</lem>
+        <rdg wit="#G1 #G2">vilaṅkunīr</rdg>
+<rdg wit="#ET">vukunīr</rdg>
+        </app>
+</listApp>
+<listWit>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C1" source="witnesses/C1.xml">
+    <abbr type="siglum">C1</abbr>
+    <expan>palm-leaf manuscript from the UVSL [1076//2234] complete (except NA 234 and NA 385.7f. and from NA 274)</expan>
+    <witness xml:id="C1v">
+      <abbr type="siglum">C1v</abbr>
+      <expan>palm-leaf manuscript from the UVSL [1076//2234] complete (except NA 234 and NA 385.7f. and from NA 274), variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G1" source="witnesses/G1.xml">
+    <abbr type="siglum"/>
+    <expan>paper manuscript from GOML [PS 67/D 231]</expan>
+    <witness xml:id="G1v">
+      <abbr type="siglum">G1v</abbr>
+      <expan>paper manuscript from GOML [PS 67/D 231], variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G2" source="witnesses/G2.xml">
+    <abbr type="siglum"/>
+    <expan>paper manuscript from  GOML [TR 1064/R 5743]: identical with G1</expan>
+    <witness xml:id="G2v">
+      <abbr type="siglum">G2v</abbr>
+      <expan>paper manuscript from GOML [TR 1064/R 5743]: identical with G1, variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="EN">
+  <abbr type="siglum">EN</abbr>
+  <expan><term xml:lang="ta">Nārāyaṇacāmi Aiyar</term>edition 1915 (rep. by Kaḻakam 1952, rev.ed. 1967 = 4th ed.)</expan>
+  <witness xml:id="ENv">
+    <abbr type="siglum">ENv</abbr>
+    <expan><term xml:lang="ta">Nārāyaṇacāmi Aiyar</term>edition 1915 (rep. by Kaḻakam 1952, rev.ed. 1967 = 4th ed.), variant reading</expan>
+  </witness>
+  <witness xml:id="ENv2">
+    <abbr type="siglum">ENv2</abbr>
+    <expan><term xml:lang="ta">Nārāyaṇacāmi Aiyar</term>edition 1915 (rep. by Kaḻakam 1952, rev.ed. 1967 = 4th ed.), variant reading</expan>
+  </witness>
+</witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="ER">
+  <abbr type="siglum">ER</abbr>
+  <expan><term xml:lang="ta">Rājam</term>edition 1957 (rep. by NCBH 1981 = 2nd ed.)</expan>
+</witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="ET">
+  <abbr type="siglum">ET</abbr>
+  <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.)</expan>
+  <witness xml:id="ETv">
+    <abbr type="siglum">ETv</abbr>
+    <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.), variant reading</expan>
+  </witness>
+    <witness xml:id="ETv2">
+    <abbr type="siglum">ETv2</abbr>
+    <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.), variant reading</expan>
+  </witness>
+   <witness xml:id="ETv3">
+    <abbr type="siglum">ETv3</abbr>
+    <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.), variant reading</expan>
+  </witness>
+  </witness>
+</listWit></standOff></TEI>
