@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -61,7 +63,7 @@
           </body>
         </text>
         <standOff type="wordsplit" corresp="#NA177">
-<interp type="alignment" select="0">21MR35MG5MG25MG23MG13MG7MG19MG22MG9MGMR19MG28MG4MG22MG5MR5MR3MG2M,285MG</interp>
+<interp type="alignment" select="0">21MR35MG5MG25MG23MG13MG7MG19MG23MG8MGMR19MG28MG4MG22MG5MR5MR3MG2M,285MG</interp>
 <entry>
 <form>parantu</form>
 <def>spread</def>
@@ -311,10 +313,10 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>aṇipa-<c type="geminated">v</c><c type="glide">v</c>ē</form>
+<form><c type="glide">y</c>aṇipa<c type="geminated">v</c>-<c type="glide">v</c>ē</form>
 <def>they adorn</def>
 <form type="simple">aṇipa</form>
-<form type="sandhi"><c type="glide">y</c>aṇipa</form>
+<form type="sandhi"><c type="glide">y</c>aṇipa<c type="geminated">v</c></form>
 <gramGrp>
   <gram type="role">plural</gram>
   <gram type="role">honorific</gram>
