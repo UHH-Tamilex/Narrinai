@@ -1,4 +1,7 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -483,56 +486,67 @@
 </gramGrp>
 </entry>
 </standOff><standOff corresp="#NA320" type="apparatus"><listApp>
-<app loc="0,16">
-        <lem wit="#EN #ETv">viḻavu muḻantaṉṟu</lem>
-        <rdg wit="#G1 #G2">viḻavumuḻat taṉṟu</rdg>
-<rdg wit="#C1">viḻavu mūḻattaṉṟu</rdg>
+<app loc="0,15">
+        <lem wit="#C1 #ER">viḻavu mūḻttaṉṟu</lem>
+        <rdg wit="#EN #ETv">viḻavu muḻantaṉṟu</rdg>
+<rdg wit="#G1 #G2">viḻavumuḻat taṉṟu</rdg>
 <rdg wit="#ET">viḻavu muṭintaṉṟu</rdg>
-<rdg wit="#ER">viḻavu mūḻttaṉṟu</rdg>
         </app>
-<app loc="46,56">
+<app loc="45,55">
         <lem wit="#C1 #G1 #G2 #EN #ER #ETv">leṉṟi yāyiṟ</lem>
         <rdg wit="#ET">leṉṟi rāyiṟ</rdg>
         </app>
-<app loc="56,66">
+<app loc="55,65">
         <lem wit="#C1 #G1 #EN #ER #ET">ṟaḻaiyaṇin</lem>
-        <rdg wit="#G2">ṟalaiyaṇiyaṉ</rdg>
+        <rdg wit="#G2">ṟalaiyaṇiyaṉ</rdg><note xml:lang="en">Faulty.</note>
         </app>
-<app loc="66,75">
+<app loc="65,74">
         <lem wit="#C1 #G1 #G2">talamvaru</lem>
         <rdg wit="#EN #ER #ET">talamaru</rdg>
         </app>
-<app loc="101,113">
+<app loc="100,112">
         <lem wit="#EN #ER">vaṉaittaṟkup</lem>
         <rdg wit="#C1 #G1 #G2">vaḷaittaṟkup</rdg>
 <rdg wit="#ET">vaṇaittiṟkup</rdg>
         </app>
-<app loc="113,121">
+<app loc="112,120">
         <lem wit="#C1 #EN #ER #ET">paḻaviṟa</lem>
-        <rdg wit="#G1 #G2">paḻaviṟk</rdg>
+        <rdg wit="#G1 #G2">paḻaviṟk</rdg><note xml:lang="en">Faulty.</note>
         </app>
-<app loc="131,147">
+<app loc="130,146">
         <lem wit="#C1 #G1 #G2 #EN #ER #ETv">voruperun teruviṟ</lem>
         <rdg wit="#ET">voruperuñ ceruviṟ</rdg>
         </app>
-<app loc="180,194">
+<app loc="179,193">
         <lem wit="#EN #ER #ET">lūrē yataṟkoṇṭu</lem>
-        <rdg wit="#G1 #G2">lūrē yata_koṇṭu C1, lūrey koṇṭu</rdg>
+        <rdg wit="#G1 #G2">lūrē yata_koṇṭu C1, lūrey koṇṭu</rdg><note xml:lang="en">Faulty.</note>
         </app>
-<app loc="210,217">
+<app loc="209,216">
         <lem wit="#EN #ER #ET">yāytoṭi</lem>
-        <rdg wit="#C1 #G1 #G2">māykoṭi</rdg>
+        <rdg wit="#C1 #G1 #G2">māykoṭi</rdg><note xml:lang="en">Faulty.</note>
         </app>
-<app loc="242,250">
+<app loc="241,249">
         <lem wit="#C1 #EN #ER #ET">taṉartaṅ</lem>
-        <rdg wit="#G1 #G2">taṉaṟtaṅ</rdg>
+        <rdg wit="#G1 #G2">taṉaṟtaṅ</rdg><note xml:lang="en">Faulty.</note>
         </app>
-<app loc="260,265">
+<app loc="259,264">
         <lem wit="#C1 #G1 #G2 #EN #ER #ET">kāttē</lem>
         <rdg wit="#ETv">maṟaittē</rdg>
         </app>
 </listApp>
 <listWit>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C1" source="witnesses/C1.xml">
+    <abbr type="siglum">C1</abbr>
+    <expan>palm-leaf manuscript from the UVSL [1076//2234] complete (except NA 234 and NA 385.7f. and from NA 274)</expan>
+    <witness xml:id="C1v">
+      <abbr type="siglum">C1v</abbr>
+      <expan>palm-leaf manuscript from the UVSL [1076//2234] complete (except NA 234 and NA 385.7f. and from NA 274), variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="ER">
+  <abbr type="siglum">ER</abbr>
+  <expan><term xml:lang="ta">Rājam</term>edition 1957 (rep. by NCBH 1981 = 2nd ed.)</expan>
+</witness>
 <witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="EN">
   <abbr type="siglum">EN</abbr>
   <expan><term xml:lang="ta">Nārāyaṇacāmi Aiyar</term>edition 1915 (rep. by Kaḻakam 1952, rev.ed. 1967 = 4th ed.)</expan>
@@ -577,16 +591,4 @@
       <expan>paper manuscript from GOML [TR 1064/R 5743]: identical with G1, variant reading</expan>
     </witness>
   </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C1" source="witnesses/C1.xml">
-    <abbr type="siglum">C1</abbr>
-    <expan>palm-leaf manuscript from the UVSL [1076//2234] complete (except NA 234 and NA 385.7f. and from NA 274)</expan>
-    <witness xml:id="C1v">
-      <abbr type="siglum">C1v</abbr>
-      <expan>palm-leaf manuscript from the UVSL [1076//2234] complete (except NA 234 and NA 385.7f. and from NA 274), variant reading</expan>
-    </witness>
-  </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="ER">
-  <abbr type="siglum">ER</abbr>
-  <expan><term xml:lang="ta">Rājam</term>edition 1957 (rep. by NCBH 1981 = 2nd ed.)</expan>
-</witness>
 </listWit></standOff></TEI>
