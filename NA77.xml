@@ -598,4 +598,124 @@
   <gram type="role">perfective aspect</gram>
 </gramGrp>
 </entry>
-</standOff></TEI>
+</standOff><standOff corresp="#NA77" type="apparatus"><listApp>
+<app loc="0,15">
+        <lem wit="#corr">malaiya māvūrntu</lem>
+        <rdg wit="#C1 #G1 #G2 #EN">malaiyamā vūrntu</rdg>
+<rdg wit="#ER #ET">malaiyaṉ māvūrntu</rdg>
+        </app>
+<app loc="37,45">
+        <lem wit="#C1 #EN #ER #ET">kaṟaṅkap</lem>
+        <rdg wit="#G1 #G2">karaṅkap</rdg>
+        </app>
+<app loc="78,102">
+        <lem wit="#EN #ER #ETv">yayarvuyirt  tāaṅ
+kuyttaṉṟu</lem>
+        <rdg wit="#VP">yayāvuyirt tāaṅ</rdg>
+<rdg wit="#ET">yayāvoḻit tāaṅ
+kuyttaṉṟu</rdg>
+<rdg wit="#C1 #G1 #G2">yayarvuyirt tāṅku
+muyttaṉṟu</rdg>
+        </app>
+<app loc="112,119">
+        <lem wit="#G1 #G2 #EN #ER #ET">cevvērc</lem>
+        <rdg wit="#C1">vvērc</rdg>
+        </app>
+<app loc="129,151">
+        <lem wit="#EN #ER #ETEV">tūṅkum payaṅkeḻu palaviṉ</lem>
+        <rdg wit="#C1 #G1 #G2">tūṅku mayaṅkeḻu pulaviṉ</rdg>
+        </app>
+<app loc="167,175">
+        <lem wit="#EN #ER">maṉaiyōḷ</lem>
+        <rdg wit="#C1 #G1 #G2">maṉaiyeḷ</rdg>
+        </app>
+<app loc="180,187">
+        <lem wit="#C1 #G1 #G2 #EN #ER #ETv">loliveḷ</lem>
+        <rdg wit="#ET">loḷiṟuveḷ</rdg>
+        </app>
+<app loc="205,212">
+        <lem wit="#C1 #G1 #G2 #EN #ET">mūralañ</lem>
+        <rdg wit="#ER">mūṟalañ</rdg>
+        </app>
+<app loc="212,217">
+        <lem wit="#C1 #EN #ER #ET">cēric</lem>
+        <rdg wit="#lacunaeinG1 #lacunaeinG2"/>
+        </app>
+<app loc="228,269">
+        <lem wit="#EN #ER">vāḷaram poruta kōṇē relvaḷai
+yakaṉṟoṭi ceṟitta</lem>
+        <rdg wit="#C1">va<gap reason="lost" quantity="3" unit="character"/>ram poruta ka<gap reason="lost" quantity="3" unit="character"/> <gap reason="lost" quantity="2" unit="character"/>vaḷai
+yakaṉṟoṭi ceṟitta</rdg>
+<rdg wit="#G1 #G2">vāḷaram poruta kōṇrel vaḷaiyakaṉ
+ṟoṭicerī (ṟoṭiceri) ṟitta</rdg>
+        </app>
+<app loc="275,305">
+        <lem wit="# #G1 #G2 #EN #ER #ETv">yoṇṇutaṟ
+ṟitalai yalkuṟ kuṟumakaḷ</lem>
+        <rdg wit="#C1">kuṟumakaṉ</rdg>
+<rdg wit="#ET">kuṟumaka
+ḷavvi ṉakaṉṟa valkuṟ</rdg>
+        </app>
+<app loc="312,318">
+        <lem wit="#C1 #EN #ER #ET">yuṇkaṇ</lem>
+        <rdg wit="#G1 #G2">ṇkaṇ</rdg>
+        </app>
+</listApp>
+<listWit>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C1" source="witnesses/C1.xml">
+    <abbr type="siglum">C1</abbr>
+    <expan>palm-leaf manuscript from the UVSL [1076//2234] complete (except NA 234 and NA 385.7f. and from NA 274)</expan>
+    <witness xml:id="C1v">
+      <abbr type="siglum">C1v</abbr>
+      <expan>palm-leaf manuscript from the UVSL [1076//2234] complete (except NA 234 and NA 385.7f. and from NA 274), variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G1" source="witnesses/G1.xml">
+    <abbr type="siglum"/>
+    <expan>paper manuscript from GOML [PS 67/D 231]</expan>
+    <witness xml:id="G1v">
+      <abbr type="siglum">G1v</abbr>
+      <expan>paper manuscript from GOML [PS 67/D 231], variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G2" source="witnesses/G2.xml">
+    <abbr type="siglum"/>
+    <expan>paper manuscript from  GOML [TR 1064/R 5743]: identical with G1</expan>
+    <witness xml:id="G2v">
+      <abbr type="siglum">G2v</abbr>
+      <expan>paper manuscript from GOML [TR 1064/R 5743]: identical with G1, variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="EN">
+  <abbr type="siglum">EN</abbr>
+  <expan><term xml:lang="ta">Nārāyaṇacāmi Aiyar</term>edition 1915 (rep. by Kaḻakam 1952, rev.ed. 1967 = 4th ed.)</expan>
+  <witness xml:id="ENv">
+    <abbr type="siglum">ENv</abbr>
+    <expan><term xml:lang="ta">Nārāyaṇacāmi Aiyar</term>edition 1915 (rep. by Kaḻakam 1952, rev.ed. 1967 = 4th ed.), variant reading</expan>
+  </witness>
+</witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="ER">
+  <abbr type="siglum">ER</abbr>
+  <expan><term xml:lang="ta">Rājam</term>edition 1957 (rep. by NCBH 1981 = 2nd ed.)</expan>
+</witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="ET">
+  <abbr type="siglum">ET</abbr>
+  <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.)</expan>
+  <witness xml:id="ETv">
+    <abbr type="siglum">ETv</abbr>
+    <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.), variant reading</expan>
+  </witness>
+    <witness xml:id="ETv2">
+    <abbr type="siglum">ETv2</abbr>
+    <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.), variant reading</expan>
+  </witness>
+   <witness xml:id="ETv3">
+    <abbr type="siglum">ETv3</abbr>
+    <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.), variant reading</expan>
+  </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="VP">
+  <abbr type="siglum">VP</abbr>
+  <expan><term xml:lang="ta">Vaiyāpuri Piḷḷai</term>edition 1940 (Caṅka Ilakkiyam)</expan>
+</witness>
+</listWit></standOff></TEI>

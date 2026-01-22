@@ -501,4 +501,41 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-    </TEI>
+    <standOff corresp="#NA234" type="apparatus"><listApp>
+<app loc="14,22">
+        <lem wit="#Il #Nacc">ḷellaiyu</lem>
+        <rdg wit="#Nakk">ḷelliyu</rdg>
+        </app>
+<app loc="39,59">
+        <lem wit="#Il">yākali ṉataṟkeyta nāṇi</lem>
+        <rdg wit="#Nacc">yākaliṟ kiḷatta ṉāṇi</rdg>
+<rdg wit="#Nakk">yākaliṟ kiḻatti ṉāṇi</rdg>
+        </app>
+<app loc="101,114">
+        <lem wit="#Il #Nacc">kaḷaiyā yōveṉa</lem>
+        <rdg wit="#Nakk">kaḷaimā yōyeṉa</rdg>
+        </app>
+<app loc="206,214">
+        <lem wit="#Nakk">malaiyaṅ</lem>
+        <rdg wit="#Il">malayaṅ</rdg>
+<rdg wit="#Nacc">ṉamalaiyaṅ</rdg>
+        </app>
+<app loc="223,249">
+        <lem wit="#Il #Nacc">tuñcupuli varippuṟan taivaru</lem>
+        <rdg wit="#Nakk">tuñcu pulivarip puṟantaivaru</rdg>
+        </app>
+</listApp>
+<listWit>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="Il">
+  <abbr type="siglum">Il</abbr>
+  <expan><term xml:lang="ta">Iḷampūraṇar</term> on <term> Tolkāppiyam  Eḻuttu, Col </term> and <term> Poruḷ</term></expan>
+</witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="Nacc">
+  <abbr type="siglum">Nacc</abbr>
+  <expan><term xml:lang="ta">Nacciṉākkiṉiyar on Tolkāppiyam  Eḻuttu, Col</term> and <term> Poruḷ</term></expan>
+</witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="Nakk">
+  <abbr type="siglum">Nakk</abbr>
+  <expan><term xml:lang="ta">Nakkīraṉ</term> on the <term> Iṟaiyaṉār Akapporuḷ, Kaḻakam</term> edition</expan>
+</witness>
+</listWit></standOff></TEI>

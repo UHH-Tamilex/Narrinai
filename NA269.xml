@@ -1,4 +1,7 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -60,7 +63,7 @@
     </body>
     </text>
     <standOff type="wordsplit" corresp="#NA269">
-<interp type="alignment" select="0">71MG6MG3MG13MG16ML46MG19MG5MG10MG64M,261MG</interp>
+<interp type="alignment" select="0">71MG6MG3MG13MG16ML46MG19MG5MG10MG61MG3M,262MG</interp>
 <entry>
 <form>kurumpai</form>
 <def>unripe nut</def>
@@ -412,7 +415,7 @@
 <def>traverse-he</def>
 <gramGrp>
   <gram type="role">participial noun</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
 </gramGrp>
@@ -421,7 +424,7 @@
 <form>aṟivār</form>
 <def>he-knows</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
 </gramGrp>
@@ -443,13 +446,16 @@
 </gramGrp>
 </entry>
 <entry>
-<form>muṉṉiya<c type="geminated">v</c><c type="glide">v</c>ē</form>
+<form>muṉṉiya<c type="geminated">v</c>-<c type="glide">v</c>ē</form>
 <def>approached-they</def>
+<form type="simple">muṉṉiya</form>
+<form type="sandhi">muṉṉiya<c type="geminated">v</c></form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">neuter plural</gram>
   <gram type="role">perfective aspect</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
     <standOff corresp="#NA269-kiḷavi" type="wordsplit">

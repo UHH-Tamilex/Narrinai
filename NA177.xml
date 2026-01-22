@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -61,7 +63,7 @@
           </body>
         </text>
         <standOff type="wordsplit" corresp="#NA177">
-<interp type="alignment" select="0">21MR35MG5MG25MG23MG13MG7MG19MG22MG9MGMR19MG28MG4MG22MG5MR5MR3MG2M,285MG</interp>
+<interp type="alignment" select="0">21MR35MG5MG25MG23MG13MG7MG19MG23MG8MGMR19MG28MG4MG22MG5MR5MR3MG2M,285MG</interp>
 <entry>
 <form>parantu</form>
 <def>spread</def>
@@ -224,7 +226,7 @@
 <form>kaṇṭiciṉ</form>
 <def>I see</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">singular</gram>
   <gram type="role">first person</gram>
 </gramGrp>
@@ -274,7 +276,7 @@
 <form>tuṭaippa</form>
 <def>they wipe off</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">plural</gram>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
@@ -311,10 +313,10 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>aṇipa-<c type="geminated">v</c><c type="glide">v</c>ē</form>
+<form><c type="glide">y</c>aṇipa<c type="geminated">v</c>-<c type="glide">v</c>ē</form>
 <def>they adorn</def>
 <form type="simple">aṇipa</form>
-<form type="sandhi"><c type="glide">y</c>aṇipa</form>
+<form type="sandhi"><c type="glide">y</c>aṇipa<c type="geminated">v</c></form>
 <gramGrp>
   <gram type="role">plural</gram>
   <gram type="role">honorific</gram>
@@ -351,7 +353,7 @@
 <form><c type="glide">v</c>aḷippa</form>
 <def>they take care</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">plural</gram>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
@@ -537,4 +539,95 @@
   <gram type="role">perfective aspect</gram>
 </gramGrp>
 </entry>
-</standOff></TEI>
+</standOff><standOff corresp="#NA177" type="apparatus"><listApp>
+<app loc="27,34">
+        <lem wit="#C1 #EN #ER #ET">marantī</lem>
+        <rdg wit="#G1 #G2">mānti</rdg>
+        </app>
+<app loc="39,49">
+        <lem wit="#C1 #G1 #G2 #EN #ER #ETv">makiḻtalai</lem>
+        <rdg wit="#ET">vaṟuntalai</rdg>
+        </app>
+<app loc="133,141">
+        <lem wit="#EN #ER #ET">tuṭaippa</lem>
+        <rdg wit="#C1 #G1 #G2">tuṭaippap</rdg>
+        </app>
+<app loc="168,173">
+        <lem wit="#EN #ER #ET">pavvē</lem>
+        <rdg wit="#C1 #G1 #G2">palavē</rdg>
+        </app>
+<app loc="173,180">
+        <lem wit="#C1 #G1 #G2">peṇṭiṉu</lem>
+        <rdg wit="#EN #ER #ET">paṇṭiṉu</rdg>
+        </app>
+<app loc="195,201">
+        <lem wit="#C1 #G1 #G2 #EN #ER #ET">viṉiyē</lem>
+        <rdg wit="#ETv">kaṇṭiciṉ</rdg>
+        </app>
+<app loc="245,253">
+        <lem wit="#C1 #EN #ER #ET">yaḻitaru</lem>
+        <rdg wit="#G1 #G2">yaḻitanī</rdg>
+        </app>
+<app loc="258,263">
+        <lem wit="#G1 #G2 #EN #ER #ET">nīntu</lem>
+        <rdg wit="#C1">nīratu</rdg>
+        </app>
+<app loc="263,267">
+        <lem wit="#G1 #G2 #EN #ER #ET">nāḷē</lem>
+        <rdg wit="#ETv">mannāḷē</rdg>
+        </app>
+</listApp>
+<listWit>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C1" source="witnesses/C1.xml">
+    <abbr type="siglum">C1</abbr>
+    <expan>palm-leaf manuscript from the UVSL [1076//2234] complete (except NA 234 and NA 385.7f. and from NA 274)</expan>
+    <witness xml:id="C1v">
+      <abbr type="siglum">C1v</abbr>
+      <expan>palm-leaf manuscript from the UVSL [1076//2234] complete (except NA 234 and NA 385.7f. and from NA 274), variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="EN">
+  <abbr type="siglum">EN</abbr>
+  <expan><term xml:lang="ta">Nārāyaṇacāmi Aiyar</term>edition 1915 (rep. by Kaḻakam 1952, rev.ed. 1967 = 4th ed.)</expan>
+  <witness xml:id="ENv">
+    <abbr type="siglum">ENv</abbr>
+    <expan><term xml:lang="ta">Nārāyaṇacāmi Aiyar</term>edition 1915 (rep. by Kaḻakam 1952, rev.ed. 1967 = 4th ed.), variant reading</expan>
+  </witness>
+</witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="ER">
+  <abbr type="siglum">ER</abbr>
+  <expan><term xml:lang="ta">Rājam</term>edition 1957 (rep. by NCBH 1981 = 2nd ed.)</expan>
+</witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="ET">
+  <abbr type="siglum">ET</abbr>
+  <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.)</expan>
+  <witness xml:id="ETv">
+    <abbr type="siglum">ETv</abbr>
+    <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.), variant reading</expan>
+  </witness>
+    <witness xml:id="ETv2">
+    <abbr type="siglum">ETv2</abbr>
+    <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.), variant reading</expan>
+  </witness>
+   <witness xml:id="ETv3">
+    <abbr type="siglum">ETv3</abbr>
+    <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.), variant reading</expan>
+  </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G1" source="witnesses/G1.xml">
+    <abbr type="siglum"/>
+    <expan>paper manuscript from GOML [PS 67/D 231]</expan>
+    <witness xml:id="G1v">
+      <abbr type="siglum">G1v</abbr>
+      <expan>paper manuscript from GOML [PS 67/D 231], variant reading</expan>
+    </witness>
+  </witness>
+<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G2" source="witnesses/G2.xml">
+    <abbr type="siglum"/>
+    <expan>paper manuscript from  GOML [TR 1064/R 5743]: identical with G1</expan>
+    <witness xml:id="G2v">
+      <abbr type="siglum">G2v</abbr>
+      <expan>paper manuscript from GOML [TR 1064/R 5743]: identical with G1, variant reading</expan>
+    </witness>
+  </witness>
+</listWit></standOff></TEI>
