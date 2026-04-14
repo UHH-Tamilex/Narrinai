@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -55,7 +57,7 @@
 <l rend="indent3">thick big cooked rice, in stained(?), sharp grains,</l>
 <l rend="indent3">with the sauce of the plentiful flesh of the black-eyed murrel,</l>
 <l rend="indent2">if you, having fed copiously, go with your planters,</l>
-<l rend="indent">who have put down fragrant bundles in the water-rich fields,</l>
+<l rend="indent">who have put down fragrant/sprouting<note>There is a direct parallel in Perumpāṇāṟṟuppaṭai 212 (muṭi nāṟ’ aḻuttiya neṭu nīr ceruviṉ). Together this suggests an additional rare meaning of nāṟutal, “to sprout”, without further parallels in the early corpus.</note> seedling bundles in the water-rich fields,</l>
 <l>beware of [hurting] the blue waterlilies that are widely emaciated<note place="foot">T.V.G. takes <term xml:lang="ta">cāy</term> as referring to a kind of grass used by girls to fashion dolls, which is not backed up by the lexica (see however KT 276.2 for <term xml:lang="ta">pañcāy</term>). So then it would be Cāy grass and Neytal flowers that should not be weeded.</note>.</l>
 <l>In our house they do adorn, in union with shining bangles,</l>
 <l rend="indent3">the girls with long dark tresses.</l>
@@ -165,8 +167,9 @@
 </entry>
 <entry>
 <form>miḷirvaiyoṭu</form>
-<def>sauce-with(?)</def>
+<def>sauce</def>
 <gramGrp>
+  <gram type="role">sociative</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -232,12 +235,12 @@
 </entry>
 <entry>
 <form>nāṟu</form>
-<def>be-fragrant-</def>
+<def>be-fragrant/sprout</def>
 <form type="sandhi">ṉāṟu</form>
 </entry>
 <entry>
 <form>muṭi</form>
-<def>bundle</def>
+<def>seedling-bundle</def>
 </entry>
 <entry>
 <form><c type="glide">y</c>aḻutta</form>
@@ -267,7 +270,6 @@
 <form>cēṟi</form>
 <def>you-go</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
 </gramGrp>
 </entry>
 <entry>
