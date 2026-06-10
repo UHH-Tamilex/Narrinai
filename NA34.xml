@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -235,16 +237,16 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>iṉ<c type="geminated">ṉ</c></form>
+<form><c type="glide">y</c>iṉ</form>
 <def>pleasing</def>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>iyatt<c type="elided">u</c></form>
+<form><c type="geminated">ṉ</c>iyatt<c type="elided">u</c></form>
 <def>sound</def>
-<form type="sandhi">iyatt</form>
+<form type="sandhi"><c type="geminated">ṉ</c>iyatt</form>
 <gramGrp>
   <gram type="role">oblique</gram>
 </gramGrp>
@@ -316,7 +318,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>niṉ<c type="geminated">ṉ</c></form>
+<form>niṉ</form>
 <def>you</def>
 <gramGrp>
   <gram type="role">oblique</gram>
@@ -325,9 +327,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>aṇaṅk<c type="elided">u</c></form>
+<form><c type="geminated">ṉ</c>aṇaṅk<c type="elided">u</c></form>
 <def>torment</def>
-<form type="sandhi">aṇaṅk</form>
+<form type="sandhi"><c type="geminated">ṉ</c>aṇaṅk</form>
 <gramGrp>
   <gram type="role">root noun</gram>
 </gramGrp>
@@ -453,7 +455,7 @@
 <form>āka</form>
 <def>become</def>
 <gramGrp>
-  <gram type="role">infinitive</gram>
+  <gram type="role">optative</gram>
 </gramGrp>
 </entry>
 <entry>
