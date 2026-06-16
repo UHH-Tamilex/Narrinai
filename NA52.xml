@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -68,7 +70,7 @@
           </body>
             </text>
             <standOff type="wordsplit" corresp="#NA52">
-<interp type="alignment" select="0">35MG37ML17MG25MG12ML10MR2MG25MG8MG17M2G9MG6MG15M2G47MG4MG5MG2M2G20MG2M,318MG</interp>
+<interp type="alignment" select="0">35MG37ML17MG25MG12ML10MR2MG25MG8MG17MG9MG6MG15M2G47MG4MG5MG2M2G20MG2M,317MG</interp>
 <entry>
 <form>mā<c type="geminated">k</c></form>
 <def>big</def>
@@ -341,22 +343,40 @@
 </entry>
 <superEntry type="ambiguous">
 <entry><entry>
-<form>purint<c type="elided">u</c>ǀamaiyalai-<c type="glide">y</c>ē</form>
-<def>desired(abs.)ǀyou are not quiet(neg.2.sg.)</def>
-<form type="simple">purintuǀamaiyalai</form>
-<form type="sandhi">purintamaiyalai</form>
+<form>purint<c type="elided">u</c></form>
+<def>desired</def>
+<form type="sandhi">purint</form>
 <gramGrp>
   <gram type="role">absolutive</gram>
+</gramGrp>
+</entry><entry>
+<form>amaiyalai-<c type="glide">y</c>ē</form>
+<def>you are not quiet</def>
+<form type="simple">amaiyalai</form>
+<gramGrp>
+  <gram type="role">negative</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry></entry>
 <entry><entry>
-<form>purintaǀmaiyalai-<c type="glide"/>ē</form>
-<def>desired(pey.p.a.)ǀconfusion-you(pron.n.sg.2.)</def>
-<form type="simple">purintaǀmaiyalai</form>
-<form type="sandhi">purintamaiyal</form>
+<form>purinta</form>
+<def>desired</def>
+<form type="sandhi">purint</form>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry><entry>
+<form>maiyalai-<c type="glide"/>ē</form>
+<def>confusion-you</def>
+<form type="simple">maiyalai</form>
+<form type="sandhi">amaiyal</form>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry></entry>
@@ -381,7 +401,6 @@
 <form>vāḻi</form>
 <def>live-you</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>
 </gramGrp>
