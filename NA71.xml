@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -66,7 +68,7 @@
           </body>
             </text>
             <standOff type="wordsplit" corresp="#NA71">
-<interp type="alignment" select="0">55MG45MG13MG4MG2MR5MGMR25MG99ML2ML41MG3MG3M,309MG</interp>
+<interp type="alignment" select="0">55MG45MG13MG4MG2MR5MGMR25MG30MG69ML2ML41MG3MG3M,310MG</interp>
 <entry>
 <form>maṉṉā<c type="geminated">p</c></form>
 <def>last-not</def>
@@ -126,7 +128,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>niṉ<c type="geminated">ṉ</c></form>
+<form>niṉ</form>
 <def>your</def>
 <gramGrp>
   <gram type="role">oblique</gram>
@@ -135,9 +137,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>ikuḷaikk<c type="elided">u</c></form>
+<form><c type="geminated">ṉ</c>ikuḷaikk<c type="elided">u</c></form>
 <def>friend</def>
-<form type="sandhi">ikuḷaikk</form>
+<form type="sandhi"><c type="geminated">ṉ</c>ikuḷaikk</form>
 <gramGrp>
   <gram type="role">dative</gram>
 </gramGrp>
@@ -332,15 +334,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form>akam</form>
+<form>aka<c type="uncertain">m</c></form>
 <def>inside</def>
-<form type="sandhi">akav</form>
+<form type="sandhi">aka</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>iṟai</form>
+<form><c type="glide">v</c>iṟai</form>
 <def>seat</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -354,9 +356,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>vaṇṇam</form>
+<form>vaṇṇa<c type="geminated">p</c></form>
 <def>colour</def>
-<form type="sandhi">vaṇṇap</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
