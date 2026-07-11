@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -81,11 +83,12 @@
 <def>not-they</def>
 <gramGrp>
   <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>muyalum</form>
-<def>exerting-</def>
+<def>exerting</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
@@ -106,7 +109,10 @@
 </entry>
 <entry>
 <form>vaḻipaṭu</form>
-<def>set-out-</def>
+<def>set-out</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>teyvam</form>
@@ -126,10 +132,11 @@
 </entry>
 <entry>
 <form>kaṇṭāaṅk<c type="elided">u</c></form>
-<def>seen</def>
+<def>seen-like</def>
 <form type="sandhi">kaṇṭāaṅk</form>
 <gramGrp>
   <gram type="role">comparative</gram>
+  <gram type="role">absolutive</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -163,7 +170,7 @@
 </entry>
 <entry>
 <form>niṉ</form>
-<def>your-</def>
+<def>your</def>
 <gramGrp>
   <gram type="role">oblique</gram>
 </gramGrp>
@@ -200,7 +207,7 @@
 </entry>
 <entry>
 <form>eytiṉam</form>
-<def>we-reached</def>
+<def>we reached</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
   <gram type="role">plural</gram>
@@ -216,7 +223,7 @@
 </entry>
 <entry>
 <form>pori<c type="geminated">p</c></form>
-<def>be-parched-</def>
+<def>be-parched</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -230,7 +237,7 @@
 </entry>
 <entry>
 <form>puṉkiṉ</form>
-<def>Puṉku-tree</def>
+<def>Puṉku tree</def>
 <gramGrp>
   <gram type="role">oblique</gram>
 </gramGrp>
@@ -268,7 +275,7 @@
 </entry>
 <entry>
 <form>cuṇaṅk<c type="elided">u</c></form>
-<def>yellow-spot</def>
+<def>yellow spot</def>
 <form type="sandhi">cuṇaṅk</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -276,7 +283,7 @@
 </entry>
 <entry>
 <form>aṇi</form>
-<def>adorn-</def>
+<def>adorn</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -326,6 +333,9 @@
 <entry>
 <form>kāṇ</form>
 <def>see</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>tōṟum</form>
@@ -340,6 +350,7 @@
 <def>long</def>
 <gramGrp>
   <gram type="role">neuter plural</gram>
+  <gram type="role">adverb</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -359,6 +370,9 @@
 <entry>
 <form>kāṇ</form>
 <def>see</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>tōṟum</form>
@@ -418,13 +432,22 @@
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
-<entry>
+<superEntry type="ambiguous">
+<entry><entry>
 <form>mā</form>
-<def>big/mango-tree</def>
+<def>big</def>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
-</entry>
+</entry></entry>
+<entry><entry>
+<form>mā</form>
+<def>mango tree</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry></entry>
+</superEntry>
 <entry>
 <form>naṉai</form>
 <def>bud</def>
@@ -434,7 +457,7 @@
 </entry>
 <entry>
 <form>koḻuti</form>
-<def>picked</def>
+<def>pecked</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
@@ -455,7 +478,7 @@
 </entry>
 <entry>
 <form>ālum</form>
-<def>dancing-</def>
+<def>dancing</def>
 <form type="sandhi">ālun</form>
 <gramGrp>
   <gram type="role">peyareccam</gram>
@@ -509,6 +532,7 @@
 <form>ūra</form>
 <def>village-they</def>
 <gramGrp>
+  <gram type="role">pronominalised noun</gram>
   <gram type="role">neuter plural</gram>
 </gramGrp>
 </entry>
@@ -523,7 +547,7 @@
 </entry>
 <entry>
 <form>cellum</form>
-<def>going-</def>
+<def>going</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
