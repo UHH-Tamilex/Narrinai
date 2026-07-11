@@ -1,4 +1,7 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -120,14 +123,15 @@
 </entry>
 <entry>
 <form>tāḻai</form>
-<def>Tāḻai tree</def>
+<def>srewpine tree</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>vāṉ</form>
-<def>sky</def>
+<form>vāl</form>
+<def>white</def>
+<form type="sandhi">vāṉ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -217,7 +221,7 @@
 </entry>
 <entry>
 <form>tāam</form>
-<def>spreading-</def>
+<def>spreading</def>
 <form type="sandhi">ṟāaṅ</form>
 <gramGrp>
   <gram type="role">peyareccam</gram>
@@ -298,7 +302,6 @@
 <def>know-we</def>
 <form type="simple">aṟitum</form>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
   <gram type="role">plural</gram>
   <gram type="role">first person</gram>
 </gramGrp>
@@ -306,14 +309,14 @@
 </entry>
 <entry>
 <form>vil</form>
-<def>tool</def>
+<def>bow</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form><c type="geminated">l</c>eṟi</form>
-<def>throw</def>
+<def>beat</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
