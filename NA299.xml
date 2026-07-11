@@ -1,7 +1,4 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -50,12 +47,12 @@
 <l>See him, more than(?) the loneliness in [our] desirable small hamlet,</l>
 <l rend="indent">where, as the bracelets of women with glowing jewels, the fine pollen</l>
 <l rend="indent">spreads, when [the wind] lifts the glittering big white Malabar lilies</l>
-<l rend="indent2">on the sky bushes by the Tāḻai trees that opened [their] dense fetters,</l>
+<l rend="indent2">on the white bushes by the screwpine trees that opened [their] dense outer petals,</l>
 <l rend="indent3">as garments worn by beautiful elephants,</l>
 <l>– did we really know we would become nothing</l>
 <l rend="indent">before we laughed with the man from the coast of the vast sea,</l>
 <l rend="indent2">where glowing spray foams as the wind dashes at</l>
-<l rend="indent3">the increasing waves, as cotton cleaned by an instrument<note place="foot">For a possible parallel of the cleaning of cotton with the help of an instrument see also NA 247.4 <term xml:lang="ta">eḵku uṟu pañciṟṟu</term>, where T.V.G. explains <term xml:lang="ta">eḵku</term> to be such an instrument (see, however, translation).</note>?</l>
+<l rend="indent3">the increasing waves, like cotton batted by an instrument<note place="foot">For a formulaic parallel of the batting of cotton with the help of an instrument called "vil" see also AN 133.6, for a slightly different expression see NA 2473f. <term xml:lang="ta">eḵku uṟu pañciṟṟu</term>, where T.V.G. explains <term xml:lang="ta">eḵku</term> to be such an instrument (see, however, translation).</note>?</l>
         </lg>
       </div>
     </body>
@@ -123,15 +120,14 @@
 </entry>
 <entry>
 <form>tāḻai</form>
-<def>srewpine tree</def>
+<def>Tāḻai tree</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>vāl</form>
-<def>white</def>
-<form type="sandhi">vāṉ</form>
+<form>vāṉ</form>
+<def>sky</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -221,7 +217,7 @@
 </entry>
 <entry>
 <form>tāam</form>
-<def>spreading</def>
+<def>spreading-</def>
 <form type="sandhi">ṟāaṅ</form>
 <gramGrp>
   <gram type="role">peyareccam</gram>
@@ -302,6 +298,7 @@
 <def>know-we</def>
 <form type="simple">aṟitum</form>
 <gramGrp>
+  <gram type="role">subjuntive</gram>
   <gram type="role">plural</gram>
   <gram type="role">first person</gram>
 </gramGrp>
@@ -309,14 +306,14 @@
 </entry>
 <entry>
 <form>vil</form>
-<def>bow</def>
+<def>tool</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form><c type="geminated">l</c>eṟi</form>
-<def>beat</def>
+<def>throw</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
