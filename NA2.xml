@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -287,7 +289,7 @@
 </entry>
 <entry>
 <form>īṅkaiya</form>
-<def>Īṅkai tree</def>
+<def>mimosa</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -334,16 +336,16 @@
 </gramGrp>
 </entry>
 <entry>
-<form>muṉ<c type="geminated">ṉ</c></form>
+<form>muṉ</form>
 <def>in-front</def>
 <gramGrp>
   <gram type="role">adverb</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>uṟṟ<c type="elided">u</c></form>
+<form><c type="geminated">ṉ</c>uṟṟ<c type="elided">u</c></form>
 <def>had</def>
-<form type="sandhi">uṟṟ</form>
+<form type="sandhi"><c type="geminated">ṉ</c>uṟṟ</form>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
@@ -423,7 +425,7 @@
 </entry>
 <entry>
 <form>miḷirkkum</form>
-<def>upsetting-</def>
+<def>upsetting</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
