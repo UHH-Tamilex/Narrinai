@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -62,7 +64,7 @@
           </body>
             </text>
             <standOff type="wordsplit" corresp="#NA13">
-<interp type="alignment" select="0">15ML34MG56ML14MG68MG5MG35MG3M,236MG</interp>
+<interp type="alignment" select="0">15ML19MG15MG56ML14MG68MG5MG35MG3M,237MG</interp>
 <entry>
 <form>eḻāay</form>
 <def>rise-not-you</def>
@@ -103,12 +105,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">v</c>aḻāatīmō</form>
+<form><c type="glide">v</c>aḻāatīm-ō</form>
 <def>don't-cry</def>
+<form type="simple">aḻāatīm</form>
+<form type="sandhi"><c type="glide">v</c>aḻāatīm</form>
 <gramGrp>
   <gram type="role">imperative</gram>
   <gram type="role">negative</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
 </entry>
 <entry>
 <form>notumalar</form>
@@ -302,7 +307,7 @@
 </entry>
 <entry>
 <form><c type="glide">y</c>ukum</form>
-<def>being-shed-</def>
+<def>being-shed</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
@@ -369,7 +374,7 @@
 </entry>
 <entry>
 <form>kavarum</form>
-<def>seizing-</def>
+<def>seizing</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
