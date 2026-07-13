@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -67,7 +69,7 @@
           </body>
             </text>
             <standOff type="wordsplit" corresp="#NA24">
-<interp type="alignment" select="0">29MG5MG29MG18MG14MG40MG9MR24MG25MG28MG25M2G2M,259MG</interp>
+<interp type="alignment" select="0">29MG5MG29MG18MG14MG38MG2MG9MR24MG25MG28MG25M2G2M,260MG</interp>
 <entry>
 <form>pār</form>
 <def>rock</def>
@@ -166,7 +168,7 @@
 </entry>
 <entry>
 <form>oḻi</form>
-<def>stay-behind-</def>
+<def>stay-behind</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -232,7 +234,7 @@
 </entry>
 <entry>
 <form>tāam</form>
-<def>spreading-</def>
+<def>spreading</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
@@ -259,8 +261,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>nāṭṭ</form>
+<form>nāṭṭ<c type="elided">u</c></form>
 <def>land</def>
+<form type="sandhi">nāṭṭ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
 </gramGrp>
@@ -282,7 +285,7 @@
 <def>go-we</def>
 <form type="sandhi">cēṟun</form>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
+  <gram type="role">subjunctive</gram>
   <gram type="role">plural</gram>
   <gram type="role">first person</gram>
 </gramGrp>
@@ -377,7 +380,7 @@
 </entry>
 <entry>
 <form>paṭu</form>
-<def>happen-</def>
+<def>happen</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -391,7 +394,7 @@
 </entry>
 <entry>
 <form>cey</form>
-<def>make-</def>
+<def>make</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -416,7 +419,7 @@
 </entry>
 <entry>
 <form>āṭavar</form>
-<def>man</def>
+<def>men</def>
 <gramGrp>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>

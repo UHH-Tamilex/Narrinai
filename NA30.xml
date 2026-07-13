@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +71,7 @@
           </body>
             </text>
             <standOff type="wordsplit" corresp="#NA30">
-<interp type="alignment" select="0">19MG8M2G17MG38MG123M2G57M5G9MG3M,286MG</interp>
+<interp type="alignment" select="0">19MG8M2G17MG161M2G57MG9MG3M,281MG</interp>
 <entry>
 <form>kaṇṭaṉeṉ</form>
 <def>I saw</def>
@@ -107,7 +109,7 @@
 <form type="simple">ceyku</form>
 <form type="sandhi">ceyk</form>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
+  <gram type="role">subjunctive</gram>
   <gram type="role">singular</gram>
   <gram type="role">first person</gram>
 </gramGrp>
@@ -175,7 +177,7 @@
 </entry>
 <entry>
 <form>immeṉa</form>
-<def>'im'-say(if.inf.adv.)</def>
+<def>'im'-say(id.inf.adv.)</def>
 <gramGrp>
   <gram type="role">adverb</gram>
   <gram type="role">infinitive</gram>
@@ -184,15 +186,14 @@
 </entry>
 <entry>
 <form><c type="glide">v</c>imirum</form>
-<def>sounding-</def>
+<def>sounding</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>ēr-</form>
+<form>ēr</form>
 <def>rise</def>
-<form type="sandhi">ēr</form>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -273,7 +274,7 @@
 </entry>
 <entry>
 <form>kaval</form>
-<def>guarding</def>
+<def>distress</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -313,7 +314,7 @@
 <form>ari<c type="geminated">p</c></form>
 <def>itch</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -452,41 +453,24 @@
   <gram type="role">infinitive</gram>
 </gramGrp>
 </entry>
-<entry>
-<form>niṉ</form>
-<def>your</def>
-<gramGrp>
-  <gram type="role">oblique</gram>
-  <gram type="role">singular</gram>
-  <gram type="role">second person</gram>
-</gramGrp>
-</entry>
 <superEntry type="ambiguous">
 <entry><entry>
-<form>tūṅk<c type="elided">u</c></form>
-<def>hang</def>
-<form type="sandhi">ṟūṅk</form>
+<form>niṉ tūṅk<c type="elided">u</c></form>
+<def>your(obl.|sg.|2.) hang</def>
+<form type="sandhi">niṉṟūṅk</form>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
 </entry></entry>
 <entry><entry>
-<form>niṉṟ<c type="elided">u</c></form>
-<def>stood</def>
-<form type="sandhi">ṟūṅk</form>
+<form>niṉṟ<c type="elided">u</c> ūṅk*</form>
+<def>stood(abs.) swing</def>
+<form type="sandhi">niṉṟūṅk</form>
 <gramGrp>
-  <gram type="role">absolutive</gram>
+  <gram type="role">verbal root</gram>
 </gramGrp>
 </entry></entry>
 </superEntry>
-<entry>
-<form>ūṅk<c type="elided">u</c></form>
-<def>swing</def>
-<form type="sandhi"/>
-<gramGrp>
-  <gram type="role">verbal root</gram>
-</gramGrp>
-</entry>
 <entry>
 <form>añar</form>
 <def>distress</def>

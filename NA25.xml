@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -67,7 +69,7 @@
           </body>
             </text>
             <standOff type="wordsplit" corresp="#NA25">
-<interp type="alignment" select="0">19MG24ML10ML7MG34ML18ML9ML6ML35MG40MG8MG17MG21MG33M2G7ML17MG14MG5M2G2M,160MG113MG70MG</interp>
+<interp type="alignment" select="0">19MG24ML10ML7MG34ML18ML9ML6ML35MG40MG8MG17MG21MG7MG26M2G7ML17MG14MG5M2G2M,275MG70MG</interp>
 <entry>
 <form>am</form>
 <def>pretty</def>
@@ -231,7 +233,7 @@
 </entry>
 <entry>
 <form>peṟūum</form>
-<def>obtaining-</def>
+<def>obtaining</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
@@ -298,7 +300,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>tiṉai</form>
+<form>tiṉai<c type="geminated">k</c></form>
 <def>millet</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -307,7 +309,6 @@
 <entry>
 <form>kiḷi</form>
 <def>parakeet</def>
-<form type="sandhi">kkiḷi</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -454,8 +455,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>vaṇṭ</form>
+<form>vaṇṭ<c type="elided">u</c></form>
 <def>bee</def>
+<form type="sandhi">vaṇṭ</form>
 </entry>
 <entry>
 <form>ōr</form>
@@ -536,7 +538,7 @@
 </entry>
 <entry>
 <form>paṇp<c type="elided">u</c></form>
-<def>nature-</def>
+<def>nature</def>
 <form type="sandhi">paṇp</form>
 <gramGrp>
   <gram type="role">noun</gram>
