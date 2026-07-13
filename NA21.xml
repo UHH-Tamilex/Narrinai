@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -65,7 +67,7 @@
           </body>
             </text>
             <standOff type="wordsplit" corresp="#NA21">
-<interp type="alignment" select="0">55MG5MG9MG50MG14MG13MG73MG12ML13ML88M,340MG</interp>
+<interp type="alignment" select="0">55MG5MG9MG50MG14MG13MG73MG12ML13ML85MG3M,341MG</interp>
 <entry>
 <form>virai<c type="geminated">p</c></form>
 <def>hasten</def>
@@ -181,9 +183,10 @@
 </entry>
 <entry>
 <form>meṉmela</form>
-<def>softly(n.pl.adv)</def>
+<def>softly</def>
 <gramGrp>
   <gram type="role">neuter plural</gram>
+  <gram type="role">adverb</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -280,7 +283,7 @@
 </entry>
 <entry>
 <form>urukk<c type="elided">u</c></form>
-<def>melt-</def>
+<def>melt</def>
 <form type="sandhi">urukk</form>
 <gramGrp>
   <gram type="role">verbal root</gram>
@@ -288,7 +291,7 @@
 </entry>
 <entry>
 <form>uṟu</form>
-<def>have-</def>
+<def>have</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -316,7 +319,7 @@
 </entry>
 <entry>
 <form>vitirttaṉṉa</form>
-<def>scattered-like-</def>
+<def>scattered-like</def>
 <gramGrp>
   <gram type="role">comparative</gram>
   <gram type="role">peyareccam</gram>
@@ -324,9 +327,9 @@
 </entry>
 <entry>
 <form><c type="glide">v</c>ari<c type="geminated">k</c></form>
-<def>cut-</def>
+<def>cut</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -376,8 +379,9 @@
 </entry>
 <entry>
 <form>kāmaru</form>
-<def>evoke-desire---(?)-</def>
+<def>evoking desire</def>
 <gramGrp>
+  <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -420,7 +424,7 @@
 </entry>
 <entry>
 <form>pōkiya</form>
-<def>gone-</def>
+<def>gone</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
   <gram type="role">peyareccam</gram>
@@ -517,7 +521,7 @@
 </entry>
 <entry>
 <form>taṉ</form>
-<def>self-</def>
+<def>self</def>
 <gramGrp>
   <gram type="role">oblique</gram>
 </gramGrp>
@@ -547,14 +551,16 @@
 </entry>
 <entry>
 <form>taku</form>
-<def>fit-</def>
+<def>fit</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>nilaiyē</form>
+<form>nilai-<c type="glide">y</c>ē</form>
 <def>state</def>
+<form type="simple">nilai</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
             <standOff corresp="#NA21-kiḷavi" type="wordsplit">
