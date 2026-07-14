@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -162,7 +164,7 @@
 </entry>
 <entry>
 <form>kiḻavōṉ</form>
-<def>lord-he</def>
+<def>master-he</def>
 <gramGrp>
   <gram type="role">masculine singular</gram>
   <gram type="role">noun</gram>
@@ -186,7 +188,8 @@
   <gram type="role">absolutive</gram>
 </gramGrp>
 </entry>
-<entry>
+<superEntry type="ambiguous">
+<entry><entry>
 <form>eṉṟ<c type="elided">u</c>-um</form>
 <def>said</def>
 <form type="simple">eṉṟu</form>
@@ -196,7 +199,13 @@
   <gram type="role">absolutive</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
-</entry>
+</entry></entry>
+<entry><entry>
+<form>eṉṟum</form>
+<def>always</def>
+<form type="sandhi">eṉṟ</form>
+</entry></entry>
+</superEntry>
 <entry>
 <form>varuntiṉaṉ</form>
 <def>he suffered</def>
@@ -217,7 +226,7 @@
 </entry>
 <entry>
 <form>vāy<c type="geminated">c</c></form>
-<def>mouth/truth</def>
+<def>truth</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -334,7 +343,7 @@
 <form>vāḻi</form>
 <def>live-you</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
+  <gram type="role">subjunctive</gram>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>
 </gramGrp>
@@ -348,7 +357,7 @@
 </entry>
 <entry>
 <form>periyōr</form>
-<def>big-they</def>
+<def>great-they</def>
 <gramGrp>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
@@ -386,7 +395,9 @@
 <form>nāṭār</form>
 <def>investigate-not-they</def>
 <gramGrp>
+  <gram type="role">negative</gram>
   <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -410,7 +421,7 @@
 </entry>
 <entry>
 <form>tiṟatt<c type="elided">u</c>-ē</form>
-<def>issue-</def>
+<def>issue</def>
 <form type="simple">tiṟattu</form>
 <form type="sandhi">tiṟatt</form>
 <gramGrp>

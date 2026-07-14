@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -65,7 +67,7 @@
           </body>
             </text>
             <standOff type="wordsplit" corresp="#NA33">
-<interp type="alignment" select="0">146ML43MG9MG52MG13ML9MG18MR12MG5ML42MG3M,361MG</interp>
+<interp type="alignment" select="0">146ML43MG61MG13ML9MG18MR12MG5ML42MG3M,360MG</interp>
 <entry>
 <form>paṭu</form>
 <def>happen</def>
@@ -169,14 +171,14 @@
 </entry>
 <entry>
 <form>kūṭṭuṇṇum</form>
-<def>eating-together-</def>
+<def>eating-together</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>pulleṉ</form>
-<def>grass-say-</def>
+<def>grass-say</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
   <gram type="role">ideophone</gram>
@@ -213,7 +215,7 @@
 </entry>
 <entry>
 <form>kaluḻi</form>
-<def>dim-water</def>
+<def>turbid water</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -249,7 +251,7 @@
 </entry>
 <entry>
 <form>kuṟai<c type="geminated">k</c></form>
-<def>deficiency</def>
+<def>want</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -287,14 +289,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>cey<c type="geminated">y</c></form>
+<form>cey</form>
 <def>make</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>āṭai<c type="geminated">c</c></form>
+<form><c type="geminated">y</c>āṭai<c type="geminated">c</c></form>
 <def>dress</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -348,15 +350,14 @@
 </entry>
 <entry>
 <form>alkum</form>
-<def>staying-</def>
+<def>staying</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>añcu-</form>
+<form>añcu</form>
 <def>fear</def>
-<form type="sandhi">añcu</form>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -528,7 +529,7 @@
 </entry>
 <entry>
 <form><c type="geminated">l</c>akam</form>
-<def>inside</def>
+<def>bosom</def>
 <form type="sandhi"><c type="geminated">l</c>aka</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -578,7 +579,7 @@
 </entry>
 <entry>
 <form>paranta</form>
-<def>they-spread</def>
+<def>they spread</def>
 <gramGrp>
   <gram type="role">neuter plural</gram>
   <gram type="role">perfective aspect</gram>
