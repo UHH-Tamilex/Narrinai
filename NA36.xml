@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -202,7 +204,7 @@
 </entry>
 <entry>
 <form>aṭūum</form>
-<def>killing-</def>
+<def>killing</def>
 <form type="sandhi">aṭūuṅ</form>
 <gramGrp>
   <gram type="role">peyareccam</gram>
@@ -414,7 +416,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>eṉ<c type="geminated">ṉ</c></form>
+<form>eṉ</form>
 <def>what</def>
 <gramGrp>
   <gram type="role">oblique</gram>
@@ -423,9 +425,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>iḻantat<c type="elided">u</c></form>
+<form><c type="geminated">ṉ</c>iḻantat<c type="elided">u</c></form>
 <def>lost-it</def>
-<form type="sandhi">iḻantat</form>
+<form type="sandhi"><c type="geminated">ṉ</c>iḻantat</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">neuter singular</gram>
