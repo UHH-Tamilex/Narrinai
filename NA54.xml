@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -66,7 +68,7 @@
           </body>
             </text>
             <standOff type="wordsplit" corresp="#NA54">
-<interp type="alignment" select="0">52MG43MG22MG26M2G29M2G2MG16ML11MG11MG3MG51ML51M2G2M,333MG</interp>
+<interp type="alignment" select="0">52MG43MG22MG26M2G29M2G18ML11MG11MG3MG51ML51M2G2M,332MG</interp>
 <entry>
 <form>vaḷai</form>
 <def>conch</def>
@@ -91,13 +93,17 @@
 <entry>
 <form>kiḷai</form>
 <def>relatives</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>mutal</form>
-<def>base</def>
+<def>from</def>
 <form type="sandhi">mutaṟ</form>
 <gramGrp>
   <gram type="role">postposition</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -109,7 +115,7 @@
 </entry>
 <entry>
 <form>vā<c type="geminated">p</c></form>
-<def>jumping</def>
+<def>leaping</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -283,7 +289,7 @@
 </entry>
 <entry>
 <form>pul</form>
-<def>low</def>
+<def>bleak</def>
 <form type="sandhi">puṉ</form>
 <gramGrp>
   <gram type="role">adjective</gram>
@@ -316,20 +322,21 @@
 </gramGrp>
 </entry>
 <entry>
-<form>aṉp<c type="elided">u</c>-um-ār</form>
+<form>aṉp<c type="elided">u</c>-umār</form>
 <def>love</def>
-<form type="simple">aṉpu-um</form>
-<form type="sandhi">aṉpum</form>
+<form type="simple">aṉpu</form>
+<form type="sandhi">aṉp</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">ār</m></gramGrp>
+<gramGrp type="particle"><m type="enclitic">umār</m></gramGrp>
 </entry>
 <entry>
 <form>uṭaiyai</form>
 <def>possess-you</def>
 <gramGrp>
-  <gram type="role">postposition</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -368,7 +375,7 @@
 </entry>
 <entry>
 <form>kuṟai</form>
-<def>request/deficiency</def>
+<def>request</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -504,10 +511,11 @@
 </entry>
 <entry>
 <form>num</form>
-<def>you</def>
+<def>your</def>
 <form type="sandhi">nun</form>
 <gramGrp>
   <gram type="role">plural</gram>
+  <gram type="role">oblique</gram>
   <gram type="role">second person</gram>
 </gramGrp>
 </entry>
