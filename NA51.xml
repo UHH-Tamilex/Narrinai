@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -65,7 +67,7 @@
           </body>
             </text>
             <standOff type="wordsplit" corresp="#NA51">
-<interp type="alignment" select="0">12MG3ML18MG25MG5MG70M2G39M2G24MG4M2G37MG63M2G2M,316MG</interp>
+<interp type="alignment" select="0">12MG3ML18MG25MG5MG70M2G63MG4M2G37MG63M2G2M,314MG</interp>
 <entry>
 <form>yāṅku<c type="geminated">c</c></form>
 <def>how</def>
@@ -202,7 +204,7 @@
 </entry>
 <entry>
 <form>kaṭum</form>
-<def>quick</def>
+<def>fierce</def>
 <form type="sandhi">kaṭuṅ</form>
 <gramGrp>
   <gram type="role">adjective</gram>
@@ -252,7 +254,7 @@
 </entry>
 <entry>
 <form>āṉāt<c type="elided">u</c>-ē</form>
-<def>unending</def>
+<def>end-not-it</def>
 <form type="simple">āṉātu</form>
 <form type="sandhi">āṉāt</form>
 <gramGrp>
@@ -299,9 +301,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>vant<c type="elided">u</c>-eṉa<c type="geminated">p</c></form>
+<form>vanteṉa<c type="geminated">p</c></form>
 <def>come-say</def>
-<form type="sandhi">vanteṉa<c type="geminated">p</c></form>
 <gramGrp>
   <gram type="role">causative</gram>
   <gram type="role">absolutive</gram>
@@ -338,7 +339,7 @@
 </entry>
 <entry>
 <form>āṉāt<c type="elided">u</c>-ē</form>
-<def>unending</def>
+<def>endnot-it</def>
 <form type="simple">āṉātu</form>
 <form type="sandhi">āṉāt</form>
 <gramGrp>
@@ -409,7 +410,7 @@
 </entry>
 <entry>
 <form>āṭiya</form>
-<def>played</def>
+<def>bathed</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
   <gram type="role">peyareccam</gram>
@@ -431,7 +432,7 @@
 </entry>
 <entry>
 <form>kaḷiṟu</form>
-<def>elephant-bull</def>
+<def>elephant bull</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
