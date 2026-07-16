@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -93,11 +95,9 @@
 </entry>
 <entry>
 <form><c type="glide">v</c>oḻika</form>
-<def>stay-behind</def>
+<def>may stay behind</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
-  <gram type="role">singular</gram>
-  <gram type="role">third person</gram>
+  <gram type="role">optative</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -175,7 +175,7 @@
 </entry>
 <entry>
 <form>pēṇāt<c type="elided">u</c></form>
-<def>esteem-not</def>
+<def>regard-not</def>
 <form type="sandhi">pēṇāt</form>
 <gramGrp>
   <gram type="role">absolutive</gram>
@@ -519,6 +519,7 @@
 <def>I</def>
 <form type="simple">yāṉ</form>
 <gramGrp>
+  <gram type="role">pronoun</gram>
   <gram type="role">singular</gram>
   <gram type="role">first person</gram>
 </gramGrp>
