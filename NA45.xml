@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -66,7 +68,7 @@
           </body>
             </text>
             <standOff type="wordsplit" corresp="#NA45">
-<interp type="alignment" select="0">4MG7ML22ML56MG3MG19MR7ML2MG28MG58MG71M2G5M2G17MG8M2G2M,6MG92MG225MG</interp>
+<interp type="alignment" select="0">4MG7ML22ML56MG3MG19MR7ML2MG28MG58MG24MG47M2G5M2G17MG8M2G2M,6MG92MG226MG</interp>
 <entry>
 <form>ivaḷ-ē</form>
 <def>this-one</def>
@@ -190,8 +192,11 @@
 </entry>
 <entry>
 <form>{kātal}</form>
-<def>{love}</def>
+<def>love</def>
 <form type="sandhi">{kātaṉ}</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>makaḷ-ē</form>
@@ -230,7 +235,7 @@
 </entry>
 <entry>
 <form>nuṭaṅkum</form>
-<def>swaying-</def>
+<def>swaying</def>
 <form type="sandhi">nuṭaṅkun</form>
 <gramGrp>
   <gram type="role">peyareccam</gram>
@@ -247,6 +252,9 @@
 <form>mūt<c type="elided">u</c></form>
 <def>ancient</def>
 <form type="sandhi">mūt</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>ūr<c type="geminated">k</c></form>
@@ -350,7 +358,7 @@
 </entry>
 <entry>
 <form>ōppum</form>
-<def>chasing-away-</def>
+<def>chasing-away</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
@@ -389,7 +397,7 @@
 <def>reek-we</def>
 <form type="sandhi">nāṟutuñ</form>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
+  <gram type="role">subjunctive</gram>
   <gram type="role">plural</gram>
   <gram type="role">first person</gram>
 </gramGrp>
@@ -402,11 +410,13 @@
 </gramGrp>
 </entry>
 <entry>
-<form>niṉṟīmō</form>
+<form>niṉṟīm-ō</form>
 <def>stand</def>
+<form type="simple">niṉṟīm</form>
 <gramGrp>
   <gram type="role">imperative</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
 </entry>
 <entry>
 <form>peru</form>
