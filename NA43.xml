@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -68,7 +70,7 @@
           </body>
             </text>
             <standOff type="wordsplit" corresp="#NA43">
-<interp type="alignment" select="0">57ML10MG50MG49ML5M2G22MG5M2G19MG105M2G12M2G2M,349MG</interp>
+<interp type="alignment" select="0">57ML60MG49ML5M2G22MG5M2G124M2G12M2G2M,347MG</interp>
 <entry>
 <form>tukil</form>
 <def>fine cloth</def>
@@ -78,7 +80,7 @@
 </entry>
 <entry>
 <form>virittaṉṉa</form>
-<def>spread-like-</def>
+<def>spread-like</def>
 <gramGrp>
   <gram type="role">comparative</gram>
   <gram type="role">peyareccam</gram>
@@ -150,16 +152,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form>cem-nāy</form>
+<form>cennāy</form>
 <def>red dog</def>
-<form type="sandhi">cennāy</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>uyaṅku</form>
-<def>being-exhausted</def>
+<def>be-exhausted</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -183,6 +184,7 @@
 <def>they became full</def>
 <gramGrp>
   <gram type="role">neuter plural</gram>
+  <gram type="role">muṟṟeccam</gram>
   <gram type="role">perfective aspect</gram>
 </gramGrp>
 </entry>
@@ -240,6 +242,7 @@
   <gram type="role">dative</gram>
   <gram type="role">imperfective aspect</gram>
   <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -251,7 +254,7 @@
 </entry>
 <entry>
 <form><c type="glide">y</c>ākum</form>
-<def>becoming-</def>
+<def>becoming</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
@@ -306,14 +309,14 @@
 </entry>
 <entry>
 <form>mali</form>
-<def>increase/rejoice</def>
+<def>rejoice</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
 <form><c type="glide">y</c>uvakai</form>
-<def>pleasure</def>
+<def>joy</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -356,19 +359,14 @@
 </entry>
 <entry>
 <form><c type="glide">v</c>iṟai</form>
-<def>monarch</def>
+<def>lord</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>kai-</form>
-<def>hand</def>
-<form type="sandhi">kai</form>
-</entry>
-<entry>
-<form>viṭṭeṉa<c type="geminated">p</c></form>
-<def>let-go-say</def>
+<form>kaiviṭṭeṉa<c type="geminated">p</c></form>
+<def>deserted-say</def>
 <gramGrp>
   <gram type="role">causative</gram>
   <gram type="role">absolutive</gram>
@@ -432,7 +430,7 @@
 </entry>
 <entry>
 <form>kalaṅkiya</form>
-<def>stirred</def>
+<def>stirred-up</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
   <gram type="role">peyareccam</gram>
