@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -77,7 +79,7 @@
 </entry>
 <entry>
 <form>kaḷiṟ<c type="elided">u</c></form>
-<def>elephant-bull</def>
+<def>elephant bull</def>
 <form type="sandhi">kaḷiṟ</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -174,7 +176,7 @@
 </entry>
 <entry>
 <form>puraiyum</form>
-<def>resembling-</def>
+<def>resembling</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
@@ -240,14 +242,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>puṇ<c type="geminated">ṇ</c></form>
+<form>puṇ</form>
 <def>wound</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>uṟunariṉ</form>
+<form><c type="geminated">ṇ</c>uṟunariṉ</form>
 <def>have-they</def>
 <gramGrp>
   <gram type="role">participial noun</gram>
@@ -266,7 +268,7 @@
 </entry>
 <entry>
 <form>vaikum</form>
-<def>being-kept-</def>
+<def>being-kept</def>
 <form type="sandhi">vaikuṅ</form>
 <gramGrp>
   <gram type="role">peyareccam</gram>
@@ -373,7 +375,7 @@
 </entry>
 <entry>
 <form>kaḻaṅkiṉ</form>
-<def>Molucca bean</def>
+<def>molucca bean</def>
 <form type="sandhi">kaḻaṅkiṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
@@ -447,7 +449,7 @@
 </entry>
 <entry>
 <form><c type="glide">y</c>ayarum</form>
-<def>being-engaged-</def>
+<def>being-engaged</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
@@ -495,6 +497,10 @@
 <form>utavā-</form>
 <def>contribute-not</def>
 <form type="sandhi">utavā</form>
+<gramGrp>
+  <gram type="role">negative</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>māṟ<c type="elided">u</c>-ē</form>
