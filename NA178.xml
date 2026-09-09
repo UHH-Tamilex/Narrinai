@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -543,7 +541,7 @@
         </app>
 </listApp>
 <listWit>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C1" source="witnesses/C1.xml">
+<witness xml:id="C1" source="witnesses/C1.xml">
     <abbr type="siglum">C1</abbr>
     <expan>palm-leaf manuscript from the UVSL [1076//2234] complete (except NA 234 and NA 385.7f. and from NA 274)</expan>
     <witness xml:id="C1v">
@@ -551,7 +549,7 @@
       <expan>palm-leaf manuscript from the UVSL [1076//2234] complete (except NA 234 and NA 385.7f. and from NA 274), variant reading</expan>
     </witness>
   </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="EN">
+<witness xml:id="EN">
   <abbr type="siglum">EN</abbr>
   <expan><term xml:lang="ta">Nārāyaṇacāmi Aiyar</term>edition 1915 (rep. by Kaḻakam 1952, rev.ed. 1967 = 4th ed.)</expan>
   <witness xml:id="ENv">
@@ -559,11 +557,11 @@
     <expan><term xml:lang="ta">Nārāyaṇacāmi Aiyar</term>edition 1915 (rep. by Kaḻakam 1952, rev.ed. 1967 = 4th ed.), variant reading</expan>
   </witness>
 </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="ER">
+<witness xml:id="ER">
   <abbr type="siglum">ER</abbr>
   <expan><term xml:lang="ta">Rājam</term>edition 1957 (rep. by NCBH 1981 = 2nd ed.)</expan>
 </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="ET">
+<witness xml:id="ET">
   <abbr type="siglum">ET</abbr>
   <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.)</expan>
   <witness xml:id="ETv">
@@ -579,7 +577,7 @@
     <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.), variant reading</expan>
   </witness>
   </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G1" source="witnesses/G1.xml">
+<witness xml:id="G1" source="witnesses/G1.xml">
     <abbr type="siglum"/>
     <expan>paper manuscript from GOML [PS 67/D 231]</expan>
     <witness xml:id="G1v">
@@ -587,7 +585,7 @@
       <expan>paper manuscript from GOML [PS 67/D 231], variant reading</expan>
     </witness>
   </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G2" source="witnesses/G2.xml">
+<witness xml:id="G2" source="witnesses/G2.xml">
     <abbr type="siglum"/>
     <expan>paper manuscript from  GOML [TR 1064/R 5743]: identical with G1</expan>
     <witness xml:id="G2v">
@@ -595,23 +593,23 @@
       <expan>paper manuscript from GOML [TR 1064/R 5743]: identical with G1, variant reading</expan>
     </witness>
   </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G3" source="witnesses/G3.xml">
+<witness xml:id="G3" source="witnesses/G3.xml">
     <abbr type="siglum"/>
     <expan>paper manuscript from  GOML [TR 1066/R 5745]: paper, college copy-book</expan>
   </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="Nacc">
+<witness xml:id="Nacc">
   <abbr type="siglum">Nacc</abbr>
   <expan><term xml:lang="ta">Nacciṉākkiṉiyar on Tolkāppiyam  Eḻuttu, Col</term> and <term> Poruḷ</term></expan>
 </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="May">
+<witness xml:id="May">
   <abbr type="siglum">May</abbr>
   <expan><term xml:lang="ta"> Mayilainātar </term> on <term> Naṉṉūl, Cāminātaiyar's</term> edition</expan>
 </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="Tey">
+<witness xml:id="Tey">
   <abbr type="siglum">Tey</abbr>
   <expan><term xml:lang="ta"> Teyvaccilaiyar</term> on<term> Tolkāppiyam Col</term></expan>
 </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="Kul">
+<witness xml:id="Kul">
   <abbr type="siglum">Kul</abbr>
   <expan><term xml:lang="ta">Kūḻaṅkai Tampiṟāṉ</term> on <term>Naṉṉūl, Tāmōtaraṉ</term>'s edition</expan>
 </witness>
