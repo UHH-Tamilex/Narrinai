@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -694,7 +694,7 @@ yāntukiṟ</rdg>
         </app>
 </listApp>
 <listWit>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="C1" source="witnesses/C1.xml">
+<witness xml:id="C1" source="witnesses/C1.xml">
     <abbr type="siglum">C1</abbr>
     <expan>palm-leaf manuscript from the UVSL [1076//2234] complete (except NA 234 and NA 385.7f. and from NA 274)</expan>
     <witness xml:id="C1v">
@@ -702,7 +702,7 @@ yāntukiṟ</rdg>
       <expan>palm-leaf manuscript from the UVSL [1076//2234] complete (except NA 234 and NA 385.7f. and from NA 274), variant reading</expan>
     </witness>
   </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G1" source="witnesses/G1.xml">
+<witness xml:id="G1" source="witnesses/G1.xml">
     <abbr type="siglum"/>
     <expan>paper manuscript from GOML [PS 67/D 231]</expan>
     <witness xml:id="G1v">
@@ -710,7 +710,7 @@ yāntukiṟ</rdg>
       <expan>paper manuscript from GOML [PS 67/D 231], variant reading</expan>
     </witness>
   </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="G2" source="witnesses/G2.xml">
+<witness xml:id="G2" source="witnesses/G2.xml">
     <abbr type="siglum"/>
     <expan>paper manuscript from  GOML [TR 1064/R 5743]: identical with G1</expan>
     <witness xml:id="G2v">
@@ -718,11 +718,11 @@ yāntukiṟ</rdg>
       <expan>paper manuscript from GOML [TR 1064/R 5743]: identical with G1, variant reading</expan>
     </witness>
   </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="ER">
+<witness xml:id="ER">
   <abbr type="siglum">ER</abbr>
   <expan><term xml:lang="ta">Rājam</term>edition 1957 (rep. by NCBH 1981 = 2nd ed.)</expan>
 </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="ET">
+<witness xml:id="ET">
   <abbr type="siglum">ET</abbr>
   <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.)</expan>
   <witness xml:id="ETv">
@@ -738,15 +738,15 @@ yāntukiṟ</rdg>
     <expan><term xml:lang="ta">Turaicāmi Piḷḷai</term>edition 1966, 1968 (Ceṉṉai, 2 vol.), variant reading</expan>
   </witness>
   </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="Il">
+<witness xml:id="Il">
   <abbr type="siglum">Il</abbr>
   <expan><term xml:lang="ta">Iḷampūraṇar on Tolkāppiyam  Eḻuttu, Col and Poruḷ</term></expan>
 </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="Nam">
+<witness xml:id="Nam">
   <abbr type="siglum">Nam</abbr>
   <expan><term xml:lang="ta">Nampi</term> on the <term> Akapporuḷ Viḷakkam, Kaḻakam</term> edition</expan>
 </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="EN">
+<witness xml:id="EN">
   <abbr type="siglum">EN</abbr>
   <expan><term xml:lang="ta">Nārāyaṇacāmi Aiyar</term>edition 1915 (rep. by Kaḻakam 1952, rev.ed. 1967 = 4th ed.)</expan>
   <witness xml:id="ENv">
@@ -754,23 +754,23 @@ yāntukiṟ</rdg>
     <expan><term xml:lang="ta">Nārāyaṇacāmi Aiyar</term>edition 1915 (rep. by Kaḻakam 1952, rev.ed. 1967 = 4th ed.), variant reading</expan>
   </witness>
 </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="Nacc">
+<witness xml:id="Nacc">
   <abbr type="siglum">Nacc</abbr>
   <expan><term xml:lang="ta">Nacciṉākkiṉiyar on Tolkāppiyam  Eḻuttu, Col and Poruḷ</term></expan>
 </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="NaccK">
+<witness xml:id="NaccK">
   <abbr type="siglum">NaccK</abbr>
   <expan><term xml:lang="ta">Nacciṉākkiṉiyar on Tolkāppiyam  Eḻuttu, Col and Poruḷ, Kaḻakam</term> edition</expan>
 </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="NaccKv">
+<witness xml:id="NaccKv">
   <abbr type="siglum">NaccKv</abbr>
   <expan><term xml:lang="ta">Nacciṉākkiṉiyar on Tolkāppiyam  Eḻuttu, Col and Poruḷ, Kaḻakam</term> edition, variant reading</expan>
 </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="PerK">
+<witness xml:id="PerK">
   <abbr type="siglum">PerK</abbr>
   <expan><term xml:lang="ta"> Pērāciriyar</term> on<term> Tolkāppiyam Poruḷ Kaḻakam </term> edition</expan>
 </witness>
-<witness xmlns="http://www.tei-c.org/ns/1.0" xml:id="IlKv">
+<witness xml:id="IlKv">
   <abbr type="siglum">IlKv</abbr>
   <expan><term xml:lang="ta">Iḷampūraṇar on Tolkāppiyam  Eḻuttu, Col and Poruḷ, Kaḻakam</term> edition, variant reading</expan>
 </witness>
