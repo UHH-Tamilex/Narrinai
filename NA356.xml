@@ -1,4 +1,7 @@
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -60,7 +63,7 @@
     </body>
     </text>
     <standOff type="wordsplit" corresp="#NA356">
-<interp type="alignment" select="0">72MG7MG44MG3MG15MG2ML93MG7MG2M,252MG</interp>
+<interp type="alignment" select="0">72MG7MG44MG3MG15MG2ML91M2G9MG2M,253MG</interp>
 <entry>
 <form>nilam</form>
 <def>ground</def>
@@ -223,7 +226,7 @@
 </entry>
 <entry>
 <form>ākum</form>
-<def>becoming-</def>
+<def>becoming</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
@@ -261,7 +264,7 @@
 </entry>
 <entry>
 <form><c type="glide">y</c>oyyum</form>
-<def>carrying-</def>
+<def>carrying</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
@@ -331,7 +334,6 @@
 <form>vāḻi</form>
 <def>live-you</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>
 </gramGrp>
@@ -355,7 +357,11 @@
 <entry>
 <form>oru</form>
 <def>one</def>
-<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
+<gramGrp>
+  <gram type="role">adjective</gram>
+  <gram type="role">numeral</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>nāḷ</form>
 <def>day</def>
@@ -409,15 +415,16 @@
 </gramGrp>
 </entry>
 <entry>
-<form>emakkum-ār</form>
-<def>us(1.pl.dat.)um</def>
-<form type="simple">emakkum</form>
+<form>emakk<c type="elided">u</c>-umār</form>
+<def>us</def>
+<form type="simple">emakku</form>
+<form type="sandhi">emakk</form>
 <gramGrp>
   <gram type="role">dative</gram>
   <gram type="role">plural</gram>
   <gram type="role">first person</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">ār</m></gramGrp>
+<gramGrp type="particle"><m type="enclitic">umār</m></gramGrp>
 </entry>
 <entry>
 <form>varum-ē</form>
