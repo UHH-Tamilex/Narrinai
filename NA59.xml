@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -63,7 +65,7 @@
           </body>
             </text>
             <standOff type="wordsplit" corresp="#NA59">
-<interp type="alignment" select="0">45MG12MG3ML50MG5M2G23MG6MG49MG46MG16MG49MG4M2G2MG5MG3M,333MG</interp>
+<interp type="alignment" select="0">45MG12MG3ML50MG5M2G23MG6MG49MG46MG16MG49MG4M2G7MG3M,332MG</interp>
 <entry>
 <form>uṭumpu</form>
 <def>iguana</def>
@@ -480,11 +482,11 @@
 <form type="sandhi">talaimaṇantaṉṟ</form>
 </entry>
 <entry>
-<form>uyav<c type="elided">u</c>-um-ār</form>
+<form>uyav<c type="elided">u</c>-umār</form>
 <def>suffering</def>
-<form type="simple">uyavu-um</form>
-<form type="sandhi">uyavum</form>
-<gramGrp type="particle"><m type="enclitic">ār</m></gramGrp>
+<form type="simple">uyavu</form>
+<form type="sandhi">uyav</form>
+<gramGrp type="particle"><m type="enclitic">umār</m></gramGrp>
 </entry>
 <entry>
 <form>iṉi-<c type="glide">y</c>ē</form>
