@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +71,7 @@
           </body>
             </text>
             <standOff type="wordsplit" corresp="#NA30">
-<interp type="alignment" select="0">19MG8M2G17MG161M2G57MG9MG3M,281MG</interp>
+<interp type="alignment" select="0">19MG8M2G17MG218MG9MG3M,279MG</interp>
 <entry>
 <form>kaṇṭaṉeṉ</form>
 <def>I saw</def>
@@ -100,6 +102,9 @@
 <entry>
 <form>evaṉ</form>
 <def>what</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>ceyk<c type="elided">u</c>-ō</form>
@@ -171,15 +176,16 @@
 <def>bee</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>immeṉa</form>
-<def>'im'-say(id.inf.adv.)</def>
+<def>'im'-say</def>
 <gramGrp>
   <gram type="role">adverb</gram>
   <gram type="role">infinitive</gram>
-  <gram type="role">feminine</gram>
+  <gram type="role">ideophone</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -208,6 +214,7 @@
 <def>street</def>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -220,7 +227,7 @@
 </entry>
 <entry>
 <form>nōkki</form>
-<def>looked-at</def>
+<def>looked at</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
@@ -232,6 +239,7 @@
   <gram type="role">oblique</gram>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>
+  <gram type="role">pronoun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -251,7 +259,7 @@
 </entry>
 <entry>
 <form>māṇ</form>
-<def>be-glorious</def>
+<def>be glorious</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -382,9 +390,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kaviḻnt<c type="elided">u</c>-eṉa<c type="geminated">k</c></form>
+<form>kaviḻnteṉa<c type="geminated">k</c></form>
 <def>turned-upside-down-say</def>
-<form type="sandhi">kaviḻnteṉa<c type="geminated">k</c></form>
 <gramGrp>
   <gram type="role">causative</gram>
   <gram type="role">absolutive</gram>
@@ -400,6 +407,9 @@
 <entry>
 <form><c type="glide">y</c>uṭaṉ</form>
 <def>together</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>vīḻpu</form>
@@ -432,7 +442,7 @@
 </entry>
 <entry>
 <form>pōla</form>
-<def>be-similar</def>
+<def>be similar</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
 </gramGrp>
@@ -453,17 +463,32 @@
 </entry>
 <superEntry type="ambiguous">
 <entry><entry>
-<form>niṉ tūṅk<c type="elided">u</c></form>
-<def>your(obl.|sg.|2.) hang</def>
-<form type="sandhi">niṉṟūṅk</form>
+<form>niṉ</form>
+<def>your</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry><entry>
+<form>tūṅk<c type="elided">u</c></form>
+<def>hang</def>
+<form type="sandhi">ṟūṅk</form>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
 </entry></entry>
 <entry><entry>
-<form>niṉṟ<c type="elided">u</c> ūṅk*</form>
-<def>stood(abs.) swing</def>
-<form type="sandhi">niṉṟūṅk</form>
+<form>niṉṟ<c type="elided">u</c></form>
+<def>stood</def>
+<form type="sandhi">niṉṟū</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry><entry>
+<form>ūṅk*</form>
+<def>swing</def>
+<form type="sandhi">ṅk</form>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -487,16 +512,21 @@
 </entry>
 </standOff>
             <standOff corresp="#NA30-kiḷavi" type="wordsplit">
-<interp type="alignment" select="0">40MG32M,72MG</interp>
+<interp type="alignment" select="0">40MG32M,34MG15MG21MG</interp>
 <entry>
 <form>itu</form>
 <def>this</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>parattaiyiṉ</form>
 <def>other woman</def>
+<form type="sandhi">parattaiyiṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -522,16 +552,17 @@
 </gramGrp>
 </entry>
 <entry>
-<form>“yārai-<c type="glide">y</c>um</form>
+<form>yārai-<c type="glide">y</c>um</form>
 <def>who</def>
-<form type="simple">“yārai</form>
+<form type="simple">yārai</form>
 <gramGrp>
+  <gram type="role">pronoun</gram>
   <gram type="role">accusative</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>aṟiyēṉ”</form>
+<form>aṟiyēṉ</form>
 <def>know-not-I</def>
 <gramGrp>
   <gram type="role">singular</gram>
