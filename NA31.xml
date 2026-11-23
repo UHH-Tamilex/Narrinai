@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -68,7 +70,7 @@
           </body>
             </text>
             <standOff type="wordsplit" corresp="#NA31">
-<interp type="alignment" select="0">13MG121MG3MG6M2G12MG24MGMG37ML31MR11ML33MG51M2G2M,358MG</interp>
+<interp type="alignment" select="0">13MG121MG9M2G12MG24MGMG37ML31MR11ML33MG51M2G2M,357MG</interp>
 <entry>
 <form>mā</form>
 <def>big</def>
@@ -277,14 +279,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>tuṟai-<c type="glide">y</c>um-ār</form>
+<form>tuṟai-<c type="glide">y</c>umār</form>
 <def>ghat</def>
-<form type="simple">tuṟai-um</form>
-<form type="sandhi">ṟuṟai<c type="glide">y</c>um</form>
+<form type="simple">tuṟai</form>
+<form type="sandhi">ṟuṟai</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">ār</m></gramGrp>
+<gramGrp type="particle"><m type="enclitic">umār</m></gramGrp>
 </entry>
 <entry>
 <form>iṉit<c type="elided">u</c>-ē</form>
