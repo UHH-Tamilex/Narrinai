@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -148,8 +150,9 @@
 <form>oru</form>
 <def>one</def>
 <gramGrp>
-  
-<gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp>
+  <gram type="role">adjective</gram>
+  <gram type="role">numeral</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>kai</form>
@@ -175,10 +178,10 @@
 </entry>
 <entry>
 <form>cuṟṟum</form>
-<def>revolving-</def>
+<def>revolve</def>
 <form type="sandhi">cuṟṟu</form>
 <gramGrp>
-  <gram type="role">peyareccam</gram>
+  <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -211,16 +214,16 @@
 </gramGrp>
 </entry>
 <entry>
-<form>uṇ<c type="geminated">ṇ</c></form>
+<form>uṇ</form>
 <def>eat</def>
 <gramGrp>
   <gram type="role">imperative</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>eṉṟ<c type="elided">u</c></form>
+<form><c type="geminated">ṇ</c>eṉṟ<c type="elided">u</c></form>
 <def>said</def>
-<form type="sandhi">eṉṟ</form>
+<form type="sandhi"><c type="geminated">ṇ</c>eṉṟ</form>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
@@ -705,7 +708,7 @@
 </listApp>
 <listWit>
 <witness xml:id="G1" source="witnesses/G1.xml">
-    <abbr type="siglum"/>
+        <abbr type="siglum">G1</abbr>
     <expan>paper manuscript from GOML [PS 67/D 231]</expan>
     <witness xml:id="G1v">
       <abbr type="siglum">G1v</abbr>
@@ -713,7 +716,7 @@
     </witness>
   </witness>
 <witness xml:id="G2" source="witnesses/G2.xml">
-    <abbr type="siglum"/>
+        <abbr type="siglum">G2</abbr>
     <expan>paper manuscript from  GOML [TR 1064/R 5743]: identical with G1</expan>
     <witness xml:id="G2v">
       <abbr type="siglum">G2v</abbr>
