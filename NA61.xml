@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -140,6 +142,7 @@
 <form>piṇaiyiṉ</form>
 <def>doe</def>
 <gramGrp>
+  <gram type="role">comparative</gram>
   <gram type="role">oblique</gram>
 </gramGrp>
 </entry>
@@ -346,6 +349,7 @@
 <form type="sandhi">taḷaviṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -394,6 +398,7 @@
   <gram type="role">dative</gram>
   <gram type="role">perfective aspect</gram>
   <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 <entry>
